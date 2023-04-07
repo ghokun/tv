@@ -1,0 +1,126 @@
+[
+   {
+      "channel": "FOX",
+      "m3u": [
+         "https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8"
+      ]
+   },
+   {
+      "channel": "SZCTV",
+      "m3u": [
+         "https://mn-nl.mncdn.com/blutv_szctv/live.m3u8"
+      ]
+   },
+   {
+      "channel": "TRT1",
+      "m3u": [
+         "https://trt1.blutv.com/blutv_trt1_live/live.m3u8",
+         "https://tv-trt1-dai.medya.trt.com.tr/master.m3u8",
+         "https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8"
+      ]
+   },
+   {
+      "channel": "TRT2",
+      "m3u": [
+         "https://tv-trt2.medya.trt.com.tr/master_720.m3u8",
+         "http://167.114.115.233:8080/trt2fhd/index.m3u8"
+      ]
+   },
+   {
+      "channel": "KANAL D",
+      "m3u": [
+         "https://demiroren-live.daioncdn.net/kanald/kanald.m3u8"
+      ]
+   },
+   {
+      "channel": "NTV",
+      "m3u": [
+         "https://dogus-live.daioncdn.net/ntv/playlist.m3u8",
+         "https://dogus-live.daioncdn.net/ntv/ntv.m3u8",
+         "https://dygvideo.dygdigital.com/live/hls/puhuntvdai?m3u8",
+         "https://ntv.blutv.com/blutv_ntv_live/live.m3u8",
+         "https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8"
+      ]
+   },
+   {
+      "channel": "SHOW",
+      "m3u": [
+         "https://showtv.blutv.com/blutv_showtv_live/live.m3u8",
+         "https://ciner-live.daioncdn.net/showtv/showtv.m3u8",
+         "https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8"
+      ]
+   },
+   {
+      "channel": "STAR",
+      "m3u": [
+         "https://dogus-live.daioncdn.net/startv/playlist.m3u8",
+         "https://dogus-live.daioncdn.net/startv/startv.m3u8",
+         "https://dygvideo.dygdigital.com/live/hls/puhustardai?m3u8",
+         "https://startv.blutv.com/blutv_startv_live/live.m3u8",
+         "https://tv.ensonhaber.com/tv/tr/startv/index.m3u8"
+      ]
+   },
+   {
+      "channel": "TEVE2",
+      "m3u": [
+         "https://demiroren-live.daioncdn.net/teve2/teve2.m3u8",
+         "https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8",
+         "https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8",
+         "https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8",
+         "https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8",
+         "https://soledge21.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8",
+         "https://soledge21.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8",
+         "https://teve2.blutv.com/blutv_teve2_live/live.m3u8"
+      ]
+   },
+   {
+      "channel": "KRT",
+      "m3u": [
+         "https://krt.blutv.com/blutv_krt_live/live.m3u8"
+      ]
+   },
+   {
+      "channel": "TV8",
+      "m3u": [
+         "https://tv8-live.daioncdn.net/tv8/tv8.m3u8"
+      ]
+   },
+   {
+      "channel": "TLC",
+      "m3u": [
+         "https://dogus-live.daioncdn.net/tlc/playlist.m3u8",
+         "https://dogus-live.daioncdn.net/tlc/tlc.m3u8",
+         "https://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8",
+         "https://tlc.blutv.com/blutv_tlc_live/live.m3u8",
+         "https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8"
+      ]
+   },
+   {
+      "channel": "BEYAZ",
+      "m3u": [
+         "https://beyaztv.blutv.com/blutv_beyaztv_live/live.m3u8",
+         "https://mn-nl.mncdn.com/blutv_beyaztv_dvr/live.m3u8",
+         "https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8"
+      ]
+   },
+   {
+      "channel": "KANAL7",
+      "m3u": [
+         "https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8",
+         "https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8"
+      ]
+   },
+   {
+      "channel": "TRT BELGESEL",
+      "m3u": [
+         "https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8",
+         "https://mn-nl.mncdn.com/blutv_trtbelgesel2/live.m3u8"
+      ]
+   },
+   {
+      "channel": "TRT ÇOCUK",
+      "m3u": [
+         "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8"
+      ]
+   }
+]
