@@ -27,7 +27,7 @@ https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1 tvg-id="TV85.tr" tvg-logo="https://i.imgur.com/ZBMEC6Q.png" group-title="Undefined",TV8.5
 https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC" tvg-logo="https://i.imgur.com/8m3PMUf.png" group-title="Undefined",TLC Tv
+#EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC" tvg-logo="https://i.imgur.com/8m3PMUf.png" group-title="Undefined",TLC
 https://tlc.blutv.com/blutv_tlc_live/live.m3u8
 #EXTINF:-1 tvg-id="BeyazTV.tr" tvg-logo="https://i.imgur.com/uykIdML.png" group-title="Undefined",Beyaz TV
 https://beyaztv.blutv.com/blutv_beyaztv_live/live.m3u8
