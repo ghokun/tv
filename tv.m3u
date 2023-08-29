@@ -20,8 +20,7 @@ https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://i.imgur.com/9O3DHRB.png" group-title="Undefined",Star TV
 https://startv.blutv.com/blutv_startv_live/live.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://i.imgur.com/pWxOu1f.png" group-title="Undefined",ATV
-https://trkvz-live.daioncdn.net/atv/atv.m3u8
-#EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="https://i.imgur.com/rsoSLih.png" group-title="Undefined",Teve2
+https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8?st=hCqdgktBWBWVI8JktrfSRg&e=1693374048&SessionID=bvjre4lu3rdymmtyr20p30gr&StreamGroup=canli-yayin&Site=atvavrupa&DeviceGroup=web#EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="https://i.imgur.com/rsoSLih.png" group-title="Undefined",Teve2
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://i.imgur.com/DKNwiDm.png" group-title="Undefined",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
