@@ -12,7 +12,6 @@
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="KanalD.tr" site_id="21#58d29bb0eefad3db9c606258">Kanal D</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="MinikaGo.tr" site_id="113#58d29bb0eefad3db9c606257">Minika GO</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="NTV.tr" site_id="30#58d29bb0eefad3db9c60623a">NTV</channel>
-<channel site="ziggogo.tv" lang="tr" xmltv_id="ShowTurk.tr" site_id="NL_000156_020072">ShowTürk</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="ShowTV.tr" site_id="22#58d29bb0eefad3db9c60629b">Show TV</channel>
 <channel site="turksatkablo.com.tr" lang="tr" xmltv_id="SozcuTV.tr" site_id="3779">SZC</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="SportsTV.tr" site_id="81#58d29bb0eefad3db9c606296">Sports Tv</channel>
@@ -23,8 +22,6 @@
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="TRTBelgesel.tr" site_id="65#58d29bb0eefad3db9c6062a8">TRT Belgesel</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="TRTCocuk.tr" site_id="114#58d29bb0eefad3db9c606255">TRT Çocuk</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="TRTHaber.tr" site_id="31#58d29bb0eefad3db9c606289">TRT Haber</channel>
-<channel site="dsmart.com.tr" lang="tr" xmltv_id="TRTSpor.tr" site_id="82#58d29bb0eefad3db9c6062a9">TRT Spor</channel>
-<channel site="dsmart.com.tr" lang="tr" xmltv_id="TRTSporYildiz.tr" site_id="83#5da87214cfef0b4df9157780">Trt Spor Yıldız</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="TRTTurk.tr" site_id="96#58d29bb0eefad3db9c60624c">TRT Türk</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="TV8.tr" site_id="27#58d29bb0eefad3db9c6062ae">TV8</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="UlusalKanal.tr" site_id="86#58d29bb0eefad3db9c606242">Ulusal TV</channel>
