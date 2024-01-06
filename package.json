@@ -1,0 +1,17 @@
+{
+  "name": "tv",
+  "version": "0.1.0",
+  "description": "Custom IPTV playlist and epg generator",
+  "author": "ghokun",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "clean": "rm -f bin/*"
+  },
+  "dependencies": {
+    "https": "1.0.0",
+    "iptv-playlist-parser": "0.13.0"
+  }
+}
