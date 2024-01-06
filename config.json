@@ -38,9 +38,6 @@
     "NTV.tr": {
       "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"NTV.tr\" site_id=\"30#58d29bb0eefad3db9c60623a\">NTV</channel>"
     },
-    "NTVSpor.tr": {
-      "epg": "<channel site=\"ziggogo.tv\" lang=\"tr\" xmltv_id=\"ShowTurk.tr\" site_id=\"NL_000156_020072\">ShowTürk</channel>"
-    },
     "ShowTV.tr": {
       "m3u": "#EXTINF:-1 tvg-id=\"ShowTV.tr\" tvg-logo=\"https://i.imgur.com/1l7SCCu.png\" group-title=\"Undefined\",Show TV\nhttps://showtv.blutv.com/blutv_showtv_live/live.m3u8",
       "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"ShowTV.tr\" site_id=\"22#58d29bb0eefad3db9c60629b\">Show TV</channel>"
@@ -55,6 +52,7 @@
       "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"StarTV.tr\" site_id=\"23#58d29bb0eefad3db9c606259\">Star</channel>"
     },
     "Teve2.tr": {
+      "m3u": "#EXTINF:-1 tvg-id=\"Teve2.tr\" tvg-logo=\"https://i.imgur.com/rsoSLih.png\" group-title=\"Undefined\",Teve2 (1080p)\nhttps://demiroren-live.daioncdn.net/teve2/teve2.m3u8",
       "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"Teve2.tr\" site_id=\"20#58d29bb0eefad3db9c6062a1\">teve2</channel>"
     },
     "TRT1.tr": {
@@ -72,12 +70,6 @@
     "TRTHaber.tr": {
       "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TRTHaber.tr\" site_id=\"31#58d29bb0eefad3db9c606289\">TRT Haber</channel>"
     },
-    "TRTSpor.tr": {
-      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TRTSpor.tr\" site_id=\"82#58d29bb0eefad3db9c6062a9\">TRT Spor</channel>"
-    },
-    "TRTSporYildiz.tr": {
-      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TRTSporYildiz.tr\" site_id=\"83#5da87214cfef0b4df9157780\">Trt Spor Yıldız</channel>"
-    },
     "TRTTurk.tr": {
       "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TRTTurk.tr\" site_id=\"96#58d29bb0eefad3db9c60624c\">TRT Türk</channel>"
     },
@@ -93,7 +85,7 @@
   },
   "custom": {
     "TLC.tr": {
-      "m3u": "#EXTINF:-1 tvg-id=\"TLC.tr\" tvg-name=\"TLC\" tvg-logo=\"https://i.imgur.com/8m3PMUf.png\" group-title=\"Undefined\",TLC\nhttps://tlc.blutv.com/blutv_tlc_live/live.m3u8",
+      "m3u": "#EXTINF:-1 tvg-id=\"TLC.tr\" tvg-name=\"TLC\" tvg-logo=\"https://i.imgur.com/8m3PMUf.png\" group-title=\"Undefined\",TLC\nhttps://dogus-live.daioncdn.net/tlc/tlc.m3u8",
       "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TLC.tr\" site_id=\"35#58d29bb0eefad3db9c606238\">TLC</channel>"
     }
   }
