@@ -17,13 +17,18 @@ get(config.playlist, (res) => {
     let m3u = playlist.header.raw;
     let channels = '<?xml version="1.0" encoding="UTF-8"?>\n<channels>';
 
-    playlist.items.forEach((channel) => {
+    playlist.items.forEach((item) => {
       // Filter out by whitelist
-      if (channel.tvg.id in config.whitelisted) {
+      if (item.tvg.id in config.whitelisted) {
+        let channel = config.whitelisted[item.tvg.id];
         // Append filtered channel link
-        m3u = m3u.concat('\n', channel.raw);
+        if ('m3u' in channel) {
+          m3u = m3u.concat('\n', channel.m3u);
+        } else {
+          m3u = m3u.concat('\n', item.raw);
+        }
         // Append EPG information
-        channels = channels.concat('\n', config.whitelisted[channel.tvg.id]);
+        channels = channels.concat('\n', channel.epg);
       }
     });
 
