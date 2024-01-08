@@ -12,10 +12,10 @@
       "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"BeyazTV.tr\" site_id=\"39#58d29bb0eefad3db9c606298\">Beyaz TV</channel>"
     },
     "CNNTurk.tr": {
-      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"CNNTurk.tr\" site_id=\"29#5f2fc688cfef0b1593e08b76\">CNN TÜRK</channel>"
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"CNNTurk.tr\" site_id=\"158\">CNN TÜRK</channel>"
     },
     "EuroD.tr": {
-      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"EuroD.tr\" site_id=\"179#59dcbfdccfef0b4d80a4974a\">Euro D</channel>"
+      "epg": "<channel site=\"tv.blue.ch\" lang=\"tr\" xmltv_id=\"EuroD.tr\" site_id=\"161\">Euro D</channel>"
     },
     "Fox.tr": {
       "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"Fox.tr\" site_id=\"28#58d29bb0eefad3db9c6062a0\">FOX</channel>"
@@ -24,16 +24,13 @@
       "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"HaberturkTV.tr\" site_id=\"32#58d29bb0eefad3db9c60629d\">Haber Türk</channel>"
     },
     "HalkTV.tr": {
-      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"HalkTV.tr\" site_id=\"161#58d29bb0eefad3db9c606288\">Halk TV</channel>"
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"HalkTV.tr\" site_id=\"91\">HALK TV</channel>"
     },
     "Kanal7.tr": {
       "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"Kanal7.tr\" site_id=\"26#58d29bb0eefad3db9c60629c\">Kanal 7</channel>"
     },
     "KanalD.tr": {
       "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"KanalD.tr\" site_id=\"21#58d29bb0eefad3db9c606258\">Kanal D</channel>"
-    },
-    "MinikaGo.tr": {
-      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"MinikaGo.tr\" site_id=\"113#58d29bb0eefad3db9c606257\">Minika GO</channel>"
     },
     "NTV.tr": {
       "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"NTV.tr\" site_id=\"30#58d29bb0eefad3db9c60623a\">NTV</channel>"
@@ -80,7 +77,7 @@
       "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TV8.tr\" site_id=\"27#58d29bb0eefad3db9c6062ae\">TV8</channel>"
     },
     "UlusalKanal.tr": {
-      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"UlusalKanal.tr\" site_id=\"86#58d29bb0eefad3db9c606242\">Ulusal TV</channel>"
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"UlusalKanal.tr\" site_id=\"2240\">ULUSAL KANAL</channel>"
     }
   },
   "custom": {
