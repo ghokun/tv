@@ -3,14 +3,13 @@
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="AHaber.tr" site_id="34#58d29bb0eefad3db9c60625e">a Haber</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="ATV.tr" site_id="24#58d29bb0eefad3db9c60625f">ATV</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="BeyazTV.tr" site_id="39#58d29bb0eefad3db9c606298">Beyaz TV</channel>
-<channel site="dsmart.com.tr" lang="tr" xmltv_id="CNNTurk.tr" site_id="29#5f2fc688cfef0b1593e08b76">CNN TÜRK</channel>
-<channel site="dsmart.com.tr" lang="tr" xmltv_id="EuroD.tr" site_id="179#59dcbfdccfef0b4d80a4974a">Euro D</channel>
+<channel site="tvplus.com.tr" lang="tr" xmltv_id="CNNTurk.tr" site_id="158">CNN TÜRK</channel>
+<channel site="tv.blue.ch" lang="tr" xmltv_id="EuroD.tr" site_id="161">Euro D</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="Fox.tr" site_id="28#58d29bb0eefad3db9c6062a0">FOX</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="HaberturkTV.tr" site_id="32#58d29bb0eefad3db9c60629d">Haber Türk</channel>
-<channel site="dsmart.com.tr" lang="tr" xmltv_id="HalkTV.tr" site_id="161#58d29bb0eefad3db9c606288">Halk TV</channel>
+<channel site="tvplus.com.tr" lang="tr" xmltv_id="HalkTV.tr" site_id="91">HALK TV</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="Kanal7.tr" site_id="26#58d29bb0eefad3db9c60629c">Kanal 7</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="KanalD.tr" site_id="21#58d29bb0eefad3db9c606258">Kanal D</channel>
-<channel site="dsmart.com.tr" lang="tr" xmltv_id="MinikaGo.tr" site_id="113#58d29bb0eefad3db9c606257">Minika GO</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="NTV.tr" site_id="30#58d29bb0eefad3db9c60623a">NTV</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="ShowTV.tr" site_id="22#58d29bb0eefad3db9c60629b">Show TV</channel>
 <channel site="turksatkablo.com.tr" lang="tr" xmltv_id="SozcuTV.tr" site_id="3779">SZC</channel>
@@ -24,6 +23,6 @@
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="TRTHaber.tr" site_id="31#58d29bb0eefad3db9c606289">TRT Haber</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="TRTTurk.tr" site_id="96#58d29bb0eefad3db9c60624c">TRT Türk</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="TV8.tr" site_id="27#58d29bb0eefad3db9c6062ae">TV8</channel>
-<channel site="dsmart.com.tr" lang="tr" xmltv_id="UlusalKanal.tr" site_id="86#58d29bb0eefad3db9c606242">Ulusal TV</channel>
+<channel site="tvplus.com.tr" lang="tr" xmltv_id="UlusalKanal.tr" site_id="2240">ULUSAL KANAL</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="TLC.tr" site_id="35#58d29bb0eefad3db9c606238">TLC</channel>
 </channels>
