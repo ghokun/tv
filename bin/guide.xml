@@ -445,9 +445,9 @@
 <programme start="20240111170000 +0000" stop="20240111191500 +0000" channel="ShowTV.tr"><title lang="tr">Kara</title><desc lang="tr">Kara, Rauf Çınar’dan intikam almak için planına devam ederken Zeynep ile karşılaşır. Zeynep, evinde davetsiz bir misafiri olduğunu öğrenip eve gider ama Kara’nın da onunla gitmesi gerekiyordur. Çünkü kurtarması gereken biri vardır…</desc></programme>
 <programme start="20240111191500 +0000" stop="20240111221500 +0000" channel="ShowTV.tr"><title lang="tr">Kara</title><desc lang="tr">Kara, Rauf Çınar’dan intikam almak için planına devam ederken Zeynep ile karşılaşır. Zeynep, evinde davetsiz bir misafiri olduğunu öğrenip eve gider ama Kara’nın da onunla gitmesi gerekiyordur. Çünkü kurtarması gereken biri vardır…</desc></programme>
 <programme start="20240110210000 +0000" stop="20240110220000 +0000" channel="SozcuTV.tr"><title lang="tr">-</title></programme>
-<programme start="20240110220000 +0000" stop="20240110230000 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240110230000 +0000" stop="20240111010000 +0000" channel="SozcuTV.tr"><title lang="tr">Başkent Kulisleri</title></programme>
-<programme start="20240111010000 +0000" stop="20240111030000 +0000" channel="SozcuTV.tr"><title lang="tr">Şah Mat</title></programme>
+<programme start="20240110220000 +0000" stop="20240110233000 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
+<programme start="20240110233000 +0000" stop="20240111011500 +0000" channel="SozcuTV.tr"><title lang="tr">Sokağın Sözü</title></programme>
+<programme start="20240111011500 +0000" stop="20240111030000 +0000" channel="SozcuTV.tr"><title lang="tr">Nokta Atışı</title></programme>
 <programme start="20240111030000 +0000" stop="20240111040000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240111040000 +0000" stop="20240111060000 +0000" channel="SozcuTV.tr"><title lang="tr">Sabah Kahvesi</title></programme>
 <programme start="20240111060000 +0000" stop="20240111070000 +0000" channel="SozcuTV.tr"><title lang="tr">Para Politika</title></programme>
@@ -460,13 +460,12 @@
 <programme start="20240111140000 +0000" stop="20240111150000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Saati</title></programme>
 <programme start="20240111150000 +0000" stop="20240111154500 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Saati</title></programme>
 <programme start="20240111154500 +0000" stop="20240111160000 +0000" channel="SozcuTV.tr"><title lang="tr">Üçüncü Sayfa</title></programme>
-<programme start="20240111160000 +0000" stop="20240111174500 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240111174500 +0000" stop="20240111190000 +0000" channel="SozcuTV.tr"><title lang="tr">Sokağın Sözü</title></programme>
-<programme start="20240111190000 +0000" stop="20240111220000 +0000" channel="SozcuTV.tr"><title lang="tr">Nokta Atışı</title></programme>
+<programme start="20240111160000 +0000" stop="20240111171500 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
+<programme start="20240111171500 +0000" stop="20240111220000 +0000" channel="SozcuTV.tr"><title lang="tr">Türkiye&apos;nin Sözü</title></programme>
 <programme start="20240111210000 +0000" stop="20240111220000 +0000" channel="SozcuTV.tr"><title lang="tr">-</title></programme>
-<programme start="20240111220000 +0000" stop="20240111230000 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240111230000 +0000" stop="20240112010000 +0000" channel="SozcuTV.tr"><title lang="tr">Başkent Kulisleri</title></programme>
-<programme start="20240112010000 +0000" stop="20240112030000 +0000" channel="SozcuTV.tr"><title lang="tr">Şah Mat</title></programme>
+<programme start="20240111220000 +0000" stop="20240111233000 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
+<programme start="20240111233000 +0000" stop="20240112011500 +0000" channel="SozcuTV.tr"><title lang="tr">Sokağın Sözü</title></programme>
+<programme start="20240112011500 +0000" stop="20240112030000 +0000" channel="SozcuTV.tr"><title lang="tr">Nokta Atışı</title></programme>
 <programme start="20240112030000 +0000" stop="20240112040000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240112040000 +0000" stop="20240112060000 +0000" channel="SozcuTV.tr"><title lang="tr">Sabah Kahvesi</title></programme>
 <programme start="20240112060000 +0000" stop="20240112070000 +0000" channel="SozcuTV.tr"><title lang="tr">Para Politika</title></programme>
@@ -479,9 +478,8 @@
 <programme start="20240112140000 +0000" stop="20240112150000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Saati</title></programme>
 <programme start="20240112150000 +0000" stop="20240112154500 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Saati</title></programme>
 <programme start="20240112154500 +0000" stop="20240112160000 +0000" channel="SozcuTV.tr"><title lang="tr">Üçüncü Sayfa</title></programme>
-<programme start="20240112160000 +0000" stop="20240112174500 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240112174500 +0000" stop="20240112190000 +0000" channel="SozcuTV.tr"><title lang="tr">Sokağın Sözü</title></programme>
-<programme start="20240112190000 +0000" stop="20240112220000 +0000" channel="SozcuTV.tr"><title lang="tr">Nokta Atışı</title></programme>
+<programme start="20240112160000 +0000" stop="20240112171500 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
+<programme start="20240112171500 +0000" stop="20240112220000 +0000" channel="SozcuTV.tr"><title lang="tr">Türkiye&apos;nin Sözü</title></programme>
 <programme start="20240110220000 +0000" stop="20240111030000 +0000" channel="SportsTV.tr"><title lang="tr">TEKRARLAR</title></programme>
 <programme start="20240111030000 +0000" stop="20240111053000 +0000" channel="SportsTV.tr"><title lang="tr">ITALYA ERKEKLER VOLEYBOL LIGI</title></programme>
 <programme start="20240111053000 +0000" stop="20240111060000 +0000" channel="SportsTV.tr"><title lang="tr">AUTOLIFE</title></programme>
@@ -1098,7 +1096,8 @@
 <programme start="20240111120000 +0000" stop="20240111144500 +0000" channel="UlusalKanal.tr"><title lang="tr">Akşam Raporu</title><desc lang="tr">Serpin Alparslan&apos;ın sunduğu Akşam Raporu hafta içi her gün ekranlara geliyor.</desc><category lang="tr">Haber</category><icon src="https://izmottvsc23.tvplus.com.tr:33207/CPS/images/universal/film/program/202401/20240107/38/2215393158865eb88428.jpg"/></programme>
 <programme start="20240111144500 +0000" stop="20240111160000 +0000" channel="UlusalKanal.tr"><title lang="tr">Güneş&apos;li Sohbetler</title><category lang="tr">Haber</category><icon src="https://izmottvsc23.tvplus.com.tr:33207/CPS/images/universal/film/program/202401/20240107/56/2215393158895eb88428.jpg"/></programme>
 <programme start="20240111160000 +0000" stop="20240111173000 +0000" channel="UlusalKanal.tr"><title lang="tr">Ana Haber</title><desc lang="tr">Gün içinde yaşanan önemli gelişmeler ve gündemde yer alan konular aktarılıyor. Siyasetten ekonomiye, kültür-sanattan spora Türkiye ve dünya gündemine ilişkin önemli gelişmeler canlı bağlantılarla ekrana geliyor. Program konuklarıyla gündemdeki olayların analizi yapılıyor.</desc><category lang="tr">Haber</category><icon src="https://izmottvsc23.tvplus.com.tr:33207/CPS/images/universal/film/program/202401/20240107/90/2215393158925eb88428.jpg"/></programme>
-<programme start="20240111173000 +0000" stop="20240111220000 +0000" channel="UlusalKanal.tr"><title lang="tr">Başkent Kulisi</title><desc lang="tr">Türkiye&apos;nin gündemindeki konular ve Ankara kulislerinde konuşulanlar, program konuklarıyla birlikte değerlendiriliyor.</desc><category lang="tr">Politika</category><icon src="https://izmottvsc23.tvplus.com.tr:33207/CPS/images/universal/film/program/202401/20240107/16/2215393158955eb88428.jpg"/></programme>
+<programme start="20240111173000 +0000" stop="20240111200000 +0000" channel="UlusalKanal.tr"><title lang="tr">Başkent Kulisi</title><desc lang="tr">Türkiye&apos;nin gündemindeki konular ve Ankara kulislerinde konuşulanlar, program konuklarıyla birlikte değerlendiriliyor.</desc><category lang="tr">Politika</category><icon src="https://izmottvsc23.tvplus.com.tr:33207/CPS/images/universal/film/program/202401/20240111/40/0830104598865eb88428.jpg"/></programme>
+<programme start="20240111200000 +0000" stop="20240111220000 +0000" channel="UlusalKanal.tr"><title lang="tr">Gece Hattı</title><desc lang="tr">Siyasetten ekonomiye, kültürden sanata Türkiye ve dünya gündemine ilişkin önemli gelişmeler canlı bağlantılarla ekrana geliyor.</desc><category lang="tr">Haber</category><icon src="https://izmottvsc23.tvplus.com.tr:33207/CPS/images/universal/film/program/202401/20240111/76/0830104598835eb88428.jpg"/></programme>
 <programme start="20240111220000 +0000" stop="20240112050000 +0000" channel="UlusalKanal.tr"><title lang="tr">Tekrar Programlar</title><desc lang="tr">Ulusal Kanal&apos;da gün içerisinde yayınlanan programların tekrarları ekrana geliyor.</desc><category lang="tr">Diğer</category><icon src="https://izmottvsc23.tvplus.com.tr:33207/CPS/images/universal/film/program/202401/20240108/98/2215193007025eb78424.jpg"/></programme>
 <programme start="20240111220000 +0000" stop="20240112050000 +0000" channel="UlusalKanal.tr"><title lang="tr">Tekrar Programlar</title><desc lang="tr">Ulusal Kanal&apos;da gün içerisinde yayınlanan programların tekrarları ekrana geliyor.</desc><category lang="tr">Diğer</category><icon src="https://izmottvsc23.tvplus.com.tr:33207/CPS/images/universal/film/program/202401/20240108/98/2215193007025eb78424.jpg"/></programme>
 <programme start="20240112050000 +0000" stop="20240112080000 +0000" channel="UlusalKanal.tr"><title lang="tr">Televizyon Gazetesi</title><desc lang="tr">Türkiye&apos;de yaşanan politik ve sosyal olaylar, Gazeteci Halil Nebiler tarafından esprili bir biçimde yorumlanıyor.</desc><category lang="tr">Haber</category><icon src="https://izmottvsc23.tvplus.com.tr:33207/CPS/images/universal/film/program/202401/20240108/11/2215193007055eb78424.jpg"/></programme>
