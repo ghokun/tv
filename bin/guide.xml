@@ -476,38 +476,38 @@
 <programme start="20240114123000 +0000" stop="20240114152500 +0000" channel="ShowTV.tr"><title lang="tr">Kızılcık Şerbeti</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20240114152500 +0000" stop="20240114170000 +0000" channel="ShowTV.tr"><title lang="tr">Show TV Ana Haber</title><desc lang="tr">Canlı</desc></programme>
 <programme start="20240114170000 +0000" stop="20240114200000 +0000" channel="ShowTV.tr"><title lang="tr">Ne Gemiler Yaktım</title><desc lang="tr">Yeni Bölüm</desc></programme>
-<programme start="20240112210000 +0000" stop="20240112220000 +0000" channel="SozcuTV.tr"><title lang="tr">-</title></programme>
-<programme start="20240112220000 +0000" stop="20240112230000 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240112230000 +0000" stop="20240113040000 +0000" channel="SozcuTV.tr"><title lang="tr">Türkiye&apos;nin Sözü</title></programme>
-<programme start="20240113040000 +0000" stop="20240113063000 +0000" channel="SozcuTV.tr"><title lang="tr">Sabah Kahvesi</title></programme>
+<programme start="20240112210000 +0000" stop="20240112223000 +0000" channel="SozcuTV.tr"><title lang="tr">-</title></programme>
+<programme start="20240112223000 +0000" stop="20240113020000 +0000" channel="SozcuTV.tr"><title lang="tr">Nokta Atışı</title></programme>
+<programme start="20240113020000 +0000" stop="20240113030000 +0000" channel="SozcuTV.tr"><title lang="tr">Sisler Bulvarı</title></programme>
+<programme start="20240113030000 +0000" stop="20240113050000 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
+<programme start="20240113050000 +0000" stop="20240113063000 +0000" channel="SozcuTV.tr"><title lang="tr">Sabah Kahvesi</title></programme>
 <programme start="20240113063000 +0000" stop="20240113090000 +0000" channel="SozcuTV.tr"><title lang="tr">Son Söz</title></programme>
-<programme start="20240113090000 +0000" stop="20240113091500 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240113091500 +0000" stop="20240113110000 +0000" channel="SozcuTV.tr"><title lang="tr">İyilik Sağlık</title></programme>
+<programme start="20240113090000 +0000" stop="20240113110000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240113110000 +0000" stop="20240113120000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240113120000 +0000" stop="20240113130000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240113130000 +0000" stop="20240113140000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240113140000 +0000" stop="20240113150000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240113150000 +0000" stop="20240113151500 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240113151500 +0000" stop="20240113160000 +0000" channel="SozcuTV.tr"><title lang="tr">Başka Bir Söz</title></programme>
+<programme start="20240113150000 +0000" stop="20240113153000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240113153000 +0000" stop="20240113160000 +0000" channel="SozcuTV.tr"><title lang="tr">Gökyüzü Sohbetleri</title></programme>
 <programme start="20240113160000 +0000" stop="20240113170000 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240113170000 +0000" stop="20240113203000 +0000" channel="SozcuTV.tr"><title lang="tr">Nokta Atışı</title></programme>
-<programme start="20240113203000 +0000" stop="20240113212000 +0000" channel="SozcuTV.tr"><title lang="tr">Sisler Bulvarı</title></programme>
-<programme start="20240113210000 +0000" stop="20240113220000 +0000" channel="SozcuTV.tr"><title lang="tr">-</title></programme>
-<programme start="20240113220000 +0000" stop="20240113230000 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240113230000 +0000" stop="20240114040000 +0000" channel="SozcuTV.tr"><title lang="tr">Türkiye&apos;nin Sözü</title></programme>
-<programme start="20240114040000 +0000" stop="20240114063000 +0000" channel="SozcuTV.tr"><title lang="tr">Sabah Kahvesi</title></programme>
+<programme start="20240113170000 +0000" stop="20240113200000 +0000" channel="SozcuTV.tr"><title lang="tr">Aklın Yolu</title></programme>
+<programme start="20240113200000 +0000" stop="20240113210000 +0000" channel="SozcuTV.tr"><title lang="tr">Aynanın Arkası ve Komplo Teorileri</title></programme>
+<programme start="20240113210000 +0000" stop="20240113223000 +0000" channel="SozcuTV.tr"><title lang="tr">-</title></programme>
+<programme start="20240113223000 +0000" stop="20240114020000 +0000" channel="SozcuTV.tr"><title lang="tr">Nokta Atışı</title></programme>
+<programme start="20240114020000 +0000" stop="20240114030000 +0000" channel="SozcuTV.tr"><title lang="tr">Sisler Bulvarı</title></programme>
+<programme start="20240114030000 +0000" stop="20240114050000 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
+<programme start="20240114050000 +0000" stop="20240114063000 +0000" channel="SozcuTV.tr"><title lang="tr">Sabah Kahvesi</title></programme>
 <programme start="20240114063000 +0000" stop="20240114090000 +0000" channel="SozcuTV.tr"><title lang="tr">Son Söz</title></programme>
-<programme start="20240114090000 +0000" stop="20240114091500 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240114091500 +0000" stop="20240114110000 +0000" channel="SozcuTV.tr"><title lang="tr">İyilik Sağlık</title></programme>
+<programme start="20240114090000 +0000" stop="20240114110000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240114110000 +0000" stop="20240114120000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240114120000 +0000" stop="20240114130000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240114130000 +0000" stop="20240114140000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240114140000 +0000" stop="20240114150000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240114150000 +0000" stop="20240114151500 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240114151500 +0000" stop="20240114160000 +0000" channel="SozcuTV.tr"><title lang="tr">Başka Bir Söz</title></programme>
+<programme start="20240114150000 +0000" stop="20240114153000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240114153000 +0000" stop="20240114160000 +0000" channel="SozcuTV.tr"><title lang="tr">Gökyüzü Sohbetleri</title></programme>
 <programme start="20240114160000 +0000" stop="20240114170000 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240114170000 +0000" stop="20240114203000 +0000" channel="SozcuTV.tr"><title lang="tr">Nokta Atışı</title></programme>
-<programme start="20240114203000 +0000" stop="20240114212000 +0000" channel="SozcuTV.tr"><title lang="tr">Sisler Bulvarı</title></programme>
+<programme start="20240114170000 +0000" stop="20240114200000 +0000" channel="SozcuTV.tr"><title lang="tr">Aklın Yolu</title></programme>
+<programme start="20240114200000 +0000" stop="20240114210000 +0000" channel="SozcuTV.tr"><title lang="tr">Aynanın Arkası ve Komplo Teorileri</title></programme>
 <programme start="20240112220000 +0000" stop="20240113030000 +0000" channel="SportsTV.tr"><title lang="tr">TEKRARLAR</title></programme>
 <programme start="20240113030000 +0000" stop="20240113053000 +0000" channel="SportsTV.tr"><title lang="tr">ING KBSL</title></programme>
 <programme start="20240113053000 +0000" stop="20240113060000 +0000" channel="SportsTV.tr"><title lang="tr">BSS 1.GÜN</title></programme>
