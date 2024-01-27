@@ -26,10 +26,17 @@ jobs:
           cd ..
           rm -rf epg
       - name: Commit and push
+<<<<<<< HEAD
         if: "[ -n '$(git status --porcelain)' ]"
+=======
+>>>>>>> df25718 (Add git dirty check before commit)
         run: |
-          git config --global user.name github-actions
-          git config --global user.email github-actions@github.com
-          git add bin/*
-          git commit -m "Update playlist and EPG"
-          git push
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No changes"
+          else
+            git config --global user.name github-actions
+            git config --global user.email github-actions@github.com
+            git add bin/*
+            git commit -m "Update playlist and EPG"
+            git push
+          fi
