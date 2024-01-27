@@ -26,10 +26,6 @@ jobs:
           cd ..
           rm -rf epg
       - name: Commit and push
-<<<<<<< HEAD
-        if: "[ -n '$(git status --porcelain)' ]"
-=======
->>>>>>> df25718 (Add git dirty check before commit)
         run: |
           if [ -z "$(git status --porcelain)" ]; then
             echo "No changes"
