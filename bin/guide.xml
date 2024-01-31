@@ -241,7 +241,7 @@
 <programme start="20240131030000 +0000" stop="20240131040000 +0000" channel="HalkTV.tr"><title lang="tr">Halk TV&apos;de Bugün</title><desc lang="tr">Türkiye ve dünya gündeminin öne çıkan gelişmeleri, uzman konukların görüşleri eşliğinde yorumlanıyor.</desc><category lang="tr">Haber</category><icon src="https://izmottvsc23.tvplus.com.tr:33207/CPS/images/universal/film/program/202401/20240126/15/2126165428565eb9b42e.jpg"/></programme>
 <programme start="20240131040000 +0000" stop="20240131050000 +0000" channel="HalkTV.tr"><title lang="tr">Günaydın Türkiye</title><desc lang="tr">&apos;Günaydın Türkiye&apos; programında, günün öne çıkan başlıkları ve yazılı basına yansıyan haberler izleyenlere aktarılıyor.</desc><category lang="tr">Haber</category><icon src="https://izmottvsc23.tvplus.com.tr:33207/CPS/images/universal/film/program/202401/20240126/64/2126165428595eb9b42e.jpg"/></programme>
 <programme start="20240131050000 +0000" stop="20240131080000 +0000" channel="HalkTV.tr"><title lang="tr">Yeni Bir Sabah</title><category lang="tr">Haber</category><icon src="https://izmottvsc23.tvplus.com.tr:33207/CPS/images/universal/film/program/202401/20240126/11/2126165428625eb9b42e.jpg"/></programme>
-<programme start="20240131080000 +0000" stop="20240131100000 +0000" channel="HalkTV.tr"><title lang="tr">Medya Mahallesi</title><desc lang="tr">Ayşenur Arslan&apos;ın sunumuyla Türkiye gündeminin önemli gelişmeleri değerlendiriliyor.</desc><category lang="tr">Haber</category><icon src="https://izmottvsc23.tvplus.com.tr:33207/CPS/images/universal/film/program/202401/20240126/26/2126165428655eb9b42e.jpg"/></programme>
+<programme start="20240131080000 +0000" stop="20240131100000 +0000" channel="HalkTV.tr"><title lang="tr">Kırmızı Çizgi</title><category lang="tr">Haber</category><icon src="https://izmottvsc23.tvplus.com.tr:33207/CPS/images/universal/film/program/202401/20240131/13/0730113144725eb7f426.jpg"/></programme>
 <programme start="20240131100000 +0000" stop="20240131120000 +0000" channel="HalkTV.tr"><title lang="tr">Haber Masası</title><desc lang="tr">Haber Masası, güncel ve sıcak gelişmeler önceliğiyle hazırlanan haber bülteninde; ayrıntı, kulis ve perde arkası gibi temel habercilik kavramlarını esas alarak topluma doğru bilgi ulaştırmaya çalışıyor.</desc><category lang="tr">Haber</category><icon src="https://izmottvsc23.tvplus.com.tr:33207/CPS/images/universal/film/program/202401/20240126/72/2126165428685eb9b42e.jpg"/></programme>
 <programme start="20240131120000 +0000" stop="20240131130000 +0000" channel="HalkTV.tr"><title lang="tr">Halkın Haberi</title><category lang="tr">Haber</category><icon src="https://izmottvsc23.tvplus.com.tr:33207/CPS/images/universal/film/program/202401/20240126/71/2126165428715eb9b42e.jpg"/></programme>
 <programme start="20240131130000 +0000" stop="20240131150000 +0000" channel="HalkTV.tr"><title lang="tr">Gündem Özel</title><desc lang="tr">Gündem Özel programı ekranlara geliyor.</desc><category lang="tr">Haber</category><icon src="https://izmottvsc23.tvplus.com.tr:33207/CPS/images/universal/film/program/202401/20240126/48/2126165428745eb9b42e.jpg"/></programme>
@@ -476,8 +476,8 @@
 <programme start="20240131170000 +0000" stop="20240131200000 +0000" channel="ShowTV.tr"><title lang="tr">Sandık Kokusu</title><desc lang="tr">Yeni Bölüm</desc></programme>
 <programme start="20240130210000 +0000" stop="20240130220000 +0000" channel="SozcuTV.tr"><title lang="tr">-</title></programme>
 <programme start="20240130220000 +0000" stop="20240130230000 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240130230000 +0000" stop="20240131010000 +0000" channel="SozcuTV.tr"><title lang="tr">Nokta Atışı</title></programme>
-<programme start="20240131010000 +0000" stop="20240131030000 +0000" channel="SozcuTV.tr"><title lang="tr">Karşı Karşıya</title></programme>
+<programme start="20240130230000 +0000" stop="20240131020000 +0000" channel="SozcuTV.tr"><title lang="tr">Şah Mat</title></programme>
+<programme start="20240131020000 +0000" stop="20240131030000 +0000" channel="SozcuTV.tr"><title lang="tr">Başkent Kulisleri</title></programme>
 <programme start="20240131030000 +0000" stop="20240131040000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240131040000 +0000" stop="20240131060000 +0000" channel="SozcuTV.tr"><title lang="tr">Sabah Kahvesi</title></programme>
 <programme start="20240131060000 +0000" stop="20240131070000 +0000" channel="SozcuTV.tr"><title lang="tr">Para Politika</title></programme>
@@ -492,12 +492,12 @@
 <programme start="20240131150000 +0000" stop="20240131154500 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Saati</title></programme>
 <programme start="20240131154500 +0000" stop="20240131160000 +0000" channel="SozcuTV.tr"><title lang="tr">Üçüncü Sayfa</title></programme>
 <programme start="20240131160000 +0000" stop="20240131171500 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240131171500 +0000" stop="20240131200000 +0000" channel="SozcuTV.tr"><title lang="tr">Şah Mat</title></programme>
-<programme start="20240131200000 +0000" stop="20240131220000 +0000" channel="SozcuTV.tr"><title lang="tr">Başkent Kulisleri</title></programme>
+<programme start="20240131171500 +0000" stop="20240131203000 +0000" channel="SozcuTV.tr"><title lang="tr">Sokağın Sözü</title></programme>
+<programme start="20240131203000 +0000" stop="20240131220000 +0000" channel="SozcuTV.tr"><title lang="tr">Nokta Atışı</title></programme>
 <programme start="20240131210000 +0000" stop="20240131220000 +0000" channel="SozcuTV.tr"><title lang="tr">-</title></programme>
 <programme start="20240131220000 +0000" stop="20240131230000 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240131230000 +0000" stop="20240201010000 +0000" channel="SozcuTV.tr"><title lang="tr">Nokta Atışı</title></programme>
-<programme start="20240201010000 +0000" stop="20240201030000 +0000" channel="SozcuTV.tr"><title lang="tr">Karşı Karşıya</title></programme>
+<programme start="20240131230000 +0000" stop="20240201020000 +0000" channel="SozcuTV.tr"><title lang="tr">Şah Mat</title></programme>
+<programme start="20240201020000 +0000" stop="20240201030000 +0000" channel="SozcuTV.tr"><title lang="tr">Başkent Kulisleri</title></programme>
 <programme start="20240201030000 +0000" stop="20240201040000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240201040000 +0000" stop="20240201060000 +0000" channel="SozcuTV.tr"><title lang="tr">Sabah Kahvesi</title></programme>
 <programme start="20240201060000 +0000" stop="20240201070000 +0000" channel="SozcuTV.tr"><title lang="tr">Para Politika</title></programme>
@@ -512,8 +512,8 @@
 <programme start="20240201150000 +0000" stop="20240201154500 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Saati</title></programme>
 <programme start="20240201154500 +0000" stop="20240201160000 +0000" channel="SozcuTV.tr"><title lang="tr">Üçüncü Sayfa</title></programme>
 <programme start="20240201160000 +0000" stop="20240201171500 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240201171500 +0000" stop="20240201200000 +0000" channel="SozcuTV.tr"><title lang="tr">Şah Mat</title></programme>
-<programme start="20240201200000 +0000" stop="20240201220000 +0000" channel="SozcuTV.tr"><title lang="tr">Başkent Kulisleri</title></programme>
+<programme start="20240201171500 +0000" stop="20240201203000 +0000" channel="SozcuTV.tr"><title lang="tr">Sokağın Sözü</title></programme>
+<programme start="20240201203000 +0000" stop="20240201220000 +0000" channel="SozcuTV.tr"><title lang="tr">Nokta Atışı</title></programme>
 <programme start="20240130210100 +0000" stop="20240130220000 +0000" channel="SportsTV.tr"><title lang="tr">ING KBSL | BOTAŞ-ÇBK MERSİN</title></programme>
 <programme start="20240130220000 +0000" stop="20240131030000 +0000" channel="SportsTV.tr"><title lang="tr">TEKRARLAR</title></programme>
 <programme start="20240131030000 +0000" stop="20240131050000 +0000" channel="SportsTV.tr"><title lang="tr">ING KBSL OGM ORMANSPOR - BOTAŞ</title></programme>
