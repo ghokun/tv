@@ -505,6 +505,23 @@
 <programme start="20240203170000 +0000" stop="20240203183000 +0000" channel="SportsTV.tr"><title lang="tr">REACTİON SPORTS</title></programme>
 <programme start="20240203183000 +0000" stop="20240203203000 +0000" channel="SportsTV.tr"><title lang="tr">İTALYA ERKEKLER BASKETBOL</title></programme>
 <programme start="20240203203000 +0000" stop="20240203233000 +0000" channel="SportsTV.tr"><title lang="tr">EHF EURO 2024</title></programme>
+<programme start="20240203220000 +0000" stop="20240204030000 +0000" channel="SportsTV.tr"><title lang="tr">TEKRARLAR</title></programme>
+<programme start="20240204030000 +0000" stop="20240204050000 +0000" channel="SportsTV.tr"><title lang="tr">İTALYA ERKEK VOLEYBOL LİGİ</title></programme>
+<programme start="20240204050000 +0000" stop="20240204060000 +0000" channel="SportsTV.tr"><title lang="tr">TOUR OF TÜRKİYE ÖZET</title></programme>
+<programme start="20240204060000 +0000" stop="20240204062000 +0000" channel="SportsTV.tr"><title lang="tr">DİNAM,İK SABAHLAR</title></programme>
+<programme start="20240204062000 +0000" stop="20240204064500 +0000" channel="SportsTV.tr"><title lang="tr">PİLATES</title></programme>
+<programme start="20240204064500 +0000" stop="20240204074500 +0000" channel="SportsTV.tr"><title lang="tr">YOGA</title></programme>
+<programme start="20240204074500 +0000" stop="20240204080000 +0000" channel="SportsTV.tr"><title lang="tr">DİNAMİK SABAHLAR</title></programme>
+<programme start="20240204080000 +0000" stop="20240204081500 +0000" channel="SportsTV.tr"><title lang="tr">PİLATES</title></programme>
+<programme start="20240204081500 +0000" stop="20240204083000 +0000" channel="SportsTV.tr"><title lang="tr">FİT MUTFAK</title><desc lang="tr">Sports TV Kadın Kuşağı</desc></programme>
+<programme start="20240204083000 +0000" stop="20240204090000 +0000" channel="SportsTV.tr"><title lang="tr">YOGA</title></programme>
+<programme start="20240204090000 +0000" stop="20240204100000 +0000" channel="SportsTV.tr"><title lang="tr">AUTO LIFE</title></programme>
+<programme start="20240204100000 +0000" stop="20240204120000 +0000" channel="SportsTV.tr"><title lang="tr">İTALYA ERKEKLER BASKETBOL LİGİ CANLI</title></programme>
+<programme start="20240204120000 +0000" stop="20240204140000 +0000" channel="SportsTV.tr"><title lang="tr">ING KBSL ÇBK MERSİN - İZMİT BELEDİYESPOR</title></programme>
+<programme start="20240204140000 +0000" stop="20240204163000 +0000" channel="SportsTV.tr"><title lang="tr">EHF EURO 2024</title></programme>
+<programme start="20240204163000 +0000" stop="20240204183000 +0000" channel="SportsTV.tr"><title lang="tr">İTALYA KADINLAR VOLEYBOL LİGİ</title></programme>
+<programme start="20240204183000 +0000" stop="20240204193000 +0000" channel="SportsTV.tr"><title lang="tr">REACTION SPORTS</title></programme>
+<programme start="20240204193000 +0000" stop="20240204223000 +0000" channel="SportsTV.tr"><title lang="tr">EHF EURO 2024</title></programme>
 <programme start="20240202211500 +0000" stop="20240202233000 +0000" channel="StarTV.tr"><title lang="tr">Sakla Beni / tkr</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20240202233000 +0000" stop="20240203010000 +0000" channel="StarTV.tr"><title lang="tr">Söz / Tkr</title></programme>
 <programme start="20240203010000 +0000" stop="20240203023000 +0000" channel="StarTV.tr"><title lang="tr">Erkenci Kuş / tkr</title></programme>
@@ -841,6 +858,73 @@
 <programme start="20240203200000 +0000" stop="20240203202500 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Babamın Gölgesi 1915&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
 <programme start="20240203202500 +0000" stop="20240203205000 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Nasreddin Hoca Zaman Yolcusu&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
 <programme start="20240203205000 +0000" stop="20240203211500 +0000" channel="TRTCocuk.tr"><title lang="tr">Variloto</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240203211500 +0000" stop="20240203213500 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Maysa ve Bulut&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240203213500 +0000" stop="20240203220000 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Aslan&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240203220000 +0000" stop="20240203222500 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Elif ve Arkadaşları&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240203222500 +0000" stop="20240203225000 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Yılkı Atı - Doru&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240203225000 +0000" stop="20240203230500 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Kaptan Pengu Ve Arkadaşları&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240203230500 +0000" stop="20240203233000 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Ege İle Gaga&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240203233000 +0000" stop="20240203235500 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Bulmaca Kulesi&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240203235500 +0000" stop="20240204002000 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Erdem&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204002000 +0000" stop="20240204004500 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Aslan&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204004500 +0000" stop="20240204011000 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Doru&quot;</title><category lang="tr">Diğer</category></programme>
+<programme start="20240204011000 +0000" stop="20240204013500 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Elif ve Arkadaşları&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204013500 +0000" stop="20240204020000 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Maysa ve Bulut&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204020000 +0000" stop="20240204022500 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Nasreddin Hoca Zaman Yolcusu&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204022500 +0000" stop="20240204025000 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Kare&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204025000 +0000" stop="20240204031500 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Kaptan Pengu Ve Arkadaşları&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204031500 +0000" stop="20240204032700 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &apos;&apos;İbi&apos;&apos;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204032700 +0000" stop="20240204033000 +0000" channel="TRTCocuk.tr"><title lang="tr">İstiklal Marşı</title><category lang="tr">Diğer</category></programme>
+<programme start="20240204033000 +0000" stop="20240204035500 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Elif&apos;in Düşleri&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204035500 +0000" stop="20240204042000 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Ege İle Gaga&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204042000 +0000" stop="20240204044000 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Kare&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204044000 +0000" stop="20240204050500 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Mavi Dünya&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204050500 +0000" stop="20240204053000 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Kuzucuk&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204053000 +0000" stop="20240204054000 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;El Feneri&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204054000 +0000" stop="20240204060500 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Yade Yade&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204060500 +0000" stop="20240204063000 +0000" channel="TRTCocuk.tr"><title lang="tr">ÇocukÇUF</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204063000 +0000" stop="20240204064500 +0000" channel="TRTCocuk.tr"><title lang="tr">Kukla Stüdyosu</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204064500 +0000" stop="20240204070000 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Katuri&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204070000 +0000" stop="20240204071500 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Niloya&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204071500 +0000" stop="20240204073500 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Ege İle Gaga&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204073500 +0000" stop="20240204080500 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Rafadan Tayfa&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204080500 +0000" stop="20240204083000 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Elif ve Arkadaşları&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204083000 +0000" stop="20240204084500 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Katuri&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204084500 +0000" stop="20240204085500 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Eymen ile Çimen&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204085500 +0000" stop="20240204092000 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Maysa ve Bulut&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204092000 +0000" stop="20240204094500 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Heidi&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204094500 +0000" stop="20240204101000 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &apos;&apos;İbi&apos;&apos;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204101000 +0000" stop="20240204103000 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &apos;&apos;İbi&apos;&apos;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204103000 +0000" stop="20240204105500 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Nils ve Uçan Kaz</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204105500 +0000" stop="20240204112000 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Hazine Takipçileri&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204112000 +0000" stop="20240204113500 +0000" channel="TRTCocuk.tr"><title lang="tr">Dedektif Reptır</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204113500 +0000" stop="20240204114500 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;SER-a&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204114500 +0000" stop="20240204120000 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Emiray Çevre Müfettişi&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204120000 +0000" stop="20240204121500 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Sagun&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204121500 +0000" stop="20240204123000 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Bulmaca Kulesi&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204123000 +0000" stop="20240204130000 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Rafadan Tayfa&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204130000 +0000" stop="20240204132500 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Z Takımı&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204132500 +0000" stop="20240204133500 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &apos;&apos;Ekip: Siberay&apos;&apos;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204133500 +0000" stop="20240204135000 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Babamın Gölgesi 1918&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204135000 +0000" stop="20240204141500 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &apos;&apos;İbi&apos;&apos;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204141500 +0000" stop="20240204144000 +0000" channel="TRTCocuk.tr"><title lang="tr">Variloto</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204144000 +0000" stop="20240204150500 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Vikingler&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204150500 +0000" stop="20240204153000 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Hazine Takipçileri&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204153000 +0000" stop="20240204155500 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Heidi&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204155500 +0000" stop="20240204162000 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Nasreddin Hoca Zaman Yolcusu&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204162000 +0000" stop="20240204165000 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Rafadan Tayfa&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204165000 +0000" stop="20240204170500 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Kehribar ile Boncuk&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204170500 +0000" stop="20240204173000 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Nils ve Uçan Kaz</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204173000 +0000" stop="20240204175500 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Dennis Ve Gnasher&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204175500 +0000" stop="20240204182000 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Z Takımı&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204182000 +0000" stop="20240204183000 +0000" channel="TRTCocuk.tr"><title lang="tr">Kız Kulesi Masalları</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204183000 +0000" stop="20240204184500 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Taktik 6&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204184500 +0000" stop="20240204191000 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Heidi&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204191000 +0000" stop="20240204193500 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Kehribar ile Boncuk&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204193500 +0000" stop="20240204200000 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Rafadan Tayfa&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204200000 +0000" stop="20240204202500 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Babamın Gölgesi 1915&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204202500 +0000" stop="20240204205000 +0000" channel="TRTCocuk.tr"><title lang="tr">Çizgi Film &quot;Nasreddin Hoca Zaman Yolcusu&quot;</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204205000 +0000" stop="20240204211500 +0000" channel="TRTCocuk.tr"><title lang="tr">Variloto</title><category lang="tr">Çocuk ve Gençlik</category></programme>
 <programme start="20240202210000 +0000" stop="20240202230000 +0000" channel="TRTHaber.tr"><title lang="tr">Gece Bakışı</title><category lang="tr">Haber - Spor</category></programme>
 <programme start="20240202230000 +0000" stop="20240203004500 +0000" channel="TRTHaber.tr"><title lang="tr">Gün Sonu</title><category lang="tr">Haber - Spor</category></programme>
 <programme start="20240203004500 +0000" stop="20240203005500 +0000" channel="TRTHaber.tr"><title lang="tr">Kalkınma Yolunda 100 Yıl Bölüm 5</title><category lang="tr">Diğer</category></programme>
@@ -951,6 +1035,49 @@
 <programme start="20240203190000 +0000" stop="20240203193000 +0000" channel="TRTTurk.tr"><title lang="tr">Ne Söylüyoruz Ne Dinliyoruz Bölüm 9</title><category lang="tr">Müzik - Eğlence</category></programme>
 <programme start="20240203193000 +0000" stop="20240203200500 +0000" channel="TRTTurk.tr"><title lang="tr">Rafet El Roman İle Her Şey Yolunda Bölüm 46</title><category lang="tr">Diğer</category></programme>
 <programme start="20240203200500 +0000" stop="20240203210000 +0000" channel="TRTTurk.tr"><title lang="tr">Zamâne Bölüm 6</title><category lang="tr">Müzik - Eğlence</category></programme>
+<programme start="20240203210000 +0000" stop="20240203222500 +0000" channel="TRTTurk.tr"><title lang="tr">Gençler Ne Diyor Türkiye Bölüm 29</title><category lang="tr">Diğer</category></programme>
+<programme start="20240203222500 +0000" stop="20240203231000 +0000" channel="TRTTurk.tr"><title lang="tr">Zengin Kız Fakir Oğlan Bölüm 82</title><category lang="tr">Dizi</category></programme>
+<programme start="20240203231000 +0000" stop="20240203234500 +0000" channel="TRTTurk.tr"><title lang="tr">Memleket Kreuzberg Bölüm 35</title><category lang="tr">Dizi</category></programme>
+<programme start="20240203234500 +0000" stop="20240204004500 +0000" channel="TRTTurk.tr"><title lang="tr">İstanbul Saati Bölüm 392</title><category lang="tr">Haber - Spor</category></programme>
+<programme start="20240204004500 +0000" stop="20240204014000 +0000" channel="TRTTurk.tr"><title lang="tr">Aklıselim Bölüm 42</title><category lang="tr">Kültür</category></programme>
+<programme start="20240204014000 +0000" stop="20240204015000 +0000" channel="TRTTurk.tr"><title lang="tr">Ne Kadar Ekmek O Kadar Köfte Bölüm 2</title><category lang="tr">Kültür</category></programme>
+<programme start="20240204015000 +0000" stop="20240204022500 +0000" channel="TRTTurk.tr"><title lang="tr">Rafet El Roman İle Her Şey Yolunda Bölüm 46</title><category lang="tr">Diğer</category></programme>
+<programme start="20240204022500 +0000" stop="20240204023500 +0000" channel="TRTTurk.tr"><title lang="tr">Mikrofon Senin &quot;Köln&quot; Bölüm 11</title><category lang="tr">Kültür</category></programme>
+<programme start="20240204023500 +0000" stop="20240204030500 +0000" channel="TRTTurk.tr"><title lang="tr">Ne Söylüyoruz Ne Dinliyoruz Bölüm 9</title><category lang="tr">Müzik - Eğlence</category></programme>
+<programme start="20240204030500 +0000" stop="20240204033500 +0000" channel="TRTTurk.tr"><title lang="tr">Sağlık Rotası Bölüm 22</title><category lang="tr">Diğer</category></programme>
+<programme start="20240204033500 +0000" stop="20240204040300 +0000" channel="TRTTurk.tr"><title lang="tr">Rumeli Lezzetleri Bölüm 21</title><category lang="tr">Kültür</category></programme>
+<programme start="20240204040300 +0000" stop="20240204040500 +0000" channel="TRTTurk.tr"><title lang="tr">İstiklal Marşı Çocuk</title><category lang="tr">Diğer</category></programme>
+<programme start="20240204040500 +0000" stop="20240204041500 +0000" channel="TRTTurk.tr"><title lang="tr">Çizgi Film &quot;Canım Kardeşim&quot; Bölüm 58</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204041500 +0000" stop="20240204043000 +0000" channel="TRTTurk.tr"><title lang="tr">Çizgi Film &quot;Emiray&quot; Bölüm 5</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204043000 +0000" stop="20240204044500 +0000" channel="TRTTurk.tr"><title lang="tr">Çizgi Film &quot;Kaptan Pengu Ve Arkadaşları&quot; Bölüm 32</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204044500 +0000" stop="20240204050000 +0000" channel="TRTTurk.tr"><title lang="tr">Çizgi Film &quot;Barbaros&quot; Bölüm 20</title><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204050000 +0000" stop="20240204065000 +0000" channel="TRTTurk.tr"><title lang="tr">Tozkoparan Bölüm 22</title><desc lang="tr">İçine düştükleri çukurdan kurtulmayı başarmış olan Mavi Ay&apos;ı, yaz tatilini geçirmek için katılacakları kampın heyecanı sarar.</desc><category lang="tr">Çocuk ve Gençlik</category></programme>
+<programme start="20240204065000 +0000" stop="20240204071000 +0000" channel="TRTTurk.tr"><title lang="tr">Şef Olacak Çocuk Bölüm 1</title><category lang="tr">Kültür</category></programme>
+<programme start="20240204071000 +0000" stop="20240204072500 +0000" channel="TRTTurk.tr"><title lang="tr">Güzel Türkçem Bölüm 40</title><category lang="tr">Kültür</category></programme>
+<programme start="20240204072500 +0000" stop="20240204082000 +0000" channel="TRTTurk.tr"><title lang="tr">Türkler Ne Der Bölüm 12</title><category lang="tr">Kültür</category></programme>
+<programme start="20240204082000 +0000" stop="20240204083000 +0000" channel="TRTTurk.tr"><title lang="tr">Diş Günlüğü Bölüm 5</title><category lang="tr">Diğer</category></programme>
+<programme start="20240204083000 +0000" stop="20240204085000 +0000" channel="TRTTurk.tr"><title lang="tr">Anadolu İkramı Bölüm 52</title><category lang="tr">Kültür</category></programme>
+<programme start="20240204085000 +0000" stop="20240204090000 +0000" channel="TRTTurk.tr"><title lang="tr">Ne Kadar Ekmek O Kadar Köfte Bölüm 2</title><category lang="tr">Kültür</category></programme>
+<programme start="20240204090000 +0000" stop="20240204093500 +0000" channel="TRTTurk.tr"><title lang="tr">Kültür Pusulası Bölüm 8</title><category lang="tr">Kültür</category></programme>
+<programme start="20240204093500 +0000" stop="20240204095500 +0000" channel="TRTTurk.tr"><title lang="tr">Şef Olacak Çocuk Bölüm 2</title><category lang="tr">Kültür</category></programme>
+<programme start="20240204095500 +0000" stop="20240204100000 +0000" channel="TRTTurk.tr"><title lang="tr">Mutfak Tüyoları Bölüm 14</title><category lang="tr">Kültür</category></programme>
+<programme start="20240204100000 +0000" stop="20240204110000 +0000" channel="TRTTurk.tr"><title lang="tr">İstanbul Saati Bölüm 393</title><category lang="tr">Haber - Spor</category></programme>
+<programme start="20240204110000 +0000" stop="20240204113000 +0000" channel="TRTTurk.tr"><title lang="tr">Ece Erken İle Kahve Molası Bölüm 7</title><category lang="tr">Müzik - Eğlence</category></programme>
+<programme start="20240204113000 +0000" stop="20240204114500 +0000" channel="TRTTurk.tr"><title lang="tr">Güzel Türkçem Bölüm 40</title><category lang="tr">Kültür</category></programme>
+<programme start="20240204114500 +0000" stop="20240204124500 +0000" channel="TRTTurk.tr"><title lang="tr">Anneler Bölüm 130</title><category lang="tr">Dizi</category></programme>
+<programme start="20240204124500 +0000" stop="20240204125000 +0000" channel="TRTTurk.tr"><title lang="tr">Mutfak Tüyoları Bölüm 15</title><category lang="tr">Kültür</category></programme>
+<programme start="20240204125000 +0000" stop="20240204132500 +0000" channel="TRTTurk.tr"><title lang="tr">Memleket Kreuzberg Bölüm 35</title><category lang="tr">Dizi</category></programme>
+<programme start="20240204132500 +0000" stop="20240204135500 +0000" channel="TRTTurk.tr"><title lang="tr">Sığınak Bölüm 9</title><category lang="tr">Dizi</category></programme>
+<programme start="20240204135500 +0000" stop="20240204145000 +0000" channel="TRTTurk.tr"><title lang="tr">Türkler Ne Der Bölüm 12</title><category lang="tr">Kültür</category></programme>
+<programme start="20240204145000 +0000" stop="20240204150000 +0000" channel="TRTTurk.tr"><title lang="tr">Örnek Bölüm 7</title><category lang="tr">Kültür</category></programme>
+<programme start="20240204150000 +0000" stop="20240204160000 +0000" channel="TRTTurk.tr"><title lang="tr">Yedi Güzel Adam Bölüm 40</title><category lang="tr">Dizi</category></programme>
+<programme start="20240204160000 +0000" stop="20240204164500 +0000" channel="TRTTurk.tr"><title lang="tr">Haber 19</title><category lang="tr">Haber - Spor</category></programme>
+<programme start="20240204164500 +0000" stop="20240204170000 +0000" channel="TRTTurk.tr"><title lang="tr">Ezcümle Bölüm 10</title><category lang="tr">Kültür</category></programme>
+<programme start="20240204170000 +0000" stop="20240204180000 +0000" channel="TRTTurk.tr"><title lang="tr">Alman Kuzusu Bölüm 33</title><category lang="tr">Dizi</category></programme>
+<programme start="20240204180000 +0000" stop="20240204193000 +0000" channel="TRTTurk.tr"><title lang="tr">Gençler Ne Diyor Türkiye Bölüm 30</title><category lang="tr">Diğer</category></programme>
+<programme start="20240204193000 +0000" stop="20240204200500 +0000" channel="TRTTurk.tr"><title lang="tr">Kalbimdeki Türkiye Bölüm 36</title><category lang="tr">Belgesel</category></programme>
+<programme start="20240204200500 +0000" stop="20240204205500 +0000" channel="TRTTurk.tr"><title lang="tr">Zamâne Bölüm 7</title><category lang="tr">Müzik - Eğlence</category></programme>
+<programme start="20240204205500 +0000" stop="20240204215000 +0000" channel="TRTTurk.tr"><title lang="tr">Türkler Ne Der Bölüm 12</title><category lang="tr">Kültür</category></programme>
 <programme start="20240202214500 +0000" stop="20240202223000 +0000" channel="TV8.tr"><title lang="tr">Emre Dorman ile Aklımdaki Sorular</title><desc lang="tr">Programda; İslam dininin esasları izleyici ile paylaşılırken, doğru bilinen yanlışların altı çiziliyor. Kur&apos;an&apos;ı Kerim kaynak alınıyor, birçok bilinmeyen konu &quot;Emre Domran ile Aklımdaki Sorular&quot;da konuşuluyor.</desc><category lang="tr">genel/genel</category></programme>
 <programme start="20240202223000 +0000" stop="20240203003000 +0000" channel="TV8.tr"><title lang="tr">Zuhal Topal&apos;la Yemekteyiz</title><desc lang="tr">Efsane yarışma &quot;Zuhal Topal&apos;la Yemekteyiz&quot; hafta içi her gün 16.00&apos;da TV8 ekranlarında sizlerle!</desc><category lang="tr">eglence/yarisma</category></programme>
 <programme start="20240203003000 +0000" stop="20240203023000 +0000" channel="TV8.tr"><title lang="tr">Demet ve Jess&apos;le Gel Konuşalım</title><desc lang="tr">Demet Akalın ve Jess Molho ile dopdolu bir gündeme hazır mısınız? &quot;Demet ve Jess&apos;le Gel Konuşalım&quot; hafta içi her gün 12.45&apos;te canlı yayınla TV8&apos;de.</desc><category lang="tr">genel/genel</category></programme>
