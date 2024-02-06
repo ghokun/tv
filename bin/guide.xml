@@ -461,11 +461,10 @@
 <programme start="20240206154500 +0000" stop="20240206170000 +0000" channel="ShowTV.tr"><title lang="tr">Show Ana Haber</title><desc lang="tr">Canlı</desc></programme>
 <programme start="20240206170000 +0000" stop="20240206193000 +0000" channel="ShowTV.tr"><title lang="tr">Kod Adı: Olympus</title><desc lang="tr">Mike Banning (Gerard Butler), Amerika Birleşik Devletleri&apos;ne bağlı çalışan, özel kuvvetler biriminde görevli gizli güvenlik ajanıdır. Bir akşam Başkan ve eşi davete giderlerken yolda trajik bir kaza meydana gelir. Banning&apos;in tek bir kişiyi kurtarma şansı vardır, o da tercihini eşini feda ederek Başkan&apos;dan yana kullanır. Olay sonrası büroda herkes doğru yaptığını söyleyerek Mike&apos;ı desteklese de saha görevinden alınarak masa başı bir işe atanır. Fakat ABD&apos;yi hiç hesapta olmayan büyük bir saldırı beklemektedir. İçeriden köstebeklerin yönettiği terörist bir eylemle Beyaz Saray büyük bir saldırıya uğrar. Başkan teröristlerce esir alınmıştır ve Pentagon&apos;un eli kolu bağlıdır. Bu olağanüstü koşullar altında tek çareleri Mike&apos;ın cesur ve kahramanca giriştiği kurtarma operasyonuna bağlıdır.</desc></programme>
 <programme start="20240206193000 +0000" stop="20240206223000 +0000" channel="ShowTV.tr"><title lang="tr">Kapımdaki Casus</title><desc lang="tr">Bob, CIA ajanıdır. Üç çocuklu bekar komşusu Gillian ile flört etmektedir ve emekli olduktan sonra onunla yeni bir hayat kurmak istemektedir. Ama Bob’un Gillian ile evlenmeden önce tamamlaması gereken bir görevi daha vardır: Gillian’ın çocuklarının dostluğunu kazanmak.Gillian acil bir iş için şehir dışına çıkınca, Bob çocuklara bakmak için gönüllü olur. Bu sırada Bob’un baş düşmanı Rus terörist Poldark, hapisten kaçar ve Bob babalık ve casusluk gibi iki zorlu görev arasında kalır.</desc></programme>
-<programme start="20240205210000 +0000" stop="20240205220000 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240205220000 +0000" stop="20240206004500 +0000" channel="SozcuTV.tr"><title lang="tr">Aklın Yolu</title></programme>
-<programme start="20240206004500 +0000" stop="20240206014500 +0000" channel="SozcuTV.tr"><title lang="tr">Aynanın Arkası ve Komplo Teorileri</title></programme>
-<programme start="20240206014500 +0000" stop="20240206024500 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240206024500 +0000" stop="20240206030000 +0000" channel="SozcuTV.tr"><title lang="tr">Cumhuriyet&apos;in Yüzleri</title></programme>
+<programme start="20240205210000 +0000" stop="20240205220000 +0000" channel="SozcuTV.tr"><title lang="tr">-</title></programme>
+<programme start="20240205220000 +0000" stop="20240205230000 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
+<programme start="20240205230000 +0000" stop="20240206010000 +0000" channel="SozcuTV.tr"><title lang="tr">Nokta Atışı</title></programme>
+<programme start="20240206010000 +0000" stop="20240206030000 +0000" channel="SozcuTV.tr"><title lang="tr">Karşı Karşıya</title></programme>
 <programme start="20240206030000 +0000" stop="20240206040000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240206040000 +0000" stop="20240206060000 +0000" channel="SozcuTV.tr"><title lang="tr">Sabah Kahvesi</title></programme>
 <programme start="20240206060000 +0000" stop="20240206070000 +0000" channel="SozcuTV.tr"><title lang="tr">Para Politika</title></programme>
@@ -480,14 +479,12 @@
 <programme start="20240206150000 +0000" stop="20240206154500 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Saati</title></programme>
 <programme start="20240206154500 +0000" stop="20240206160000 +0000" channel="SozcuTV.tr"><title lang="tr">Üçüncü Sayfa</title></programme>
 <programme start="20240206160000 +0000" stop="20240206171500 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240206171500 +0000" stop="20240206191000 +0000" channel="SozcuTV.tr"><title lang="tr">Sokağın Sözü</title></programme>
-<programme start="20240206191000 +0000" stop="20240206200000 +0000" channel="SozcuTV.tr"><title lang="tr">Özel Röportaj</title></programme>
-<programme start="20240206200000 +0000" stop="20240206220000 +0000" channel="SozcuTV.tr"><title lang="tr">Geniş Açı</title></programme>
-<programme start="20240206210000 +0000" stop="20240206220000 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240206220000 +0000" stop="20240207004500 +0000" channel="SozcuTV.tr"><title lang="tr">Aklın Yolu</title></programme>
-<programme start="20240207004500 +0000" stop="20240207014500 +0000" channel="SozcuTV.tr"><title lang="tr">Aynanın Arkası ve Komplo Teorileri</title></programme>
-<programme start="20240207014500 +0000" stop="20240207024500 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240207024500 +0000" stop="20240207030000 +0000" channel="SozcuTV.tr"><title lang="tr">Cumhuriyet&apos;in Yüzleri</title></programme>
+<programme start="20240206171500 +0000" stop="20240206200000 +0000" channel="SozcuTV.tr"><title lang="tr">Şah Mat</title></programme>
+<programme start="20240206200000 +0000" stop="20240206210000 +0000" channel="SozcuTV.tr"><title lang="tr">Başkent Kulisleri</title></programme>
+<programme start="20240206210000 +0000" stop="20240206220000 +0000" channel="SozcuTV.tr"><title lang="tr">-</title></programme>
+<programme start="20240206220000 +0000" stop="20240206230000 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
+<programme start="20240206230000 +0000" stop="20240207010000 +0000" channel="SozcuTV.tr"><title lang="tr">Nokta Atışı</title></programme>
+<programme start="20240207010000 +0000" stop="20240207030000 +0000" channel="SozcuTV.tr"><title lang="tr">Karşı Karşıya</title></programme>
 <programme start="20240207030000 +0000" stop="20240207040000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240207040000 +0000" stop="20240207060000 +0000" channel="SozcuTV.tr"><title lang="tr">Sabah Kahvesi</title></programme>
 <programme start="20240207060000 +0000" stop="20240207070000 +0000" channel="SozcuTV.tr"><title lang="tr">Para Politika</title></programme>
@@ -502,9 +499,8 @@
 <programme start="20240207150000 +0000" stop="20240207154500 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Saati</title></programme>
 <programme start="20240207154500 +0000" stop="20240207160000 +0000" channel="SozcuTV.tr"><title lang="tr">Üçüncü Sayfa</title></programme>
 <programme start="20240207160000 +0000" stop="20240207171500 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240207171500 +0000" stop="20240207191000 +0000" channel="SozcuTV.tr"><title lang="tr">Sokağın Sözü</title></programme>
-<programme start="20240207191000 +0000" stop="20240207200000 +0000" channel="SozcuTV.tr"><title lang="tr">Özel Röportaj</title></programme>
-<programme start="20240207200000 +0000" stop="20240207220000 +0000" channel="SozcuTV.tr"><title lang="tr">Geniş Açı</title></programme>
+<programme start="20240207171500 +0000" stop="20240207200000 +0000" channel="SozcuTV.tr"><title lang="tr">Şah Mat</title></programme>
+<programme start="20240207200000 +0000" stop="20240207210000 +0000" channel="SozcuTV.tr"><title lang="tr">Başkent Kulisleri</title></programme>
 <programme start="20240205220000 +0000" stop="20240206030000 +0000" channel="SportsTV.tr"><title lang="tr">TEKRARLAR</title></programme>
 <programme start="20240206030000 +0000" stop="20240206050000 +0000" channel="SportsTV.tr"><title lang="tr">ING KBSL</title></programme>
 <programme start="20240206050000 +0000" stop="20240206060000 +0000" channel="SportsTV.tr"><title lang="tr">FEI AVRUPA BİNİCİLİK ŞAMP.</title></programme>
