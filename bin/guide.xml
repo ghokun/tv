@@ -86,7 +86,7 @@
 <programme start="20240212160000 +0000" stop="20240212170000 +0000" channel="ATV.tr"><title lang="tr">atv Ana Haber Bülteni</title></programme>
 <programme start="20240212170000 +0000" stop="20240212200000 +0000" channel="ATV.tr"><title lang="tr">Safir</title></programme>
 <programme start="20240210221500 +0000" stop="20240211001500 +0000" channel="BeyazTV.tr"><title lang="tr">Güncel Piyasa</title></programme>
-<programme start="20240211001500 +0000" stop="20240211020000 +0000" channel="BeyazTV.tr"><title lang="tr">Saınt Tropez&apos;deki Gizem</title><desc lang="tr">Oyuncular: Benoît Poelvoorde, Jérôme Commandeur, Rossy De Palma, Thierry Lhermitte, Virginie Hocq Yönetmen: Christian Clavier, Nicolas Benamou Yapım Yılı: 2021 Ülke: Fransa</desc></programme>
+<programme start="20240211001500 +0000" stop="20240211020000 +0000" channel="BeyazTV.tr"><title lang="tr">Kaos</title><desc lang="tr">KAOS ( CHAOS ) YAPIM YILI: 200 5 YÖNETMEN : TONY GIGLIO OYUNCULAR: JASON STATHAM, WESLEY SNIPES, RYAN PHILLIPPE</desc></programme>
 <programme start="20240211020000 +0000" stop="20240211031500 +0000" channel="BeyazTV.tr"><title lang="tr">Belma Belen&apos;le Geziyoruz (Tekrar)</title></programme>
 <programme start="20240211031500 +0000" stop="20240211050000 +0000" channel="BeyazTV.tr"><title lang="tr">Kuraldışı</title><desc lang="tr">Yönetmen John McTiernan Senarist James Vanderbilt Oyuncular: John Travolta, Samuel L. Jackson, Connie Nielsen</desc></programme>
 <programme start="20240211050000 +0000" stop="20240211070000 +0000" channel="BeyazTV.tr"><title lang="tr">Uyan Türkiyem - Canlı</title></programme>
@@ -101,7 +101,7 @@
 <programme start="20240211153000 +0000" stop="20240211163000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Ana Haber - Canlı</title><desc lang="tr">Beyaz Ana Haber hafta sonları Dinç Tunçel&apos;in sunumuyla 18:30&apos;da Beyaz TV ekranlarında...</desc></programme>
 <programme start="20240211163000 +0000" stop="20240211181500 +0000" channel="BeyazTV.tr"><title lang="tr">İsimsiz Katiller Kulübü</title><desc lang="tr">Yönetmen Martin Owen | Senarist Martin Owen Oyuncular: Tommy Flanagan, Gary Oldman, Jessica Alba</desc></programme>
 <programme start="20240211181500 +0000" stop="20240211203000 +0000" channel="BeyazTV.tr"><title lang="tr">Casus Oyunu</title><desc lang="tr">Nathan Muir ve ortağı sayılabilecek Tom Bishop, uzun CIA kariyerleri boyunca olabilecek tüm zor görevleri üstlenmişlerdir. Tüm dünyayı kolaçan edip, bir ajanın bulunabileceği her türlü ortamda bulunmuşlardır. Bu süreç boyunca günden güne birbirine daha da yakınlaşan iki insan, güven duygusunun huzuruyla kavrulmuşlardır. Ancak bu anılar artık geçmişte kalmışlardır. Muir artık emekli olmaya hazırlanmaktadır. Tam da bu esnada Bishop&apos;un ağır bir suçla itham edileceğini öğrenir. Muir harekete geçmezse, kadim dostu yirmi dört saat içerisinde öldürülecektir. Muir&apos;in son görevi, örgütü için değil, kendisi ve dostu için gerçekleşecektir.</desc></programme>
-<programme start="20240211203000 +0000" stop="20240211233000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Futbol / Canlı</title></programme>
+<programme start="20240211203000 +0000" stop="20240211221500 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Futbol / Canlı</title></programme>
 <programme start="20240211221500 +0000" stop="20240212001500 +0000" channel="BeyazTV.tr"><title lang="tr">İsimsiz Katiller Kulübü</title><desc lang="tr">Yönetmen Martin Owen | Senarist Martin Owen Oyuncular: Tommy Flanagan, Gary Oldman, Jessica Alba</desc></programme>
 <programme start="20240212001500 +0000" stop="20240212020000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title><desc lang="tr">İstanbul’un küçük bir mahallesinde yaşayan insanların hikâyesi... Bir dönem dizisi… Hem nostaljik hem enerjik hem de çok komik… Seksenler, hafta içi her gün 16.15&apos;te Beyaz TV&apos;de</desc></programme>
 <programme start="20240212020000 +0000" stop="20240212031500 +0000" channel="BeyazTV.tr"><title lang="tr">Belma Belen&apos;le Geziyoruz (Tekrar)</title></programme>
@@ -186,10 +186,10 @@
 <programme start="20240211081500 +0000" stop="20240211082000 +0000" channel="Fox.tr"><title lang="tr">Ekonomi Arası - Bant</title></programme>
 <programme start="20240211082000 +0000" stop="20240211100000 +0000" channel="Fox.tr"><title lang="tr">Merve Yıldırım ile Benden Söylemesi</title></programme>
 <programme start="20240211100000 +0000" stop="20240211130000 +0000" channel="Fox.tr"><title lang="tr">Kirli Sepeti - Tekrar</title></programme>
-<programme start="20240211130000 +0000" stop="20240211160000 +0000" channel="Fox.tr"><title lang="tr">Hudutsuz Sevda - Tekrar</title></programme>
+<programme start="20240211130000 +0000" stop="20240211160000 +0000" channel="Fox.tr"><title lang="tr">Yabani - Tekrar</title></programme>
 <programme start="20240211160000 +0000" stop="20240211170000 +0000" channel="Fox.tr"><title lang="tr">Gülbin Tosun ile FOX Ana Haber Haftasonu</title></programme>
 <programme start="20240211170000 +0000" stop="20240211211500 +0000" channel="Fox.tr"><title lang="tr">Kirli Sepeti</title><desc lang="tr">Ama maalesef her yalan elbet bir gün ortaya çıkar. Tabi eğer üzeri iyi örtülmemişse… Medine, mükemmel kurgulanmış bir yalana kurban olunca yalnızca aşkı değil ahlakı ile de sınanır. Peki bu zor durumların altından kalkabilmeleri bu sefer mümkün olacak mıdır?</desc></programme>
-<programme start="20240211211500 +0000" stop="20240212000000 +0000" channel="Fox.tr"><title lang="tr">Kızıl Goncalar - Tekrar</title></programme>
+<programme start="20240211211500 +0000" stop="20240212000000 +0000" channel="Fox.tr"><title lang="tr">Şahane Hayatım - Tekrar</title></programme>
 <programme start="20240212000000 +0000" stop="20240212020000 +0000" channel="Fox.tr"><title lang="tr">Kopuk - Tekrar</title></programme>
 <programme start="20240212020000 +0000" stop="20240212030000 +0000" channel="Fox.tr"><title lang="tr">Kefaret - Tekrar</title></programme>
 <programme start="20240212030000 +0000" stop="20240212050000 +0000" channel="Fox.tr"><title lang="tr">Ruhun Duymaz - Tekrar</title></programme>
@@ -199,30 +199,23 @@
 <programme start="20240212103000 +0000" stop="20240212133000 +0000" channel="Fox.tr"><title lang="tr">Kadir Ezildi İle En Hamarat Benim</title><desc lang="tr">Birbirinden eğlenceli ve becerikli beş yarışmacı önce temizlik dedektifi Kadir Ezildi’nin göz hapsinde kendi evlerinin temizliğini yapacaklar, evler temizlendikten sonra ise mutfakta hünerlerini sergileyecekler.</desc></programme>
 <programme start="20240212133000 +0000" stop="20240212160000 +0000" channel="Fox.tr"><title lang="tr">Kızıl Goncalar - Tekrar</title></programme>
 <programme start="20240212160000 +0000" stop="20240212170000 +0000" channel="Fox.tr"><title lang="tr">Selçuk Tepeli ile Fox Ana Haber</title></programme>
-<programme start="20240212170000 +0000" stop="20240212210000 +0000" channel="Fox.tr"><title lang="tr">Kızıl Goncalar</title></programme>
-<programme start="20240210220000 +0000" stop="20240210223000 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240210223000 +0000" stop="20240211020000 +0000" channel="HaberturkTV.tr"><title lang="tr">Habertürk Gündem</title><desc lang="tr">Tekrar</desc></programme>
-<programme start="20240211020000 +0000" stop="20240211031500 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240211031500 +0000" stop="20240211040000 +0000" channel="HaberturkTV.tr"><title lang="tr">Meseleler</title><desc lang="tr">Tekrar</desc></programme>
-<programme start="20240211040000 +0000" stop="20240211050000 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240211050000 +0000" stop="20240211090000 +0000" channel="HaberturkTV.tr"><title lang="tr">Burası Haftasonu</title></programme>
+<programme start="20240212170000 +0000" stop="20240212210000 +0000" channel="Fox.tr"><title lang="tr">Kızıl Goncalar</title><desc lang="tr">Öte yandan Can yüzünden başı dertten kurtulmasa da annesinin yokluğuna alışmaya başlayan Mira’yı tam da doğum gününde yeni bir şok beklemektedir.</desc></programme>
+<programme start="20240210210000 +0000" stop="20240210213000 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240210213000 +0000" stop="20240211010000 +0000" channel="HaberturkTV.tr"><title lang="tr">Gerçek Fikri Ne?</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20240211010000 +0000" stop="20240211050000 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240211050000 +0000" stop="20240211081500 +0000" channel="HaberturkTV.tr"><title lang="tr">Burası Haftasonu</title></programme>
+<programme start="20240211081500 +0000" stop="20240211090000 +0000" channel="HaberturkTV.tr"><title lang="tr">Ayşegül Çoruhlu ile İyi Yaşam</title></programme>
 <programme start="20240211090000 +0000" stop="20240211091500 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240211091500 +0000" stop="20240211100000 +0000" channel="HaberturkTV.tr"><title lang="tr">Airport</title><desc lang="tr">Tekrar</desc></programme>
-<programme start="20240211100000 +0000" stop="20240211103000 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240211103000 +0000" stop="20240211104500 +0000" channel="HaberturkTV.tr"><title lang="tr">Spor Bülteni</title></programme>
-<programme start="20240211104500 +0000" stop="20240211110000 +0000" channel="HaberturkTV.tr"><title lang="tr">Almanak</title></programme>
-<programme start="20240211110000 +0000" stop="20240211114500 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240211114500 +0000" stop="20240211120000 +0000" channel="HaberturkTV.tr"><title lang="tr">Almanak</title></programme>
-<programme start="20240211120000 +0000" stop="20240211123000 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240211123000 +0000" stop="20240211124500 +0000" channel="HaberturkTV.tr"><title lang="tr">Spor Bülteni</title></programme>
-<programme start="20240211124500 +0000" stop="20240211130000 +0000" channel="HaberturkTV.tr"><title lang="tr">Almanak</title></programme>
-<programme start="20240211130000 +0000" stop="20240211133000 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240211133000 +0000" stop="20240211140000 +0000" channel="HaberturkTV.tr"><title lang="tr">Ne Yapsak?</title></programme>
-<programme start="20240211140000 +0000" stop="20240211141500 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240211091500 +0000" stop="20240211100000 +0000" channel="HaberturkTV.tr"><title lang="tr">Airport</title></programme>
+<programme start="20240211100000 +0000" stop="20240211104500 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240211104500 +0000" stop="20240211110000 +0000" channel="HaberturkTV.tr"><title lang="tr">Spor Bülteni</title></programme>
+<programme start="20240211110000 +0000" stop="20240211124500 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240211124500 +0000" stop="20240211130000 +0000" channel="HaberturkTV.tr"><title lang="tr">Spor Bülteni</title></programme>
+<programme start="20240211130000 +0000" stop="20240211141500 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240211141500 +0000" stop="20240211150000 +0000" channel="HaberturkTV.tr"><title lang="tr">Hazer Amani ile Lezzete Yolculuk</title></programme>
-<programme start="20240211150000 +0000" stop="20240211173000 +0000" channel="HaberturkTV.tr"><title lang="tr">Ana Haber Bülteni</title></programme>
-<programme start="20240211173000 +0000" stop="20240211200000 +0000" channel="HaberturkTV.tr"><title lang="tr">Yeni Yıl Özel</title></programme>
-<programme start="20240211200000 +0000" stop="20240211210000 +0000" channel="HaberturkTV.tr"><title lang="tr">2024&apos;e Doğru</title></programme>
+<programme start="20240211150000 +0000" stop="20240211180000 +0000" channel="HaberturkTV.tr"><title lang="tr">Ana Haber Bülteni</title></programme>
+<programme start="20240211180000 +0000" stop="20240211200000 +0000" channel="HaberturkTV.tr"><title lang="tr">Mehmet Akif Ersoy ile 5. Gece</title></programme>
+<programme start="20240211200000 +0000" stop="20240211210000 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240211210000 +0000" stop="20240211213000 +0000" channel="HaberturkTV.tr"><title lang="tr">Hoşgeldin 2024</title></programme>
 <programme start="20240211213000 +0000" stop="20240211233000 +0000" channel="HaberturkTV.tr"><title lang="tr">Pınar Erbaş ile Söz Sende</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20240211233000 +0000" stop="20240212000000 +0000" channel="HaberturkTV.tr"><title lang="tr">Almanak</title><desc lang="tr">Tekrar</desc></programme>
@@ -494,6 +487,16 @@
 <programme start="20240212200000 +0000" stop="20240212205000 +0000" channel="NTV.tr"><title lang="tr">Bugün Yarın</title></programme>
 <programme start="20240212205000 +0000" stop="20240212205500 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
 <programme start="20240212205500 +0000" stop="20240212210000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title><category lang="tr">Genel</category></programme>
+<programme start="20240210000000 +0000" stop="20240210023000 +0000" channel="ShowTV.tr"><title lang="tr">Sandık Kokusu</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20240210023000 +0000" stop="20240210051500 +0000" channel="ShowTV.tr"><title lang="tr">Yeni Gelin</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20240210051500 +0000" stop="20240210070000 +0000" channel="ShowTV.tr"><title lang="tr">Namuslu</title></programme>
+<programme start="20240210070000 +0000" stop="20240210100000 +0000" channel="ShowTV.tr"><title lang="tr">Pazar Sürprizi</title><desc lang="tr">Canlı</desc></programme>
+<programme start="20240210100000 +0000" stop="20240210121500 +0000" channel="ShowTV.tr"><title lang="tr">Arım Balım Peteğim</title><desc lang="tr">Mehmet, geçimini dedektiflik yaparak sağlayan bir adamdır. Son olarak sosyete çapkını Harun&apos;u takip eden Mehmet, Harun&apos;un evli bir iş adamının eşi ile birlikte olduğunu öğrenir. Mehmet, bu haberi iş adamına söyleyince adam Harun&apos;u öldürmeye karar verir. Bu cinayeti engellemek isteyen Mehmet&apos;in kızı Zeynep, Harun&apos;u uyarmaya gider. Bu sayede tanışan Harun ve Zeynep birbirine aşık olur. Ancak Harun, Zeynep ile birlikte olduktan birkaç ay sonra uzun bir iş seyahatine çıkarak genç kadını terk eder. Bu sırada hamile olan Zeynep, çocuğunu yalnız büyütmek zorunda kalır. Aradan geçen yılların ardından Harun ile Zeynep&apos;in yolları yeniden kesişir</desc></programme>
+<programme start="20240210121500 +0000" stop="20240210152500 +0000" channel="ShowTV.tr"><title lang="tr">Kızılcık Şerbeti</title><desc lang="tr">Alev, Pembe’ye Abdullah’la olan ilişkilerinin bittiğini söyler. Pembe sonunda muradına ermiştir. Umut’un dolandırıcılıktan tutuklanması Nursema’yı yıkarken, onun yardımına koşan her zamanki gibi ailesi olacaktır.</desc></programme>
+<programme start="20240210152500 +0000" stop="20240210170000 +0000" channel="ShowTV.tr"><title lang="tr">Show Ana Haber</title><desc lang="tr">Canlı</desc></programme>
+<programme start="20240210170000 +0000" stop="20240210184500 +0000" channel="ShowTV.tr"><title lang="tr">Avanak Abdi</title><desc lang="tr">Abdi, geçimini duvar afişçiliği yaparak sağlayan genç bir adamdır. Oyuncuların, şarkıcıların afişlerini duvara asan Abdi, gönlünü afişlerini yapıştırdığı ünlü bir şarkıcı olan Nevin Şenses’e kaptırır. Platonik aşkı ile tanışmanın yolunu arayan Abdi, sonunda hayallerine kavuşur. Nevin Şenses, temiz kalpli bir adam olan Abdi’nin saf duygularından etkilenir. Belalı bir kabadayının da Nevin Şenses’e aşık olması ise işlerin karışmasına neden olur. Abdi’nin sevdiği kadından hoşlandığını öğrenen kabadayı, Abdi’nin peşine düşmeye karar verir.</desc></programme>
+<programme start="20240210184500 +0000" stop="20240210204500 +0000" channel="ShowTV.tr"><title lang="tr">Kapıcılar Kralı</title><desc lang="tr">Karısı ve iki çocuğuyla daha iyi yaşama umutlarıyla İstanbul&apos;a gelen Seyit, büyük bir apartmanda kapıcılık yapmakta, karısı da evlere temizliğe gitmektedir. Seyit sıradan ve düz bir adam gibi görünse de bu apartmanda olup biten her şeyden haberdardır ve her zaman zekice hamleler yapıp kendini bir şekilde idare eder. Bambaşka karakterlere sahip apartman sahipleri ve apartmanın işleyişi dönemin Türkiyesi&apos;ne tutulmuş bir ayna niteliğindedir.</desc></programme>
+<programme start="20240210204500 +0000" stop="20240210234500 +0000" channel="ShowTV.tr"><title lang="tr">Avanak Abdi</title><desc lang="tr">Abdi, geçimini duvar afişçiliği yaparak sağlayan genç bir adamdır. Oyuncuların, şarkıcıların afişlerini duvara asan Abdi, gönlünü afişlerini yapıştırdığı ünlü bir şarkıcı olan Nevin Şenses’e kaptırır. Platonik aşkı ile tanışmanın yolunu arayan Abdi, sonunda hayallerine kavuşur. Nevin Şenses, temiz kalpli bir adam olan Abdi’nin saf duygularından etkilenir. Belalı bir kabadayının da Nevin Şenses’e aşık olması ise işlerin karışmasına neden olur. Abdi’nin sevdiği kadından hoşlandığını öğrenen kabadayı, Abdi’nin peşine düşmeye karar verir.</desc></programme>
 <programme start="20240210210000 +0000" stop="20240210212000 +0000" channel="SozcuTV.tr"><title lang="tr">-</title></programme>
 <programme start="20240210212000 +0000" stop="20240210221000 +0000" channel="SozcuTV.tr"><title lang="tr">Başka Bir Söz</title></programme>
 <programme start="20240210221000 +0000" stop="20240210224500 +0000" channel="SozcuTV.tr"><title lang="tr">Cumhuriyet&apos;in Yüzleri</title></programme>
@@ -552,28 +555,29 @@
 <programme start="20240211180000 +0000" stop="20240211200000 +0000" channel="SportsTV.tr"><title lang="tr">ITALYA BASKETBOL LIGI</title></programme>
 <programme start="20240211200000 +0000" stop="20240211230000 +0000" channel="SportsTV.tr"><title lang="tr">EHF EURO 2024</title></programme>
 <programme start="20240210223000 +0000" stop="20240211000000 +0000" channel="StarTV.tr"><title lang="tr">Tehlikeli</title><desc lang="tr">Kardeşinin ölümü ile büyük bir yıkıma uğrayan bir adam, kendisini toparlamak için ıssız bir adaya yerleşir. Ancak çok geçmeden bulunduğu yer, kardeşinin ölümünden sorumlu olan çetenin paralı askerleri tarafından kuşatılır. Adam, kendisini amansız bir intikam savaşının içinde bulur.</desc></programme>
-<programme start="20240211000000 +0000" stop="20240211010000 +0000" channel="StarTV.tr"><title lang="tr">Erkenci Kuş / tkr</title></programme>
 <programme start="20240211000000 +0000" stop="20240211020000 +0000" channel="StarTV.tr"><title lang="tr">Abigail: Sınırların Ötesinde</title></programme>
-<programme start="20240211010000 +0000" stop="20240211020000 +0000" channel="StarTV.tr"><title lang="tr">Türk Müziği / tkr</title></programme>
-<programme start="20240211020000 +0000" stop="20240211040000 +0000" channel="StarTV.tr"><title lang="tr">Söz/tkr</title></programme>
 <programme start="20240211020000 +0000" stop="20240211031500 +0000" channel="StarTV.tr"><title lang="tr">Söz / Tkr</title></programme>
 <programme start="20240211031500 +0000" stop="20240211051500 +0000" channel="StarTV.tr"><title lang="tr">Ah Nerede</title><desc lang="tr">Bursa’nın önde gelen ailelerinden Hakim ve Seniha Şerbetlioğlu ‘nun üniversite okumaları için İstanbul’a gönderdikleri üç oğlu, onların hiç de tahmin etmediği bir hayat yaşar. Ortanca oğulları Murat hukuk okuması gerekirken hayattaki her şeyi bahse çeviren bir kupon bağımlısıdır. Mühendislik okuduğunu zannettikleri küçük oğulları Ömer ise barlarda çalışan bir müzisyen olmuştur. En büyük oğulları Ferit ise tıp fakültesini ailesinden habersiz yarım bırakmış, babasının parasıyla iflah olmaz bir çapkına dönüşmüştür.</desc></programme>
-<programme start="20240211040000 +0000" stop="20240211064500 +0000" channel="StarTV.tr"><title lang="tr">Erkenci Kuş / tkr</title></programme>
 <programme start="20240211051500 +0000" stop="20240211060000 +0000" channel="StarTV.tr"><title lang="tr">Dr. Özgür Koldaş ile Sağlık Gündemi / 62</title></programme>
 <programme start="20240211060000 +0000" stop="20240211080000 +0000" channel="StarTV.tr"><title lang="tr">Ömer / Tkr</title><desc lang="tr">Tekrar</desc></programme>
-<programme start="20240211064500 +0000" stop="20240211103000 +0000" channel="StarTV.tr"><title lang="tr">Sabahın Sultanı Seda Sayan/548</title></programme>
 <programme start="20240211080000 +0000" stop="20240211090000 +0000" channel="StarTV.tr"><title lang="tr">Tülin Şahin İle Moda / 431</title></programme>
 <programme start="20240211090000 +0000" stop="20240211110000 +0000" channel="StarTV.tr"><title lang="tr">Vahe ile Evdeki Mutluluk / 348</title></programme>
-<programme start="20240211103000 +0000" stop="20240211131500 +0000" channel="StarTV.tr"><title lang="tr">Zahide Yetiş İle Yeniden Başlasak / 91</title></programme>
 <programme start="20240211110000 +0000" stop="20240211130000 +0000" channel="StarTV.tr"><title lang="tr">Yalı Çapkını / tkr</title></programme>
 <programme start="20240211130000 +0000" stop="20240211151500 +0000" channel="StarTV.tr"><title lang="tr">Ömer / Tkr</title><desc lang="tr">Tekrar</desc></programme>
-<programme start="20240211131500 +0000" stop="20240211151500 +0000" channel="StarTV.tr"><title lang="tr">Söz / Tkr</title></programme>
 <programme start="20240211151500 +0000" stop="20240211160000 +0000" channel="StarTV.tr"><title lang="tr">Star Haber</title></programme>
-<programme start="20240211151500 +0000" stop="20240211160000 +0000" channel="StarTV.tr"><title lang="tr">Star Haber</title></programme>
-<programme start="20240211160000 +0000" stop="20240211170000 +0000" channel="StarTV.tr"><title lang="tr">Ömer / Özel Bölüm</title><desc lang="tr">Özel Bölüm</desc></programme>
 <programme start="20240211160000 +0000" stop="20240211170000 +0000" channel="StarTV.tr"><title lang="tr">Çok Güzel Hareketler 2 / Özel Bölüm</title></programme>
-<programme start="20240211170000 +0000" stop="20240211200000 +0000" channel="StarTV.tr"><title lang="tr">Ömer / 43</title></programme>
-<programme start="20240211170000 +0000" stop="20240212000000 +0000" channel="StarTV.tr"><title lang="tr">Çok Güzel Hareketler 2 / 163</title></programme>
+<programme start="20240211170000 +0000" stop="20240211203000 +0000" channel="StarTV.tr"><title lang="tr">Çok Güzel Hareketler 2 / 163</title></programme>
+<programme start="20240211203000 +0000" stop="20240212000000 +0000" channel="StarTV.tr"><title lang="tr">Yalı Çapkını / tkr</title></programme>
+<programme start="20240211230000 +0000" stop="20240212010000 +0000" channel="StarTV.tr"><title lang="tr">Erkenci Kuş / tkr</title></programme>
+<programme start="20240212010000 +0000" stop="20240212020000 +0000" channel="StarTV.tr"><title lang="tr">Türk Müziği / tkr</title></programme>
+<programme start="20240212020000 +0000" stop="20240212040000 +0000" channel="StarTV.tr"><title lang="tr">Söz/tkr</title></programme>
+<programme start="20240212040000 +0000" stop="20240212064500 +0000" channel="StarTV.tr"><title lang="tr">Erkenci Kuş / tkr</title></programme>
+<programme start="20240212064500 +0000" stop="20240212103000 +0000" channel="StarTV.tr"><title lang="tr">Sabahın Sultanı Seda Sayan/548</title></programme>
+<programme start="20240212103000 +0000" stop="20240212131500 +0000" channel="StarTV.tr"><title lang="tr">Zahide Yetiş İle Yeniden Başlasak / 91</title></programme>
+<programme start="20240212131500 +0000" stop="20240212151500 +0000" channel="StarTV.tr"><title lang="tr">Söz / Tkr</title></programme>
+<programme start="20240212151500 +0000" stop="20240212160000 +0000" channel="StarTV.tr"><title lang="tr">Star Haber</title></programme>
+<programme start="20240212160000 +0000" stop="20240212170000 +0000" channel="StarTV.tr"><title lang="tr">Ömer / Özel Bölüm</title><desc lang="tr">Özel Bölüm</desc></programme>
+<programme start="20240212170000 +0000" stop="20240212200000 +0000" channel="StarTV.tr"><title lang="tr">Ömer / 43</title></programme>
 <programme start="20240210223000 +0000" stop="20240210234500 +0000" channel="Teve2.tr"><title lang="tr">Geniş Aile</title></programme>
 <programme start="20240210234500 +0000" stop="20240211013000 +0000" channel="Teve2.tr"><title lang="tr">Ankara&apos;nın Dikmeni</title></programme>
 <programme start="20240211013000 +0000" stop="20240211020000 +0000" channel="Teve2.tr"><title lang="tr">Müzik</title></programme>
