@@ -497,10 +497,10 @@
 <programme start="20240223120000 +0000" stop="20240223154500 +0000" channel="ShowTV.tr"><title lang="tr">Didem Arslan Yılmaz&apos;la Vazgeçme</title><desc lang="tr">Canlı</desc></programme>
 <programme start="20240223154500 +0000" stop="20240223170000 +0000" channel="ShowTV.tr"><title lang="tr">Show TV Ana Haber</title><desc lang="tr">Canlı</desc></programme>
 <programme start="20240223170000 +0000" stop="20240223200000 +0000" channel="ShowTV.tr"><title lang="tr">Kızılcık Şerbeti</title><desc lang="tr">Yeni Bölüm</desc></programme>
-<programme start="20240221210000 +0000" stop="20240221220000 +0000" channel="SozcuTV.tr"><title lang="tr">-</title></programme>
-<programme start="20240221220000 +0000" stop="20240221230000 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240221230000 +0000" stop="20240222020000 +0000" channel="SozcuTV.tr"><title lang="tr">Şah Mat</title></programme>
-<programme start="20240222020000 +0000" stop="20240222030000 +0000" channel="SozcuTV.tr"><title lang="tr">Başkent Kulisleri</title></programme>
+<programme start="20240221210000 +0000" stop="20240221213000 +0000" channel="SozcuTV.tr"><title lang="tr">-</title></programme>
+<programme start="20240221213000 +0000" stop="20240221223000 +0000" channel="SozcuTV.tr"><title lang="tr">S Raporu</title></programme>
+<programme start="20240221223000 +0000" stop="20240222004500 +0000" channel="SozcuTV.tr"><title lang="tr">Aklın Yolu</title></programme>
+<programme start="20240222004500 +0000" stop="20240222030000 +0000" channel="SozcuTV.tr"><title lang="tr">Nokta Atışı</title></programme>
 <programme start="20240222030000 +0000" stop="20240222040000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240222040000 +0000" stop="20240222060000 +0000" channel="SozcuTV.tr"><title lang="tr">Sabah Kahvesi</title></programme>
 <programme start="20240222060000 +0000" stop="20240222070000 +0000" channel="SozcuTV.tr"><title lang="tr">Para Politika</title></programme>
@@ -514,13 +514,13 @@
 <programme start="20240222140000 +0000" stop="20240222150000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Saati</title></programme>
 <programme start="20240222150000 +0000" stop="20240222154500 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Saati</title></programme>
 <programme start="20240222154500 +0000" stop="20240222160000 +0000" channel="SozcuTV.tr"><title lang="tr">Üçüncü Sayfa</title></programme>
-<programme start="20240222160000 +0000" stop="20240222174500 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240222174500 +0000" stop="20240222190000 +0000" channel="SozcuTV.tr"><title lang="tr">Sokağın Sözü</title></programme>
-<programme start="20240222190000 +0000" stop="20240222220000 +0000" channel="SozcuTV.tr"><title lang="tr">Nokta Atışı</title></programme>
-<programme start="20240222210000 +0000" stop="20240222220000 +0000" channel="SozcuTV.tr"><title lang="tr">-</title></programme>
-<programme start="20240222220000 +0000" stop="20240222230000 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240222230000 +0000" stop="20240223020000 +0000" channel="SozcuTV.tr"><title lang="tr">Şah Mat</title></programme>
-<programme start="20240223020000 +0000" stop="20240223030000 +0000" channel="SozcuTV.tr"><title lang="tr">Başkent Kulisleri</title></programme>
+<programme start="20240222160000 +0000" stop="20240222171500 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
+<programme start="20240222171500 +0000" stop="20240222200000 +0000" channel="SozcuTV.tr"><title lang="tr">Sözün Gücü</title></programme>
+<programme start="20240222200000 +0000" stop="20240222220000 +0000" channel="SozcuTV.tr"><title lang="tr">Öncesi Sonrası Gece</title></programme>
+<programme start="20240222210000 +0000" stop="20240222213000 +0000" channel="SozcuTV.tr"><title lang="tr">-</title></programme>
+<programme start="20240222213000 +0000" stop="20240222223000 +0000" channel="SozcuTV.tr"><title lang="tr">S Raporu</title></programme>
+<programme start="20240222223000 +0000" stop="20240223004500 +0000" channel="SozcuTV.tr"><title lang="tr">Aklın Yolu</title></programme>
+<programme start="20240223004500 +0000" stop="20240223030000 +0000" channel="SozcuTV.tr"><title lang="tr">Nokta Atışı</title></programme>
 <programme start="20240223030000 +0000" stop="20240223040000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240223040000 +0000" stop="20240223060000 +0000" channel="SozcuTV.tr"><title lang="tr">Sabah Kahvesi</title></programme>
 <programme start="20240223060000 +0000" stop="20240223070000 +0000" channel="SozcuTV.tr"><title lang="tr">Para Politika</title></programme>
@@ -534,9 +534,9 @@
 <programme start="20240223140000 +0000" stop="20240223150000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Saati</title></programme>
 <programme start="20240223150000 +0000" stop="20240223154500 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Saati</title></programme>
 <programme start="20240223154500 +0000" stop="20240223160000 +0000" channel="SozcuTV.tr"><title lang="tr">Üçüncü Sayfa</title></programme>
-<programme start="20240223160000 +0000" stop="20240223174500 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240223174500 +0000" stop="20240223190000 +0000" channel="SozcuTV.tr"><title lang="tr">Sokağın Sözü</title></programme>
-<programme start="20240223190000 +0000" stop="20240223220000 +0000" channel="SozcuTV.tr"><title lang="tr">Nokta Atışı</title></programme>
+<programme start="20240223160000 +0000" stop="20240223171500 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
+<programme start="20240223171500 +0000" stop="20240223200000 +0000" channel="SozcuTV.tr"><title lang="tr">Sözün Gücü</title></programme>
+<programme start="20240223200000 +0000" stop="20240223220000 +0000" channel="SozcuTV.tr"><title lang="tr">Öncesi Sonrası Gece</title></programme>
 <programme start="20240221210100 +0000" stop="20240221230000 +0000" channel="SportsTV.tr"><title lang="tr">EHF EURO 2024 ALMANYA - HIRVATİSTAN</title></programme>
 <programme start="20240221230000 +0000" stop="20240222030000 +0000" channel="SportsTV.tr"><title lang="tr">TEKRARLAR</title></programme>
 <programme start="20240222030000 +0000" stop="20240222050000 +0000" channel="SportsTV.tr"><title lang="tr">ING KBSL İZMİT BELEDİYESPOR - İLKEM YAPI TARSUS</title></programme>
