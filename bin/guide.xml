@@ -100,7 +100,8 @@
 <programme start="20240225020000 +0000" stop="20240225031500 +0000" channel="BeyazTV.tr"><title lang="tr">Söylemezsem Olmaz (Tekrar)</title></programme>
 <programme start="20240225031500 +0000" stop="20240225050000 +0000" channel="BeyazTV.tr"><title lang="tr">Belma Belen&apos;le Geziyoruz (Tekrar)</title></programme>
 <programme start="20240225050000 +0000" stop="20240225080000 +0000" channel="BeyazTV.tr"><title lang="tr">Uyan Türkiyem - Canlı</title></programme>
-<programme start="20240225080000 +0000" stop="20240225090000 +0000" channel="BeyazTV.tr"><title lang="tr">Adaylar Anlatıyor (Canlı)</title><desc lang="tr">Duygu Çuhadaroğlu&apos;nun sunumuyla Adaylar Anlatıyor, her Pazar 11.00&apos;de Beyaz TV ekranlarında...</desc></programme>
+<programme start="20240225080000 +0000" stop="20240225084000 +0000" channel="BeyazTV.tr"><title lang="tr">Yapay Zeka Çağı</title></programme>
+<programme start="20240225084000 +0000" stop="20240225090000 +0000" channel="BeyazTV.tr"><title lang="tr">Belma Belen&apos;le Geziyoruz (Tekrar)</title></programme>
 <programme start="20240225090000 +0000" stop="20240225100000 +0000" channel="BeyazTV.tr"><title lang="tr">Akılda Kalsın (Canlı)</title><desc lang="tr">Gündemde öne çıkanlar, en çok tartışılanlar, satır araları... Melissa Bağcı&apos;nın sunduğu Akılda Kalsın her pazar saat 12.00&apos;de Beyaz TV&apos;de</desc></programme>
 <programme start="20240225100000 +0000" stop="20240225110000 +0000" channel="BeyazTV.tr"><title lang="tr">Marka Şehirler</title><desc lang="tr">“Marka Şehirler” programı ekonomiye yön veren kentlerimizi geziyor. Her hafta bir şehrimizde; o şehrin ekonomisi, istihdamı, sanayi ve ticarette ülkeye kattığı değerleri yerinde inceleyip izleyiciye aktarıyor. Şehirlerde iş dünyasına yön veren veya büyük atılımlar yapan, o şehrin istihdamında önemli rol oynayan işletmeler de inceleniyor. Marka Şehirler Pazar saat 13.00&apos;te Beyaz TV&apos;de</desc></programme>
 <programme start="20240225110000 +0000" stop="20240225115500 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Enerji</title></programme>
@@ -575,13 +576,13 @@
 <programme start="20240225051500 +0000" stop="20240225060000 +0000" channel="StarTV.tr"><title lang="tr">Dr. Özgür Koldaş ile Sağlık Gündemi / 72</title></programme>
 <programme start="20240225060000 +0000" stop="20240225080000 +0000" channel="StarTV.tr"><title lang="tr">Sakla Beni / tkr</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20240225080000 +0000" stop="20240225090000 +0000" channel="StarTV.tr"><title lang="tr">Tülin Şahin ile Moda / 433</title></programme>
-<programme start="20240225090000 +0000" stop="20240225111000 +0000" channel="StarTV.tr"><title lang="tr">Vahe İle Evdeki Mutluluk / 350</title></programme>
-<programme start="20240225111000 +0000" stop="20240225131500 +0000" channel="StarTV.tr"><title lang="tr">Yerli dizi tkr / Sinema</title></programme>
+<programme start="20240225090000 +0000" stop="20240225111500 +0000" channel="StarTV.tr"><title lang="tr">Vahe İle Evdeki Mutluluk / 350</title></programme>
+<programme start="20240225111500 +0000" stop="20240225131500 +0000" channel="StarTV.tr"><title lang="tr">Yalı Çapkını / tkr</title></programme>
 <programme start="20240225131500 +0000" stop="20240225151500 +0000" channel="StarTV.tr"><title lang="tr">Ömer / Tkr</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20240225151500 +0000" stop="20240225160000 +0000" channel="StarTV.tr"><title lang="tr">Star Haber</title></programme>
 <programme start="20240225160000 +0000" stop="20240225170000 +0000" channel="StarTV.tr"><title lang="tr">Çok Güzel Hareketler 2 / Özel Bölüm</title></programme>
 <programme start="20240225170000 +0000" stop="20240225203000 +0000" channel="StarTV.tr"><title lang="tr">Çok Güzel Hareketler 2 / 165</title></programme>
-<programme start="20240225203000 +0000" stop="20240225233000 +0000" channel="StarTV.tr"><title lang="tr">Sakla Beni / tkr</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20240225203000 +0000" stop="20240225230000 +0000" channel="StarTV.tr"><title lang="tr">Sakla Beni / tkr</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20240225230000 +0000" stop="20240226010000 +0000" channel="StarTV.tr"><title lang="tr">Erkenci Kuş / tkr</title></programme>
 <programme start="20240226010000 +0000" stop="20240226020000 +0000" channel="StarTV.tr"><title lang="tr">Türk Müziği / tkr</title></programme>
 <programme start="20240226020000 +0000" stop="20240226040000 +0000" channel="StarTV.tr"><title lang="tr">Söz/tkr</title></programme>
