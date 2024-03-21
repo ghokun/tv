@@ -495,9 +495,10 @@
 <programme start="20240322120000 +0000" stop="20240322154500 +0000" channel="ShowTV.tr"><title lang="tr">Didem Arslan Yılmaz&apos;la Vazgeçme</title><desc lang="tr">Canlı</desc></programme>
 <programme start="20240322154500 +0000" stop="20240322170000 +0000" channel="ShowTV.tr"><title lang="tr">Show Ana Haber</title><desc lang="tr">Canlı</desc></programme>
 <programme start="20240322170000 +0000" stop="20240322211500 +0000" channel="ShowTV.tr"><title lang="tr">Kızılcık Şerbeti</title></programme>
-<programme start="20240320210000 +0000" stop="20240320220000 +0000" channel="SozcuTV.tr"><title lang="tr">S Raporu</title></programme>
-<programme start="20240320220000 +0000" stop="20240321000000 +0000" channel="SozcuTV.tr"><title lang="tr">Aynanın Arkası ve Komplo Teorileri</title></programme>
-<programme start="20240321000000 +0000" stop="20240321010000 +0000" channel="SozcuTV.tr"><title lang="tr">Türkiye&apos;nin Yıldızları</title></programme>
+<programme start="20240320210000 +0000" stop="20240320213000 +0000" channel="SozcuTV.tr"><title lang="tr">-</title></programme>
+<programme start="20240320213000 +0000" stop="20240320220000 +0000" channel="SozcuTV.tr"><title lang="tr">S Raporu</title></programme>
+<programme start="20240320220000 +0000" stop="20240321000000 +0000" channel="SozcuTV.tr"><title lang="tr">Liderler Özel</title></programme>
+<programme start="20240321000000 +0000" stop="20240321010000 +0000" channel="SozcuTV.tr"><title lang="tr">İyilik Sağlık</title></programme>
 <programme start="20240321010000 +0000" stop="20240321020000 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
 <programme start="20240321020000 +0000" stop="20240321030000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240321030000 +0000" stop="20240321040000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
@@ -514,11 +515,13 @@
 <programme start="20240321150000 +0000" stop="20240321154500 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Saati</title></programme>
 <programme start="20240321154500 +0000" stop="20240321160000 +0000" channel="SozcuTV.tr"><title lang="tr">Üçüncü Sayfa</title></programme>
 <programme start="20240321160000 +0000" stop="20240321171500 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240321171500 +0000" stop="20240321193000 +0000" channel="SozcuTV.tr"><title lang="tr">Liderler Özel</title></programme>
-<programme start="20240321193000 +0000" stop="20240321213000 +0000" channel="SozcuTV.tr"><title lang="tr">Aklın Yolu</title></programme>
-<programme start="20240321210000 +0000" stop="20240321220000 +0000" channel="SozcuTV.tr"><title lang="tr">S Raporu</title></programme>
-<programme start="20240321220000 +0000" stop="20240322000000 +0000" channel="SozcuTV.tr"><title lang="tr">Aynanın Arkası ve Komplo Teorileri</title></programme>
-<programme start="20240322000000 +0000" stop="20240322010000 +0000" channel="SozcuTV.tr"><title lang="tr">Türkiye&apos;nin Yıldızları</title></programme>
+<programme start="20240321171500 +0000" stop="20240321193000 +0000" channel="SozcuTV.tr"><title lang="tr">Sözün Gücü</title></programme>
+<programme start="20240321193000 +0000" stop="20240321200000 +0000" channel="SozcuTV.tr"><title lang="tr">Özel Röportaj: Mansur Yavaş</title></programme>
+<programme start="20240321200000 +0000" stop="20240321213000 +0000" channel="SozcuTV.tr"><title lang="tr">Öncesi Sonrası Gece</title></programme>
+<programme start="20240321210000 +0000" stop="20240321213000 +0000" channel="SozcuTV.tr"><title lang="tr">-</title></programme>
+<programme start="20240321213000 +0000" stop="20240321220000 +0000" channel="SozcuTV.tr"><title lang="tr">S Raporu</title></programme>
+<programme start="20240321220000 +0000" stop="20240322000000 +0000" channel="SozcuTV.tr"><title lang="tr">Liderler Özel</title></programme>
+<programme start="20240322000000 +0000" stop="20240322010000 +0000" channel="SozcuTV.tr"><title lang="tr">İyilik Sağlık</title></programme>
 <programme start="20240322010000 +0000" stop="20240322020000 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
 <programme start="20240322020000 +0000" stop="20240322030000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240322030000 +0000" stop="20240322040000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
@@ -535,8 +538,9 @@
 <programme start="20240322150000 +0000" stop="20240322154500 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Saati</title></programme>
 <programme start="20240322154500 +0000" stop="20240322160000 +0000" channel="SozcuTV.tr"><title lang="tr">Üçüncü Sayfa</title></programme>
 <programme start="20240322160000 +0000" stop="20240322171500 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240322171500 +0000" stop="20240322193000 +0000" channel="SozcuTV.tr"><title lang="tr">Liderler Özel</title></programme>
-<programme start="20240322193000 +0000" stop="20240322213000 +0000" channel="SozcuTV.tr"><title lang="tr">Aklın Yolu</title></programme>
+<programme start="20240322171500 +0000" stop="20240322193000 +0000" channel="SozcuTV.tr"><title lang="tr">Sözün Gücü</title></programme>
+<programme start="20240322193000 +0000" stop="20240322200000 +0000" channel="SozcuTV.tr"><title lang="tr">Özel Röportaj: Mansur Yavaş</title></programme>
+<programme start="20240322200000 +0000" stop="20240322213000 +0000" channel="SozcuTV.tr"><title lang="tr">Öncesi Sonrası Gece</title></programme>
 <programme start="20240320210100 +0000" stop="20240320230000 +0000" channel="SportsTV.tr"><title lang="tr">İTALYA KADINLAR VOLEYBOL LİGİ</title></programme>
 <programme start="20240320230000 +0000" stop="20240321030000 +0000" channel="SportsTV.tr"><title lang="tr">TEKRARLAR</title></programme>
 <programme start="20240321030000 +0000" stop="20240321050000 +0000" channel="SportsTV.tr"><title lang="tr">ING KADINLAR BASKETBOL LİGİ</title></programme>
