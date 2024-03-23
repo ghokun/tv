@@ -495,44 +495,42 @@
 <programme start="20240324170000 +0000" stop="20240324184500 +0000" channel="ShowTV.tr"><title lang="tr">Sakar Şakir</title><desc lang="tr">Şakir sakarlığı ile çevresinde nam salmış bir adamdır. Kayseri’de yaşayan Şakir’in hayatı, İstanbul’dan aldığı bir telgrafla bambaşka bir hal alır. Şakir’in İstanbul’da yaşayan amcası ölüm döşeğindedir ve ölmeden önce mirasını bırakacağı yeğenini görmek ister. Amcasının son anlarında yanında olmak isteyen Şakir, soluğu İstanbul’da alır. Ancak o henüz yoldayken amcası hayatını kaybeder. Mirasın büyük kısmının Şakir’e kaldığı öğrenen akrabaları ise, mirası onunla paylaşmak istememektedir. Tüm mirası ele geçirmek isteyen Şakir’in akrabaları, onu ortadan kaldırmanın yolunu arar. Mirasın elinden alınması için kendisini türlü oyunların içinde bulan Şakir, sakarlığı sayesinde hepsinden kurtulmayı başarır.</desc></programme>
 <programme start="20240324184500 +0000" stop="20240324203000 +0000" channel="ShowTV.tr"><title lang="tr">Kapıcılar Kralı</title><desc lang="tr">Karısı ve iki çocuğuyla daha iyi yaşama umutlarıyla İstanbul&apos;a gelen Seyit, büyük bir apartmanda kapıcılık yapmakta, karısı da evlere temizliğe gitmektedir. Seyit sıradan ve düz bir adam gibi görünse de bu apartmanda olup biten her şeyden haberdardır ve her zaman zekice hamleler yapıp kendini bir şekilde idare eder. Bambaşka karakterlere sahip apartman sahipleri ve apartmanın işleyişi dönemin Türkiyesi&apos;ne tutulmuş bir ayna niteliğindedir.</desc></programme>
 <programme start="20240324203000 +0000" stop="20240324221500 +0000" channel="ShowTV.tr"><title lang="tr">Sakar Şakir</title><desc lang="tr">Şakir sakarlığı ile çevresinde nam salmış bir adamdır. Kayseri’de yaşayan Şakir’in hayatı, İstanbul’dan aldığı bir telgrafla bambaşka bir hal alır. Şakir’in İstanbul’da yaşayan amcası ölüm döşeğindedir ve ölmeden önce mirasını bırakacağı yeğenini görmek ister. Amcasının son anlarında yanında olmak isteyen Şakir, soluğu İstanbul’da alır. Ancak o henüz yoldayken amcası hayatını kaybeder. Mirasın büyük kısmının Şakir’e kaldığı öğrenen akrabaları ise, mirası onunla paylaşmak istememektedir. Tüm mirası ele geçirmek isteyen Şakir’in akrabaları, onu ortadan kaldırmanın yolunu arar. Mirasın elinden alınması için kendisini türlü oyunların içinde bulan Şakir, sakarlığı sayesinde hepsinden kurtulmayı başarır.</desc></programme>
-<programme start="20240322210000 +0000" stop="20240322213000 +0000" channel="SozcuTV.tr"><title lang="tr">-</title></programme>
-<programme start="20240322213000 +0000" stop="20240322220000 +0000" channel="SozcuTV.tr"><title lang="tr">S Raporu</title></programme>
-<programme start="20240322220000 +0000" stop="20240323000000 +0000" channel="SozcuTV.tr"><title lang="tr">Özel Röportaj: Mansur Yavaş</title></programme>
-<programme start="20240323000000 +0000" stop="20240323010000 +0000" channel="SozcuTV.tr"><title lang="tr">İyilik Sağlık</title></programme>
-<programme start="20240323010000 +0000" stop="20240323020000 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
+<programme start="20240322210000 +0000" stop="20240322212000 +0000" channel="SozcuTV.tr"><title lang="tr">-</title></programme>
+<programme start="20240322212000 +0000" stop="20240322221000 +0000" channel="SozcuTV.tr"><title lang="tr">Başka Bir Söz</title></programme>
+<programme start="20240322221000 +0000" stop="20240322224500 +0000" channel="SozcuTV.tr"><title lang="tr">Cumhuriyet&apos;in Yüzleri</title></programme>
+<programme start="20240322224500 +0000" stop="20240323014500 +0000" channel="SozcuTV.tr"><title lang="tr">Nokta Atışı</title></programme>
+<programme start="20240323014500 +0000" stop="20240323020000 +0000" channel="SozcuTV.tr"><title lang="tr">Sisler Bulvarı</title></programme>
 <programme start="20240323020000 +0000" stop="20240323040000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240323040000 +0000" stop="20240323060000 +0000" channel="SozcuTV.tr"><title lang="tr">Sabah Kahvesi</title></programme>
-<programme start="20240323060000 +0000" stop="20240323090000 +0000" channel="SozcuTV.tr"><title lang="tr">Son Söz</title></programme>
+<programme start="20240323040000 +0000" stop="20240323063000 +0000" channel="SozcuTV.tr"><title lang="tr">Sabah Kahvesi</title></programme>
+<programme start="20240323063000 +0000" stop="20240323090000 +0000" channel="SozcuTV.tr"><title lang="tr">Son Söz</title></programme>
 <programme start="20240323090000 +0000" stop="20240323110000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240323110000 +0000" stop="20240323120000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240323120000 +0000" stop="20240323130000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240323130000 +0000" stop="20240323140000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240323140000 +0000" stop="20240323150000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240323150000 +0000" stop="20240323151500 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240323151500 +0000" stop="20240323160000 +0000" channel="SozcuTV.tr"><title lang="tr">Başka Bir Söz</title></programme>
+<programme start="20240323150000 +0000" stop="20240323153000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240323153000 +0000" stop="20240323160000 +0000" channel="SozcuTV.tr"><title lang="tr">Gökyüzü Sohbetleri</title></programme>
 <programme start="20240323160000 +0000" stop="20240323170000 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240323170000 +0000" stop="20240323200000 +0000" channel="SozcuTV.tr"><title lang="tr">Nokta Atışı</title></programme>
-<programme start="20240323200000 +0000" stop="20240323204500 +0000" channel="SozcuTV.tr"><title lang="tr">Sisler Bulvarı</title></programme>
-<programme start="20240323204500 +0000" stop="20240323212000 +0000" channel="SozcuTV.tr"><title lang="tr">Türkiye&apos;nin Yıldızları</title></programme>
-<programme start="20240323210000 +0000" stop="20240323213000 +0000" channel="SozcuTV.tr"><title lang="tr">-</title></programme>
-<programme start="20240323213000 +0000" stop="20240323220000 +0000" channel="SozcuTV.tr"><title lang="tr">S Raporu</title></programme>
-<programme start="20240323220000 +0000" stop="20240324000000 +0000" channel="SozcuTV.tr"><title lang="tr">Özel Röportaj: Mansur Yavaş</title></programme>
-<programme start="20240324000000 +0000" stop="20240324010000 +0000" channel="SozcuTV.tr"><title lang="tr">İyilik Sağlık</title></programme>
-<programme start="20240324010000 +0000" stop="20240324020000 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
+<programme start="20240323170000 +0000" stop="20240323200000 +0000" channel="SozcuTV.tr"><title lang="tr">Aklın Yolu</title></programme>
+<programme start="20240323200000 +0000" stop="20240323210000 +0000" channel="SozcuTV.tr"><title lang="tr">Aynanın Arkası ve Komplo Teorileri</title></programme>
+<programme start="20240323210000 +0000" stop="20240323212000 +0000" channel="SozcuTV.tr"><title lang="tr">-</title></programme>
+<programme start="20240323212000 +0000" stop="20240323221000 +0000" channel="SozcuTV.tr"><title lang="tr">Başka Bir Söz</title></programme>
+<programme start="20240323221000 +0000" stop="20240323224500 +0000" channel="SozcuTV.tr"><title lang="tr">Cumhuriyet&apos;in Yüzleri</title></programme>
+<programme start="20240323224500 +0000" stop="20240324014500 +0000" channel="SozcuTV.tr"><title lang="tr">Nokta Atışı</title></programme>
+<programme start="20240324014500 +0000" stop="20240324020000 +0000" channel="SozcuTV.tr"><title lang="tr">Sisler Bulvarı</title></programme>
 <programme start="20240324020000 +0000" stop="20240324040000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240324040000 +0000" stop="20240324060000 +0000" channel="SozcuTV.tr"><title lang="tr">Sabah Kahvesi</title></programme>
-<programme start="20240324060000 +0000" stop="20240324090000 +0000" channel="SozcuTV.tr"><title lang="tr">Son Söz</title></programme>
+<programme start="20240324040000 +0000" stop="20240324063000 +0000" channel="SozcuTV.tr"><title lang="tr">Sabah Kahvesi</title></programme>
+<programme start="20240324063000 +0000" stop="20240324090000 +0000" channel="SozcuTV.tr"><title lang="tr">Son Söz</title></programme>
 <programme start="20240324090000 +0000" stop="20240324110000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240324110000 +0000" stop="20240324120000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240324120000 +0000" stop="20240324130000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240324130000 +0000" stop="20240324140000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240324140000 +0000" stop="20240324150000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240324150000 +0000" stop="20240324151500 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240324151500 +0000" stop="20240324160000 +0000" channel="SozcuTV.tr"><title lang="tr">Başka Bir Söz</title></programme>
+<programme start="20240324150000 +0000" stop="20240324153000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240324153000 +0000" stop="20240324160000 +0000" channel="SozcuTV.tr"><title lang="tr">Gökyüzü Sohbetleri</title></programme>
 <programme start="20240324160000 +0000" stop="20240324170000 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240324170000 +0000" stop="20240324200000 +0000" channel="SozcuTV.tr"><title lang="tr">Nokta Atışı</title></programme>
-<programme start="20240324200000 +0000" stop="20240324204500 +0000" channel="SozcuTV.tr"><title lang="tr">Sisler Bulvarı</title></programme>
-<programme start="20240324204500 +0000" stop="20240324212000 +0000" channel="SozcuTV.tr"><title lang="tr">Türkiye&apos;nin Yıldızları</title></programme>
+<programme start="20240324170000 +0000" stop="20240324200000 +0000" channel="SozcuTV.tr"><title lang="tr">Aklın Yolu</title></programme>
+<programme start="20240324200000 +0000" stop="20240324210000 +0000" channel="SozcuTV.tr"><title lang="tr">Aynanın Arkası ve Komplo Teorileri</title></programme>
 <programme start="20240322220000 +0000" stop="20240323030000 +0000" channel="SportsTV.tr"><title lang="tr">TEKRARLAR</title></programme>
 <programme start="20240323030000 +0000" stop="20240323050000 +0000" channel="SportsTV.tr"><title lang="tr">ING KADINLAR BASKETBOL LİGİ</title></programme>
 <programme start="20240323050000 +0000" stop="20240323060000 +0000" channel="SportsTV.tr"><title lang="tr">DAĞ KAYAKÇILIĞI</title></programme>
