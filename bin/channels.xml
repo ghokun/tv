@@ -12,6 +12,7 @@
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="Kanal7.tr" site_id="26#58d29bb0eefad3db9c60629c">Kanal 7</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="KanalD.tr" site_id="21#58d29bb0eefad3db9c606258">Kanal D</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="NTV.tr" site_id="30#58d29bb0eefad3db9c60623a">NTV</channel>
+<channel site="tvplus.com.tr" lang="tr" xmltv_id="PowerTV.tr" site_id="172">POWER TV</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="ShowTV.tr" site_id="22#58d29bb0eefad3db9c60629b">Show TV</channel>
 <channel site="turksatkablo.com.tr" lang="tr" xmltv_id="SozcuTV.tr" site_id="3779">SZC</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="SportsTV.tr" site_id="81#58d29bb0eefad3db9c606296">Sports Tv</channel>
@@ -25,5 +26,6 @@
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="TRTTurk.tr" site_id="96#58d29bb0eefad3db9c60624c">TRT Türk</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="TV8.tr" site_id="27#58d29bb0eefad3db9c6062ae">TV8</channel>
 <channel site="tvplus.com.tr" lang="tr" xmltv_id="UlusalKanal.tr" site_id="2240">ULUSAL KANAL</channel>
+<channel site="tvplus.com.tr" lang="tr" xmltv_id="Number1TV.tr" site_id="204">NUMBER1 TV</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="TLC.tr" site_id="35#58d29bb0eefad3db9c606238">TLC</channel>
 </channels>
