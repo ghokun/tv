@@ -38,6 +38,9 @@
     "NTV.tr": {
       "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"NTV.tr\" site_id=\"30#58d29bb0eefad3db9c60623a\">NTV</channel>"
     },
+    "PowerTV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"PowerTV.tr\" site_id=\"172\">POWER TV</channel>"
+    },
     "ShowTV.tr": {
       "m3u": "#EXTINF:-1 tvg-id=\"ShowTV.tr\" tvg-logo=\"https://i.imgur.com/1l7SCCu.png\" group-title=\"Undefined\",Show TV\nhttps://showtv.blutv.com/blutv_showtv_live/live.m3u8",
       "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"ShowTV.tr\" site_id=\"22#58d29bb0eefad3db9c60629b\">Show TV</channel>"
@@ -84,6 +87,10 @@
     }
   },
   "custom": {
+    "Number1TV.tr": {
+      "m3u": "#EXTINF:-1 tvg-name=\"Number 1 TV\" tvg-id=\"Number1TV.tr\" tvg-logo=\"https://i.imgur.com/02cDIBi.png\" group-title=\"MUZIK\",NR1\nhttps://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8",
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"Number1TV.tr\" site_id=\"204\">NUMBER1 TV</channel>"
+    },
     "TLC.tr": {
       "m3u": "#EXTINF:-1 tvg-id=\"TLC.tr\" tvg-name=\"TLC\" tvg-logo=\"https://i.imgur.com/8m3PMUf.png\" group-title=\"Undefined\",TLC\nhttps://dogus-live.daioncdn.net/tlc/tlc.m3u8",
       "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TLC.tr\" site_id=\"35#58d29bb0eefad3db9c606238\">TLC</channel>"
