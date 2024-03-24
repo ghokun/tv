@@ -38,6 +38,10 @@
     "NTV.tr": {
       "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"NTV.tr\" site_id=\"30#58d29bb0eefad3db9c60623a\">NTV</channel>"
     },
+    "Number1TV.tr": {
+      "m3u": "#EXTINF:-1 tvg-name=\"Number 1 TV\" tvg-id=\"Number1TV.tr\" tvg-logo=\"https://i.imgur.com/02cDIBi.png\" group-title=\"MUZIK\",NR1\nhttps://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8",
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"Number1TV.tr\" site_id=\"204\">NUMBER1 TV</channel>"
+    },
     "PowerTV.tr": {
       "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"PowerTV.tr\" site_id=\"172\">POWER TV</channel>"
     },
@@ -58,6 +62,10 @@
       "m3u": "#EXTINF:-1 tvg-id=\"Teve2.tr\" tvg-logo=\"https://i.imgur.com/rsoSLih.png\" group-title=\"Undefined\",Teve2 (1080p)\nhttps://demiroren-live.daioncdn.net/teve2/teve2.m3u8",
       "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"Teve2.tr\" site_id=\"20#58d29bb0eefad3db9c6062a1\">teve2</channel>"
     },
+    "TLC.tr": {
+      "m3u": "#EXTINF:-1 tvg-id=\"TLC.tr\" tvg-name=\"TLC\" tvg-logo=\"https://i.imgur.com/8m3PMUf.png\" group-title=\"Undefined\",TLC\nhttps://dogus-live.daioncdn.net/tlc/tlc.m3u8",
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TLC.tr\" site_id=\"35#58d29bb0eefad3db9c606238\">TLC</channel>"
+    },
     "TRT1.tr": {
       "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TRT1.tr\" site_id=\"25#58d29bb0eefad3db9c606274\">TRT 1</channel>"
     },
@@ -76,24 +84,11 @@
     "TRTTurk.tr": {
       "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TRTTurk.tr\" site_id=\"96#58d29bb0eefad3db9c60624c\">TRT Türk</channel>"
     },
-    "TRTWorld.tr": {
-      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TRTWorld.tr\" site_id=\"170#58d29bb0eefad3db9c6062cc\">TRT World</channel>"
-    },
     "TV8.tr": {
       "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TV8.tr\" site_id=\"27#58d29bb0eefad3db9c6062ae\">TV8</channel>"
     },
     "UlusalKanal.tr": {
       "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"UlusalKanal.tr\" site_id=\"2240\">ULUSAL KANAL</channel>"
-    }
-  },
-  "custom": {
-    "Number1TV.tr": {
-      "m3u": "#EXTINF:-1 tvg-name=\"Number 1 TV\" tvg-id=\"Number1TV.tr\" tvg-logo=\"https://i.imgur.com/02cDIBi.png\" group-title=\"MUZIK\",NR1\nhttps://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8",
-      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"Number1TV.tr\" site_id=\"204\">NUMBER1 TV</channel>"
-    },
-    "TLC.tr": {
-      "m3u": "#EXTINF:-1 tvg-id=\"TLC.tr\" tvg-name=\"TLC\" tvg-logo=\"https://i.imgur.com/8m3PMUf.png\" group-title=\"Undefined\",TLC\nhttps://dogus-live.daioncdn.net/tlc/tlc.m3u8",
-      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TLC.tr\" site_id=\"35#58d29bb0eefad3db9c606238\">TLC</channel>"
     }
   }
 }

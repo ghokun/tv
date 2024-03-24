@@ -17,26 +17,25 @@ get(config.playlist, (res) => {
     let m3u = playlist.header.raw;
     let channels = '<?xml version="1.0" encoding="UTF-8"?>\n<channels>';
 
-    playlist.items.forEach((item) => {
-      // Filter out by whitelist
-      if (item.tvg.id in config.whitelisted) {
-        let channel = config.whitelisted[item.tvg.id];
-        // Append filtered channel link
-        if ('m3u' in channel) {
-          m3u = m3u.concat('\n', channel.m3u);
-        } else {
-          m3u = m3u.concat('\n', item.raw);
-        }
-        // Append EPG information
-        channels = channels.concat('\n', channel.epg);
-      }
+    const channelMap = new Map();
+    playlist.items.map((item) => {
+      channelMap.set(item.tvg.id, item);
     });
 
-    Object.keys(config.custom).forEach((key) => {
-      let channel = config.custom[key];
-      m3u = m3u.concat('\n', channel.m3u);
-      channels = channels.concat('\n', channel.epg);
-    });
+    for (const [key, value] of Object.entries(config.whitelisted)) {
+      // Append filtered channel link
+      if ('m3u' in value) {
+        m3u = m3u.concat('\n', value.m3u);
+      } else if (channelMap.has(key)) {
+        m3u = m3u.concat('\n', channelMap.get(key).raw);
+      } else {
+        console.error(`Could not find m3u information for channel ${key}!`);
+      }
+      // Append EPG information
+      if ('epg' in value) {
+        channels = channels.concat('\n', value.epg);
+      }
+    }
 
     // Write playlist file
     m3u = m3u.concat('\n');
