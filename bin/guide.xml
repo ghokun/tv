@@ -80,7 +80,22 @@
 <programme start="20240328130000 +0000" stop="20240328155000 +0000" channel="ATV.tr"><title lang="tr">Esra Erol&apos;da</title></programme>
 <programme start="20240328155000 +0000" stop="20240328161000 +0000" channel="ATV.tr"><title lang="tr">atv Ana Haber Bülteni</title></programme>
 <programme start="20240328161000 +0000" stop="20240328170000 +0000" channel="ATV.tr"><title lang="tr">Nihat Hatipoğlu ile İftar</title><desc lang="tr">Kalplerin imanla, ellerin duayla yüce Allah’a açıldığı rahmet, bereket ve mağfiretin bol olduğu bu ayda Prof. Dr. Nihat Hatipoğlu gönülleri titreten yorumlarıyla atv’de…</desc></programme>
-<programme start="20240328170000 +0000" stop="20240328200000 +0000" channel="ATV.tr"><title lang="tr">Aldatmak</title></programme>
+<programme start="20240328170000 +0000" stop="20240328200000 +0000" channel="ATV.tr"><title lang="tr">Aldatmak</title><desc lang="tr">Oylum&apos;un sevgisine bir şans daha vermek isteyen Kahraman, yeniden hayal kırıklığına uğrar. Kahraman&apos;ın verdiği büyük karar Mualla ile Oylum&apos;u çatışmaya sürükleyecektir.</desc></programme>
+<programme start="20240328212000 +0000" stop="20240328234300 +0000" channel="ATV.tr"><title lang="tr">Yaban Çiçekleri</title><desc lang="tr">Yarım kalmış bir aşk hikayesi aynı heyecanla yeniden yazılabilir mi?</desc><category lang="tr">genel/genel</category></programme>
+<programme start="20240328234300 +0000" stop="20240328234500 +0000" channel="ATV.tr"><title lang="tr">Hikayelerle 40 Hadis</title><category lang="tr">sinema/dini-film</category></programme>
+<programme start="20240328234500 +0000" stop="20240329031800 +0000" channel="ATV.tr"><title lang="tr">Nihat Hatipoğlu ile Sahur</title></programme>
+<programme start="20240329031800 +0000" stop="20240329032000 +0000" channel="ATV.tr"><title lang="tr">Hikayelerle 40 Hadis</title><category lang="tr">sinema/dini-film</category></programme>
+<programme start="20240329032000 +0000" stop="20240329035000 +0000" channel="ATV.tr"><title lang="tr">Mevlid ve Süleyman Çelebi</title><desc lang="tr">Kadim tarihimizde Mevlid kültürünün sanat dünyamızdan toplumsal ilişkilerimize Anadolu’nun gönül yolculuğunun sefer tası oluşunu anlatan ve onu her yönüyle ele alan belgesel. Konusunda uzman 50 konuşmacı ve konunun detaylı incelenmesi ile alanının ilk ve tek örneği olan belgesel, unutulmaya yüz tutmuş Mevlid geleneğinin ve yazarı Süleyman Çelebi’nin hayatı ekranlara getiriyor.</desc></programme>
+<programme start="20240329035000 +0000" stop="20240329050000 +0000" channel="ATV.tr"><title lang="tr">Kuruluş Osman</title><desc lang="tr">Tekrar.</desc></programme>
+<programme start="20240329050000 +0000" stop="20240329070000 +0000" channel="ATV.tr"><title lang="tr">Kahvaltı Haberleri</title></programme>
+<programme start="20240329070000 +0000" stop="20240329100000 +0000" channel="ATV.tr"><title lang="tr">Müge Anlı İle Tatlı Sert</title></programme>
+<programme start="20240329100000 +0000" stop="20240329110000 +0000" channel="ATV.tr"><title lang="tr">atv Gün Ortası</title></programme>
+<programme start="20240329110000 +0000" stop="20240329130000 +0000" channel="ATV.tr"><title lang="tr">Mutfak Bahane</title><desc lang="tr">Derya Taşbaşı&apos;nın renkli sunumuyla yarışanlar ödüle, izleyiciler hem yemeğe hem de sohbete doyuyor!</desc></programme>
+<programme start="20240329130000 +0000" stop="20240329155000 +0000" channel="ATV.tr"><title lang="tr">Esra Erol&apos;da</title></programme>
+<programme start="20240329155000 +0000" stop="20240329161000 +0000" channel="ATV.tr"><title lang="tr">atv Ana Haber Bülteni</title></programme>
+<programme start="20240329161000 +0000" stop="20240329165800 +0000" channel="ATV.tr"><title lang="tr">Nihat Hatipoğlu ile İftar</title><desc lang="tr">Kalplerin imanla, ellerin duayla yüce Allah’a açıldığı rahmet, bereket ve mağfiretin bol olduğu bu ayda Prof. Dr. Nihat Hatipoğlu gönülleri titreten yorumlarıyla atv’de…</desc></programme>
+<programme start="20240329165800 +0000" stop="20240329170000 +0000" channel="ATV.tr"><title lang="tr">Hikayelerle 40 Hadis</title><category lang="tr">sinema/dini-film</category></programme>
+<programme start="20240329170000 +0000" stop="20240329200000 +0000" channel="ATV.tr"><title lang="tr">Ateş Kuşları</title><desc lang="tr">Pamir’i Çino’nun yanında gören Ali için tek amaç, eski düşman Çino’nun gerçek yüzünü ortaya çıkarmaktır artık.</desc></programme>
 <programme start="20240327221500 +0000" stop="20240328001500 +0000" channel="BeyazTV.tr"><title lang="tr">Derinlerde</title></programme>
 <programme start="20240328001500 +0000" stop="20240328014500 +0000" channel="BeyazTV.tr"><title lang="tr">Ne Var Ne Yok (Tekrar)</title></programme>
 <programme start="20240328014500 +0000" stop="20240328030000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title><desc lang="tr">İstanbul’un küçük bir mahallesinde yaşayan insanların hikâyesi... Bir dönem dizisi… Hem nostaljik hem enerjik hem de çok komik… Seksenler, hafta içi her gün 16.15&apos;te Beyaz TV&apos;de</desc></programme>
@@ -196,8 +211,8 @@
 <programme start="20240329104500 +0000" stop="20240329133000 +0000" channel="Fox.tr"><title lang="tr">Kadir Ezildi İle En Hamarat Benim</title><desc lang="tr">Birbirinden eğlenceli ve becerikli beş yarışmacı önce temizlik dedektifi Kadir Ezildi’nin göz hapsinde kendi evlerinin temizliğini yapacaklar, evler temizlendikten sonra ise mutfakta hünerlerini sergileyecekler.</desc></programme>
 <programme start="20240329133000 +0000" stop="20240329160000 +0000" channel="Fox.tr"><title lang="tr">Gaddar - Tekrar</title></programme>
 <programme start="20240329160000 +0000" stop="20240329170000 +0000" channel="Fox.tr"><title lang="tr">Selçuk Tepeli ile Now Ana Haber</title></programme>
-<programme start="20240329170000 +0000" stop="20240329204500 +0000" channel="Fox.tr"><title lang="tr">Gaddar</title></programme>
-<programme start="20240329204500 +0000" stop="20240329223000 +0000" channel="Fox.tr"><title lang="tr">Orta Sayfa</title><desc lang="tr">ARTIK ANKARA’DA OLAN ANKARA’DA KALMAYACAK!Meclis odalarında, siyasi partilerin koridorlarında konuşulanlar, diplomasinin kapalı defterlerinde yazılanlar Orta Sayfa’da yer alacak.</desc></programme>
+<programme start="20240329170000 +0000" stop="20240329204500 +0000" channel="Fox.tr"><title lang="tr">Gaddar</title><desc lang="tr">Ekber, güvenini yeniden kazanması için Kurt’a son bir şans verir fakat bu şans Kurt için zor bir sınava dönüşür. Ekber, Dağhan ve Enver’e daha büyük bir darbe vurabilmek için acımasızlığı ile nam salmış Zakkum Kardeşleri onların karşısına koymayı planlar. Enver, Zakkum Kardeşlerin piyasaya çıkması üzerine tüm iş yollarını kaybetme tehlikesiyle karşı karşıya kalır. Dağhan da Cezmi Zakkum ’un zarar verdiği bir kadını kurtarmak isterken kardeşlerin radarına takılır.</desc></programme>
+<programme start="20240329204500 +0000" stop="20240329234500 +0000" channel="Fox.tr"><title lang="tr">Orta Sayfa</title><desc lang="tr">ARTIK ANKARA’DA OLAN ANKARA’DA KALMAYACAK!Meclis odalarında, siyasi partilerin koridorlarında konuşulanlar, diplomasinin kapalı defterlerinde yazılanlar Orta Sayfa’da yer alacak.</desc></programme>
 <programme start="20240327213000 +0000" stop="20240328000000 +0000" channel="HaberturkTV.tr"><title lang="tr">Nedir Ne Değildir?</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20240328000000 +0000" stop="20240328011500 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240328011500 +0000" stop="20240328020000 +0000" channel="HaberturkTV.tr"><title lang="tr">+ Dosya</title><desc lang="tr">Tekrar</desc></programme>
@@ -215,7 +230,7 @@
 <programme start="20240328170000 +0000" stop="20240328173000 +0000" channel="HaberturkTV.tr"><title lang="tr">Yerel Seçim 2024</title></programme>
 <programme start="20240328173000 +0000" stop="20240328210000 +0000" channel="HaberturkTV.tr"><title lang="tr">Türkiye&apos;nin Nabzı</title></programme>
 <programme start="20240328210000 +0000" stop="20240328213000 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240328213000 +0000" stop="20240329010000 +0000" channel="HaberturkTV.tr"><title lang="tr">Habertürk Gündem</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20240328213000 +0000" stop="20240329010000 +0000" channel="HaberturkTV.tr"><title lang="tr">Türkiye&apos;nin Nabzı</title></programme>
 <programme start="20240329010000 +0000" stop="20240329030000 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240329030000 +0000" stop="20240329060000 +0000" channel="HaberturkTV.tr"><title lang="tr">Gün Başlıyor</title></programme>
 <programme start="20240329060000 +0000" stop="20240329084500 +0000" channel="HaberturkTV.tr"><title lang="tr">Para Gündem</title></programme>
@@ -226,20 +241,9 @@
 <programme start="20240329124500 +0000" stop="20240329130000 +0000" channel="HaberturkTV.tr"><title lang="tr">Spor Bülteni</title></programme>
 <programme start="20240329130000 +0000" stop="20240329150000 +0000" channel="HaberturkTV.tr"><title lang="tr">HT 360</title></programme>
 <programme start="20240329150000 +0000" stop="20240329170000 +0000" channel="HaberturkTV.tr"><title lang="tr">Ana Haber Bülteni</title></programme>
-<programme start="20240329170000 +0000" stop="20240329180000 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240329170000 +0000" stop="20240329173000 +0000" channel="HaberturkTV.tr"><title lang="tr">Yerel Seçim 2024</title></programme>
+<programme start="20240329173000 +0000" stop="20240329180000 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240329180000 +0000" stop="20240329220000 +0000" channel="HaberturkTV.tr"><title lang="tr">Enine Boyuna</title><desc lang="tr">Tekrar</desc></programme>
-<programme start="20240328000000 +0000" stop="20240328030000 +0000" channel="HalkTV.tr"><title lang="tr">Halk TV&apos;de Bugün</title><desc lang="tr">Türkiye ve dünya gündeminin öne çıkan gelişmeleri, uzman konukların görüşleri eşliğinde yorumlanıyor.</desc><category lang="tr">Haber</category><icon src="https://izmottvsc23.tvplus.com.tr:33207/CPS/images/universal/film/program/202403/20240322/58/2126306548195eb7f426.jpg"/></programme>
-<programme start="20240328030000 +0000" stop="20240328040000 +0000" channel="HalkTV.tr"><title lang="tr">Halk TV&apos;de Bugün</title><desc lang="tr">Türkiye ve dünya gündeminin öne çıkan gelişmeleri, uzman konukların görüşleri eşliğinde yorumlanıyor.</desc><category lang="tr">Haber</category><icon src="https://izmottvsc23.tvplus.com.tr:33207/CPS/images/universal/film/program/202403/20240322/99/2126306558225eb7f426.jpg"/></programme>
-<programme start="20240328040000 +0000" stop="20240328050000 +0000" channel="HalkTV.tr"><title lang="tr">Günaydın Türkiye</title><desc lang="tr">&apos;Günaydın Türkiye&apos; programında, günün öne çıkan başlıkları ve yazılı basına yansıyan haberler izleyenlere aktarılıyor.</desc><category lang="tr">Haber</category><icon src="https://izmottvsc23.tvplus.com.tr:33207/CPS/images/universal/film/program/202403/20240322/64/2126306558255eb7f426.jpg"/></programme>
-<programme start="20240328050000 +0000" stop="20240328080000 +0000" channel="HalkTV.tr"><title lang="tr">Yeni Bir Sabah</title><category lang="tr">Haber</category><icon src="https://izmottvsc23.tvplus.com.tr:33207/CPS/images/universal/film/program/202403/20240322/5/2126306558265eb7f426.jpg"/></programme>
-<programme start="20240328080000 +0000" stop="20240328100000 +0000" channel="HalkTV.tr"><title lang="tr">Kırmızı Çizgi</title><category lang="tr">Haber</category><icon src="https://izmottvsc23.tvplus.com.tr:33207/CPS/images/universal/film/program/202403/20240322/95/2126306558295eb7f426.jpg"/></programme>
-<programme start="20240328100000 +0000" stop="20240328120000 +0000" channel="HalkTV.tr"><title lang="tr">Haber Masası</title><desc lang="tr">Haber Masası, güncel ve sıcak gelişmeler önceliğiyle hazırlanan haber bülteninde; ayrıntı, kulis ve perde arkası gibi temel habercilik kavramlarını esas alarak topluma doğru bilgi ulaştırmaya çalışıyor.</desc><category lang="tr">Haber</category><icon src="https://izmottvsc23.tvplus.com.tr:33207/CPS/images/universal/film/program/202403/20240322/84/2126306558345eb7f426.jpg"/></programme>
-<programme start="20240328120000 +0000" stop="20240328130000 +0000" channel="HalkTV.tr"><title lang="tr">Halkın Haberi</title><category lang="tr">Haber</category><icon src="https://izmottvsc23.tvplus.com.tr:33207/CPS/images/universal/film/program/202403/20240322/53/2126306558375eb7f426.jpg"/></programme>
-<programme start="20240328130000 +0000" stop="20240328150000 +0000" channel="HalkTV.tr"><title lang="tr">Gündem Özel</title><desc lang="tr">Gündem Özel programı ekranlara geliyor.</desc><category lang="tr">Haber</category><icon src="https://izmottvsc23.tvplus.com.tr:33207/CPS/images/universal/film/program/202403/20240322/88/2126306558405eb7f426.jpg"/></programme>
-<programme start="20240328150000 +0000" stop="20240328170000 +0000" channel="HalkTV.tr"><title lang="tr">Halk Ana Haber</title><desc lang="tr">Seda Selek ile Halk TV ana haber bülteni ekranlara geliyor.</desc><category lang="tr">Haber</category><icon src="https://izmottvsc23.tvplus.com.tr:33207/CPS/images/universal/film/program/202403/20240322/12/2126306568435eb7f426.jpg"/></programme>
-<programme start="20240328170000 +0000" stop="20240328180000 +0000" channel="HalkTV.tr"><title lang="tr">İki</title><category lang="tr">Haber</category><icon src="https://izmottvsc23.tvplus.com.tr:33207/CPS/images/universal/film/program/202403/20240322/3/2126306568465eb7f426.jpg"/></programme>
-<programme start="20240328180000 +0000" stop="20240328220000 +0000" channel="HalkTV.tr"><title lang="tr">Perdenin Önü Arkası</title><desc lang="tr">Seda Selek, stüdyodaki diğer konuklarla, siyaset gündemine ilişkin son haberleri tartışıyor.</desc><category lang="tr">Haber</category><icon src="https://izmottvsc23.tvplus.com.tr:33207/CPS/images/universal/film/program/202403/20240322/55/2126306568475eb7f426.jpg"/></programme>
-<programme start="20240328220000 +0000" stop="20240329000000 +0000" channel="HalkTV.tr"><title lang="tr">Halk TV&apos;de Bugün</title><desc lang="tr">Türkiye ve dünya gündeminin öne çıkan gelişmeleri, uzman konukların görüşleri eşliğinde yorumlanıyor.</desc><category lang="tr">Haber</category><icon src="https://izmottvsc23.tvplus.com.tr:33207/CPS/images/universal/film/program/202403/20240323/40/2126297841395eb9542c.jpg"/></programme>
 <programme start="20240329000000 +0000" stop="20240329030000 +0000" channel="HalkTV.tr"><title lang="tr">Halk TV&apos;de Bugün</title><desc lang="tr">Türkiye ve dünya gündeminin öne çıkan gelişmeleri, uzman konukların görüşleri eşliğinde yorumlanıyor.</desc><category lang="tr">Haber</category><icon src="https://izmottvsc23.tvplus.com.tr:33207/CPS/images/universal/film/program/202403/20240323/8/2126297841425eb9542c.jpg"/></programme>
 <programme start="20240329030000 +0000" stop="20240329040000 +0000" channel="HalkTV.tr"><title lang="tr">Halk TV&apos;de Bugün</title><desc lang="tr">Türkiye ve dünya gündeminin öne çıkan gelişmeleri, uzman konukların görüşleri eşliğinde yorumlanıyor.</desc><category lang="tr">Haber</category><icon src="https://izmottvsc23.tvplus.com.tr:33207/CPS/images/universal/film/program/202403/20240323/47/2126297841455eb9542c.jpg"/></programme>
 <programme start="20240329040000 +0000" stop="20240329050000 +0000" channel="HalkTV.tr"><title lang="tr">Günaydın Türkiye</title><desc lang="tr">&apos;Günaydın Türkiye&apos; programında, günün öne çıkan başlıkları ve yazılı basına yansıyan haberler izleyenlere aktarılıyor.</desc><category lang="tr">Haber</category><icon src="https://izmottvsc23.tvplus.com.tr:33207/CPS/images/universal/film/program/202403/20240323/78/2126297841485eb9542c.jpg"/></programme>
@@ -305,7 +309,7 @@
 <programme start="20240329101500 +0000" stop="20240329130000 +0000" channel="KanalD.tr"><title lang="tr">Gelinim Mutfakta</title></programme>
 <programme start="20240329130000 +0000" stop="20240329160000 +0000" channel="KanalD.tr"><title lang="tr">Arka Sokaklar</title></programme>
 <programme start="20240329160000 +0000" stop="20240329170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
-<programme start="20240329170000 +0000" stop="20240329211500 +0000" channel="KanalD.tr"><title lang="tr">Arka Sokaklar</title></programme>
+<programme start="20240329170000 +0000" stop="20240329211500 +0000" channel="KanalD.tr"><title lang="tr">Arka Sokaklar</title><desc lang="tr">Arif Müdür, elinde acil kodlu bir zarfla Hüsnü&apos;nün önündedir. Hüsnü, kendisini de ilgilendiren bu durum yüzünden büyük şok yaşar; çünkü, zarfın içinde kendisinin tayin emri bulunmaktadır.</desc></programme>
 <programme start="20240327210000 +0000" stop="20240327213000 +0000" channel="NTV.tr"><title lang="tr">FIBA Europe Cup Itelyum Varese - Bahçeşehir Koleji Canlı</title></programme>
 <programme start="20240327213000 +0000" stop="20240327215000 +0000" channel="NTV.tr"><title lang="tr">Bugün Yarın</title></programme>
 <programme start="20240327215000 +0000" stop="20240327215500 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
@@ -376,15 +380,15 @@
 <programme start="20240328143000 +0000" stop="20240328143500 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
 <programme start="20240328143500 +0000" stop="20240328145500 +0000" channel="NTV.tr"><title lang="tr">Gece Gündüz</title></programme>
 <programme start="20240328145500 +0000" stop="20240328150000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title><category lang="tr">Genel</category></programme>
-<programme start="20240328150000 +0000" stop="20240328152000 +0000" channel="NTV.tr"><title lang="tr">Günün içinden</title></programme>
-<programme start="20240328152000 +0000" stop="20240328152500 +0000" channel="NTV.tr"><title lang="tr">Piyasalar</title></programme>
-<programme start="20240328152500 +0000" stop="20240328154000 +0000" channel="NTV.tr"><title lang="tr">Dünyanın Haberi</title></programme>
+<programme start="20240328150000 +0000" stop="20240328151000 +0000" channel="NTV.tr"><title lang="tr">Günün içinden</title></programme>
+<programme start="20240328151000 +0000" stop="20240328154000 +0000" channel="NTV.tr"><title lang="tr">Ceyda Düvenci ile Bambaşka Sohbetler</title><desc lang="tr">Konuk: İlahiyatçı Doç. Dr. Emre Dorman</desc></programme>
 <programme start="20240328154000 +0000" stop="20240328154500 +0000" channel="NTV.tr"><title lang="tr">Uzman Bakışı</title></programme>
 <programme start="20240328154500 +0000" stop="20240328155500 +0000" channel="NTV.tr"><title lang="tr">Spor</title></programme>
 <programme start="20240328155500 +0000" stop="20240328160000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title><category lang="tr">Genel</category></programme>
 <programme start="20240328160000 +0000" stop="20240328161000 +0000" channel="NTV.tr"><title lang="tr">Akşam Haberleri</title></programme>
 <programme start="20240328161000 +0000" stop="20240328161500 +0000" channel="NTV.tr"><title lang="tr">Piyasalar</title></programme>
-<programme start="20240328161500 +0000" stop="20240328165500 +0000" channel="NTV.tr"><title lang="tr">Ceyda Düvenci ile Bambaşka Sohbetler</title><desc lang="tr">Konuk: İlahiyatçı Doç. Dr. Emre Dorman</desc></programme>
+<programme start="20240328161500 +0000" stop="20240328163000 +0000" channel="NTV.tr"><title lang="tr">Dünyanın Haberi</title></programme>
+<programme start="20240328163000 +0000" stop="20240328165500 +0000" channel="NTV.tr"><title lang="tr">Akşam Haberleri</title></programme>
 <programme start="20240328165500 +0000" stop="20240328170000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title><category lang="tr">Genel</category></programme>
 <programme start="20240328170000 +0000" stop="20240328175000 +0000" channel="NTV.tr"><title lang="tr">Ana Haber</title></programme>
 <programme start="20240328175000 +0000" stop="20240328175500 +0000" channel="NTV.tr"><title lang="tr">Piyasalar</title></programme>
@@ -447,17 +451,20 @@
 <programme start="20240329100000 +0000" stop="20240329105000 +0000" channel="NTV.tr"><title lang="tr">Öğle Bülteni</title></programme>
 <programme start="20240329105000 +0000" stop="20240329105500 +0000" channel="NTV.tr"><title lang="tr">Piyasalar</title></programme>
 <programme start="20240329105500 +0000" stop="20240329110000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title><category lang="tr">Genel</category></programme>
-<programme start="20240329110000 +0000" stop="20240329113000 +0000" channel="NTV.tr"><title lang="tr">Öğle Bülteni</title></programme>
-<programme start="20240329113000 +0000" stop="20240329115000 +0000" channel="NTV.tr"><title lang="tr">Finans Kafe</title></programme>
-<programme start="20240329115000 +0000" stop="20240329115500 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
+<programme start="20240329110000 +0000" stop="20240329111000 +0000" channel="NTV.tr"><title lang="tr">Öğle Bülteni</title></programme>
+<programme start="20240329111000 +0000" stop="20240329112500 +0000" channel="NTV.tr"><title lang="tr">Finans Kafe</title></programme>
+<programme start="20240329112500 +0000" stop="20240329113000 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
+<programme start="20240329113000 +0000" stop="20240329115500 +0000" channel="NTV.tr"><title lang="tr">Öğle Bülteni</title></programme>
 <programme start="20240329115500 +0000" stop="20240329120000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title><category lang="tr">Genel</category></programme>
-<programme start="20240329120000 +0000" stop="20240329124000 +0000" channel="NTV.tr"><title lang="tr">Öğle Bülteni</title></programme>
-<programme start="20240329124000 +0000" stop="20240329124500 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
-<programme start="20240329124500 +0000" stop="20240329125500 +0000" channel="NTV.tr"><title lang="tr">Spor</title></programme>
+<programme start="20240329120000 +0000" stop="20240329121500 +0000" channel="NTV.tr"><title lang="tr">Öğle Bülteni</title></programme>
+<programme start="20240329121500 +0000" stop="20240329122000 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
+<programme start="20240329122000 +0000" stop="20240329123000 +0000" channel="NTV.tr"><title lang="tr">Spor</title></programme>
+<programme start="20240329123000 +0000" stop="20240329125500 +0000" channel="NTV.tr"><title lang="tr">Bakış</title></programme>
 <programme start="20240329125500 +0000" stop="20240329130000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title><category lang="tr">Genel</category></programme>
-<programme start="20240329130000 +0000" stop="20240329133000 +0000" channel="NTV.tr"><title lang="tr">Günün içinden</title></programme>
-<programme start="20240329133000 +0000" stop="20240329133500 +0000" channel="NTV.tr"><title lang="tr">Piyasalar</title></programme>
-<programme start="20240329133500 +0000" stop="20240329135000 +0000" channel="NTV.tr"><title lang="tr">Yeşil Ekran</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20240329130000 +0000" stop="20240329132000 +0000" channel="NTV.tr"><title lang="tr">Günün içinden</title></programme>
+<programme start="20240329132000 +0000" stop="20240329132500 +0000" channel="NTV.tr"><title lang="tr">Piyasalar</title></programme>
+<programme start="20240329132500 +0000" stop="20240329134000 +0000" channel="NTV.tr"><title lang="tr">Yeşil Ekran</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20240329134000 +0000" stop="20240329135000 +0000" channel="NTV.tr"><title lang="tr">Spor</title></programme>
 <programme start="20240329135000 +0000" stop="20240329135500 +0000" channel="NTV.tr"><title lang="tr">Laf Aramızda</title></programme>
 <programme start="20240329135500 +0000" stop="20240329140000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title><category lang="tr">Genel</category></programme>
 <programme start="20240329140000 +0000" stop="20240329143000 +0000" channel="NTV.tr"><title lang="tr">Günün içinden</title></programme>
@@ -470,9 +477,8 @@
 <programme start="20240329154000 +0000" stop="20240329154500 +0000" channel="NTV.tr"><title lang="tr">Uzman Bakışı</title></programme>
 <programme start="20240329154500 +0000" stop="20240329155500 +0000" channel="NTV.tr"><title lang="tr">Spor</title></programme>
 <programme start="20240329155500 +0000" stop="20240329160000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title><category lang="tr">Genel</category></programme>
-<programme start="20240329160000 +0000" stop="20240329161000 +0000" channel="NTV.tr"><title lang="tr">Akşam Haberleri</title></programme>
-<programme start="20240329161000 +0000" stop="20240329161500 +0000" channel="NTV.tr"><title lang="tr">Piyasalar</title></programme>
-<programme start="20240329161500 +0000" stop="20240329165500 +0000" channel="NTV.tr"><title lang="tr">Ceyda Düvenci ile Bambaşka Sohbetler</title><desc lang="tr">Konuk: Müzisyen Can Ozan – Müzisyen Simge Pınar</desc></programme>
+<programme start="20240329160000 +0000" stop="20240329165000 +0000" channel="NTV.tr"><title lang="tr">Akşam Haberleri</title></programme>
+<programme start="20240329165000 +0000" stop="20240329165500 +0000" channel="NTV.tr"><title lang="tr">Piyasalar</title></programme>
 <programme start="20240329165500 +0000" stop="20240329170000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title><category lang="tr">Genel</category></programme>
 <programme start="20240329170000 +0000" stop="20240329174500 +0000" channel="NTV.tr"><title lang="tr">Ana Haber</title></programme>
 <programme start="20240329174500 +0000" stop="20240329175000 +0000" channel="NTV.tr"><title lang="tr">Piyasalar</title></programme>
@@ -548,6 +554,15 @@
 <programme start="20240328154500 +0000" stop="20240328170000 +0000" channel="ShowTV.tr"><title lang="tr">Show Ana Haber</title><desc lang="tr">Canlı</desc></programme>
 <programme start="20240328170000 +0000" stop="20240328201500 +0000" channel="ShowTV.tr"><title lang="tr">Bahar</title><desc lang="tr">Rengin, babasının kaybıyla yıkılır. Timur’un ona sarıldığını gören Evren, ikisinin ilişkisinden şüphelenmeye başlar. Rengin kendini toparlamaya çalışırken, hastasında çok önemli bir detayı gözden kaçırır, Bahar onu korumak için kendini feda eder.</desc></programme>
 <programme start="20240328201500 +0000" stop="20240328231500 +0000" channel="ShowTV.tr"><title lang="tr">Aile Şerefi</title><desc lang="tr">Fakir ama gururlu bir adam olan Rıza işportada çeşitli işler yaparak kalabalık ailesini kıt kanaat geçindirmeye çalışır. Karısı Adile 5 çocuğunu da layıkıyla yetiştirerek, hepsinin iyi eğitim alıp, elinin ekmek tutmasını ister. Kızları Ayşe evlenince yeni damat Zihni de onların evine iç güveysi taşınır. Ailenin tüm fertleri, işportacılık, fabrika ve atölye işçiliği gibi işlerde çalışır ve kendi yağlarıyla kavrulurken evin en küçük oğlu Murat bir araba kazası geçirir. Şimdi tüm aile Murat&apos;ın iyi olması için her türlü çareye başvurur.</desc></programme>
+<programme start="20240328221500 +0000" stop="20240329004500 +0000" channel="ShowTV.tr"><title lang="tr">Kızılcık Şerbeti</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20240329004500 +0000" stop="20240329023000 +0000" channel="ShowTV.tr"><title lang="tr">Yavru İle Katip</title><desc lang="tr">İstanbul&apos;a gidince, Katip adında üçkağıtçı bir adamla tanışır ve dost olurlar. Çalışmak için hizmetçi arayan bir eve karı-koca işe giren ikilinin başına gelmedik kalmaz.</desc></programme>
+<programme start="20240329023000 +0000" stop="20240329050000 +0000" channel="ShowTV.tr"><title lang="tr">Yeni Gelin</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20240329050000 +0000" stop="20240329070000 +0000" channel="ShowTV.tr"><title lang="tr">Bu Sabah</title><desc lang="tr">Canlı</desc></programme>
+<programme start="20240329070000 +0000" stop="20240329093000 +0000" channel="ShowTV.tr"><title lang="tr">Kuzey Yıldızı &apos;&apos; İlk Aşk&apos;&apos;</title><desc lang="tr">Tekrar</desc></programme>
+<programme start="20240329093000 +0000" stop="20240329120000 +0000" channel="ShowTV.tr"><title lang="tr">Aslı Hünel ile Gelin Evi</title><desc lang="tr">Yeni Bölüm</desc></programme>
+<programme start="20240329120000 +0000" stop="20240329154500 +0000" channel="ShowTV.tr"><title lang="tr">Didem Arslan Yılmaz&apos;la Vazgeçme</title><desc lang="tr">Canlı</desc></programme>
+<programme start="20240329154500 +0000" stop="20240329170000 +0000" channel="ShowTV.tr"><title lang="tr">Show Ana Haber</title><desc lang="tr">Canlı</desc></programme>
+<programme start="20240329170000 +0000" stop="20240329200000 +0000" channel="ShowTV.tr"><title lang="tr">Kızılcık Şerbeti</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20240327210000 +0000" stop="20240327213000 +0000" channel="SozcuTV.tr"><title lang="tr">-</title></programme>
 <programme start="20240327213000 +0000" stop="20240327220000 +0000" channel="SozcuTV.tr"><title lang="tr">S Raporu</title></programme>
 <programme start="20240327220000 +0000" stop="20240328003000 +0000" channel="SozcuTV.tr"><title lang="tr">Aynanın Arkası ve Komplo Teorileri</title></programme>
@@ -641,7 +656,7 @@
 <programme start="20240328151500 +0000" stop="20240328160000 +0000" channel="StarTV.tr"><title lang="tr">Star Haber</title></programme>
 <programme start="20240328160000 +0000" stop="20240328170000 +0000" channel="StarTV.tr"><title lang="tr">Sakla Beni / Özel Bölüm</title><desc lang="tr">Özel Bölüm</desc></programme>
 <programme start="20240328170000 +0000" stop="20240328200000 +0000" channel="StarTV.tr"><title lang="tr">Sakla Beni / 22</title></programme>
-<programme start="20240328213000 +0000" stop="20240328233000 +0000" channel="StarTV.tr"><title lang="tr">Yerli dizi tkr / Sinema</title></programme>
+<programme start="20240328211500 +0000" stop="20240328233000 +0000" channel="StarTV.tr"><title lang="tr">Yan Oda / tkr</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20240328233000 +0000" stop="20240329004000 +0000" channel="StarTV.tr"><title lang="tr">Aramızda Kalsın / tkr</title></programme>
 <programme start="20240329004000 +0000" stop="20240329023000 +0000" channel="StarTV.tr"><title lang="tr">Halil Necipoğlu ile Ramazan Bereketi / 19</title></programme>
 <programme start="20240329023000 +0000" stop="20240329040000 +0000" channel="StarTV.tr"><title lang="tr">Söz / Tkr</title></programme>
@@ -651,7 +666,7 @@
 <programme start="20240329131500 +0000" stop="20240329151500 +0000" channel="StarTV.tr"><title lang="tr">Söz / Tkr</title></programme>
 <programme start="20240329151500 +0000" stop="20240329160000 +0000" channel="StarTV.tr"><title lang="tr">Star Haber</title></programme>
 <programme start="20240329160000 +0000" stop="20240329170000 +0000" channel="StarTV.tr"><title lang="tr">Yalı Çapkını / Özel Bölüm</title><desc lang="tr">Özel Bölüm</desc></programme>
-<programme start="20240329170000 +0000" stop="20240329200000 +0000" channel="StarTV.tr"><title lang="tr">Yalı Çapkını / 64</title></programme>
+<programme start="20240329170000 +0000" stop="20240329211500 +0000" channel="StarTV.tr"><title lang="tr">Yalı Çapkını / 64</title></programme>
 <programme start="20240327221500 +0000" stop="20240327231500 +0000" channel="Teve2.tr"><title lang="tr">Kelime Oyunu</title></programme>
 <programme start="20240327231500 +0000" stop="20240328003000 +0000" channel="Teve2.tr"><title lang="tr">Yaprak Dökümü</title></programme>
 <programme start="20240328003000 +0000" stop="20240328020000 +0000" channel="Teve2.tr"><title lang="tr">Fatmagül’ün Suçu Ne?</title></programme>
@@ -1135,121 +1150,6 @@
 <programme start="20240329165500 +0000" stop="20240329170000 +0000" channel="TRTHaber.tr"><title lang="tr">Ana Habere Doğru</title><category lang="tr">Haber - Spor</category></programme>
 <programme start="20240329170000 +0000" stop="20240329180000 +0000" channel="TRTHaber.tr"><title lang="tr">Ana Haber 20</title><category lang="tr">Haber - Spor</category></programme>
 <programme start="20240329180000 +0000" stop="20240329210000 +0000" channel="TRTHaber.tr"><title lang="tr">Birinci Sayfa</title><category lang="tr">Haber - Spor</category></programme>
-<programme start="20240327212000 +0000" stop="20240327215000 +0000" channel="TRTTurk.tr"><title lang="tr">Avrupa&apos;Da İftar Bereketi Bölüm 7</title><category lang="tr">Kültür</category></programme>
-<programme start="20240327215000 +0000" stop="20240327220000 +0000" channel="TRTTurk.tr"><title lang="tr">Mikrofon Senin &quot;Köln&quot; Bölüm 3</title><category lang="tr">Kültür</category></programme>
-<programme start="20240327220000 +0000" stop="20240327223000 +0000" channel="TRTTurk.tr"><title lang="tr">İftara Sizdeyiz Avrupa Bölüm 2</title><category lang="tr">Kültür</category></programme>
-<programme start="20240327223000 +0000" stop="20240327223500 +0000" channel="TRTTurk.tr"><title lang="tr">Sokak İlahileri Bölüm 4</title><category lang="tr">Kültür</category></programme>
-<programme start="20240327223500 +0000" stop="20240327234000 +0000" channel="TRTTurk.tr"><title lang="tr">Aşkın Yolculuğu Yunus Emre Bölüm 17</title><category lang="tr">Dizi</category></programme>
-<programme start="20240327234000 +0000" stop="20240328001500 +0000" channel="TRTTurk.tr"><title lang="tr">İstanbul&apos;Un Ramazan Rehberi Bölüm 3</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328001500 +0000" stop="20240328002500 +0000" channel="TRTTurk.tr"><title lang="tr">Anadolu&apos;Da Kuran-I Kerim Tilaveti Bölüm 18</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328002500 +0000" stop="20240328004000 +0000" channel="TRTTurk.tr"><title lang="tr">Efendimizin 24 Saati</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328004000 +0000" stop="20240328005500 +0000" channel="TRTTurk.tr"><title lang="tr">Bir Hadis Bir İnsan Bölüm 8</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328005500 +0000" stop="20240328011500 +0000" channel="TRTTurk.tr"><title lang="tr">Anadolu Camileri Bölüm 12</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328011500 +0000" stop="20240328021000 +0000" channel="TRTTurk.tr"><title lang="tr">En Son Babalar Duyar Bölüm 18</title><category lang="tr">Dizi</category></programme>
-<programme start="20240328021000 +0000" stop="20240328024500 +0000" channel="TRTTurk.tr"><title lang="tr">Yamak Ahmet Bölüm 17</title><category lang="tr">Dizi</category></programme>
-<programme start="20240328024500 +0000" stop="20240328030500 +0000" channel="TRTTurk.tr"><title lang="tr">İskandinavya Türk Camileri Bölüm 2</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328030500 +0000" stop="20240328032000 +0000" channel="TRTTurk.tr"><title lang="tr">Ramazan Kitaplığı Bölüm 5</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328032000 +0000" stop="20240328033500 +0000" channel="TRTTurk.tr"><title lang="tr">Efendimizin 24 Saati</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328033500 +0000" stop="20240328040300 +0000" channel="TRTTurk.tr"><title lang="tr">Avrupa&apos;Da İftar Bereketi Bölüm 7</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328040300 +0000" stop="20240328040500 +0000" channel="TRTTurk.tr"><title lang="tr">İstiklal Marşı Çocuk</title><category lang="tr">Diğer</category></programme>
-<programme start="20240328040500 +0000" stop="20240328043500 +0000" channel="TRTTurk.tr"><title lang="tr">İftara Sizdeyiz Avrupa Bölüm 2</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328043500 +0000" stop="20240328045000 +0000" channel="TRTTurk.tr"><title lang="tr">Ramazan Kitaplığı Bölüm 5</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328045000 +0000" stop="20240328050500 +0000" channel="TRTTurk.tr"><title lang="tr">Efendimizin 24 Saati Bölüm 1</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328050500 +0000" stop="20240328051500 +0000" channel="TRTTurk.tr"><title lang="tr">Daha Doğrusu Bölüm 8</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328051500 +0000" stop="20240328052500 +0000" channel="TRTTurk.tr"><title lang="tr">Dost Yüzler Bölüm 3</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328052500 +0000" stop="20240328054500 +0000" channel="TRTTurk.tr"><title lang="tr">İskandinavya Türk Camileri Bölüm 3</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328054500 +0000" stop="20240328060000 +0000" channel="TRTTurk.tr"><title lang="tr">Bir Hadis Bir İnsan Bölüm 9</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328060000 +0000" stop="20240328065500 +0000" channel="TRTTurk.tr"><title lang="tr">İstanbul Saati Bölüm 446</title><category lang="tr">Haber - Spor</category></programme>
-<programme start="20240328065500 +0000" stop="20240328070000 +0000" channel="TRTTurk.tr"><title lang="tr">Anadolu&apos;Da Kuran-I Kerim Tilaveti Bölüm 19</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328070000 +0000" stop="20240328075500 +0000" channel="TRTTurk.tr"><title lang="tr">Aile Bölüm 128</title><category lang="tr">Diğer</category></programme>
-<programme start="20240328075500 +0000" stop="20240328080000 +0000" channel="TRTTurk.tr"><title lang="tr">Sokak İlahileri Bölüm 6</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328080000 +0000" stop="20240328082000 +0000" channel="TRTTurk.tr"><title lang="tr">Anadolu Camileri Bölüm 13</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328082000 +0000" stop="20240328083000 +0000" channel="TRTTurk.tr"><title lang="tr">Mikrofon Senin &quot;Köln&quot; Bölüm 13</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328083000 +0000" stop="20240328095500 +0000" channel="TRTTurk.tr"><title lang="tr">Günaydın Hayat Bölüm 406</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328095500 +0000" stop="20240328100000 +0000" channel="TRTTurk.tr"><title lang="tr">Anadolu&apos;Da Kuran-I Kerim Tilaveti Bölüm 19</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328100000 +0000" stop="20240328104500 +0000" channel="TRTTurk.tr"><title lang="tr">Öğle Ana Haber</title><category lang="tr">Haber - Spor</category></programme>
-<programme start="20240328104500 +0000" stop="20240328110000 +0000" channel="TRTTurk.tr"><title lang="tr">Ramazan Kitaplığı Bölüm 6</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328110000 +0000" stop="20240328115000 +0000" channel="TRTTurk.tr"><title lang="tr">Sağlık Olsun Bölüm 392</title><category lang="tr">Diğer</category></programme>
-<programme start="20240328115000 +0000" stop="20240328120000 +0000" channel="TRTTurk.tr"><title lang="tr">Anadolu&apos;Da Kuran-I Kerim Tilaveti Bölüm 19</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328120000 +0000" stop="20240328123000 +0000" channel="TRTTurk.tr"><title lang="tr">İftara Sizdeyiz Avrupa Bölüm 2</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328123000 +0000" stop="20240328125000 +0000" channel="TRTTurk.tr"><title lang="tr">İskandinavya Türk Camileri Bölüm 3</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328125000 +0000" stop="20240328125500 +0000" channel="TRTTurk.tr"><title lang="tr">Anadolu&apos;Da Kuran-I Kerim Tilaveti Bölüm 19</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328125500 +0000" stop="20240328130000 +0000" channel="TRTTurk.tr"><title lang="tr">Dil Pare Bölüm 3</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328130000 +0000" stop="20240328135000 +0000" channel="TRTTurk.tr"><title lang="tr">Rehber Bölüm 392</title><category lang="tr">Diğer</category></programme>
-<programme start="20240328135000 +0000" stop="20240328142000 +0000" channel="TRTTurk.tr"><title lang="tr">Avrupa&apos;Da İftar Bereketi Bölüm 7</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328142000 +0000" stop="20240328143500 +0000" channel="TRTTurk.tr"><title lang="tr">Berlin Çekirdekçisi Bölüm 3</title><category lang="tr">Dizi</category></programme>
-<programme start="20240328143500 +0000" stop="20240328144000 +0000" channel="TRTTurk.tr"><title lang="tr">Sufi Klipler</title><category lang="tr">Müzik - Eğlence</category></programme>
-<programme start="20240328144000 +0000" stop="20240328144500 +0000" channel="TRTTurk.tr"><title lang="tr">Anadolu&apos;Da Kuran-I Kerim Tilaveti Bölüm 19</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328144500 +0000" stop="20240328150000 +0000" channel="TRTTurk.tr"><title lang="tr">Efendimizin 24 Saati Bölüm 2</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328150000 +0000" stop="20240328155000 +0000" channel="TRTTurk.tr"><title lang="tr">Haber 18</title><category lang="tr">Haber - Spor</category></programme>
-<programme start="20240328155000 +0000" stop="20240328161000 +0000" channel="TRTTurk.tr"><title lang="tr">Kalbin İçindekiler Bölüm 4</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328161000 +0000" stop="20240328172000 +0000" channel="TRTTurk.tr"><title lang="tr">Aşkın Yolculuğu Yunus Emre Bölüm 18</title><desc lang="tr">Yunus hastalığından kurtulur, gözlerini açar.</desc><category lang="tr">Dizi</category></programme>
-<programme start="20240328172000 +0000" stop="20240328184500 +0000" channel="TRTTurk.tr"><title lang="tr">Hoş Geldin Ramazan Bölüm 18</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328184500 +0000" stop="20240328190000 +0000" channel="TRTTurk.tr"><title lang="tr">Bir Dua Bir İnsan Bölüm 1</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328190000 +0000" stop="20240328191500 +0000" channel="TRTTurk.tr"><title lang="tr">Efendimizin 24 Saati Bölüm 2</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328191500 +0000" stop="20240328194500 +0000" channel="TRTTurk.tr"><title lang="tr">İftara Sizdeyiz Avrupa</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328194500 +0000" stop="20240328200000 +0000" channel="TRTTurk.tr"><title lang="tr">Kalbin İçindekiler Bölüm 5</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328200000 +0000" stop="20240328203000 +0000" channel="TRTTurk.tr"><title lang="tr">Avrupa&apos;Da İftar Bereketi Bölüm 8</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328203000 +0000" stop="20240328204500 +0000" channel="TRTTurk.tr"><title lang="tr">Daha Doğrusu Bölüm 9</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328204500 +0000" stop="20240328210000 +0000" channel="TRTTurk.tr"><title lang="tr">Anadolu Camileri Bölüm 9</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328210000 +0000" stop="20240328214000 +0000" channel="TRTTurk.tr"><title lang="tr">Yamak Ahmet Bölüm 18</title><category lang="tr">Dizi</category></programme>
-<programme start="20240328214000 +0000" stop="20240328221000 +0000" channel="TRTTurk.tr"><title lang="tr">Avrupa&apos;Da İftar Bereketi Bölüm 8</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328221000 +0000" stop="20240328222000 +0000" channel="TRTTurk.tr"><title lang="tr">Mikrofon Senin &quot;Köln&quot; Bölüm 4</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328222000 +0000" stop="20240328225000 +0000" channel="TRTTurk.tr"><title lang="tr">İftara Sizdeyiz Avrupa</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328225000 +0000" stop="20240328225500 +0000" channel="TRTTurk.tr"><title lang="tr">Sokak İlahileri Bölüm 6</title><category lang="tr">Kültür</category></programme>
-<programme start="20240328225500 +0000" stop="20240329000000 +0000" channel="TRTTurk.tr"><title lang="tr">Aşkın Yolculuğu Yunus Emre Bölüm 18</title><desc lang="tr">Yunus hastalığından kurtulur, gözlerini açar.</desc><category lang="tr">Dizi</category></programme>
-<programme start="20240329000000 +0000" stop="20240329003000 +0000" channel="TRTTurk.tr"><title lang="tr">İstanbul&apos;Un Ramazan Rehberi Bölüm 4</title><category lang="tr">Kültür</category></programme>
-<programme start="20240329003000 +0000" stop="20240329003500 +0000" channel="TRTTurk.tr"><title lang="tr">Anadolu&apos;Da Kuran-I Kerim Tilaveti Bölüm 19</title><category lang="tr">Kültür</category></programme>
-<programme start="20240329003500 +0000" stop="20240329005000 +0000" channel="TRTTurk.tr"><title lang="tr">Efendimizin 24 Saati Bölüm 2</title><category lang="tr">Kültür</category></programme>
-<programme start="20240329005000 +0000" stop="20240329010000 +0000" channel="TRTTurk.tr"><title lang="tr">Bir Hadis Bir İnsan Bölüm 9</title><category lang="tr">Kültür</category></programme>
-<programme start="20240329010000 +0000" stop="20240329012000 +0000" channel="TRTTurk.tr"><title lang="tr">Anadolu Camileri Bölüm 13</title><category lang="tr">Kültür</category></programme>
-<programme start="20240329012000 +0000" stop="20240329021500 +0000" channel="TRTTurk.tr"><title lang="tr">En Son Babalar Duyar Bölüm 19</title><category lang="tr">Dizi</category></programme>
-<programme start="20240329021500 +0000" stop="20240329025000 +0000" channel="TRTTurk.tr"><title lang="tr">Yamak Ahmet Bölüm 18</title><category lang="tr">Dizi</category></programme>
-<programme start="20240329025000 +0000" stop="20240329031000 +0000" channel="TRTTurk.tr"><title lang="tr">İskandinavya Türk Camileri Bölüm 3</title><category lang="tr">Kültür</category></programme>
-<programme start="20240329031000 +0000" stop="20240329032000 +0000" channel="TRTTurk.tr"><title lang="tr">Ramazan Kitaplığı Bölüm 6</title><category lang="tr">Kültür</category></programme>
-<programme start="20240329032000 +0000" stop="20240329033500 +0000" channel="TRTTurk.tr"><title lang="tr">Efendimizin 24 Saati Bölüm 2</title><category lang="tr">Kültür</category></programme>
-<programme start="20240329033500 +0000" stop="20240329040300 +0000" channel="TRTTurk.tr"><title lang="tr">Avrupa&apos;Da İftar Bereketi Bölüm 8</title><category lang="tr">Kültür</category></programme>
-<programme start="20240329040300 +0000" stop="20240329040500 +0000" channel="TRTTurk.tr"><title lang="tr">İstiklal Marşı Çocuk</title><category lang="tr">Diğer</category></programme>
-<programme start="20240329040500 +0000" stop="20240329043500 +0000" channel="TRTTurk.tr"><title lang="tr">İftara Sizdeyiz Avrupa Bölüm 3</title><category lang="tr">Kültür</category></programme>
-<programme start="20240329043500 +0000" stop="20240329045000 +0000" channel="TRTTurk.tr"><title lang="tr">Ramazan Kitaplığı Bölüm 6</title><category lang="tr">Kültür</category></programme>
-<programme start="20240329045000 +0000" stop="20240329050500 +0000" channel="TRTTurk.tr"><title lang="tr">Efendimizin 24 Saati Bölüm 2</title><category lang="tr">Kültür</category></programme>
-<programme start="20240329050500 +0000" stop="20240329051500 +0000" channel="TRTTurk.tr"><title lang="tr">Daha Doğrusu Bölüm 9</title><category lang="tr">Kültür</category></programme>
-<programme start="20240329051500 +0000" stop="20240329052500 +0000" channel="TRTTurk.tr"><title lang="tr">Dost Yüzler Bölüm 4</title><category lang="tr">Kültür</category></programme>
-<programme start="20240329052500 +0000" stop="20240329054500 +0000" channel="TRTTurk.tr"><title lang="tr">İskandinavya Türk Camileri Bölüm 4</title><category lang="tr">Kültür</category></programme>
-<programme start="20240329054500 +0000" stop="20240329060000 +0000" channel="TRTTurk.tr"><title lang="tr">Bir Hadis Bir İnsan Bölüm 10</title><category lang="tr">Kültür</category></programme>
-<programme start="20240329060000 +0000" stop="20240329065500 +0000" channel="TRTTurk.tr"><title lang="tr">İstanbul Saati Bölüm 447</title><category lang="tr">Haber - Spor</category></programme>
-<programme start="20240329065500 +0000" stop="20240329070000 +0000" channel="TRTTurk.tr"><title lang="tr">Anadolu&apos;Da Kuran-I Kerim Tilaveti Bölüm 20</title><category lang="tr">Kültür</category></programme>
-<programme start="20240329070000 +0000" stop="20240329075500 +0000" channel="TRTTurk.tr"><title lang="tr">Aile Bölüm 129</title><category lang="tr">Diğer</category></programme>
-<programme start="20240329075500 +0000" stop="20240329080000 +0000" channel="TRTTurk.tr"><title lang="tr">Sokak İlahileri Bölüm 7</title><category lang="tr">Kültür</category></programme>
-<programme start="20240329080000 +0000" stop="20240329082000 +0000" channel="TRTTurk.tr"><title lang="tr">Anadolu Camileri Bölüm 14</title><category lang="tr">Kültür</category></programme>
-<programme start="20240329082000 +0000" stop="20240329083000 +0000" channel="TRTTurk.tr"><title lang="tr">Mikrofon Senin &quot;Köln&quot; Bölüm 14</title><category lang="tr">Kültür</category></programme>
-<programme start="20240329083000 +0000" stop="20240329095500 +0000" channel="TRTTurk.tr"><title lang="tr">Günaydın Hayat Bölüm 407</title><category lang="tr">Kültür</category></programme>
-<programme start="20240329095500 +0000" stop="20240329100000 +0000" channel="TRTTurk.tr"><title lang="tr">Anadolu&apos;Da Kuran-I Kerim Tilaveti Bölüm 20</title><category lang="tr">Kültür</category></programme>
-<programme start="20240329100000 +0000" stop="20240329104500 +0000" channel="TRTTurk.tr"><title lang="tr">Öğle Ana Haber</title><category lang="tr">Haber - Spor</category></programme>
-<programme start="20240329104500 +0000" stop="20240329110000 +0000" channel="TRTTurk.tr"><title lang="tr">Ramazan Kitaplığı Bölüm 7</title><category lang="tr">Kültür</category></programme>
-<programme start="20240329110000 +0000" stop="20240329115000 +0000" channel="TRTTurk.tr"><title lang="tr">Sağlık Olsun Bölüm 393</title><category lang="tr">Diğer</category></programme>
-<programme start="20240329115000 +0000" stop="20240329120000 +0000" channel="TRTTurk.tr"><title lang="tr">Anadolu&apos;Da Kuran-I Kerim Tilaveti Bölüm 20</title><category lang="tr">Kültür</category></programme>
-<programme start="20240329120000 +0000" stop="20240329123000 +0000" channel="TRTTurk.tr"><title lang="tr">İftara Sizdeyiz Avrupa Bölüm 3</title><category lang="tr">Kültür</category></programme>
-<programme start="20240329123000 +0000" stop="20240329125000 +0000" channel="TRTTurk.tr"><title lang="tr">İskandinavya Türk Camileri Bölüm 4</title><category lang="tr">Kültür</category></programme>
-<programme start="20240329125000 +0000" stop="20240329125500 +0000" channel="TRTTurk.tr"><title lang="tr">Anadolu&apos;Da Kuran-I Kerim Tilaveti Bölüm 20</title><category lang="tr">Kültür</category></programme>
-<programme start="20240329125500 +0000" stop="20240329130000 +0000" channel="TRTTurk.tr"><title lang="tr">Dil Pare Bölüm 3</title><category lang="tr">Kültür</category></programme>
-<programme start="20240329130000 +0000" stop="20240329135000 +0000" channel="TRTTurk.tr"><title lang="tr">Rehber Bölüm 393</title><category lang="tr">Diğer</category></programme>
-<programme start="20240329135000 +0000" stop="20240329142000 +0000" channel="TRTTurk.tr"><title lang="tr">Avrupa&apos;Da İftar Bereketi Bölüm 8</title><category lang="tr">Kültür</category></programme>
-<programme start="20240329142000 +0000" stop="20240329143500 +0000" channel="TRTTurk.tr"><title lang="tr">Berlin Çekirdekçisi Bölüm 4</title><desc lang="tr">Karolin&apos;e haksızlık ettiği için pişman olan Raşit, Karolin&apos;i çekirdekçiye dönmeye ikna eder. Yıldıray ise bir maç kazası sonucu ayağından sakatlanmıştır. Bütün ekip, Yıldıray&apos;ın iyileşmesi için seferber olur!</desc><category lang="tr">Dizi</category></programme>
-<programme start="20240329143500 +0000" stop="20240329144000 +0000" channel="TRTTurk.tr"><title lang="tr">Sufi Klipler</title><category lang="tr">Müzik - Eğlence</category></programme>
-<programme start="20240329144000 +0000" stop="20240329144500 +0000" channel="TRTTurk.tr"><title lang="tr">Anadolu&apos;Da Kuran-I Kerim Tilaveti Bölüm 20</title><category lang="tr">Kültür</category></programme>
-<programme start="20240329144500 +0000" stop="20240329150000 +0000" channel="TRTTurk.tr"><title lang="tr">Efendimizin 24 Saati Bölüm 3</title><category lang="tr">Kültür</category></programme>
-<programme start="20240329150000 +0000" stop="20240329155000 +0000" channel="TRTTurk.tr"><title lang="tr">Haber 18</title><category lang="tr">Haber - Spor</category></programme>
-<programme start="20240329155000 +0000" stop="20240329161000 +0000" channel="TRTTurk.tr"><title lang="tr">Kalbin İçindekiler Bölüm 5</title><category lang="tr">Kültür</category></programme>
-<programme start="20240329161000 +0000" stop="20240329172000 +0000" channel="TRTTurk.tr"><title lang="tr">Aşkın Yolculuğu Yunus Emre Bölüm 19</title><category lang="tr">Dizi</category></programme>
-<programme start="20240329172000 +0000" stop="20240329184500 +0000" channel="TRTTurk.tr"><title lang="tr">Hoş Geldin Ramazan Bölüm 19</title><category lang="tr">Kültür</category></programme>
-<programme start="20240329184500 +0000" stop="20240329190000 +0000" channel="TRTTurk.tr"><title lang="tr">Bir Dua Bir İnsan Bölüm 2</title><category lang="tr">Kültür</category></programme>
-<programme start="20240329190000 +0000" stop="20240329191500 +0000" channel="TRTTurk.tr"><title lang="tr">Efendimizin 24 Saati Bölüm 3</title><category lang="tr">Kültür</category></programme>
-<programme start="20240329191500 +0000" stop="20240329194500 +0000" channel="TRTTurk.tr"><title lang="tr">İftara Sizdeyiz Avrupa</title><category lang="tr">Kültür</category></programme>
-<programme start="20240329194500 +0000" stop="20240329200000 +0000" channel="TRTTurk.tr"><title lang="tr">Kalbin İçindekiler Bölüm 6</title><category lang="tr">Kültür</category></programme>
-<programme start="20240329200000 +0000" stop="20240329203000 +0000" channel="TRTTurk.tr"><title lang="tr">Avrupa&apos;Da İftar Bereketi Bölüm 9</title><category lang="tr">Kültür</category></programme>
-<programme start="20240329203000 +0000" stop="20240329204500 +0000" channel="TRTTurk.tr"><title lang="tr">Daha Doğrusu Bölüm 10</title><category lang="tr">Kültür</category></programme>
-<programme start="20240329204500 +0000" stop="20240329234500 +0000" channel="TRTTurk.tr"><title lang="tr">Anadolu Camileri Bölüm 14</title><category lang="tr">Kültür</category></programme>
 <programme start="20240327211500 +0000" stop="20240327230000 +0000" channel="TV8.tr"><title lang="tr">Emre Dorman ile Aklımdaki Sorular Ramazan</title><desc lang="tr">Ramazan ayı boyunca &quot;Emre Dorman ile Aklımdaki Sorular Ramazan&quot; her gece TV8 ekranlarında!</desc><category lang="tr">genel/genel</category></programme>
 <programme start="20240327230000 +0000" stop="20240328004500 +0000" channel="TV8.tr"><title lang="tr">Zuhal Topal&apos;la Yemekteyiz</title><desc lang="tr">Efsane yarışma &quot;Zuhal Topal&apos;la Yemekteyiz&quot; hafta içi her gün 16.00&apos;da TV8 ekranlarında sizlerle!</desc><category lang="tr">eglence/yarisma</category></programme>
 <programme start="20240328004500 +0000" stop="20240328013000 +0000" channel="TV8.tr"><title lang="tr">Demet ve Jess&apos;le Gel Konuşalım</title><desc lang="tr">Demet Akalın ve Jess Molho ile dopdolu bir gündeme hazır mısınız? &quot;Demet ve Jess&apos;le Gel Konuşalım&quot; hafta içi her gün 12.45&apos;te canlı yayınla TV8&apos;de.</desc><category lang="tr">genel/genel</category></programme>
