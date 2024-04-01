@@ -2,93 +2,116 @@
   "playlist": "https://iptv-org.github.io/iptv/countries/tr.m3u",
   "whitelisted": {
     "360.tr": {
-      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"360.tr\" site_id=\"42#58d29bb0eefad3db9c606236\">360</channel>"
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"360.tr\" site_id=\"42#58d29bb0eefad3db9c606236\">360</channel>",
+      "group": "Ulusal"
     },
     "AHaber.tr": {
-      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"AHaber.tr\" site_id=\"34#58d29bb0eefad3db9c60625e\">a Haber</channel>"
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"AHaber.tr\" site_id=\"34#58d29bb0eefad3db9c60625e\">a Haber</channel>",
+      "group": "Haber"
     },
     "ATVAvrupa.tr": {
-      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"ATV.tr\" site_id=\"24#58d29bb0eefad3db9c60625f\">ATV</channel>"
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"ATV.tr\" site_id=\"24#58d29bb0eefad3db9c60625f\">ATV</channel>",
+      "group": "Ulusal"
     },
     "BeyazTV.tr": {
-      "m3u": "#EXTINF:-1 tvg-id=\"BeyazTV.tr\" tvg-logo=\"https://i.imgur.com/uykIdML.png\" group-title=\"Undefined\",Beyaz TV (720p) [Not 24/7]\nhttps://beyaztv.blutv.com/blutv_beyaztv_live/live.m3u8",
+      "m3u": "#EXTINF:-1 tvg-id=\"BeyazTV.tr\" tvg-logo=\"https://i.imgur.com/uykIdML.png\" group-title=\"Ulusal\",Beyaz TV (720p) [Not 24/7]\nhttps://beyaztv.blutv.com/blutv_beyaztv_live/live.m3u8",
       "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"BeyazTV.tr\" site_id=\"39#58d29bb0eefad3db9c606298\">Beyaz TV</channel>"
     },
     "CNNTurk.tr": {
-      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"CNNTurk.tr\" site_id=\"158\">CNN TÜRK</channel>"
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"CNNTurk.tr\" site_id=\"158\">CNN TÜRK</channel>",
+      "group": "Haber"
     },
     "EuroD.tr": {
-      "epg": "<channel site=\"tv.blue.ch\" lang=\"tr\" xmltv_id=\"EuroD.tr\" site_id=\"161\">Euro D</channel>"
+      "epg": "<channel site=\"tv.blue.ch\" lang=\"tr\" xmltv_id=\"EuroD.tr\" site_id=\"161\">Euro D</channel>",
+      "group": "Ulusal"
     },
     "Fox.tr": {
-      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"Fox.tr\" site_id=\"28#58d29bb0eefad3db9c6062a0\">FOX</channel>"
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"Fox.tr\" site_id=\"28#58d29bb0eefad3db9c6062a0\">FOX</channel>",
+      "group": "Ulusal"
     },
     "HaberturkTV.tr": {
-      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"HaberturkTV.tr\" site_id=\"32#58d29bb0eefad3db9c60629d\">Haber Türk</channel>"
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"HaberturkTV.tr\" site_id=\"32#58d29bb0eefad3db9c60629d\">Haber Türk</channel>",
+      "group": "Haber"
     },
     "HalkTV.tr": {
-      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"HalkTV.tr\" site_id=\"91\">HALK TV</channel>"
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"HalkTV.tr\" site_id=\"91\">HALK TV</channel>",
+      "group": "Haber"
     },
     "Kanal7.tr": {
-      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"Kanal7.tr\" site_id=\"26#58d29bb0eefad3db9c60629c\">Kanal 7</channel>"
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"Kanal7.tr\" site_id=\"26#58d29bb0eefad3db9c60629c\">Kanal 7</channel>",
+      "group": "Ulusal"
     },
     "KanalD.tr": {
-      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"KanalD.tr\" site_id=\"21#58d29bb0eefad3db9c606258\">Kanal D</channel>"
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"KanalD.tr\" site_id=\"21#58d29bb0eefad3db9c606258\">Kanal D</channel>",
+      "group": "Ulusal"
     },
     "NTV.tr": {
-      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"NTV.tr\" site_id=\"30#58d29bb0eefad3db9c60623a\">NTV</channel>"
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"NTV.tr\" site_id=\"30#58d29bb0eefad3db9c60623a\">NTV</channel>",
+      "group": "Ulusal"
     },
     "Number1TV.tr": {
-      "m3u": "#EXTINF:-1 tvg-name=\"Number 1 TV\" tvg-id=\"Number1TV.tr\" tvg-logo=\"https://i.imgur.com/02cDIBi.png\" group-title=\"MUZIK\",NR1\nhttps://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8",
+      "m3u": "#EXTINF:-1 tvg-name=\"Number 1 TV\" tvg-id=\"Number1TV.tr\" tvg-logo=\"https://i.imgur.com/02cDIBi.png\" group-title=\"Müzik\",NR1\nhttps://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8",
       "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"Number1TV.tr\" site_id=\"204\">NUMBER1 TV</channel>"
     },
     "PowerTV.tr": {
-      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"PowerTV.tr\" site_id=\"172\">POWER TV</channel>"
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"PowerTV.tr\" site_id=\"172\">POWER TV</channel>",
+      "group": "Müzik"
     },
     "ShowTV.tr": {
-      "m3u": "#EXTINF:-1 tvg-id=\"ShowTV.tr\" tvg-logo=\"https://i.imgur.com/1l7SCCu.png\" group-title=\"Undefined\",Show TV\nhttps://showtv.blutv.com/blutv_showtv_live/live.m3u8",
+      "m3u": "#EXTINF:-1 tvg-id=\"ShowTV.tr\" tvg-logo=\"https://i.imgur.com/1l7SCCu.png\" group-title=\"Ulusal\",Show TV\nhttps://showtv.blutv.com/blutv_showtv_live/live.m3u8",
       "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"ShowTV.tr\" site_id=\"22#58d29bb0eefad3db9c60629b\">Show TV</channel>"
     },
     "SozcuTV.tr": {
-      "epg": "<channel site=\"turksatkablo.com.tr\" lang=\"tr\" xmltv_id=\"SozcuTV.tr\" site_id=\"3779\">SZC</channel>"
+      "epg": "<channel site=\"turksatkablo.com.tr\" lang=\"tr\" xmltv_id=\"SozcuTV.tr\" site_id=\"3779\">SZC</channel>",
+      "group": "Haber"
     },
     "SportsTV.tr": {
-      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"SportsTV.tr\" site_id=\"81#58d29bb0eefad3db9c606296\">Sports Tv</channel>"
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"SportsTV.tr\" site_id=\"81#58d29bb0eefad3db9c606296\">Sports Tv</channel>",
+      "group": "Spor"
     },
     "StarTV.tr": {
-      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"StarTV.tr\" site_id=\"23#58d29bb0eefad3db9c606259\">Star</channel>"
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"StarTV.tr\" site_id=\"23#58d29bb0eefad3db9c606259\">Star</channel>",
+      "group": "Ulusal"
     },
     "Teve2.tr": {
-      "m3u": "#EXTINF:-1 tvg-id=\"Teve2.tr\" tvg-logo=\"https://i.imgur.com/rsoSLih.png\" group-title=\"Undefined\",Teve2 (1080p)\nhttps://demiroren-live.daioncdn.net/teve2/teve2.m3u8",
+      "m3u": "#EXTINF:-1 tvg-id=\"Teve2.tr\" tvg-logo=\"https://i.imgur.com/rsoSLih.png\" group-title=\"Ulusal\",Teve2 (1080p)\nhttps://demiroren-live.daioncdn.net/teve2/teve2.m3u8",
       "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"Teve2.tr\" site_id=\"20#58d29bb0eefad3db9c6062a1\">teve2</channel>"
     },
     "TLC.tr": {
-      "m3u": "#EXTINF:-1 tvg-id=\"TLC.tr\" tvg-name=\"TLC\" tvg-logo=\"https://i.imgur.com/8m3PMUf.png\" group-title=\"Undefined\",TLC\nhttps://dogus-live.daioncdn.net/tlc/tlc.m3u8",
+      "m3u": "#EXTINF:-1 tvg-id=\"TLC.tr\" tvg-name=\"TLC\" tvg-logo=\"https://i.imgur.com/8m3PMUf.png\" group-title=\"Eğlence\",TLC\nhttps://dogus-live.daioncdn.net/tlc/tlc.m3u8",
       "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TLC.tr\" site_id=\"35#58d29bb0eefad3db9c606238\">TLC</channel>"
     },
     "TRT1.tr": {
-      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TRT1.tr\" site_id=\"25#58d29bb0eefad3db9c606274\">TRT 1</channel>"
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TRT1.tr\" site_id=\"25#58d29bb0eefad3db9c606274\">TRT 1</channel>",
+      "group": "Haber"
     },
     "TRT2.tr": {
-      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TRT2.tr\" site_id=\"95#58d29bb0eefad3db9c606263\">trt 2</channel>"
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TRT2.tr\" site_id=\"95#58d29bb0eefad3db9c606263\">trt 2</channel>",
+      "group": "Ulusal"
     },
     "TRTBelgesel.tr": {
-      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TRTBelgesel.tr\" site_id=\"65#58d29bb0eefad3db9c6062a8\">TRT Belgesel</channel>"
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TRTBelgesel.tr\" site_id=\"65#58d29bb0eefad3db9c6062a8\">TRT Belgesel</channel>",
+      "group": "Belgesel"
     },
     "TRTCocuk.tr": {
-      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TRTCocuk.tr\" site_id=\"114#58d29bb0eefad3db9c606255\">TRT Çocuk</channel>"
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TRTCocuk.tr\" site_id=\"114#58d29bb0eefad3db9c606255\">TRT Çocuk</channel>",
+      "group": "Çocuk"
     },
     "TRTHaber.tr": {
-      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TRTHaber.tr\" site_id=\"31#58d29bb0eefad3db9c606289\">TRT Haber</channel>"
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TRTHaber.tr\" site_id=\"31#58d29bb0eefad3db9c606289\">TRT Haber</channel>",
+      "group": "Haber"
     },
     "TRTTurk.tr": {
-      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TRTTurk.tr\" site_id=\"96#58d29bb0eefad3db9c60624c\">TRT Türk</channel>"
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TRTTurk.tr\" site_id=\"96#58d29bb0eefad3db9c60624c\">TRT Türk</channel>",
+      "group": "Haber"
     },
     "TV8.tr": {
-      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TV8.tr\" site_id=\"27#58d29bb0eefad3db9c6062ae\">TV8</channel>"
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TV8.tr\" site_id=\"27#58d29bb0eefad3db9c6062ae\">TV8</channel>",
+      "group": "Eğlence"
     },
     "UlusalKanal.tr": {
-      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"UlusalKanal.tr\" site_id=\"2240\">ULUSAL KANAL</channel>"
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"UlusalKanal.tr\" site_id=\"2240\">ULUSAL KANAL</channel>",
+      "group": "Haber"
     }
   }
 }

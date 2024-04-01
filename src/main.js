@@ -27,7 +27,14 @@ get(config.playlist, (res) => {
       if ('m3u' in value) {
         m3u = m3u.concat('\n', value.m3u);
       } else if (channelMap.has(key)) {
-        m3u = m3u.concat('\n', channelMap.get(key).raw);
+        let playlistItem = channelMap.get(key);
+        m3u = m3u
+          .concat('\n', '#EXTINF:-1')
+          .concat(' ', 'tvg-id="', playlistItem.tvg.id, '"')
+          .concat(' ', 'tvg-logo="', playlistItem.tvg.logo, '"')
+          .concat(' ', 'group-title="', value.group, '"')
+          .concat(',', playlistItem.name)
+          .concat('\n', playlistItem.url);
       } else {
         console.error(`Could not find m3u information for channel ${key}!`);
       }
