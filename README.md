@@ -9,16 +9,20 @@ This is an IPTV playlist and EPG generator. On a scheduled run (hourly):
 5. Generates EPG information (`guide.xml`) using `channels.xml` file
 6. Commits and pushes the changes
 
-## Usage 
+## Usage
 
-Updated playlist and guide files are found under `bin` directory. Use the 
-following links in your favorite IPTV application:
+Updated playlist and guide files are found under `bin` directory. Use the
+following links in your favorite IPTV application. I use [this one](1) with a
+Tizen TV.
 
 #### Playlist:
+
 ```
 https://raw.githubusercontent.com/ghokun/tv/main/bin/playlist.m3u
 ```
+
 #### EPG:
+
 ```
 https://raw.githubusercontent.com/ghokun/tv/main/bin/guide.xml
 ```
@@ -37,3 +41,5 @@ providing the link, and thus this is not a valid reason to send a DMCA notice to
 GitHub. To remove this content from the web, you should contact the web host
 that's actually hosting the content (not GitHub, nor the maintainers of this
 repository).
+
+[1] https://m3u-ip.tv
