@@ -25,22 +25,18 @@ get(config.playlist, (res) => {
     for (const [key, value] of Object.entries(config.whitelisted)) {
       // Append filtered channel link
       if ('m3u' in value) {
-        m3u = m3u.concat('\n', value.m3u);
+        m3u = m3u.concat(`\n${value.m3u}`);
       } else if (channelMap.has(key)) {
-        let playlistItem = channelMap.get(key);
-        m3u = m3u
-          .concat('\n', '#EXTINF:-1')
-          .concat(' ', 'tvg-id="', playlistItem.tvg.id, '"')
-          .concat(' ', 'tvg-logo="', playlistItem.tvg.logo, '"')
-          .concat(' ', 'group-title="', value.group, '"')
-          .concat(',', playlistItem.name)
-          .concat('\n', playlistItem.url);
+        let item = channelMap.get(key);
+        m3u = m3u.concat(
+          `\n#EXTINF:-1 tvg-id="${item.tvg.id}" tvg-logo="${item.tvg.logo}" group-title="${value.group}",${item.name}\n${item.url}`
+        );
       } else {
         console.error(`Could not find m3u information for channel ${key}!`);
       }
       // Append EPG information
       if ('epg' in value) {
-        channels = channels.concat('\n', value.epg);
+        channels = channels.concat(`\n${value.epg}`);
       }
     }
 
@@ -53,7 +49,7 @@ get(config.playlist, (res) => {
     });
 
     // Write channels file
-    channels = channels.concat('\n', '</channels>\n');
+    channels = channels.concat('\n</channels>\n');
     fs.writeFile('bin/channels.xml', channels, (err) => {
       if (err) {
         console.error(err);
