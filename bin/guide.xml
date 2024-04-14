@@ -533,46 +533,38 @@
 <programme start="20240414201500 +0000" stop="20240414214500 +0000" channel="ShowTV.tr"><title lang="tr">Gerzek Şaban</title><desc lang="tr">Gerzek Şaban, birbirine benzeyen bir gangster ile bir figüranın hikayesini konu ediyor. Osman, geçimini figüranlık yaparak sağlayan genç bir adamdır. Osman’ın hayatı, bir gün eğlenmek için bir gazinoya gitmeleriyle bambaşka bir hal alır. Gazinoya girmesiyle birlikte insanlar Osman’ın yanına gelip ona haraç vermeye başlar. Seyfi adındaki bir gangster ile Osman’ın benzerliğinden kaynaklanan bu durum, Osman’ı bilmediği bir dünyaya adım atmasına neden olur. Zamanla Osman ve Seyfi’nin hayatı daha çok birbirine karışmaya başlar.</desc></programme>
 <programme start="20240414214500 +0000" stop="20240415003000 +0000" channel="ShowTV.tr"><title lang="tr">Sandık Kokusu</title><desc lang="tr">Tekrar</desc></programme>
 <programme start="20240415003000 +0000" stop="20240415033000 +0000" channel="ShowTV.tr"><title lang="tr">Üçkağıtçı</title><desc lang="tr">Almanya’da yaşayan Rıfkı, ölen babasından miras kalan mallarını satmak için yıllar önce ayrıldığı köye geri döner. Rıfkı’nın köye gelmesi ile yaşanan birkaç tesadüf, adının “ermiş”e çıkmasına neden olur. Uzun süredir yağmayan yağmurun yağmasını, evde kalmış kadınların muratlarına ermesini, kötürüm olanların koşmaya başlamasını sağlayan Rıfkı, bunların hepsini şans eseri yapsa da mahallenin övgüsünü kazanır. Onu sevenler kadar, Rıfkı’yı kendisine düşman görenler de yok değildir. İnsanların baskısı sonucu Belediye Reisi seçimlerine giren Rıfkı, yapılan müdahalelere rağmen seçimi kazanır. Ancak bu süreçte Rıfkı’nın yarattığı mucizelerin aslında gerçek olmadığı ortaya çıkar.</desc></programme>
-<programme start="20240413210000 +0000" stop="20240413211500 +0000" channel="SozcuTV.tr"><title lang="tr">-</title></programme>
-<programme start="20240413211500 +0000" stop="20240414000000 +0000" channel="SozcuTV.tr"><title lang="tr">Aklın Yolu</title></programme>
-<programme start="20240414000000 +0000" stop="20240414010000 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240414010000 +0000" stop="20240414014500 +0000" channel="SozcuTV.tr"><title lang="tr">Bayram Sohbetleri</title></programme>
-<programme start="20240414014500 +0000" stop="20240414020000 +0000" channel="SozcuTV.tr"><title lang="tr">Cumhuriyet&apos;in Yüzleri</title></programme>
-<programme start="20240414020000 +0000" stop="20240414030000 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240414030000 +0000" stop="20240414040000 +0000" channel="SozcuTV.tr"><title lang="tr">Bayram Sohbetleri</title></programme>
+<programme start="20240413210000 +0000" stop="20240413213000 +0000" channel="SozcuTV.tr"><title lang="tr">-</title></programme>
+<programme start="20240413213000 +0000" stop="20240413230000 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
+<programme start="20240413230000 +0000" stop="20240414020000 +0000" channel="SozcuTV.tr"><title lang="tr">Aklın Yolu</title></programme>
+<programme start="20240414020000 +0000" stop="20240414030000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240414030000 +0000" stop="20240414040000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240414040000 +0000" stop="20240414060000 +0000" channel="SozcuTV.tr"><title lang="tr">Sabah Kahvesi</title></programme>
-<programme start="20240414060000 +0000" stop="20240414090000 +0000" channel="SozcuTV.tr"><title lang="tr">Bayram Kahvesi</title></programme>
-<programme start="20240414090000 +0000" stop="20240414091500 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240414091500 +0000" stop="20240414110000 +0000" channel="SozcuTV.tr"><title lang="tr">Bayram Sohbetleri</title></programme>
-<programme start="20240414110000 +0000" stop="20240414121500 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240414121500 +0000" stop="20240414130000 +0000" channel="SozcuTV.tr"><title lang="tr">Bayram Sohbetleri</title></programme>
-<programme start="20240414130000 +0000" stop="20240414141500 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Saati</title></programme>
-<programme start="20240414141500 +0000" stop="20240414150000 +0000" channel="SozcuTV.tr"><title lang="tr">Neresi Komik</title></programme>
-<programme start="20240414150000 +0000" stop="20240414160000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Saati</title></programme>
+<programme start="20240414060000 +0000" stop="20240414070000 +0000" channel="SozcuTV.tr"><title lang="tr">Para Politika</title></programme>
+<programme start="20240414070000 +0000" stop="20240414080000 +0000" channel="SozcuTV.tr"><title lang="tr">Para Politika</title></programme>
+<programme start="20240414080000 +0000" stop="20240414090000 +0000" channel="SozcuTV.tr"><title lang="tr">Para Politika</title></programme>
+<programme start="20240414090000 +0000" stop="20240414110000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240414110000 +0000" stop="20240414130000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240414130000 +0000" stop="20240414154500 +0000" channel="SozcuTV.tr"><title lang="tr">Öncesi Sonrası</title></programme>
+<programme start="20240414154500 +0000" stop="20240414160000 +0000" channel="SozcuTV.tr"><title lang="tr">Üçüncü Sayfa</title></programme>
 <programme start="20240414160000 +0000" stop="20240414171500 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
 <programme start="20240414171500 +0000" stop="20240414200000 +0000" channel="SozcuTV.tr"><title lang="tr">Aklın Yolu</title></programme>
-<programme start="20240414200000 +0000" stop="20240414204500 +0000" channel="SozcuTV.tr"><title lang="tr">Bayram Sohbetleri</title></programme>
-<programme start="20240414204500 +0000" stop="20240414211500 +0000" channel="SozcuTV.tr"><title lang="tr">S Raporu</title></programme>
-<programme start="20240414210000 +0000" stop="20240414211500 +0000" channel="SozcuTV.tr"><title lang="tr">-</title></programme>
-<programme start="20240414211500 +0000" stop="20240415000000 +0000" channel="SozcuTV.tr"><title lang="tr">Aklın Yolu</title></programme>
-<programme start="20240415000000 +0000" stop="20240415010000 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240415010000 +0000" stop="20240415014500 +0000" channel="SozcuTV.tr"><title lang="tr">Bayram Sohbetleri</title></programme>
-<programme start="20240415014500 +0000" stop="20240415020000 +0000" channel="SozcuTV.tr"><title lang="tr">Cumhuriyet&apos;in Yüzleri</title></programme>
-<programme start="20240415020000 +0000" stop="20240415030000 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240415030000 +0000" stop="20240415040000 +0000" channel="SozcuTV.tr"><title lang="tr">Bayram Sohbetleri</title></programme>
+<programme start="20240414200000 +0000" stop="20240414210000 +0000" channel="SozcuTV.tr"><title lang="tr">Geniş Açı</title></programme>
+<programme start="20240414210000 +0000" stop="20240414213000 +0000" channel="SozcuTV.tr"><title lang="tr">-</title></programme>
+<programme start="20240414213000 +0000" stop="20240414230000 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
+<programme start="20240414230000 +0000" stop="20240415020000 +0000" channel="SozcuTV.tr"><title lang="tr">Aklın Yolu</title></programme>
+<programme start="20240415020000 +0000" stop="20240415030000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240415030000 +0000" stop="20240415040000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240415040000 +0000" stop="20240415060000 +0000" channel="SozcuTV.tr"><title lang="tr">Sabah Kahvesi</title></programme>
-<programme start="20240415060000 +0000" stop="20240415090000 +0000" channel="SozcuTV.tr"><title lang="tr">Bayram Kahvesi</title></programme>
-<programme start="20240415090000 +0000" stop="20240415091500 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240415091500 +0000" stop="20240415110000 +0000" channel="SozcuTV.tr"><title lang="tr">Bayram Sohbetleri</title></programme>
-<programme start="20240415110000 +0000" stop="20240415121500 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240415121500 +0000" stop="20240415130000 +0000" channel="SozcuTV.tr"><title lang="tr">Bayram Sohbetleri</title></programme>
-<programme start="20240415130000 +0000" stop="20240415141500 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Saati</title></programme>
-<programme start="20240415141500 +0000" stop="20240415150000 +0000" channel="SozcuTV.tr"><title lang="tr">Neresi Komik</title></programme>
-<programme start="20240415150000 +0000" stop="20240415160000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Saati</title></programme>
+<programme start="20240415060000 +0000" stop="20240415070000 +0000" channel="SozcuTV.tr"><title lang="tr">Para Politika</title></programme>
+<programme start="20240415070000 +0000" stop="20240415080000 +0000" channel="SozcuTV.tr"><title lang="tr">Para Politika</title></programme>
+<programme start="20240415080000 +0000" stop="20240415090000 +0000" channel="SozcuTV.tr"><title lang="tr">Para Politika</title></programme>
+<programme start="20240415090000 +0000" stop="20240415110000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240415110000 +0000" stop="20240415130000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240415130000 +0000" stop="20240415154500 +0000" channel="SozcuTV.tr"><title lang="tr">Öncesi Sonrası</title></programme>
+<programme start="20240415154500 +0000" stop="20240415160000 +0000" channel="SozcuTV.tr"><title lang="tr">Üçüncü Sayfa</title></programme>
 <programme start="20240415160000 +0000" stop="20240415171500 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
 <programme start="20240415171500 +0000" stop="20240415200000 +0000" channel="SozcuTV.tr"><title lang="tr">Aklın Yolu</title></programme>
-<programme start="20240415200000 +0000" stop="20240415204500 +0000" channel="SozcuTV.tr"><title lang="tr">Bayram Sohbetleri</title></programme>
-<programme start="20240415204500 +0000" stop="20240415211500 +0000" channel="SozcuTV.tr"><title lang="tr">S Raporu</title></programme>
+<programme start="20240415200000 +0000" stop="20240415210000 +0000" channel="SozcuTV.tr"><title lang="tr">Geniş Açı</title></programme>
 <programme start="20240413210100 +0000" stop="20240413230000 +0000" channel="SportsTV.tr"><title lang="tr">ING KADINLAR BASKETBOL LİGİ</title></programme>
 <programme start="20240413230000 +0000" stop="20240414030000 +0000" channel="SportsTV.tr"><title lang="tr">TEKRARLAR</title></programme>
 <programme start="20240414030000 +0000" stop="20240414050000 +0000" channel="SportsTV.tr"><title lang="tr">İTALYA ERKEKLER VOLEYBOL LİGİ</title></programme>
