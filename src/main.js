@@ -1,4 +1,4 @@
-import config from '../config.json' assert { type: 'json' };
+import config from '../config.json' with { type: 'json' };
 import fs from 'node:fs';
 import { get } from 'https';
 import parser from 'iptv-playlist-parser';
