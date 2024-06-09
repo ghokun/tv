@@ -28,7 +28,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17c
 #EXTINF:-1 tvg-id="PowerTV.tr" tvg-logo="https://i.imgur.com/XSL1gd7.png" group-title="Müzik",Power TV (1080p)
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://i.imgur.com/1l7SCCu.png" group-title="Ulusal",Show TV
-https://showtv.blutv.com/blutv_showtv_live/live.m3u8
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-id="SozcuTV.tr" tvg-logo="https://i.imgur.com/BxpdvsG.png" group-title="Haber",Sozcu Televizyonu (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
 #EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="Spor",Sports TV (720p) [Geo-blocked]
@@ -53,5 +53,7 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 https://trtturk.blutv.com/blutv_trtturk2/live.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://i.imgur.com/DKNwiDm.png" group-title="Eğlence",TV 8 (1080p) [Not 24/7]
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:-1 tvg-id="TV85.tr" tvg-logo="https://i.imgur.com/QuelSsc.png" group-title="Eğlence",TV 8.5 (720p)
+http://bozztv.com/gin-dvrfl05/gin-tv8_5/index.m3u8
 #EXTINF:-1 tvg-id="UlusalKanal.tr" tvg-logo="https://i.imgur.com/EwSg612.png" group-title="Haber",Ulusal Kanal (720p)
 https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8

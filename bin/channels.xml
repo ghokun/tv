@@ -27,5 +27,6 @@
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="TRTHaber.tr" site_id="31#58d29bb0eefad3db9c606289">TRT Haber</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="TRTTurk.tr" site_id="96#58d29bb0eefad3db9c60624c">TRT Türk</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="TV8.tr" site_id="27#58d29bb0eefad3db9c6062ae">TV8</channel>
+<channel site="dsmart.com.tr" lang="tr" xmltv_id="TV85.tr" site_id="46#58d29bb0eefad3db9c6062cb">TV 8,5</channel>
 <channel site="tvplus.com.tr" lang="tr" xmltv_id="UlusalKanal.tr" site_id="2240">ULUSAL KANAL</channel>
 </channels>

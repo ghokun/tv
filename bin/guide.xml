@@ -26,6 +26,7 @@
 <channel id="TRTHaber.tr"><display-name>TRT Haber</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/512px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="TRTTurk.tr"><display-name>TRT Turk</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/512px-TRT_T%C3%BCrk_logo.svg.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="TV8.tr"><display-name>TV 8</display-name><icon src="https://i.imgur.com/DKNwiDm.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="TV85.tr"><display-name>TV 8.5</display-name><icon src="https://i.imgur.com/QuelSsc.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="UlusalKanal.tr"><display-name>Ulusal Kanal</display-name><icon src="https://i.imgur.com/EwSg612.png"/><url>https://tvplus.com.tr</url></channel>
 <programme start="20240608210000 +0000" stop="20240608230000 +0000" channel="AHaber.tr"><title lang="tr">Gece Ajansı</title></programme>
 <programme start="20240608230000 +0000" stop="20240609013000 +0000" channel="AHaber.tr"><title lang="tr">A Haber Gece</title></programme>
