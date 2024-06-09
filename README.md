@@ -13,7 +13,7 @@ This is an IPTV playlist and EPG generator. On a scheduled run (hourly):
 
 Updated playlist and guide files are found under `bin` directory. Use the
 following links in your favorite IPTV application. I use [this one][1] with a
-Tizen TV.
+Tizen TV and [this][2] for Android based systems.
 
 #### Playlist:
 
@@ -43,3 +43,4 @@ that's actually hosting the content (not GitHub, nor the maintainers of this
 repository).
 
 [1]: https://m3u-ip.tv
+[2]: https://tivimate.com
