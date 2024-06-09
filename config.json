@@ -58,7 +58,7 @@
       "group": "Müzik"
     },
     "ShowTV.tr": {
-      "m3u": "#EXTINF:-1 tvg-id=\"ShowTV.tr\" tvg-logo=\"https://i.imgur.com/1l7SCCu.png\" group-title=\"Ulusal\",Show TV\nhttps://showtv.blutv.com/blutv_showtv_live/live.m3u8",
+      "m3u": "#EXTINF:-1 tvg-id=\"ShowTV.tr\" tvg-logo=\"https://i.imgur.com/1l7SCCu.png\" group-title=\"Ulusal\",Show TV\nhttps://ciner-live.daioncdn.net/showtv/showtv.m3u8",
       "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"ShowTV.tr\" site_id=\"22#58d29bb0eefad3db9c60629b\">Show TV</channel>"
     },
     "SozcuTV.tr": {
@@ -107,6 +107,10 @@
     },
     "TV8.tr": {
       "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TV8.tr\" site_id=\"27#58d29bb0eefad3db9c6062ae\">TV8</channel>",
+      "group": "Eğlence"
+    },
+    "TV85.tr": {
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TV85.tr\" site_id=\"46#58d29bb0eefad3db9c6062cb\">TV 8,5</channel>",
       "group": "Eğlence"
     },
     "UlusalKanal.tr": {
