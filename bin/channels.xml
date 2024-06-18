@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-<channel site="dsmart.com.tr" lang="tr" xmltv_id="360.tr" site_id="42#58d29bb0eefad3db9c606236">360</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="360.tr" site_id="29">360 HD</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="AHaber.tr" site_id="34#58d29bb0eefad3db9c60625e">a Haber</channel>
 <channel site="ziggogo.tv" lang="tr" xmltv_id="ATVAvrupa.tr" site_id="NL_000163_019272">ATV Avrupa</channel>
-<channel site="dsmart.com.tr" lang="tr" xmltv_id="BeyazTV.tr" site_id="39#58d29bb0eefad3db9c606298">Beyaz TV</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="BeyazTV.tr" site_id="36">Beyaz TV</channel>
 <channel site="tvplus.com.tr" lang="tr" xmltv_id="CNNTurk.tr" site_id="158">CNN TÜRK</channel>
 <channel site="tv.blue.ch" lang="tr" xmltv_id="EuroD.tr" site_id="161">Euro D</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="Fox.tr" site_id="28#58d29bb0eefad3db9c6062a0">FOX</channel>
@@ -23,10 +23,10 @@
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="TRT1.tr" site_id="25#58d29bb0eefad3db9c606274">TRT 1</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="TRT2.tr" site_id="95#58d29bb0eefad3db9c606263">trt 2</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="TRTBelgesel.tr" site_id="65#58d29bb0eefad3db9c6062a8">TRT Belgesel</channel>
-<channel site="dsmart.com.tr" lang="tr" xmltv_id="TRTCocuk.tr" site_id="114#58d29bb0eefad3db9c606255">TRT Çocuk</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="TRTCocuk.tr" site_id="160">TRT Çocuk</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="TRTHaber.tr" site_id="31#58d29bb0eefad3db9c606289">TRT Haber</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="TRTTurk.tr" site_id="96#58d29bb0eefad3db9c60624c">TRT Türk</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="TV8.tr" site_id="27#58d29bb0eefad3db9c6062ae">TV8</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="TV85.tr" site_id="46#58d29bb0eefad3db9c6062cb">TV 8,5</channel>
-<channel site="tvplus.com.tr" lang="tr" xmltv_id="UlusalKanal.tr" site_id="2240">ULUSAL KANAL</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="UlusalKanal.tr" site_id="52">ULUSAL KANAL</channel>
 </channels>

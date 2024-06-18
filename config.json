@@ -3,10 +3,10 @@
   "whitelisted": {
     "360.tr": {
       "epg": {
-        "channel": "360",
+        "channel": "360 HD",
         "lang": "tr",
-        "site": "dsmart.com.tr",
-        "site_id": "42#58d29bb0eefad3db9c606236"
+        "site": "digiturk.com.tr",
+        "site_id": "29"
       },
       "group": "Ulusal"
     },
@@ -32,8 +32,8 @@
       "epg": {
         "channel": "Beyaz TV",
         "lang": "tr",
-        "site": "dsmart.com.tr",
-        "site_id": "39#58d29bb0eefad3db9c606298"
+        "site": "digiturk.com.tr",
+        "site_id": "36"
       },
       "m3u": {
         "group_title": "Ulusal",
@@ -237,8 +237,8 @@
       "epg": {
         "channel": "TRT Çocuk",
         "lang": "tr",
-        "site": "dsmart.com.tr",
-        "site_id": "114#58d29bb0eefad3db9c606255"
+        "site": "digiturk.com.tr",
+        "site_id": "160"
       },
       "m3u": {
         "group_title": "Çocuk",
@@ -287,8 +287,8 @@
       "epg": {
         "channel": "ULUSAL KANAL",
         "lang": "tr",
-        "site": "tvplus.com.tr",
-        "site_id": "2240"
+        "site": "digiturk.com.tr",
+        "site_id": "52"
       },
       "group": "Haber"
     }
