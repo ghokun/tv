@@ -12,10 +12,10 @@
     },
     "AHaber.tr": {
       "epg": {
-        "channel": "a Haber",
+        "channel": "A Haber HD",
         "lang": "tr",
-        "site": "dsmart.com.tr",
-        "site_id": "34#58d29bb0eefad3db9c60625e"
+        "site": "digiturk.com.tr",
+        "site_id": "32"
       },
       "group": "Haber"
     },
@@ -46,8 +46,8 @@
       "epg": {
         "channel": "CNN TÜRK",
         "lang": "tr",
-        "site": "tvplus.com.tr",
-        "site_id": "158"
+        "site": "digiturk.com.tr",
+        "site_id": "42"
       },
       "group": "Haber"
     },
@@ -64,8 +64,8 @@
       "epg": {
         "channel": "FOX",
         "lang": "tr",
-        "site": "dsmart.com.tr",
-        "site_id": "28#58d29bb0eefad3db9c6062a0"
+        "site": "digiturk.com.tr",
+        "site_id": "26"
       },
       "group": "Ulusal"
     },
@@ -73,8 +73,8 @@
       "epg": {
         "channel": "Haber Türk",
         "lang": "tr",
-        "site": "dsmart.com.tr",
-        "site_id": "32#58d29bb0eefad3db9c60629d"
+        "site": "digiturk.com.tr",
+        "site_id": "44"
       },
       "group": "Haber"
     },
@@ -82,8 +82,8 @@
       "epg": {
         "channel": "HALK TV",
         "lang": "tr",
-        "site": "tvplus.com.tr",
-        "site_id": "91"
+        "site": "digiturk.com.tr",
+        "site_id": "53"
       },
       "group": "Haber"
     },
@@ -91,8 +91,8 @@
       "epg": {
         "channel": "Kanal 7",
         "lang": "tr",
-        "site": "dsmart.com.tr",
-        "site_id": "26#58d29bb0eefad3db9c60629c"
+        "site": "digiturk.com.tr",
+        "site_id": "34"
       },
       "group": "Ulusal"
     },
@@ -100,8 +100,8 @@
       "epg": {
         "channel": "Kanal D",
         "lang": "tr",
-        "site": "dsmart.com.tr",
-        "site_id": "21#58d29bb0eefad3db9c606258"
+        "site": "digiturk.com.tr",
+        "site_id": "24"
       },
       "group": "Ulusal"
     },
@@ -109,8 +109,8 @@
       "epg": {
         "channel": "NTV",
         "lang": "tr",
-        "site": "dsmart.com.tr",
-        "site_id": "30#58d29bb0eefad3db9c60623a"
+        "site": "digiturk.com.tr",
+        "site_id": "41"
       },
       "group": "Ulusal"
     },
@@ -118,8 +118,8 @@
       "epg": {
         "channel": "NUMBER1 TV",
         "lang": "tr",
-        "site": "tvplus.com.tr",
-        "site_id": "204"
+        "site": "digiturk.com.tr",
+        "site_id": "95"
       },
       "m3u": {
         "group_title": "Müzik",
@@ -132,8 +132,8 @@
       "epg": {
         "channel": "POWER TV",
         "lang": "tr",
-        "site": "tvplus.com.tr",
-        "site_id": "172"
+        "site": "digiturk.com.tr",
+        "site_id": "100"
       },
       "group": "Müzik"
     },
@@ -141,8 +141,8 @@
       "epg": {
         "channel": "Show TV",
         "lang": "tr",
-        "site": "dsmart.com.tr",
-        "site_id": "22#58d29bb0eefad3db9c60629b"
+        "site": "digiturk.com.tr",
+        "site_id": "22"
       },
       "m3u": {
         "group_title": "Ulusal",
@@ -164,8 +164,8 @@
       "epg": {
         "channel": "Sports Tv",
         "lang": "tr",
-        "site": "dsmart.com.tr",
-        "site_id": "81#58d29bb0eefad3db9c606296"
+        "site": "turksatkablo.com.tr",
+        "site_id": "329"
       },
       "group": "Spor"
     },
@@ -173,17 +173,17 @@
       "epg": {
         "channel": "Star",
         "lang": "tr",
-        "site": "dsmart.com.tr",
-        "site_id": "23#58d29bb0eefad3db9c606259"
+        "site": "digiturk.com.tr",
+        "site_id": "27"
       },
       "group": "Ulusal"
     },
     "Teve2.tr": {
       "epg": {
-        "channel": "teve2",
+        "channel": "Teve2",
         "lang": "tr",
-        "site": "dsmart.com.tr",
-        "site_id": "20#58d29bb0eefad3db9c6062a1"
+        "site": "digiturk.com.tr",
+        "site_id": "54"
       },
       "m3u": {
         "group_title": "Ulusal",
@@ -196,8 +196,8 @@
       "epg": {
         "channel": "TLC",
         "lang": "tr",
-        "site": "dsmart.com.tr",
-        "site_id": "35#58d29bb0eefad3db9c606238"
+        "site": "digiturk.com.tr",
+        "site_id": "30"
       },
       "m3u": {
         "group_title": "Eğlence",
@@ -210,17 +210,17 @@
       "epg": {
         "channel": "TRT 1",
         "lang": "tr",
-        "site": "dsmart.com.tr",
-        "site_id": "25#58d29bb0eefad3db9c606274"
+        "site": "digiturk.com.tr",
+        "site_id": "23"
       },
       "group": "Haber"
     },
     "TRT2.tr": {
       "epg": {
-        "channel": "trt 2",
+        "channel": "TRT 2",
         "lang": "tr",
-        "site": "dsmart.com.tr",
-        "site_id": "95#58d29bb0eefad3db9c606263"
+        "site": "digiturk.com.tr",
+        "site_id": "66"
       },
       "group": "Ulusal"
     },
@@ -228,8 +228,8 @@
       "epg": {
         "channel": "TRT Belgesel",
         "lang": "tr",
-        "site": "dsmart.com.tr",
-        "site_id": "65#58d29bb0eefad3db9c6062a8"
+        "site": "digiturk.com.tr",
+        "site_id": "190"
       },
       "group": "Belgesel"
     },
@@ -251,8 +251,8 @@
       "epg": {
         "channel": "TRT Haber",
         "lang": "tr",
-        "site": "dsmart.com.tr",
-        "site_id": "31#58d29bb0eefad3db9c606289"
+        "site": "digiturk.com.tr",
+        "site_id": "33"
       },
       "group": "Haber"
     },
@@ -260,8 +260,8 @@
       "epg": {
         "channel": "TRT Türk",
         "lang": "tr",
-        "site": "dsmart.com.tr",
-        "site_id": "96#58d29bb0eefad3db9c60624c"
+        "site": "digiturk.com.tr",
+        "site_id": "61"
       },
       "group": "Haber"
     },
@@ -269,8 +269,8 @@
       "epg": {
         "channel": "TV8",
         "lang": "tr",
-        "site": "dsmart.com.tr",
-        "site_id": "27#58d29bb0eefad3db9c6062ae"
+        "site": "digiturk.com.tr",
+        "site_id": "28"
       },
       "group": "Eğlence"
     },
@@ -278,8 +278,8 @@
       "epg": {
         "channel": "TV 8,5",
         "lang": "tr",
-        "site": "dsmart.com.tr",
-        "site_id": "46#58d29bb0eefad3db9c6062cb"
+        "site": "digiturk.com.tr",
+        "site_id": "55"
       },
       "group": "Eğlence"
     },
