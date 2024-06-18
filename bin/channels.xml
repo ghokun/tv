@@ -2,7 +2,7 @@
 <channels>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="360.tr" site_id="42#58d29bb0eefad3db9c606236">360</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="AHaber.tr" site_id="34#58d29bb0eefad3db9c60625e">a Haber</channel>
-<channel site="dsmart.com.tr" lang="tr" xmltv_id="ATV.tr" site_id="24#58d29bb0eefad3db9c60625f">ATV</channel>
+<channel site="ziggogo.tv" lang="tr" xmltv_id="ATVAvrupa.tr" site_id="NL_000163_019272">ATV Avrupa</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="BeyazTV.tr" site_id="39#58d29bb0eefad3db9c606298">Beyaz TV</channel>
 <channel site="tvplus.com.tr" lang="tr" xmltv_id="CNNTurk.tr" site_id="158">CNN TÜRK</channel>
 <channel site="tv.blue.ch" lang="tr" xmltv_id="EuroD.tr" site_id="161">Euro D</channel>

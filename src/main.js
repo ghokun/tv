@@ -25,7 +25,9 @@ get(config.playlist, (res) => {
     for (const [key, value] of Object.entries(config.whitelisted)) {
       // Append filtered channel link
       if ('m3u' in value) {
-        m3u = m3u.concat(`\n${value.m3u}`);
+        m3u = m3u.concat(
+          `\n#EXTINF:-1 tvg-id="${key}" tvg-logo="${value.m3u.tvg_logo}" group-title="${value.m3u.group_title}",${value.m3u.name}\n${value.m3u.url}`
+        );
       } else if (channelMap.has(key)) {
         let item = channelMap.get(key);
         m3u = m3u.concat(
@@ -36,7 +38,9 @@ get(config.playlist, (res) => {
       }
       // Append EPG information
       if ('epg' in value) {
-        channels = channels.concat(`\n${value.epg}`);
+        channels = channels.concat(
+          `\n<channel site="${value.epg.site}" lang="${value.epg.lang}" xmltv_id="${key}" site_id="${value.epg.site_id}">${value.epg.channel}</channel>`
+        );
       }
     }
 
