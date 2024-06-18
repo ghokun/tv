@@ -18,7 +18,7 @@
 <channel id="SportsTV.tr"><display-name>Sports TV</display-name><icon src="https://i.imgur.com/tGTVcVe.jpg"/><url>https://turksatkablo.com.tr</url></channel>
 <channel id="StarTV.tr"><display-name>Star TV</display-name><icon src="https://i.imgur.com/9O3DHRB.png"/><url>https://digiturk.com.tr</url></channel>
 <channel id="Teve2.tr"><display-name>Teve2</display-name><icon src="https://i.imgur.com/rsoSLih.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="TLC.tr"><display-name>TLC</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="TLC.tr"><display-name>TLC</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png"/><url>https://turksatkablo.com.tr</url></channel>
 <channel id="TRT1.tr"><display-name>TRT 1</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png"/><url>https://digiturk.com.tr</url></channel>
 <channel id="TRT2.tr"><display-name>TRT 2</display-name><icon src="https://i.imgur.com/iOCQdyD.png"/><url>https://digiturk.com.tr</url></channel>
 <channel id="TRTBelgesel.tr"><display-name>TRT Belgesel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/512px-TRT_Belgesel_logo_%282019-%29.svg.png"/><url>https://digiturk.com.tr</url></channel>
@@ -27,7 +27,7 @@
 <channel id="TRTTurk.tr"><display-name>TRT Turk</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/512px-TRT_T%C3%BCrk_logo.svg.png"/><url>https://digiturk.com.tr</url></channel>
 <channel id="TV8.tr"><display-name>TV 8</display-name><icon src="https://i.imgur.com/DKNwiDm.png"/><url>https://digiturk.com.tr</url></channel>
 <channel id="TV85.tr"><display-name>TV 8.5</display-name><icon src="https://i.imgur.com/QuelSsc.png"/><url>https://digiturk.com.tr</url></channel>
-<channel id="UlusalKanal.tr"><display-name>Ulusal Kanal</display-name><icon src="https://i.imgur.com/EwSg612.png"/><url>https://digiturk.com.tr</url></channel>
+<channel id="UlusalKanal.tr"><display-name>Ulusal Kanal</display-name><icon src="https://i.imgur.com/EwSg612.png"/><url>https://turksatkablo.com.tr</url></channel>
 <programme start="20240617200000 +0000" stop="20240617220000 +0000" channel="360.tr"><title lang="tr">Seksenler</title></programme>
 <programme start="20240617220000 +0000" stop="20240617233000 +0000" channel="360.tr"><title lang="tr">Ben Bilirim</title></programme>
 <programme start="20240617233000 +0000" stop="20240618011500 +0000" channel="360.tr"><title lang="tr">Aileler Yarışıyor</title></programme>
@@ -732,6 +732,70 @@
 <programme start="20240619170000 +0000" stop="20240619181500 +0000" channel="Teve2.tr"><title lang="tr">Kelime Oyunu</title></programme>
 <programme start="20240619181500 +0000" stop="20240619203000 +0000" channel="Teve2.tr"><title lang="tr">Yalan Dünya</title></programme>
 <programme start="20240619203000 +0000" stop="20240619221500 +0000" channel="Teve2.tr"><title lang="tr">Kanıt</title></programme>
+<programme start="20240617210000 +0000" stop="20240617220000 +0000" channel="TLC.tr"><title lang="tr">Güzellik Kraliçesi Cinayetleri</title></programme>
+<programme start="20240617220000 +0000" stop="20240617230000 +0000" channel="TLC.tr"><title lang="tr">Kötülük Yanıbaşımda</title></programme>
+<programme start="20240617230000 +0000" stop="20240617235000 +0000" channel="TLC.tr"><title lang="tr">Kötülük Yanıbaşımda</title></programme>
+<programme start="20240617235000 +0000" stop="20240618003500 +0000" channel="TLC.tr"><title lang="tr">Acımasız Kızlar</title></programme>
+<programme start="20240618003500 +0000" stop="20240618012000 +0000" channel="TLC.tr"><title lang="tr">Acımasız Kızlar</title></programme>
+<programme start="20240618012000 +0000" stop="20240618014000 +0000" channel="TLC.tr"><title lang="tr">Meksika Evleri</title></programme>
+<programme start="20240618014000 +0000" stop="20240618020000 +0000" channel="TLC.tr"><title lang="tr">Meksika Evleri</title></programme>
+<programme start="20240618020000 +0000" stop="20240618022000 +0000" channel="TLC.tr"><title lang="tr">Emlak Avcıları Amerika</title></programme>
+<programme start="20240618022000 +0000" stop="20240618024000 +0000" channel="TLC.tr"><title lang="tr">Emlak Avcıları Amerika</title></programme>
+<programme start="20240618024000 +0000" stop="20240618030000 +0000" channel="TLC.tr"><title lang="tr">Emlak Avcıları Amerika</title></programme>
+<programme start="20240618030000 +0000" stop="20240618033000 +0000" channel="TLC.tr"><title lang="tr">Emlak Avcıları Amerika</title></programme>
+<programme start="20240618033000 +0000" stop="20240618040000 +0000" channel="TLC.tr"><title lang="tr">Emlak Avcıları Amerika</title></programme>
+<programme start="20240618040000 +0000" stop="20240618043000 +0000" channel="TLC.tr"><title lang="tr">Kumsal Evleri</title></programme>
+<programme start="20240618043000 +0000" stop="20240618050000 +0000" channel="TLC.tr"><title lang="tr">Kumsal Evleri</title></programme>
+<programme start="20240618050000 +0000" stop="20240618053000 +0000" channel="TLC.tr"><title lang="tr">Kumsal Evleri</title></programme>
+<programme start="20240618053000 +0000" stop="20240618060000 +0000" channel="TLC.tr"><title lang="tr">Kumsal Evleri</title></programme>
+<programme start="20240618060000 +0000" stop="20240618070000 +0000" channel="TLC.tr"><title lang="tr">Tatil Fiyaskoları</title></programme>
+<programme start="20240618070000 +0000" stop="20240618080000 +0000" channel="TLC.tr"><title lang="tr">Evimdeki Hazine</title></programme>
+<programme start="20240618080000 +0000" stop="20240618090000 +0000" channel="TLC.tr"><title lang="tr">Hawaii Evleri Yenileniyor</title></programme>
+<programme start="20240618090000 +0000" stop="20240618100000 +0000" channel="TLC.tr"><title lang="tr">Gölde Emlak Günlükleri</title></programme>
+<programme start="20240618100000 +0000" stop="20240618110000 +0000" channel="TLC.tr"><title lang="tr">Hayalimdeki Kumsal Evi</title></programme>
+<programme start="20240618110000 +0000" stop="20240618120000 +0000" channel="TLC.tr"><title lang="tr">Hayalimdeki Kumsal Evi</title></programme>
+<programme start="20240618120000 +0000" stop="20240618130000 +0000" channel="TLC.tr"><title lang="tr">Hayalimdeki Kumsal Evi</title></programme>
+<programme start="20240618130000 +0000" stop="20240618140000 +0000" channel="TLC.tr"><title lang="tr">Yazlıkları Değişelim</title></programme>
+<programme start="20240618140000 +0000" stop="20240618150000 +0000" channel="TLC.tr"><title lang="tr">Tatil Fiyaskoları</title></programme>
+<programme start="20240618150000 +0000" stop="20240618160000 +0000" channel="TLC.tr"><title lang="tr">Ya Sev Ya Sat</title></programme>
+<programme start="20240618160000 +0000" stop="20240618170000 +0000" channel="TLC.tr"><title lang="tr">Ya Sev Ya Sat</title></programme>
+<programme start="20240618170000 +0000" stop="20240618180000 +0000" channel="TLC.tr"><title lang="tr">Ya Sev Ya Sat</title></programme>
+<programme start="20240618180000 +0000" stop="20240618190000 +0000" channel="TLC.tr"><title lang="tr">Ya Sev Ya Sat</title></programme>
+<programme start="20240618190000 +0000" stop="20240618193000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler Sahilde</title></programme>
+<programme start="20240618193000 +0000" stop="20240618203000 +0000" channel="TLC.tr"><title lang="tr">Natalia Grace&apos;in Tuhaf Hikâyesi</title></programme>
+<programme start="20240618203000 +0000" stop="20240618213000 +0000" channel="TLC.tr"><title lang="tr">Benim Tuhaf Alışkanlığım: Şimdi Nasıllar?</title></programme>
+<programme start="20240618210000 +0000" stop="20240618220000 +0000" channel="TLC.tr"><title lang="tr">Güzellik Kraliçesi Cinayetleri</title></programme>
+<programme start="20240618220000 +0000" stop="20240618230000 +0000" channel="TLC.tr"><title lang="tr">Kötülük Yanıbaşımda</title></programme>
+<programme start="20240618230000 +0000" stop="20240618235000 +0000" channel="TLC.tr"><title lang="tr">Kötülük Yanıbaşımda</title></programme>
+<programme start="20240618235000 +0000" stop="20240619003500 +0000" channel="TLC.tr"><title lang="tr">Acımasız Kızlar</title></programme>
+<programme start="20240619003500 +0000" stop="20240619012000 +0000" channel="TLC.tr"><title lang="tr">Acımasız Kızlar</title></programme>
+<programme start="20240619012000 +0000" stop="20240619014000 +0000" channel="TLC.tr"><title lang="tr">Meksika Evleri</title></programme>
+<programme start="20240619014000 +0000" stop="20240619020000 +0000" channel="TLC.tr"><title lang="tr">Meksika Evleri</title></programme>
+<programme start="20240619020000 +0000" stop="20240619022000 +0000" channel="TLC.tr"><title lang="tr">Emlak Avcıları Amerika</title></programme>
+<programme start="20240619022000 +0000" stop="20240619024000 +0000" channel="TLC.tr"><title lang="tr">Emlak Avcıları Amerika</title></programme>
+<programme start="20240619024000 +0000" stop="20240619030000 +0000" channel="TLC.tr"><title lang="tr">Emlak Avcıları Amerika</title></programme>
+<programme start="20240619030000 +0000" stop="20240619033000 +0000" channel="TLC.tr"><title lang="tr">Emlak Avcıları Amerika</title></programme>
+<programme start="20240619033000 +0000" stop="20240619040000 +0000" channel="TLC.tr"><title lang="tr">Emlak Avcıları Amerika</title></programme>
+<programme start="20240619040000 +0000" stop="20240619043000 +0000" channel="TLC.tr"><title lang="tr">Kumsal Evleri</title></programme>
+<programme start="20240619043000 +0000" stop="20240619050000 +0000" channel="TLC.tr"><title lang="tr">Kumsal Evleri</title></programme>
+<programme start="20240619050000 +0000" stop="20240619053000 +0000" channel="TLC.tr"><title lang="tr">Kumsal Evleri</title></programme>
+<programme start="20240619053000 +0000" stop="20240619060000 +0000" channel="TLC.tr"><title lang="tr">Kumsal Evleri</title></programme>
+<programme start="20240619060000 +0000" stop="20240619070000 +0000" channel="TLC.tr"><title lang="tr">Tatil Fiyaskoları</title></programme>
+<programme start="20240619070000 +0000" stop="20240619080000 +0000" channel="TLC.tr"><title lang="tr">Evimdeki Hazine</title></programme>
+<programme start="20240619080000 +0000" stop="20240619090000 +0000" channel="TLC.tr"><title lang="tr">Hawaii Evleri Yenileniyor</title></programme>
+<programme start="20240619090000 +0000" stop="20240619100000 +0000" channel="TLC.tr"><title lang="tr">Gölde Emlak Günlükleri</title></programme>
+<programme start="20240619100000 +0000" stop="20240619110000 +0000" channel="TLC.tr"><title lang="tr">Hayalimdeki Kumsal Evi</title></programme>
+<programme start="20240619110000 +0000" stop="20240619120000 +0000" channel="TLC.tr"><title lang="tr">Hayalimdeki Kumsal Evi</title></programme>
+<programme start="20240619120000 +0000" stop="20240619130000 +0000" channel="TLC.tr"><title lang="tr">Hayalimdeki Kumsal Evi</title></programme>
+<programme start="20240619130000 +0000" stop="20240619140000 +0000" channel="TLC.tr"><title lang="tr">Yazlıkları Değişelim</title></programme>
+<programme start="20240619140000 +0000" stop="20240619150000 +0000" channel="TLC.tr"><title lang="tr">Tatil Fiyaskoları</title></programme>
+<programme start="20240619150000 +0000" stop="20240619160000 +0000" channel="TLC.tr"><title lang="tr">Ya Sev Ya Sat</title></programme>
+<programme start="20240619160000 +0000" stop="20240619170000 +0000" channel="TLC.tr"><title lang="tr">Ya Sev Ya Sat</title></programme>
+<programme start="20240619170000 +0000" stop="20240619180000 +0000" channel="TLC.tr"><title lang="tr">Ya Sev Ya Sat</title></programme>
+<programme start="20240619180000 +0000" stop="20240619190000 +0000" channel="TLC.tr"><title lang="tr">Ya Sev Ya Sat</title></programme>
+<programme start="20240619190000 +0000" stop="20240619193000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler Sahilde</title></programme>
+<programme start="20240619193000 +0000" stop="20240619203000 +0000" channel="TLC.tr"><title lang="tr">Natalia Grace&apos;in Tuhaf Hikâyesi</title></programme>
+<programme start="20240619203000 +0000" stop="20240619213000 +0000" channel="TLC.tr"><title lang="tr">Benim Tuhaf Alışkanlığım: Şimdi Nasıllar?</title></programme>
 <programme start="20240617190000 +0000" stop="20240617211500 +0000" channel="TRT1.tr"><title lang="tr">Avusturya - Fransa</title></programme>
 <programme start="20240617211500 +0000" stop="20240617235500 +0000" channel="TRT1.tr"><title lang="tr">Hanımağa&apos;nın Gelinleri</title></programme>
 <programme start="20240617235500 +0000" stop="20240618015500 +0000" channel="TRT1.tr"><title lang="tr">Kudüs Fatihi Selahaddin...</title></programme>
@@ -1221,4 +1285,28 @@
 <programme start="20240619164500 +0000" stop="20240619170000 +0000" channel="TV85.tr"><title lang="tr">Best Off</title></programme>
 <programme start="20240619170000 +0000" stop="20240619191000 +0000" channel="TV85.tr"><title lang="tr">Efsane Maçlar</title></programme>
 <programme start="20240619191000 +0000" stop="20240619213000 +0000" channel="TV85.tr"><title lang="tr">Efsane Maçlar</title></programme>
+<programme start="20240617210000 +0000" stop="20240617220000 +0000" channel="UlusalKanal.tr"><title lang="tr">-</title></programme>
+<programme start="20240617220000 +0000" stop="20240618060000 +0000" channel="UlusalKanal.tr"><title lang="tr">Tekrar Programlar</title></programme>
+<programme start="20240618060000 +0000" stop="20240618080000 +0000" channel="UlusalKanal.tr"><title lang="tr">Gün Doğdu</title></programme>
+<programme start="20240618080000 +0000" stop="20240618093000 +0000" channel="UlusalKanal.tr"><title lang="tr">Ezber Bozan</title></programme>
+<programme start="20240618093000 +0000" stop="20240618100000 +0000" channel="UlusalKanal.tr"><title lang="tr">Karikatür Hareketi</title></programme>
+<programme start="20240618100000 +0000" stop="20240618130000 +0000" channel="UlusalKanal.tr"><title lang="tr">Hafta Sonu</title></programme>
+<programme start="20240618130000 +0000" stop="20240618140000 +0000" channel="UlusalKanal.tr"><title lang="tr">Arzu ve Adem ile Pazar Sohbetleri</title></programme>
+<programme start="20240618140000 +0000" stop="20240618150000 +0000" channel="UlusalKanal.tr"><title lang="tr">Biz Yaparız</title></programme>
+<programme start="20240618150000 +0000" stop="20240618160000 +0000" channel="UlusalKanal.tr"><title lang="tr">Yurdumuzun Türküleri</title></programme>
+<programme start="20240618160000 +0000" stop="20240618173000 +0000" channel="UlusalKanal.tr"><title lang="tr">Ana Haber</title></programme>
+<programme start="20240618173000 +0000" stop="20240618183000 +0000" channel="UlusalKanal.tr"><title lang="tr">Yeni Ufuklar</title></programme>
+<programme start="20240618183000 +0000" stop="20240618210000 +0000" channel="UlusalKanal.tr"><title lang="tr">Stratejik Akıl</title></programme>
+<programme start="20240618210000 +0000" stop="20240618220000 +0000" channel="UlusalKanal.tr"><title lang="tr">-</title></programme>
+<programme start="20240618220000 +0000" stop="20240619060000 +0000" channel="UlusalKanal.tr"><title lang="tr">Tekrar Programlar</title></programme>
+<programme start="20240619060000 +0000" stop="20240619080000 +0000" channel="UlusalKanal.tr"><title lang="tr">Gün Doğdu</title></programme>
+<programme start="20240619080000 +0000" stop="20240619093000 +0000" channel="UlusalKanal.tr"><title lang="tr">Ezber Bozan</title></programme>
+<programme start="20240619093000 +0000" stop="20240619100000 +0000" channel="UlusalKanal.tr"><title lang="tr">Karikatür Hareketi</title></programme>
+<programme start="20240619100000 +0000" stop="20240619130000 +0000" channel="UlusalKanal.tr"><title lang="tr">Hafta Sonu</title></programme>
+<programme start="20240619130000 +0000" stop="20240619140000 +0000" channel="UlusalKanal.tr"><title lang="tr">Arzu ve Adem ile Pazar Sohbetleri</title></programme>
+<programme start="20240619140000 +0000" stop="20240619150000 +0000" channel="UlusalKanal.tr"><title lang="tr">Biz Yaparız</title></programme>
+<programme start="20240619150000 +0000" stop="20240619160000 +0000" channel="UlusalKanal.tr"><title lang="tr">Yurdumuzun Türküleri</title></programme>
+<programme start="20240619160000 +0000" stop="20240619173000 +0000" channel="UlusalKanal.tr"><title lang="tr">Ana Haber</title></programme>
+<programme start="20240619173000 +0000" stop="20240619183000 +0000" channel="UlusalKanal.tr"><title lang="tr">Yeni Ufuklar</title></programme>
+<programme start="20240619183000 +0000" stop="20240619210000 +0000" channel="UlusalKanal.tr"><title lang="tr">Stratejik Akıl</title></programme>
 </tv>

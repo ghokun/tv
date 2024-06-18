@@ -19,7 +19,7 @@
 <channel site="turksatkablo.com.tr" lang="tr" xmltv_id="SportsTV.tr" site_id="329">Sports Tv</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="StarTV.tr" site_id="27">Star</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="Teve2.tr" site_id="54">Teve2</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="TLC.tr" site_id="30">TLC</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="TLC.tr" site_id="1754">TLC</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="TRT1.tr" site_id="23">TRT 1</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="TRT2.tr" site_id="66">TRT 2</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="TRTBelgesel.tr" site_id="190">TRT Belgesel</channel>
@@ -28,5 +28,5 @@
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="TRTTurk.tr" site_id="61">TRT Türk</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="TV8.tr" site_id="28">TV8</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="TV85.tr" site_id="55">TV 8,5</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="UlusalKanal.tr" site_id="52">ULUSAL KANAL</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="UlusalKanal.tr" site_id="50">ULUSAL KANAL</channel>
 </channels>
