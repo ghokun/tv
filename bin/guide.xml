@@ -814,18 +814,15 @@
 <programme start="20240618190000 +0000" stop="20240618211500 +0000" channel="TRT1.tr"><title lang="tr">Portekiz - Çekya</title></programme>
 <programme start="20240618211500 +0000" stop="20240618235500 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı Kurban 2</title></programme>
 <programme start="20240618235500 +0000" stop="20240619022000 +0000" channel="TRT1.tr"><title lang="tr">Mehmed: Fetihler Sultanı</title></programme>
-<programme start="20240619022000 +0000" stop="20240619041000 +0000" channel="TRT1.tr"><title lang="tr">Alişan ile Hayata Gülümse</title></programme>
-<programme start="20240619041000 +0000" stop="20240619043500 +0000" channel="TRT1.tr"><title lang="tr">Uğurlugiller</title></programme>
-<programme start="20240619043500 +0000" stop="20240619073000 +0000" channel="TRT1.tr"><title lang="tr">Kara Tahta</title></programme>
+<programme start="20240619022000 +0000" stop="20240619033000 +0000" channel="TRT1.tr"><title lang="tr">Alişan ile Hayata Gülümse</title></programme>
+<programme start="20240619033000 +0000" stop="20240619040000 +0000" channel="TRT1.tr"><title lang="tr">Uğurlugiller</title></programme>
+<programme start="20240619040000 +0000" stop="20240619073000 +0000" channel="TRT1.tr"><title lang="tr">Kara Tahta</title></programme>
 <programme start="20240619073000 +0000" stop="20240619101500 +0000" channel="TRT1.tr"><title lang="tr">Alişan ile Hayata Gülümse</title></programme>
 <programme start="20240619101500 +0000" stop="20240619113000 +0000" channel="TRT1.tr"><title lang="tr">Seksenler</title></programme>
-<programme start="20240619113000 +0000" stop="20240619130000 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
-<programme start="20240619130000 +0000" stop="20240619150000 +0000" channel="TRT1.tr"><title lang="tr">Hırvatistan - Arnavutluk</title></programme>
-<programme start="20240619150000 +0000" stop="20240619155500 +0000" channel="TRT1.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240619155500 +0000" stop="20240619160000 +0000" channel="TRT1.tr"><title lang="tr">İddiaların Aksine</title></programme>
-<programme start="20240619160000 +0000" stop="20240619180000 +0000" channel="TRT1.tr"><title lang="tr">Almanya - Macaristan</title></programme>
-<programme start="20240619180000 +0000" stop="20240619190000 +0000" channel="TRT1.tr"><title lang="tr">Kupa Saati</title></programme>
-<programme start="20240619190000 +0000" stop="20240619211500 +0000" channel="TRT1.tr"><title lang="tr">İskoçya - İsviçre</title></programme>
+<programme start="20240619113000 +0000" stop="20240619140000 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
+<programme start="20240619140000 +0000" stop="20240619160000 +0000" channel="TRT1.tr"><title lang="tr">Lingo</title></programme>
+<programme start="20240619160000 +0000" stop="20240619165500 +0000" channel="TRT1.tr"><title lang="tr">Ana Haber</title></programme>
+<programme start="20240619165500 +0000" stop="20240619215000 +0000" channel="TRT1.tr"><title lang="tr">İddiaların Aksine</title></programme>
 <programme start="20240617201500 +0000" stop="20240617214500 +0000" channel="TRT2.tr"><title lang="tr">Konser Zamanı</title></programme>
 <programme start="20240617214500 +0000" stop="20240617221500 +0000" channel="TRT2.tr"><title lang="tr">Hayat Sanat</title></programme>
 <programme start="20240617221500 +0000" stop="20240618000000 +0000" channel="TRT2.tr"><title lang="tr">Plazaların Gölgesinde</title></programme>
@@ -1128,8 +1125,7 @@
 <programme start="20240618165500 +0000" stop="20240618170000 +0000" channel="TRTHaber.tr"><title lang="tr">Ana Habere Doğru</title></programme>
 <programme start="20240618170000 +0000" stop="20240618180000 +0000" channel="TRTHaber.tr"><title lang="tr">Ana Haber 20</title></programme>
 <programme start="20240618180000 +0000" stop="20240618210000 +0000" channel="TRTHaber.tr"><title lang="tr">Birinci Sayfa</title></programme>
-<programme start="20240618210000 +0000" stop="20240618224500 +0000" channel="TRTHaber.tr"><title lang="tr">Gece Bakışı</title></programme>
-<programme start="20240618224500 +0000" stop="20240618230000 +0000" channel="TRTHaber.tr"><title lang="tr">Sınır Hattı</title></programme>
+<programme start="20240618210000 +0000" stop="20240618230000 +0000" channel="TRTHaber.tr"><title lang="tr">Gece Bakışı</title></programme>
 <programme start="20240618230000 +0000" stop="20240619000000 +0000" channel="TRTHaber.tr"><title lang="tr">Gün Sonu</title></programme>
 <programme start="20240619000000 +0000" stop="20240619005500 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 03</title></programme>
 <programme start="20240619005500 +0000" stop="20240619010000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title></programme>
@@ -1137,19 +1133,18 @@
 <programme start="20240619020000 +0000" stop="20240619025500 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 05</title></programme>
 <programme start="20240619025500 +0000" stop="20240619030000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20240619030000 +0000" stop="20240619040000 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 06</title></programme>
-<programme start="20240619040000 +0000" stop="20240619070000 +0000" channel="TRTHaber.tr"><title lang="tr">TRT HABER&apos;de Dün Bugün</title></programme>
+<programme start="20240619040000 +0000" stop="20240619060000 +0000" channel="TRTHaber.tr"><title lang="tr">TRT HABER&apos;de Dün Bugün</title></programme>
+<programme start="20240619060000 +0000" stop="20240619070000 +0000" channel="TRTHaber.tr"><title lang="tr">Ekonomi 7/24</title></programme>
 <programme start="20240619070000 +0000" stop="20240619090000 +0000" channel="TRTHaber.tr"><title lang="tr">Satır Başı</title></programme>
-<programme start="20240619090000 +0000" stop="20240619094500 +0000" channel="TRTHaber.tr"><title lang="tr">Satır Başı</title></programme>
-<programme start="20240619094500 +0000" stop="20240619100000 +0000" channel="TRTHaber.tr"><title lang="tr">Sınır Hattı</title></programme>
-<programme start="20240619100000 +0000" stop="20240619105500 +0000" channel="TRTHaber.tr"><title lang="tr">Öğle Ana Haber</title></programme>
+<programme start="20240619090000 +0000" stop="20240619100000 +0000" channel="TRTHaber.tr"><title lang="tr">Satır Başı</title></programme>
+<programme start="20240619100000 +0000" stop="20240619105000 +0000" channel="TRTHaber.tr"><title lang="tr">Öğle Ana Haber</title></programme>
+<programme start="20240619105000 +0000" stop="20240619105500 +0000" channel="TRTHaber.tr"><title lang="tr">Piyasa Raporu</title></programme>
 <programme start="20240619105500 +0000" stop="20240619110000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20240619110000 +0000" stop="20240619120000 +0000" channel="TRTHaber.tr"><title lang="tr">Haber Ajandası</title></programme>
-<programme start="20240619120000 +0000" stop="20240619125500 +0000" channel="TRTHaber.tr"><title lang="tr">Haber Ajandası</title></programme>
-<programme start="20240619125500 +0000" stop="20240619130000 +0000" channel="TRTHaber.tr"><title lang="tr">Milli Güç Güçlü Türkiye</title></programme>
-<programme start="20240619130000 +0000" stop="20240619133000 +0000" channel="TRTHaber.tr"><title lang="tr">Günün İçinden</title></programme>
-<programme start="20240619133000 +0000" stop="20240619140000 +0000" channel="TRTHaber.tr"><title lang="tr">Bayram Dediğin</title></programme>
-<programme start="20240619140000 +0000" stop="20240619150000 +0000" channel="TRTHaber.tr"><title lang="tr">Günün İçinden</title></programme>
-<programme start="20240619150000 +0000" stop="20240619160000 +0000" channel="TRTHaber.tr"><title lang="tr">Sıcak Haber</title></programme>
+<programme start="20240619120000 +0000" stop="20240619130000 +0000" channel="TRTHaber.tr"><title lang="tr">Haber Ajandası</title></programme>
+<programme start="20240619130000 +0000" stop="20240619150000 +0000" channel="TRTHaber.tr"><title lang="tr">Günün İçinden</title></programme>
+<programme start="20240619150000 +0000" stop="20240619155500 +0000" channel="TRTHaber.tr"><title lang="tr">Sıcak Haber</title></programme>
+<programme start="20240619155500 +0000" stop="20240619160000 +0000" channel="TRTHaber.tr"><title lang="tr">Piyasa Raporu</title></programme>
 <programme start="20240619160000 +0000" stop="20240619165500 +0000" channel="TRTHaber.tr"><title lang="tr">Sıcak Haber</title></programme>
 <programme start="20240619165500 +0000" stop="20240619170000 +0000" channel="TRTHaber.tr"><title lang="tr">Ana Habere Doğru</title></programme>
 <programme start="20240619170000 +0000" stop="20240619180000 +0000" channel="TRTHaber.tr"><title lang="tr">Ana Haber 20</title></programme>
@@ -1194,19 +1189,19 @@
 <programme start="20240618214000 +0000" stop="20240618221500 +0000" channel="TRTTurk.tr"><title lang="tr">Ne Söylüyoruz Ne Dinliyoruz</title></programme>
 <programme start="20240618221500 +0000" stop="20240618224500 +0000" channel="TRTTurk.tr"><title lang="tr">Kurban</title></programme>
 <programme start="20240618224500 +0000" stop="20240618225000 +0000" channel="TRTTurk.tr"><title lang="tr">Nostalji Konserleri</title></programme>
-<programme start="20240618225000 +0000" stop="20240619010500 +0000" channel="TRTTurk.tr"><title lang="tr">Hanımağa&apos;nın Gelinleri</title></programme>
+<programme start="20240618225000 +0000" stop="20240619010500 +0000" channel="TRTTurk.tr"><title lang="tr">Türk Sineması...</title></programme>
 <programme start="20240619010500 +0000" stop="20240619011000 +0000" channel="TRTTurk.tr"><title lang="tr">Dil Pare</title></programme>
 <programme start="20240619011000 +0000" stop="20240619014500 +0000" channel="TRTTurk.tr"><title lang="tr">Rafet El Roman İle Her...</title></programme>
 <programme start="20240619014500 +0000" stop="20240619015000 +0000" channel="TRTTurk.tr"><title lang="tr">Mikrofon Senin Köln</title></programme>
 <programme start="20240619015000 +0000" stop="20240619022500 +0000" channel="TRTTurk.tr"><title lang="tr">Ne Söylüyoruz Ne Dinliyoruz</title></programme>
 <programme start="20240619022500 +0000" stop="20240619023000 +0000" channel="TRTTurk.tr"><title lang="tr">Nostalji Konserleri</title></programme>
-<programme start="20240619023000 +0000" stop="20240619035500 +0000" channel="TRTTurk.tr"><title lang="tr">Rafadan Tayfa: Galaktik Tayfa</title></programme>
+<programme start="20240619023000 +0000" stop="20240619035500 +0000" channel="TRTTurk.tr"><title lang="tr">Türk Sineması Rafadan...</title></programme>
 <programme start="20240619035500 +0000" stop="20240619035800 +0000" channel="TRTTurk.tr"><title lang="tr">Arkadaşım Kirpi</title></programme>
 <programme start="20240619035800 +0000" stop="20240619040000 +0000" channel="TRTTurk.tr"><title lang="tr">İstiklal Marşı Çocuk</title></programme>
 <programme start="20240619040000 +0000" stop="20240619042000 +0000" channel="TRTTurk.tr"><title lang="tr">Canım Kardeşim</title></programme>
 <programme start="20240619042000 +0000" stop="20240619044500 +0000" channel="TRTTurk.tr"><title lang="tr">Keloğlan</title></programme>
 <programme start="20240619044500 +0000" stop="20240619053000 +0000" channel="TRTTurk.tr"><title lang="tr">Barbaros</title></programme>
-<programme start="20240619053000 +0000" stop="20240619065500 +0000" channel="TRTTurk.tr"><title lang="tr">Aslan Hürkuş: Görevimiz...</title></programme>
+<programme start="20240619053000 +0000" stop="20240619065500 +0000" channel="TRTTurk.tr"><title lang="tr">Sinema Aslan Hürkuş:...</title></programme>
 <programme start="20240619065500 +0000" stop="20240619070000 +0000" channel="TRTTurk.tr"><title lang="tr">Mikrofon Senin Köln</title></programme>
 <programme start="20240619070000 +0000" stop="20240619071000 +0000" channel="TRTTurk.tr"><title lang="tr">Arkadaşım Kirpi</title></programme>
 <programme start="20240619071000 +0000" stop="20240619073500 +0000" channel="TRTTurk.tr"><title lang="tr">Şef Olacak Çocuk</title></programme>
@@ -1221,8 +1216,8 @@
 <programme start="20240619100000 +0000" stop="20240619104500 +0000" channel="TRTTurk.tr"><title lang="tr">Öğle Ana Haber</title></programme>
 <programme start="20240619104500 +0000" stop="20240619112000 +0000" channel="TRTTurk.tr"><title lang="tr">Rafet El Roman İle Her...</title></programme>
 <programme start="20240619112000 +0000" stop="20240619115500 +0000" channel="TRTTurk.tr"><title lang="tr">Ne Söylüyoruz Ne Dinliyoruz</title></programme>
-<programme start="20240619115500 +0000" stop="20240619131500 +0000" channel="TRTTurk.tr"><title lang="tr">Kaptan Pengu Ve Arkadaşları</title></programme>
-<programme start="20240619131500 +0000" stop="20240619145500 +0000" channel="TRTTurk.tr"><title lang="tr">Ekisporter</title></programme>
+<programme start="20240619115500 +0000" stop="20240619131500 +0000" channel="TRTTurk.tr"><title lang="tr">Türk Sineması Kaptan...</title></programme>
+<programme start="20240619131500 +0000" stop="20240619145500 +0000" channel="TRTTurk.tr"><title lang="tr">Ev Sineması Kuşağı...</title></programme>
 <programme start="20240619145500 +0000" stop="20240619150000 +0000" channel="TRTTurk.tr"><title lang="tr">Mikrofon Senin Köln</title></programme>
 <programme start="20240619150000 +0000" stop="20240619151500 +0000" channel="TRTTurk.tr"><title lang="tr">Gönlünü Ferah Tut</title></programme>
 <programme start="20240619151500 +0000" stop="20240619155000 +0000" channel="TRTTurk.tr"><title lang="tr">Kurban</title></programme>
@@ -1230,8 +1225,8 @@
 <programme start="20240619155500 +0000" stop="20240619160000 +0000" channel="TRTTurk.tr"><title lang="tr">Mikrofon Senin Köln</title></programme>
 <programme start="20240619160000 +0000" stop="20240619164500 +0000" channel="TRTTurk.tr"><title lang="tr">Sıcak Haber</title></programme>
 <programme start="20240619164500 +0000" stop="20240619170000 +0000" channel="TRTTurk.tr"><title lang="tr">Kalbin İçindekiler</title></programme>
-<programme start="20240619170000 +0000" stop="20240619184000 +0000" channel="TRTTurk.tr"><title lang="tr">Umut Apartmanı</title></programme>
-<programme start="20240619184000 +0000" stop="20240619201000 +0000" channel="TRTTurk.tr"><title lang="tr">Bünyamin</title></programme>
+<programme start="20240619170000 +0000" stop="20240619184000 +0000" channel="TRTTurk.tr"><title lang="tr">Ev Sineması Kuşağı...</title></programme>
+<programme start="20240619184000 +0000" stop="20240619201000 +0000" channel="TRTTurk.tr"><title lang="tr">Ev Sineması Kuşağı...</title></programme>
 <programme start="20240619201000 +0000" stop="20240619204500 +0000" channel="TRTTurk.tr"><title lang="tr">Rafet El Roman İle Her...</title></programme>
 <programme start="20240619204500 +0000" stop="20240619212000 +0000" channel="TRTTurk.tr"><title lang="tr">Ne Söylüyoruz Ne Dinliyoruz</title></programme>
 <programme start="20240617170000 +0000" stop="20240617211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
