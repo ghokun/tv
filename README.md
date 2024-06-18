@@ -12,8 +12,12 @@ This is an IPTV playlist and EPG generator. On a scheduled run (hourly):
 ## Usage
 
 Updated playlist and guide files are found under `bin` directory. Use the
-following links in your favorite IPTV application. I use [this one][1] with a
-Tizen TV and [this][2] for Android based systems.
+following links in your favorite IPTV application.
+
+Recommended free to use apps:
+
+1. [https://m3u-ip.tv][1] Works good on Tizen TV.
+2. [https://tivimate.com][2] Works good on Android based systems (GoogleTV, Firestick, Android).
 
 #### Playlist:
 
