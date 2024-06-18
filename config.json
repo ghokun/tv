@@ -196,8 +196,8 @@
       "epg": {
         "channel": "TLC",
         "lang": "tr",
-        "site": "digiturk.com.tr",
-        "site_id": "30"
+        "site": "turksatkablo.com.tr",
+        "site_id": "1754"
       },
       "m3u": {
         "group_title": "Eğlence",
@@ -287,8 +287,8 @@
       "epg": {
         "channel": "ULUSAL KANAL",
         "lang": "tr",
-        "site": "digiturk.com.tr",
-        "site_id": "52"
+        "site": "turksatkablo.com.tr",
+        "site_id": "50"
       },
       "group": "Haber"
     }
