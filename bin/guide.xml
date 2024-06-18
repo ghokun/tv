@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20240618">
-<channel id="360.tr"><display-name>360</display-name><icon src="https://i.imgur.com/agn47sQ.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="360.tr"><display-name>360</display-name><icon src="https://i.imgur.com/agn47sQ.png"/><url>https://digiturk.com.tr</url></channel>
 <channel id="AHaber.tr"><display-name>A Haber</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="ATVAvrupa.tr"><display-name>ATV Avrupa</display-name><icon src="https://i.imgur.com/0tm3tui.png"/><url>https://ziggogo.tv</url></channel>
-<channel id="BeyazTV.tr"><display-name>Beyaz TV</display-name><icon src="https://i.imgur.com/uykIdML.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="BeyazTV.tr"><display-name>Beyaz TV</display-name><icon src="https://i.imgur.com/uykIdML.png"/><url>https://digiturk.com.tr</url></channel>
 <channel id="CNNTurk.tr"><display-name>CNN Turk</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/512px-CNN_T%C3%BCrk_logo.svg.png"/><url>https://tvplus.com.tr</url></channel>
 <channel id="EuroD.tr"><display-name>Euro D</display-name><icon src="https://i.imgur.com/x9kHsXo.png"/><url>https://tv.blue.ch</url></channel>
 <channel id="Fox.tr"><display-name>Fox</display-name><icon src="https://i.imgur.com/homSiDa.png"/><url>https://dsmart.com.tr</url></channel>
@@ -22,12 +22,42 @@
 <channel id="TRT1.tr"><display-name>TRT 1</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="TRT2.tr"><display-name>TRT 2</display-name><icon src="https://i.imgur.com/iOCQdyD.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="TRTBelgesel.tr"><display-name>TRT Belgesel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/512px-TRT_Belgesel_logo_%282019-%29.svg.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="TRTCocuk.tr"><display-name>TRT Cocuk</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="TRTCocuk.tr"><display-name>TRT Cocuk</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png"/><url>https://digiturk.com.tr</url></channel>
 <channel id="TRTHaber.tr"><display-name>TRT Haber</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/512px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="TRTTurk.tr"><display-name>TRT Turk</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/512px-TRT_T%C3%BCrk_logo.svg.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="TV8.tr"><display-name>TV 8</display-name><icon src="https://i.imgur.com/DKNwiDm.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="TV85.tr"><display-name>TV 8.5</display-name><icon src="https://i.imgur.com/QuelSsc.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="UlusalKanal.tr"><display-name>Ulusal Kanal</display-name><icon src="https://i.imgur.com/EwSg612.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="UlusalKanal.tr"><display-name>Ulusal Kanal</display-name><icon src="https://i.imgur.com/EwSg612.png"/><url>https://digiturk.com.tr</url></channel>
+<programme start="20240617200000 +0000" stop="20240617220000 +0000" channel="360.tr"><title lang="tr">Seksenler</title></programme>
+<programme start="20240617220000 +0000" stop="20240617233000 +0000" channel="360.tr"><title lang="tr">Ben Bilirim</title></programme>
+<programme start="20240617233000 +0000" stop="20240618011500 +0000" channel="360.tr"><title lang="tr">Aileler Yarışıyor</title></programme>
+<programme start="20240618011500 +0000" stop="20240618024500 +0000" channel="360.tr"><title lang="tr">Aşık Oldum</title></programme>
+<programme start="20240618024500 +0000" stop="20240618043000 +0000" channel="360.tr"><title lang="tr">Asrın Kadını</title></programme>
+<programme start="20240618043000 +0000" stop="20240618044500 +0000" channel="360.tr"><title lang="tr">Sağlık Olsun</title></programme>
+<programme start="20240618044500 +0000" stop="20240618063000 +0000" channel="360.tr"><title lang="tr">Zehra</title></programme>
+<programme start="20240618063000 +0000" stop="20240618084500 +0000" channel="360.tr"><title lang="tr">Seksenler</title></programme>
+<programme start="20240618084500 +0000" stop="20240618104500 +0000" channel="360.tr"><title lang="tr">Bebek Yüzlü</title></programme>
+<programme start="20240618104500 +0000" stop="20240618123000 +0000" channel="360.tr"><title lang="tr">Niyet</title></programme>
+<programme start="20240618123000 +0000" stop="20240618143000 +0000" channel="360.tr"><title lang="tr">Aileler Yarışıyor</title></programme>
+<programme start="20240618143000 +0000" stop="20240618160000 +0000" channel="360.tr"><title lang="tr">Umut Dünyası</title></programme>
+<programme start="20240618160000 +0000" stop="20240618180000 +0000" channel="360.tr"><title lang="tr">Ben Bilirim</title></programme>
+<programme start="20240618180000 +0000" stop="20240618200000 +0000" channel="360.tr"><title lang="tr">Aileler Yarışıyor</title></programme>
+<programme start="20240618200000 +0000" stop="20240618220000 +0000" channel="360.tr"><title lang="tr">Seksenler</title></programme>
+<programme start="20240618200000 +0000" stop="20240618220000 +0000" channel="360.tr"><title lang="tr">Seksenler</title></programme>
+<programme start="20240618220000 +0000" stop="20240618233000 +0000" channel="360.tr"><title lang="tr">Ben Bilirim</title></programme>
+<programme start="20240618233000 +0000" stop="20240619011500 +0000" channel="360.tr"><title lang="tr">Aileler Yarışıyor</title></programme>
+<programme start="20240619011500 +0000" stop="20240619024500 +0000" channel="360.tr"><title lang="tr">Umut Dünyası</title></programme>
+<programme start="20240619024500 +0000" stop="20240619043000 +0000" channel="360.tr"><title lang="tr">Niyet</title></programme>
+<programme start="20240619043000 +0000" stop="20240619044500 +0000" channel="360.tr"><title lang="tr">Sağlık Olsun</title></programme>
+<programme start="20240619044500 +0000" stop="20240619063000 +0000" channel="360.tr"><title lang="tr">Bebek Yüzlü</title></programme>
+<programme start="20240619063000 +0000" stop="20240619084500 +0000" channel="360.tr"><title lang="tr">Seksenler</title></programme>
+<programme start="20240619084500 +0000" stop="20240619104500 +0000" channel="360.tr"><title lang="tr">Yaban</title></programme>
+<programme start="20240619104500 +0000" stop="20240619123000 +0000" channel="360.tr"><title lang="tr">Şoför</title></programme>
+<programme start="20240619123000 +0000" stop="20240619143000 +0000" channel="360.tr"><title lang="tr">Aileler Yarışıyor</title></programme>
+<programme start="20240619143000 +0000" stop="20240619160000 +0000" channel="360.tr"><title lang="tr">Beyaz Güller</title></programme>
+<programme start="20240619160000 +0000" stop="20240619180000 +0000" channel="360.tr"><title lang="tr">Ben Bilirim</title></programme>
+<programme start="20240619180000 +0000" stop="20240619200000 +0000" channel="360.tr"><title lang="tr">Aileler Yarışıyor</title></programme>
+<programme start="20240619200000 +0000" stop="20240619220000 +0000" channel="360.tr"><title lang="tr">Seksenler</title></programme>
 <programme start="20240617210000 +0000" stop="20240617230000 +0000" channel="AHaber.tr"><title lang="tr">Gece Ajansı</title></programme>
 <programme start="20240617230000 +0000" stop="20240618020000 +0000" channel="AHaber.tr"><title lang="tr">A Haber Gece</title></programme>
 <programme start="20240618020000 +0000" stop="20240618030000 +0000" channel="AHaber.tr"><title lang="tr">Ajans Yeni Gün</title></programme>
@@ -84,6 +114,36 @@
 <programme start="20240619185000 +0000" stop="20240619215000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Alan</title><category lang="tr">Competition reality</category><category lang="tr">Entertainment</category></programme>
 <programme start="20240619215000 +0000" stop="20240619225000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Ana Haber BÜltenİ</title><category lang="tr">News</category></programme>
 <programme start="20240619225000 +0000" stop="20240620010000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Kötü Çocuk</title><desc lang="tr">Kayla, büyürken görmedigi babasinin yanina, onun zorlamasiyla egitim için gelir. Problem çikarip, eski hayatina geri dönmek için okulun kötü çocugu Meriç ile yakinlasir, ancak isler farkli yönde gelisecektir.</desc><credits><actor>Tolga Saritas</actor><actor>Afra Saraçoglu</actor><actor>Sarp Akkaya</actor><actor>Tülin Özen</actor><actor>Can Sipahi</actor><actor>Aytaç Sasmaz</actor><actor>Buçe Buse Kahraman</actor></credits><category lang="tr">Film</category><category lang="tr">Romance</category></programme>
+<programme start="20240617200000 +0000" stop="20240617221500 +0000" channel="BeyazTV.tr"><title lang="tr">Aile Babası</title></programme>
+<programme start="20240617221500 +0000" stop="20240618001500 +0000" channel="BeyazTV.tr"><title lang="tr">Kardaki Yaratık: Yeti</title></programme>
+<programme start="20240618001500 +0000" stop="20240618023000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
+<programme start="20240618023000 +0000" stop="20240618030000 +0000" channel="BeyazTV.tr"><title lang="tr">Belma Belen&apos;le Geziyoruz</title></programme>
+<programme start="20240618030000 +0000" stop="20240618043000 +0000" channel="BeyazTV.tr"><title lang="tr">Aile Babası</title></programme>
+<programme start="20240618043000 +0000" stop="20240618054500 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Ana Haber</title></programme>
+<programme start="20240618054500 +0000" stop="20240618080000 +0000" channel="BeyazTV.tr"><title lang="tr">Söylemezsem Olmaz</title></programme>
+<programme start="20240618080000 +0000" stop="20240618100000 +0000" channel="BeyazTV.tr"><title lang="tr">Nur Viral&apos;le Hayatta Her...</title></programme>
+<programme start="20240618100000 +0000" stop="20240618120000 +0000" channel="BeyazTV.tr"><title lang="tr">Esra Ezmeci ile Yeni Baştan</title></programme>
+<programme start="20240618120000 +0000" stop="20240618132000 +0000" channel="BeyazTV.tr"><title lang="tr">Nermin&apos;in Enfes Mutfağı</title></programme>
+<programme start="20240618132000 +0000" stop="20240618153000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
+<programme start="20240618153000 +0000" stop="20240618163000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Ana Haber</title></programme>
+<programme start="20240618163000 +0000" stop="20240618183000 +0000" channel="BeyazTV.tr"><title lang="tr">Kanunsuzlar</title></programme>
+<programme start="20240618183000 +0000" stop="20240618203000 +0000" channel="BeyazTV.tr"><title lang="tr">Büyük Felaket: Asit Yağmuru</title></programme>
+<programme start="20240618203000 +0000" stop="20240618221500 +0000" channel="BeyazTV.tr"><title lang="tr">Kırmızı Beyaz Futbol</title></programme>
+<programme start="20240618203000 +0000" stop="20240618221500 +0000" channel="BeyazTV.tr"><title lang="tr">Kırmızı Beyaz Futbol</title></programme>
+<programme start="20240618221500 +0000" stop="20240619001500 +0000" channel="BeyazTV.tr"><title lang="tr">Kanunsuzlar</title></programme>
+<programme start="20240619001500 +0000" stop="20240619023000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
+<programme start="20240619023000 +0000" stop="20240619030000 +0000" channel="BeyazTV.tr"><title lang="tr">Belma Belen&apos;le Geziyoruz</title></programme>
+<programme start="20240619030000 +0000" stop="20240619043000 +0000" channel="BeyazTV.tr"><title lang="tr">Büyük Felaket: Asit Yağmuru</title></programme>
+<programme start="20240619043000 +0000" stop="20240619054500 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Ana Haber</title></programme>
+<programme start="20240619054500 +0000" stop="20240619080000 +0000" channel="BeyazTV.tr"><title lang="tr">Söylemezsem Olmaz</title></programme>
+<programme start="20240619080000 +0000" stop="20240619100000 +0000" channel="BeyazTV.tr"><title lang="tr">Nur Viral&apos;le Hayatta Her...</title></programme>
+<programme start="20240619100000 +0000" stop="20240619120000 +0000" channel="BeyazTV.tr"><title lang="tr">Esra Ezmeci ile Yeni Baştan</title></programme>
+<programme start="20240619120000 +0000" stop="20240619132000 +0000" channel="BeyazTV.tr"><title lang="tr">Nermin&apos;in Enfes Mutfağı</title></programme>
+<programme start="20240619132000 +0000" stop="20240619153000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
+<programme start="20240619153000 +0000" stop="20240619163000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Ana Haber</title></programme>
+<programme start="20240619163000 +0000" stop="20240619183000 +0000" channel="BeyazTV.tr"><title lang="tr">Güzel Dedektif</title></programme>
+<programme start="20240619183000 +0000" stop="20240619203000 +0000" channel="BeyazTV.tr"><title lang="tr">Mavi Korku</title></programme>
+<programme start="20240619203000 +0000" stop="20240619221500 +0000" channel="BeyazTV.tr"><title lang="tr">Güzel Dedektif</title></programme>
 <programme start="20240617220000 +0000" stop="20240618004500 +0000" channel="EuroD.tr"><title lang="tr">cok akustik</title><icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/300.311_genre_w1920.webp"/></programme>
 <programme start="20240618004500 +0000" stop="20240618030000 +0000" channel="EuroD.tr"><title lang="tr">Günesin Kizlari</title><desc lang="tr">Günes, 35 yasinda, 3 cocuklu bir edebiyat ögretmenidir. Günes Istanbul&apos;lu bir is adamina asik olur. Çiftin birliktelikleri ilerledikçe birbirinin sirlarini ögrenmeye baslar ve islerin disaridan göründügü kadar mükemmel olmadigini farkederler.</desc><icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12241854ih10aa_Iconic_w1920.webp"/></programme>
 <programme start="20240618030000 +0000" stop="20240618040000 +0000" channel="EuroD.tr"><title lang="tr">Tatli Intikam</title><desc lang="tr">Askta bir türlü yüzü gülmeyen Pelin, nihayet seytanin bacagini kirar ve hayallerindeki erkekle evlenmeye karar verir. Ancak müstakbel damat Tolga, nikah günü ortadan kaybolur.</desc><icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12727047ih10aa_Iconic_w1920.webp"/></programme>
@@ -603,6 +663,136 @@
 <programme start="20240619160000 +0000" stop="20240619180000 +0000" channel="TRT1.tr"><title lang="tr">UEFA EURO 2024 Avrupa Şampiyonası Grup Eleme Maçları &quot;Almanya-Macaristan&quot;</title><category lang="tr">Haber - Spor</category></programme>
 <programme start="20240619180000 +0000" stop="20240619190000 +0000" channel="TRT1.tr"><title lang="tr">Kupa Saati</title><category lang="tr">Haber - Spor</category></programme>
 <programme start="20240619190000 +0000" stop="20240619211500 +0000" channel="TRT1.tr"><title lang="tr">UEFA EURO 2024 Avrupa Şampiyonası Grup Eleme Maçları &quot;İskoçya-İsviçre&quot;</title><category lang="tr">Haber - Spor</category></programme>
+<programme start="20240617205000 +0000" stop="20240617211500 +0000" channel="TRTCocuk.tr"><title lang="tr">Variloto</title></programme>
+<programme start="20240617211500 +0000" stop="20240617213500 +0000" channel="TRTCocuk.tr"><title lang="tr">Maysa ve Bulut</title></programme>
+<programme start="20240617213500 +0000" stop="20240617220000 +0000" channel="TRTCocuk.tr"><title lang="tr">Aslan</title></programme>
+<programme start="20240617220000 +0000" stop="20240617222500 +0000" channel="TRTCocuk.tr"><title lang="tr">Elif ve Arkadaşları</title></programme>
+<programme start="20240617222500 +0000" stop="20240617225000 +0000" channel="TRTCocuk.tr"><title lang="tr">Yılkı Atı - Doru</title></programme>
+<programme start="20240617225000 +0000" stop="20240617230500 +0000" channel="TRTCocuk.tr"><title lang="tr">Kaptan Pengu Ve Arkadaşları</title></programme>
+<programme start="20240617230500 +0000" stop="20240617233000 +0000" channel="TRTCocuk.tr"><title lang="tr">Ege ile Gaga</title></programme>
+<programme start="20240617233000 +0000" stop="20240617235500 +0000" channel="TRTCocuk.tr"><title lang="tr">Bulmaca Kulesi</title></programme>
+<programme start="20240617235500 +0000" stop="20240618002000 +0000" channel="TRTCocuk.tr"><title lang="tr">Erdem</title></programme>
+<programme start="20240618002000 +0000" stop="20240618004500 +0000" channel="TRTCocuk.tr"><title lang="tr">Aslan</title></programme>
+<programme start="20240618004500 +0000" stop="20240618011000 +0000" channel="TRTCocuk.tr"><title lang="tr">Doru</title></programme>
+<programme start="20240618011000 +0000" stop="20240618013500 +0000" channel="TRTCocuk.tr"><title lang="tr">Elif ve Arkadaşları</title></programme>
+<programme start="20240618013500 +0000" stop="20240618020000 +0000" channel="TRTCocuk.tr"><title lang="tr">Maysa ve Bulut</title></programme>
+<programme start="20240618020000 +0000" stop="20240618022500 +0000" channel="TRTCocuk.tr"><title lang="tr">Nasreddin Hoca Zaman Yolcusu</title></programme>
+<programme start="20240618022500 +0000" stop="20240618025000 +0000" channel="TRTCocuk.tr"><title lang="tr">Kare</title></programme>
+<programme start="20240618025000 +0000" stop="20240618030500 +0000" channel="TRTCocuk.tr"><title lang="tr">Kaptan Pengu Ve Arkadaşları</title></programme>
+<programme start="20240618030500 +0000" stop="20240618032700 +0000" channel="TRTCocuk.tr"><title lang="tr">İbi</title></programme>
+<programme start="20240618032700 +0000" stop="20240618033000 +0000" channel="TRTCocuk.tr"><title lang="tr">İstiklal Marşı</title></programme>
+<programme start="20240618033000 +0000" stop="20240618035500 +0000" channel="TRTCocuk.tr"><title lang="tr">Ciciki</title></programme>
+<programme start="20240618035500 +0000" stop="20240618042000 +0000" channel="TRTCocuk.tr"><title lang="tr">Ege ile Gaga</title></programme>
+<programme start="20240618042000 +0000" stop="20240618044000 +0000" channel="TRTCocuk.tr"><title lang="tr">Kare</title></programme>
+<programme start="20240618044000 +0000" stop="20240618050500 +0000" channel="TRTCocuk.tr"><title lang="tr">Elif ve Arkadaşları</title></programme>
+<programme start="20240618050500 +0000" stop="20240618053000 +0000" channel="TRTCocuk.tr"><title lang="tr">Akıllı Tavşan Momo</title></programme>
+<programme start="20240618053000 +0000" stop="20240618054000 +0000" channel="TRTCocuk.tr"><title lang="tr">El Feneri</title></programme>
+<programme start="20240618054000 +0000" stop="20240618060500 +0000" channel="TRTCocuk.tr"><title lang="tr">Yade Yade</title></programme>
+<programme start="20240618060500 +0000" stop="20240618063000 +0000" channel="TRTCocuk.tr"><title lang="tr">Çocukçuf</title></programme>
+<programme start="20240618063000 +0000" stop="20240618064500 +0000" channel="TRTCocuk.tr"><title lang="tr">Katuri</title></programme>
+<programme start="20240618064500 +0000" stop="20240618070000 +0000" channel="TRTCocuk.tr"><title lang="tr">Eymen İle Çimen</title></programme>
+<programme start="20240618070000 +0000" stop="20240618071500 +0000" channel="TRTCocuk.tr"><title lang="tr">Niloya</title></programme>
+<programme start="20240618071500 +0000" stop="20240618073500 +0000" channel="TRTCocuk.tr"><title lang="tr">Ege ile Gaga</title></programme>
+<programme start="20240618073500 +0000" stop="20240618080500 +0000" channel="TRTCocuk.tr"><title lang="tr">Kaptan Pengu Ve Arkadaşları</title></programme>
+<programme start="20240618080500 +0000" stop="20240618081500 +0000" channel="TRTCocuk.tr"><title lang="tr">Elif ve Arkadaşları</title></programme>
+<programme start="20240618081500 +0000" stop="20240618083000 +0000" channel="TRTCocuk.tr"><title lang="tr">Dedektif Reptır</title></programme>
+<programme start="20240618083000 +0000" stop="20240618084500 +0000" channel="TRTCocuk.tr"><title lang="tr">Katuri</title></programme>
+<programme start="20240618084500 +0000" stop="20240618085500 +0000" channel="TRTCocuk.tr"><title lang="tr">Dijital Tayfa</title></programme>
+<programme start="20240618085500 +0000" stop="20240618092000 +0000" channel="TRTCocuk.tr"><title lang="tr">Maysa ve Bulut</title></programme>
+<programme start="20240618092000 +0000" stop="20240618094500 +0000" channel="TRTCocuk.tr"><title lang="tr">Heidi</title></programme>
+<programme start="20240618094500 +0000" stop="20240618101000 +0000" channel="TRTCocuk.tr"><title lang="tr">İbi</title></programme>
+<programme start="20240618101000 +0000" stop="20240618103000 +0000" channel="TRTCocuk.tr"><title lang="tr">İbi</title></programme>
+<programme start="20240618103000 +0000" stop="20240618105500 +0000" channel="TRTCocuk.tr"><title lang="tr">Nils Ve Uçan Kaz</title></programme>
+<programme start="20240618105500 +0000" stop="20240618112000 +0000" channel="TRTCocuk.tr"><title lang="tr">Aslan</title></programme>
+<programme start="20240618112000 +0000" stop="20240618114500 +0000" channel="TRTCocuk.tr"><title lang="tr">Z Takımı</title></programme>
+<programme start="20240618114500 +0000" stop="20240618120000 +0000" channel="TRTCocuk.tr"><title lang="tr">Kaptan Pengu Ve Arkadaşları</title></programme>
+<programme start="20240618120000 +0000" stop="20240618121500 +0000" channel="TRTCocuk.tr"><title lang="tr">Yılkı Atı - Doru</title></programme>
+<programme start="20240618121500 +0000" stop="20240618123000 +0000" channel="TRTCocuk.tr"><title lang="tr">Pırıl</title></programme>
+<programme start="20240618123000 +0000" stop="20240618130000 +0000" channel="TRTCocuk.tr"><title lang="tr">Rafadan Tayfa</title></programme>
+<programme start="20240618130000 +0000" stop="20240618132500 +0000" channel="TRTCocuk.tr"><title lang="tr">Kehribar İle Boncuk</title></programme>
+<programme start="20240618132500 +0000" stop="20240618135000 +0000" channel="TRTCocuk.tr"><title lang="tr">Nasreddin Hoca Zaman Yolcusu</title></programme>
+<programme start="20240618135000 +0000" stop="20240618141500 +0000" channel="TRTCocuk.tr"><title lang="tr">İbi</title></programme>
+<programme start="20240618141500 +0000" stop="20240618144000 +0000" channel="TRTCocuk.tr"><title lang="tr">Dennis ve Gnasher</title></programme>
+<programme start="20240618144000 +0000" stop="20240618150500 +0000" channel="TRTCocuk.tr"><title lang="tr">Max Ve Maestro</title></programme>
+<programme start="20240618150500 +0000" stop="20240618153000 +0000" channel="TRTCocuk.tr"><title lang="tr">Nils Ve Uçan Kaz</title></programme>
+<programme start="20240618153000 +0000" stop="20240618155500 +0000" channel="TRTCocuk.tr"><title lang="tr">Heidi</title></programme>
+<programme start="20240618155500 +0000" stop="20240618162000 +0000" channel="TRTCocuk.tr"><title lang="tr">Rüzgar Gülü</title></programme>
+<programme start="20240618162000 +0000" stop="20240618165000 +0000" channel="TRTCocuk.tr"><title lang="tr">Rafadan Tayfa</title></programme>
+<programme start="20240618165000 +0000" stop="20240618170500 +0000" channel="TRTCocuk.tr"><title lang="tr">Haberin Olsun</title></programme>
+<programme start="20240618170500 +0000" stop="20240618180500 +0000" channel="TRTCocuk.tr"><title lang="tr">Sinema Doru: Macera Adası</title></programme>
+<programme start="20240618180500 +0000" stop="20240618182000 +0000" channel="TRTCocuk.tr"><title lang="tr">Vikingler</title></programme>
+<programme start="20240618182000 +0000" stop="20240618183000 +0000" channel="TRTCocuk.tr"><title lang="tr">Kaf Dağı Masalları</title></programme>
+<programme start="20240618183000 +0000" stop="20240618184500 +0000" channel="TRTCocuk.tr"><title lang="tr">Dijital Tayfa</title></programme>
+<programme start="20240618184500 +0000" stop="20240618191000 +0000" channel="TRTCocuk.tr"><title lang="tr">Heidi</title></programme>
+<programme start="20240618191000 +0000" stop="20240618193500 +0000" channel="TRTCocuk.tr"><title lang="tr">Babamın Gölgesi 1915</title></programme>
+<programme start="20240618193500 +0000" stop="20240618200000 +0000" channel="TRTCocuk.tr"><title lang="tr">Rafadan Tayfa</title></programme>
+<programme start="20240618200000 +0000" stop="20240618202500 +0000" channel="TRTCocuk.tr"><title lang="tr">İbi</title></programme>
+<programme start="20240618202500 +0000" stop="20240618205000 +0000" channel="TRTCocuk.tr"><title lang="tr">Nasreddin Hoca Zaman Yolcusu</title></programme>
+<programme start="20240618205000 +0000" stop="20240618211500 +0000" channel="TRTCocuk.tr"><title lang="tr">Variloto</title></programme>
+<programme start="20240618205000 +0000" stop="20240618211500 +0000" channel="TRTCocuk.tr"><title lang="tr">Variloto</title></programme>
+<programme start="20240618211500 +0000" stop="20240618213500 +0000" channel="TRTCocuk.tr"><title lang="tr">Maysa ve Bulut</title></programme>
+<programme start="20240618213500 +0000" stop="20240618220000 +0000" channel="TRTCocuk.tr"><title lang="tr">Aslan</title></programme>
+<programme start="20240618220000 +0000" stop="20240618222500 +0000" channel="TRTCocuk.tr"><title lang="tr">Elif ve Arkadaşları</title></programme>
+<programme start="20240618222500 +0000" stop="20240618225000 +0000" channel="TRTCocuk.tr"><title lang="tr">Yılkı Atı - Doru</title></programme>
+<programme start="20240618225000 +0000" stop="20240618230500 +0000" channel="TRTCocuk.tr"><title lang="tr">Kaptan Pengu Ve Arkadaşları</title></programme>
+<programme start="20240618230500 +0000" stop="20240618233000 +0000" channel="TRTCocuk.tr"><title lang="tr">Ege ile Gaga</title></programme>
+<programme start="20240618233000 +0000" stop="20240618235500 +0000" channel="TRTCocuk.tr"><title lang="tr">Bulmaca Kulesi</title></programme>
+<programme start="20240618235500 +0000" stop="20240619002000 +0000" channel="TRTCocuk.tr"><title lang="tr">Erdem</title></programme>
+<programme start="20240619002000 +0000" stop="20240619004500 +0000" channel="TRTCocuk.tr"><title lang="tr">Aslan</title></programme>
+<programme start="20240619004500 +0000" stop="20240619011000 +0000" channel="TRTCocuk.tr"><title lang="tr">Doru</title></programme>
+<programme start="20240619011000 +0000" stop="20240619013500 +0000" channel="TRTCocuk.tr"><title lang="tr">Elif ve Arkadaşları</title></programme>
+<programme start="20240619013500 +0000" stop="20240619020000 +0000" channel="TRTCocuk.tr"><title lang="tr">Maysa ve Bulut</title></programme>
+<programme start="20240619020000 +0000" stop="20240619022500 +0000" channel="TRTCocuk.tr"><title lang="tr">Nasreddin Hoca Zaman Yolcusu</title></programme>
+<programme start="20240619022500 +0000" stop="20240619025000 +0000" channel="TRTCocuk.tr"><title lang="tr">Kare</title></programme>
+<programme start="20240619025000 +0000" stop="20240619030500 +0000" channel="TRTCocuk.tr"><title lang="tr">Kaptan Pengu Ve Arkadaşları</title></programme>
+<programme start="20240619030500 +0000" stop="20240619032700 +0000" channel="TRTCocuk.tr"><title lang="tr">İbi</title></programme>
+<programme start="20240619032700 +0000" stop="20240619033000 +0000" channel="TRTCocuk.tr"><title lang="tr">İstiklal Marşı</title></programme>
+<programme start="20240619033000 +0000" stop="20240619035500 +0000" channel="TRTCocuk.tr"><title lang="tr">Ciciki</title></programme>
+<programme start="20240619035500 +0000" stop="20240619042000 +0000" channel="TRTCocuk.tr"><title lang="tr">Ege ile Gaga</title></programme>
+<programme start="20240619042000 +0000" stop="20240619044000 +0000" channel="TRTCocuk.tr"><title lang="tr">Kare</title></programme>
+<programme start="20240619044000 +0000" stop="20240619050500 +0000" channel="TRTCocuk.tr"><title lang="tr">Elif ve Arkadaşları</title></programme>
+<programme start="20240619050500 +0000" stop="20240619053000 +0000" channel="TRTCocuk.tr"><title lang="tr">Akıllı Tavşan Momo</title></programme>
+<programme start="20240619053000 +0000" stop="20240619054000 +0000" channel="TRTCocuk.tr"><title lang="tr">El Feneri</title></programme>
+<programme start="20240619054000 +0000" stop="20240619060500 +0000" channel="TRTCocuk.tr"><title lang="tr">Yade Yade</title></programme>
+<programme start="20240619060500 +0000" stop="20240619063000 +0000" channel="TRTCocuk.tr"><title lang="tr">Çocukçuf</title></programme>
+<programme start="20240619063000 +0000" stop="20240619064500 +0000" channel="TRTCocuk.tr"><title lang="tr">Katuri</title></programme>
+<programme start="20240619064500 +0000" stop="20240619070000 +0000" channel="TRTCocuk.tr"><title lang="tr">Eymen İle Çimen</title></programme>
+<programme start="20240619070000 +0000" stop="20240619071500 +0000" channel="TRTCocuk.tr"><title lang="tr">Niloya</title></programme>
+<programme start="20240619071500 +0000" stop="20240619073500 +0000" channel="TRTCocuk.tr"><title lang="tr">Ege ile Gaga</title></programme>
+<programme start="20240619073500 +0000" stop="20240619080500 +0000" channel="TRTCocuk.tr"><title lang="tr">Kaptan Pengu Ve Arkadaşları</title></programme>
+<programme start="20240619080500 +0000" stop="20240619081500 +0000" channel="TRTCocuk.tr"><title lang="tr">Elif ve Arkadaşları</title></programme>
+<programme start="20240619081500 +0000" stop="20240619083000 +0000" channel="TRTCocuk.tr"><title lang="tr">Dedektif Reptır</title></programme>
+<programme start="20240619083000 +0000" stop="20240619084500 +0000" channel="TRTCocuk.tr"><title lang="tr">Katuri</title></programme>
+<programme start="20240619084500 +0000" stop="20240619085500 +0000" channel="TRTCocuk.tr"><title lang="tr">Dijital Tayfa</title></programme>
+<programme start="20240619085500 +0000" stop="20240619092000 +0000" channel="TRTCocuk.tr"><title lang="tr">Maysa ve Bulut</title></programme>
+<programme start="20240619092000 +0000" stop="20240619094500 +0000" channel="TRTCocuk.tr"><title lang="tr">Heidi</title></programme>
+<programme start="20240619094500 +0000" stop="20240619101000 +0000" channel="TRTCocuk.tr"><title lang="tr">İbi</title></programme>
+<programme start="20240619101000 +0000" stop="20240619103000 +0000" channel="TRTCocuk.tr"><title lang="tr">İbi</title></programme>
+<programme start="20240619103000 +0000" stop="20240619105500 +0000" channel="TRTCocuk.tr"><title lang="tr">Nils Ve Uçan Kaz</title></programme>
+<programme start="20240619105500 +0000" stop="20240619112000 +0000" channel="TRTCocuk.tr"><title lang="tr">Aslan</title></programme>
+<programme start="20240619112000 +0000" stop="20240619114500 +0000" channel="TRTCocuk.tr"><title lang="tr">Z Takımı</title></programme>
+<programme start="20240619114500 +0000" stop="20240619120000 +0000" channel="TRTCocuk.tr"><title lang="tr">Kaptan Pengu Ve Arkadaşları</title></programme>
+<programme start="20240619120000 +0000" stop="20240619121500 +0000" channel="TRTCocuk.tr"><title lang="tr">Yılkı Atı - Doru</title></programme>
+<programme start="20240619121500 +0000" stop="20240619123000 +0000" channel="TRTCocuk.tr"><title lang="tr">Pırıl</title></programme>
+<programme start="20240619123000 +0000" stop="20240619130000 +0000" channel="TRTCocuk.tr"><title lang="tr">Rafadan Tayfa</title></programme>
+<programme start="20240619130000 +0000" stop="20240619132500 +0000" channel="TRTCocuk.tr"><title lang="tr">Kehribar İle Boncuk</title></programme>
+<programme start="20240619132500 +0000" stop="20240619135000 +0000" channel="TRTCocuk.tr"><title lang="tr">Nasreddin Hoca Zaman Yolcusu</title></programme>
+<programme start="20240619135000 +0000" stop="20240619141500 +0000" channel="TRTCocuk.tr"><title lang="tr">İbi</title></programme>
+<programme start="20240619141500 +0000" stop="20240619144000 +0000" channel="TRTCocuk.tr"><title lang="tr">Dennis ve Gnasher</title></programme>
+<programme start="20240619144000 +0000" stop="20240619150500 +0000" channel="TRTCocuk.tr"><title lang="tr">Max Ve Maestro</title></programme>
+<programme start="20240619150500 +0000" stop="20240619153000 +0000" channel="TRTCocuk.tr"><title lang="tr">Nils Ve Uçan Kaz</title></programme>
+<programme start="20240619153000 +0000" stop="20240619155500 +0000" channel="TRTCocuk.tr"><title lang="tr">Heidi</title></programme>
+<programme start="20240619155500 +0000" stop="20240619162000 +0000" channel="TRTCocuk.tr"><title lang="tr">Rüzgar Gülü</title></programme>
+<programme start="20240619162000 +0000" stop="20240619165000 +0000" channel="TRTCocuk.tr"><title lang="tr">Rafadan Tayfa</title></programme>
+<programme start="20240619165000 +0000" stop="20240619170500 +0000" channel="TRTCocuk.tr"><title lang="tr">Haberin Olsun</title></programme>
+<programme start="20240619170500 +0000" stop="20240619183000 +0000" channel="TRTCocuk.tr"><title lang="tr">Sinema Bulmaca Kulesi 2:...</title></programme>
+<programme start="20240619183000 +0000" stop="20240619184500 +0000" channel="TRTCocuk.tr"><title lang="tr">Trafik Tayfa</title></programme>
+<programme start="20240619184500 +0000" stop="20240619191000 +0000" channel="TRTCocuk.tr"><title lang="tr">Heidi</title></programme>
+<programme start="20240619191000 +0000" stop="20240619193500 +0000" channel="TRTCocuk.tr"><title lang="tr">Babamın Gölgesi 1915</title></programme>
+<programme start="20240619193500 +0000" stop="20240619200000 +0000" channel="TRTCocuk.tr"><title lang="tr">Rafadan Tayfa</title></programme>
+<programme start="20240619200000 +0000" stop="20240619202500 +0000" channel="TRTCocuk.tr"><title lang="tr">İbi</title></programme>
+<programme start="20240619202500 +0000" stop="20240619205000 +0000" channel="TRTCocuk.tr"><title lang="tr">Nasreddin Hoca Zaman Yolcusu</title></programme>
+<programme start="20240619205000 +0000" stop="20240619211500 +0000" channel="TRTCocuk.tr"><title lang="tr">Variloto</title></programme>
 <programme start="20240617210000 +0000" stop="20240617224500 +0000" channel="TRTHaber.tr"><title lang="tr">Gece Bakışı</title><category lang="tr">Haber - Spor</category></programme>
 <programme start="20240617224500 +0000" stop="20240617225500 +0000" channel="TRTHaber.tr"><title lang="tr">Sınır Hattı Bölüm 5</title><category lang="tr">Haber - Spor</category></programme>
 <programme start="20240617225500 +0000" stop="20240617230000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title><category lang="tr">Haber - Spor</category></programme>
