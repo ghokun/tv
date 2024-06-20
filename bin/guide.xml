@@ -784,19 +784,22 @@
 <programme start="20240620130000 +0000" stop="20240620150000 +0000" channel="TRT1.tr"><title lang="tr">Slovenya - Sırbistan</title></programme>
 <programme start="20240620150000 +0000" stop="20240620155500 +0000" channel="TRT1.tr"><title lang="tr">Ana Haber</title></programme>
 <programme start="20240620155500 +0000" stop="20240620160000 +0000" channel="TRT1.tr"><title lang="tr">İddiaların Aksine</title></programme>
-<programme start="20240620160000 +0000" stop="20240620170000 +0000" channel="TRT1.tr"><title lang="tr">Danimarka - İngiltere</title></programme>
-<programme start="20240620170000 +0000" stop="20240620211500 +0000" channel="TRT1.tr"><title lang="tr">İspanya - İtalya</title></programme>
-<programme start="20240620170000 +0000" stop="20240620211500 +0000" channel="TRT1.tr"><title lang="tr">İspanya - İtalya</title></programme>
-<programme start="20240620211500 +0000" stop="20240621033000 +0000" channel="TRT1.tr"><title lang="tr">Dizi</title></programme>
-<programme start="20240621033000 +0000" stop="20240621040000 +0000" channel="TRT1.tr"><title lang="tr">Uğurlugiller</title></programme>
-<programme start="20240621040000 +0000" stop="20240621073000 +0000" channel="TRT1.tr"><title lang="tr">Kara Tahta</title></programme>
-<programme start="20240621073000 +0000" stop="20240621101500 +0000" channel="TRT1.tr"><title lang="tr">Alişan ile Hayata Gülümse</title></programme>
-<programme start="20240621101500 +0000" stop="20240621113000 +0000" channel="TRT1.tr"><title lang="tr">Seksenler</title></programme>
-<programme start="20240621113000 +0000" stop="20240621130000 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
+<programme start="20240620160000 +0000" stop="20240620180000 +0000" channel="TRT1.tr"><title lang="tr">Danimarka - İngiltere</title></programme>
+<programme start="20240620180000 +0000" stop="20240620190000 +0000" channel="TRT1.tr"><title lang="tr">Kupa Saati</title></programme>
+<programme start="20240620190000 +0000" stop="20240620211500 +0000" channel="TRT1.tr"><title lang="tr">İspanya - İtalya</title></programme>
+<programme start="20240620190000 +0000" stop="20240620211500 +0000" channel="TRT1.tr"><title lang="tr">İspanya - İtalya</title></programme>
+<programme start="20240620211500 +0000" stop="20240621010500 +0000" channel="TRT1.tr"><title lang="tr">Büyük Beyaz</title></programme>
+<programme start="20240621010500 +0000" stop="20240621030000 +0000" channel="TRT1.tr"><title lang="tr">Hugo</title></programme>
+<programme start="20240621030000 +0000" stop="20240621041500 +0000" channel="TRT1.tr"><title lang="tr">Seksenler</title></programme>
+<programme start="20240621041500 +0000" stop="20240621044000 +0000" channel="TRT1.tr"><title lang="tr">Uğurlugiller</title></programme>
+<programme start="20240621044000 +0000" stop="20240621073000 +0000" channel="TRT1.tr"><title lang="tr">Kara Tahta</title></programme>
+<programme start="20240621073000 +0000" stop="20240621101500 +0000" channel="TRT1.tr"><title lang="tr">Kanatlarını Aç</title></programme>
+<programme start="20240621101500 +0000" stop="20240621130000 +0000" channel="TRT1.tr"><title lang="tr">Seksenler</title></programme>
 <programme start="20240621130000 +0000" stop="20240621150000 +0000" channel="TRT1.tr"><title lang="tr">Slovakya - Ukrayna</title></programme>
 <programme start="20240621150000 +0000" stop="20240621155500 +0000" channel="TRT1.tr"><title lang="tr">Ana Haber</title></programme>
 <programme start="20240621155500 +0000" stop="20240621160000 +0000" channel="TRT1.tr"><title lang="tr">İddiaların Aksine</title></programme>
-<programme start="20240621160000 +0000" stop="20240621190000 +0000" channel="TRT1.tr"><title lang="tr">Polonya - Avusturya</title></programme>
+<programme start="20240621160000 +0000" stop="20240621180000 +0000" channel="TRT1.tr"><title lang="tr">Polonya - Avusturya</title></programme>
+<programme start="20240621180000 +0000" stop="20240621190000 +0000" channel="TRT1.tr"><title lang="tr">Kupa Saati</title></programme>
 <programme start="20240621190000 +0000" stop="20240621211500 +0000" channel="TRT1.tr"><title lang="tr">Hollanda - Fransa</title></programme>
 <programme start="20240619204500 +0000" stop="20240619221500 +0000" channel="TRT2.tr"><title lang="tr">Pazar Konseri</title></programme>
 <programme start="20240619221500 +0000" stop="20240620003000 +0000" channel="TRT2.tr"><title lang="tr">Canım Oğlum</title></programme>
@@ -1227,8 +1230,8 @@
 <programme start="20240620070000 +0000" stop="20240620100000 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240620100000 +0000" stop="20240620123000 +0000" channel="TV8.tr"><title lang="tr">Batılı Adam</title></programme>
 <programme start="20240620123000 +0000" stop="20240620170000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
-<programme start="20240620170000 +0000" stop="20240620211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
-<programme start="20240620170000 +0000" stop="20240620211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240620160000 +0000" stop="20240620211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240620160000 +0000" stop="20240620211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240620211500 +0000" stop="20240620233000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
 <programme start="20240620233000 +0000" stop="20240621013000 +0000" channel="TV8.tr"><title lang="tr">Cevap Ver Türkiye</title></programme>
 <programme start="20240621013000 +0000" stop="20240621023000 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
@@ -1259,7 +1262,8 @@
 <programme start="20240620224500 +0000" stop="20240621000000 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
 <programme start="20240621000000 +0000" stop="20240621020000 +0000" channel="TV85.tr"><title lang="tr">Arjantin - Kanada</title></programme>
 <programme start="20240621020000 +0000" stop="20240621030000 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
-<programme start="20240621030000 +0000" stop="20240621070000 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
+<programme start="20240621030000 +0000" stop="20240621040000 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
+<programme start="20240621040000 +0000" stop="20240621051500 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
 <programme start="20240621051500 +0000" stop="20240621073000 +0000" channel="TV85.tr"><title lang="tr">Sezonun En İyileri</title></programme>
 <programme start="20240621073000 +0000" stop="20240621094500 +0000" channel="TV85.tr"><title lang="tr">Sezonun En İyileri</title></programme>
 <programme start="20240621094500 +0000" stop="20240621114500 +0000" channel="TV85.tr"><title lang="tr">Arjantin - Kanada</title></programme>
