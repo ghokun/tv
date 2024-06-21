@@ -668,12 +668,10 @@
 <programme start="20240622063000 +0000" stop="20240622073000 +0000" channel="StarTV.tr"><title lang="tr">Özlem Denizmen ile Para...</title></programme>
 <programme start="20240622073000 +0000" stop="20240622090000 +0000" channel="StarTV.tr"><title lang="tr">Hanım Köylü</title></programme>
 <programme start="20240622090000 +0000" stop="20240622110000 +0000" channel="StarTV.tr"><title lang="tr">Ada Masalı</title></programme>
-<programme start="20240622110000 +0000" stop="20240622130000 +0000" channel="StarTV.tr"><title lang="tr">Dolunay</title></programme>
-<programme start="20240622130000 +0000" stop="20240622131500 +0000" channel="StarTV.tr"><title lang="tr">Dizi</title></programme>
-<programme start="20240622131500 +0000" stop="20240622160000 +0000" channel="StarTV.tr"><title lang="tr">Güzel Köylü</title></programme>
+<programme start="20240622110000 +0000" stop="20240622131500 +0000" channel="StarTV.tr"><title lang="tr">Dolunay</title></programme>
+<programme start="20240622131500 +0000" stop="20240622160000 +0000" channel="StarTV.tr"><title lang="tr">Erkenci Kuş</title></programme>
 <programme start="20240622160000 +0000" stop="20240622170000 +0000" channel="StarTV.tr"><title lang="tr">Star Haber</title></programme>
-<programme start="20240622170000 +0000" stop="20240622195000 +0000" channel="StarTV.tr"><title lang="tr">İbo Show</title></programme>
-<programme start="20240622195000 +0000" stop="20240622213000 +0000" channel="StarTV.tr"><title lang="tr">Banka İşi</title></programme>
+<programme start="20240622170000 +0000" stop="20240622203000 +0000" channel="StarTV.tr"><title lang="tr">İbo Show</title></programme>
 <programme start="20240622203000 +0000" stop="20240622223000 +0000" channel="StarTV.tr"><title lang="tr">Banka İşi</title></programme>
 <programme start="20240620203000 +0000" stop="20240620221500 +0000" channel="Teve2.tr"><title lang="tr">Kanıt</title></programme>
 <programme start="20240620221500 +0000" stop="20240620231500 +0000" channel="Teve2.tr"><title lang="tr">Binbir Gece</title></programme>
@@ -777,18 +775,23 @@
 <programme start="20240621130000 +0000" stop="20240621150000 +0000" channel="TRT1.tr"><title lang="tr">Slovakya - Ukrayna</title></programme>
 <programme start="20240621150000 +0000" stop="20240621155500 +0000" channel="TRT1.tr"><title lang="tr">Ana Haber</title></programme>
 <programme start="20240621155500 +0000" stop="20240621160000 +0000" channel="TRT1.tr"><title lang="tr">İddiaların Aksine</title></programme>
-<programme start="20240621160000 +0000" stop="20240621190000 +0000" channel="TRT1.tr"><title lang="tr">Polonya - Avusturya</title></programme>
+<programme start="20240621160000 +0000" stop="20240621180000 +0000" channel="TRT1.tr"><title lang="tr">Polonya - Avusturya</title></programme>
+<programme start="20240621180000 +0000" stop="20240621190000 +0000" channel="TRT1.tr"><title lang="tr">Kupa Saati</title></programme>
 <programme start="20240621190000 +0000" stop="20240621211500 +0000" channel="TRT1.tr"><title lang="tr">Hollanda - Fransa</title></programme>
 <programme start="20240621190000 +0000" stop="20240621211500 +0000" channel="TRT1.tr"><title lang="tr">Hollanda - Fransa</title></programme>
-<programme start="20240621211500 +0000" stop="20240621233000 +0000" channel="TRT1.tr"><title lang="tr">Ejder Kılıcı</title></programme>
-<programme start="20240621233000 +0000" stop="20240622033000 +0000" channel="TRT1.tr"><title lang="tr">Kara Ağaç Destanı</title></programme>
-<programme start="20240622033000 +0000" stop="20240622054000 +0000" channel="TRT1.tr"><title lang="tr">Beni Böyle Sev</title></programme>
-<programme start="20240622054000 +0000" stop="20240622064500 +0000" channel="TRT1.tr"><title lang="tr">Perihan Abla</title></programme>
-<programme start="20240622064500 +0000" stop="20240622094000 +0000" channel="TRT1.tr"><title lang="tr">Hayallerinin Peşinde</title></programme>
-<programme start="20240622094000 +0000" stop="20240622130000 +0000" channel="TRT1.tr"><title lang="tr">Dizi</title></programme>
+<programme start="20240621211500 +0000" stop="20240622000000 +0000" channel="TRT1.tr"><title lang="tr">Kara Ağaç Destanı</title></programme>
+<programme start="20240622000000 +0000" stop="20240622014500 +0000" channel="TRT1.tr"><title lang="tr">Kanatlarını Aç</title></programme>
+<programme start="20240622014500 +0000" stop="20240622031000 +0000" channel="TRT1.tr"><title lang="tr">Seksenler</title></programme>
+<programme start="20240622031000 +0000" stop="20240622050500 +0000" channel="TRT1.tr"><title lang="tr">Beni Böyle Sev</title></programme>
+<programme start="20240622050500 +0000" stop="20240622060000 +0000" channel="TRT1.tr"><title lang="tr">9. Hariciye Koğuşu</title></programme>
+<programme start="20240622060000 +0000" stop="20240622070000 +0000" channel="TRT1.tr"><title lang="tr">Türkmen Düğünü</title></programme>
+<programme start="20240622070000 +0000" stop="20240622083000 +0000" channel="TRT1.tr"><title lang="tr">Hayallerinin Peşinde</title></programme>
+<programme start="20240622083000 +0000" stop="20240622100000 +0000" channel="TRT1.tr"><title lang="tr">Nasreddin Hoca Zaman...</title></programme>
+<programme start="20240622100000 +0000" stop="20240622130000 +0000" channel="TRT1.tr"><title lang="tr">Seksenler</title></programme>
 <programme start="20240622130000 +0000" stop="20240622150000 +0000" channel="TRT1.tr"><title lang="tr">Gürcistan - Çekya</title></programme>
 <programme start="20240622150000 +0000" stop="20240622160000 +0000" channel="TRT1.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240622160000 +0000" stop="20240622190000 +0000" channel="TRT1.tr"><title lang="tr">Türkiye - Portekiz</title></programme>
+<programme start="20240622160000 +0000" stop="20240622180000 +0000" channel="TRT1.tr"><title lang="tr">Türkiye - Portekiz</title></programme>
+<programme start="20240622180000 +0000" stop="20240622190000 +0000" channel="TRT1.tr"><title lang="tr">Kupa Saati</title></programme>
 <programme start="20240622190000 +0000" stop="20240622211500 +0000" channel="TRT1.tr"><title lang="tr">Belçika - Romanya</title></programme>
 <programme start="20240620201500 +0000" stop="20240620214500 +0000" channel="TRT2.tr"><title lang="tr">Pazar Konseri</title></programme>
 <programme start="20240620214500 +0000" stop="20240620221500 +0000" channel="TRT2.tr"><title lang="tr">Hayat Sanat</title></programme>
@@ -900,7 +903,13 @@
 <programme start="20240622012000 +0000" stop="20240622015000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Makedonya&apos;daki Anadolu</title></programme>
 <programme start="20240622015000 +0000" stop="20240622025500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Daha Güzel Bir Hayat</title></programme>
 <programme start="20240622025500 +0000" stop="20240622035500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Ulak</title></programme>
-<programme start="20240622035500 +0000" stop="20240622075500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Tanıtım</title></programme>
+<programme start="20240622035500 +0000" stop="20240622035800 +0000" channel="TRTBelgesel.tr"><title lang="tr">Tanıtım</title></programme>
+<programme start="20240622035800 +0000" stop="20240622040000 +0000" channel="TRTBelgesel.tr"><title lang="tr">İstiklal Marşı</title></programme>
+<programme start="20240622040000 +0000" stop="20240622045000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Şefin Özel Konuğu</title></programme>
+<programme start="20240622045000 +0000" stop="20240622054000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Derindeki Gözler</title></programme>
+<programme start="20240622054000 +0000" stop="20240622061000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Doğu&apos;nun Kayıp Silüetleri</title></programme>
+<programme start="20240622061000 +0000" stop="20240622064000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Hurdadan Hazineye</title></programme>
+<programme start="20240622064000 +0000" stop="20240622071500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Yiyeceğin Serüveni</title></programme>
 <programme start="20240622071500 +0000" stop="20240622080500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Sınır Tanımayan Buz...</title></programme>
 <programme start="20240622080500 +0000" stop="20240622085500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Sıra Dışı Bir Kaya</title></programme>
 <programme start="20240622085500 +0000" stop="20240622095500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Gizemli Tarih Mimar Sinan...</title></programme>
@@ -1172,7 +1181,7 @@
 <programme start="20240622044000 +0000" stop="20240622051000 +0000" channel="TRTTurk.tr"><title lang="tr">Canım Kardeşim</title></programme>
 <programme start="20240622051000 +0000" stop="20240622054000 +0000" channel="TRTTurk.tr"><title lang="tr">Rafadan Tayfa</title></programme>
 <programme start="20240622054000 +0000" stop="20240622065000 +0000" channel="TRTTurk.tr"><title lang="tr">Tozkoparan</title></programme>
-<programme start="20240622065000 +0000" stop="20240622080500 +0000" channel="TRTTurk.tr"><title lang="tr">Türk Sineması Kaptan...</title></programme>
+<programme start="20240622065000 +0000" stop="20240622080500 +0000" channel="TRTTurk.tr"><title lang="tr">Kaptan Pengu Ve Arkadaşları</title></programme>
 <programme start="20240622080500 +0000" stop="20240622081500 +0000" channel="TRTTurk.tr"><title lang="tr">Güzel Türkçem</title></programme>
 <programme start="20240622081500 +0000" stop="20240622083000 +0000" channel="TRTTurk.tr"><title lang="tr">Arkadaşım Kirpi</title></programme>
 <programme start="20240622083000 +0000" stop="20240622090000 +0000" channel="TRTTurk.tr"><title lang="tr">Bebeğimle Yeni Hayat</title></programme>
