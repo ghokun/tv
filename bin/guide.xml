@@ -382,8 +382,8 @@
 <programme start="20240623104500 +0000" stop="20240623114500 +0000" channel="KanalD.tr"><title lang="tr">Arda ile Omuz Omuza</title></programme>
 <programme start="20240623114500 +0000" stop="20240623160000 +0000" channel="KanalD.tr"><title lang="tr">Yalan</title></programme>
 <programme start="20240623160000 +0000" stop="20240623170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
-<programme start="20240623170000 +0000" stop="20240623194500 +0000" channel="KanalD.tr"><title lang="tr">Turnike</title></programme>
-<programme start="20240623194500 +0000" stop="20240623214500 +0000" channel="KanalD.tr"><title lang="tr">Çok Akustik</title></programme>
+<programme start="20240623170000 +0000" stop="20240623191500 +0000" channel="KanalD.tr"><title lang="tr">Turnike</title></programme>
+<programme start="20240623191500 +0000" stop="20240623213000 +0000" channel="KanalD.tr"><title lang="tr">Turnike</title></programme>
 <programme start="20240621210000 +0000" stop="20240621215000 +0000" channel="NTV.tr"><title lang="tr">Bugün Yarın</title></programme>
 <programme start="20240621215000 +0000" stop="20240621215500 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
 <programme start="20240621215500 +0000" stop="20240621220000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
@@ -1207,8 +1207,8 @@
 <programme start="20240622070000 +0000" stop="20240622100000 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240622100000 +0000" stop="20240622124500 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin</title></programme>
 <programme start="20240622124500 +0000" stop="20240622170000 +0000" channel="TV8.tr"><title lang="tr">Cevap Ver Türkiye</title></programme>
-<programme start="20240622170000 +0000" stop="20240622214500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
-<programme start="20240622170000 +0000" stop="20240622214500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240622160000 +0000" stop="20240622214500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240622160000 +0000" stop="20240622214500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240622214500 +0000" stop="20240622233000 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin</title></programme>
 <programme start="20240622233000 +0000" stop="20240623020000 +0000" channel="TV8.tr"><title lang="tr">Sinema</title></programme>
 <programme start="20240623020000 +0000" stop="20240623040000 +0000" channel="TV8.tr"><title lang="tr">Dizi</title></programme>
