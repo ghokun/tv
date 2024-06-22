@@ -153,20 +153,22 @@
 <programme start="20240622183000 +0000" stop="20240622203000 +0000" channel="BeyazTV.tr"><title lang="tr">Evdekiler</title></programme>
 <programme start="20240622203000 +0000" stop="20240622221500 +0000" channel="BeyazTV.tr"><title lang="tr">Kırmızı Beyaz Futbol</title></programme>
 <programme start="20240622203000 +0000" stop="20240622221500 +0000" channel="BeyazTV.tr"><title lang="tr">Kırmızı Beyaz Futbol</title></programme>
-<programme start="20240622221500 +0000" stop="20240622231500 +0000" channel="BeyazTV.tr"><title lang="tr">Güncel Piyasa</title></programme>
-<programme start="20240622231500 +0000" stop="20240623010000 +0000" channel="BeyazTV.tr"><title lang="tr">Hedefteki Adam</title></programme>
-<programme start="20240623010000 +0000" stop="20240623023000 +0000" channel="BeyazTV.tr"><title lang="tr">Evdekiler</title></programme>
-<programme start="20240623023000 +0000" stop="20240623030000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
-<programme start="20240623030000 +0000" stop="20240623050000 +0000" channel="BeyazTV.tr"><title lang="tr">Hedefteki Adam</title></programme>
-<programme start="20240623050000 +0000" stop="20240623070000 +0000" channel="BeyazTV.tr"><title lang="tr">Söylemezsem Olmaz</title></programme>
-<programme start="20240623070000 +0000" stop="20240623074500 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz&apos;da Sağlık</title></programme>
-<programme start="20240623074500 +0000" stop="20240623090000 +0000" channel="BeyazTV.tr"><title lang="tr">Sürmanşet</title></programme>
-<programme start="20240623090000 +0000" stop="20240623135000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
+<programme start="20240622221500 +0000" stop="20240623003000 +0000" channel="BeyazTV.tr"><title lang="tr">Süperman Dönüyor</title></programme>
+<programme start="20240623003000 +0000" stop="20240623020500 +0000" channel="BeyazTV.tr"><title lang="tr">Sakın Öldürme</title></programme>
+<programme start="20240623020500 +0000" stop="20240623033000 +0000" channel="BeyazTV.tr"><title lang="tr">Belma Belen&apos;le Geziyoruz</title></programme>
+<programme start="20240623033000 +0000" stop="20240623050000 +0000" channel="BeyazTV.tr"><title lang="tr">Sakın Öldürme</title></programme>
+<programme start="20240623050000 +0000" stop="20240623070000 +0000" channel="BeyazTV.tr"><title lang="tr">Tahir Sarıkaya ile Uyan...</title></programme>
+<programme start="20240623070000 +0000" stop="20240623074500 +0000" channel="BeyazTV.tr"><title lang="tr">İz Bırakanlar</title></programme>
+<programme start="20240623074500 +0000" stop="20240623090000 +0000" channel="BeyazTV.tr"><title lang="tr">Ne Var Ne Yok</title></programme>
+<programme start="20240623090000 +0000" stop="20240623100000 +0000" channel="BeyazTV.tr"><title lang="tr">Akılda Kalsın</title></programme>
+<programme start="20240623100000 +0000" stop="20240623120000 +0000" channel="BeyazTV.tr"><title lang="tr">Ölümsüz Aşk</title></programme>
+<programme start="20240623120000 +0000" stop="20240623124500 +0000" channel="BeyazTV.tr"><title lang="tr">Patinin Hikayesi</title></programme>
+<programme start="20240623124500 +0000" stop="20240623135000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
 <programme start="20240623135000 +0000" stop="20240623153000 +0000" channel="BeyazTV.tr"><title lang="tr">Belma Belen&apos;le Geziyoruz</title></programme>
 <programme start="20240623153000 +0000" stop="20240623163000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Ana Haber</title></programme>
-<programme start="20240623163000 +0000" stop="20240623174500 +0000" channel="BeyazTV.tr"><title lang="tr">Süper Polis 4</title></programme>
-<programme start="20240623174500 +0000" stop="20240623203000 +0000" channel="BeyazTV.tr"><title lang="tr">Kuzey Denizi</title></programme>
-<programme start="20240623203000 +0000" stop="20240623221500 +0000" channel="BeyazTV.tr"><title lang="tr">Süper Polis 4</title></programme>
+<programme start="20240623163000 +0000" stop="20240623181500 +0000" channel="BeyazTV.tr"><title lang="tr">Takiptekiler</title></programme>
+<programme start="20240623181500 +0000" stop="20240623201000 +0000" channel="BeyazTV.tr"><title lang="tr">Lara Croft: Tomb Raider</title></programme>
+<programme start="20240623201000 +0000" stop="20240623221500 +0000" channel="BeyazTV.tr"><title lang="tr">Takiptekiler</title></programme>
 <programme start="20240621174500 +0000" stop="20240621220000 +0000" channel="CNNTurk.tr"><title lang="tr">Akıl Çemberi</title></programme>
 <programme start="20240621220000 +0000" stop="20240621231500 +0000" channel="CNNTurk.tr"><title lang="tr">Gece Haberleri</title></programme>
 <programme start="20240621231500 +0000" stop="20240622030000 +0000" channel="CNNTurk.tr"><title lang="tr">Akıl Çemberi</title></programme>
