@@ -289,10 +289,10 @@
 <programme start="20240624090000 +0000" stop="20240624104500 +0000" channel="HaberturkTV.tr"><title lang="tr">Gün Ortası</title></programme>
 <programme start="20240624104500 +0000" stop="20240624110000 +0000" channel="HaberturkTV.tr"><title lang="tr">Spor Bülteni</title></programme>
 <programme start="20240624110000 +0000" stop="20240624123000 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Hattı</title></programme>
-<programme start="20240624123000 +0000" stop="20240624150000 +0000" channel="HaberturkTV.tr"><title lang="tr">HT Spor Aktüel</title></programme>
+<programme start="20240624123000 +0000" stop="20240624130000 +0000" channel="HaberturkTV.tr"><title lang="tr">HT Spor Aktüel</title></programme>
+<programme start="20240624130000 +0000" stop="20240624150000 +0000" channel="HaberturkTV.tr"><title lang="tr">HT 360</title></programme>
 <programme start="20240624150000 +0000" stop="20240624170000 +0000" channel="HaberturkTV.tr"><title lang="tr">Ana Haber Bülteni</title></programme>
-<programme start="20240624170000 +0000" stop="20240624173000 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240624173000 +0000" stop="20240624200000 +0000" channel="HaberturkTV.tr"><title lang="tr">Açık ve Net</title></programme>
+<programme start="20240624170000 +0000" stop="20240624200000 +0000" channel="HaberturkTV.tr"><title lang="tr">Açık ve Net</title></programme>
 <programme start="20240624200000 +0000" stop="20240624220000 +0000" channel="HaberturkTV.tr"><title lang="tr">Mesut Yar ile Gece Hattı</title></programme>
 <programme start="20240622170000 +0000" stop="20240622220000 +0000" channel="HalkTV.tr"><title lang="tr">Nasıl Olacak?</title></programme>
 <programme start="20240622220000 +0000" stop="20240623000000 +0000" channel="HalkTV.tr"><title lang="tr">Halk TV&apos;de Bugün</title></programme>
@@ -346,8 +346,8 @@
 <programme start="20240624114000 +0000" stop="20240624133000 +0000" channel="Kanal7.tr"><title lang="tr">Evlat</title></programme>
 <programme start="20240624133000 +0000" stop="20240624150000 +0000" channel="Kanal7.tr"><title lang="tr">Kan Çiçekleri</title></programme>
 <programme start="20240624150000 +0000" stop="20240624160000 +0000" channel="Kanal7.tr"><title lang="tr">Kanal 7 Haber Saati</title></programme>
-<programme start="20240624160000 +0000" stop="20240624183000 +0000" channel="Kanal7.tr"><title lang="tr">Esaret</title></programme>
-<programme start="20240624183000 +0000" stop="20240624202000 +0000" channel="Kanal7.tr"><title lang="tr">Rüzgarlı Tepe</title></programme>
+<programme start="20240624160000 +0000" stop="20240624182000 +0000" channel="Kanal7.tr"><title lang="tr">Esaret</title></programme>
+<programme start="20240624182000 +0000" stop="20240624202000 +0000" channel="Kanal7.tr"><title lang="tr">Rüzgarlı Tepe</title></programme>
 <programme start="20240624202000 +0000" stop="20240624233000 +0000" channel="Kanal7.tr"><title lang="tr">Diriliş Ertuğrul</title></programme>
 <programme start="20240622201500 +0000" stop="20240622224500 +0000" channel="KanalD.tr"><title lang="tr">Çok Akustik</title></programme>
 <programme start="20240622224500 +0000" stop="20240623004500 +0000" channel="KanalD.tr"><title lang="tr">Güneşin Kızları</title></programme>
@@ -838,7 +838,7 @@
 <programme start="20240624063000 +0000" stop="20240624070000 +0000" channel="TRT2.tr"><title lang="tr">Tabii Dünyası</title></programme>
 <programme start="20240624070000 +0000" stop="20240624080000 +0000" channel="TRT2.tr"><title lang="tr">Küçük Dahi İbn-i Sina</title></programme>
 <programme start="20240624080000 +0000" stop="20240624083000 +0000" channel="TRT2.tr"><title lang="tr">Anlatı</title></programme>
-<programme start="20240624083000 +0000" stop="20240624084500 +0000" channel="TRT2.tr"><title lang="tr">Eskiz</title></programme>
+<programme start="20240624083000 +0000" stop="20240624084500 +0000" channel="TRT2.tr"><title lang="tr">Geri Dönüşen Sanat</title></programme>
 <programme start="20240624084500 +0000" stop="20240624090000 +0000" channel="TRT2.tr"><title lang="tr">Sûret</title></programme>
 <programme start="20240624090000 +0000" stop="20240624093000 +0000" channel="TRT2.tr"><title lang="tr">Hayat Sanat</title></programme>
 <programme start="20240624093000 +0000" stop="20240624103000 +0000" channel="TRT2.tr"><title lang="tr">İmkansızın Peşinde:...</title></programme>
