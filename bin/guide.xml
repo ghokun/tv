@@ -160,12 +160,20 @@
 <programme start="20240623153000 +0000" stop="20240623163000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Ana Haber</title></programme>
 <programme start="20240623163000 +0000" stop="20240623181500 +0000" channel="BeyazTV.tr"><title lang="tr">Takiptekiler</title></programme>
 <programme start="20240623181500 +0000" stop="20240623201000 +0000" channel="BeyazTV.tr"><title lang="tr">Lara Croft: Tomb Raider</title></programme>
-<programme start="20240623201000 +0000" stop="20240623221500 +0000" channel="BeyazTV.tr"><title lang="tr">Takiptekiler</title></programme>
-<programme start="20240623201000 +0000" stop="20240623221500 +0000" channel="BeyazTV.tr"><title lang="tr">Takiptekiler</title></programme>
-<programme start="20240623221500 +0000" stop="20240624001500 +0000" channel="BeyazTV.tr"><title lang="tr">Kuzey Denizi</title></programme>
+<programme start="20240623201000 +0000" stop="20240623224000 +0000" channel="BeyazTV.tr"><title lang="tr">Takiptekiler</title></programme>
+<programme start="20240623201000 +0000" stop="20240623224000 +0000" channel="BeyazTV.tr"><title lang="tr">Takiptekiler</title></programme>
+<programme start="20240623224000 +0000" stop="20240624001500 +0000" channel="BeyazTV.tr"><title lang="tr">Takiptekiler</title></programme>
 <programme start="20240624001500 +0000" stop="20240624020000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
-<programme start="20240624020000 +0000" stop="20240624031500 +0000" channel="BeyazTV.tr"><title lang="tr">Belma Belen&apos;le Geziyoruz</title></programme>
-<programme start="20240624031500 +0000" stop="20240624071500 +0000" channel="BeyazTV.tr"><title lang="tr">Kuzey Denizi</title></programme>
+<programme start="20240624020000 +0000" stop="20240624043000 +0000" channel="BeyazTV.tr"><title lang="tr">Belma Belen&apos;le Geziyoruz</title></programme>
+<programme start="20240624043000 +0000" stop="20240624054500 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Ana Haber</title></programme>
+<programme start="20240624054500 +0000" stop="20240624080000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Magazin</title></programme>
+<programme start="20240624080000 +0000" stop="20240624100000 +0000" channel="BeyazTV.tr"><title lang="tr">Nur Viral&apos;le Hayatta Her...</title></programme>
+<programme start="20240624100000 +0000" stop="20240624114500 +0000" channel="BeyazTV.tr"><title lang="tr">Esra Ezmeci ile Yeni Baştan</title></programme>
+<programme start="20240624114500 +0000" stop="20240624132000 +0000" channel="BeyazTV.tr"><title lang="tr">Nermin&apos;in Enfes Mutfağı</title></programme>
+<programme start="20240624132000 +0000" stop="20240624163000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
+<programme start="20240624163000 +0000" stop="20240624184500 +0000" channel="BeyazTV.tr"><title lang="tr">Zaman Yolcuları</title></programme>
+<programme start="20240624184500 +0000" stop="20240624200000 +0000" channel="BeyazTV.tr"><title lang="tr">Kondor Operasyonu</title></programme>
+<programme start="20240624200000 +0000" stop="20240624221500 +0000" channel="BeyazTV.tr"><title lang="tr">Zaman Yolcuları</title></programme>
 <programme start="20240622174500 +0000" stop="20240622220000 +0000" channel="CNNTurk.tr"><title lang="tr">CNN TÜRK Masası</title></programme>
 <programme start="20240622220000 +0000" stop="20240622231500 +0000" channel="CNNTurk.tr"><title lang="tr">Gece Haberleri</title></programme>
 <programme start="20240622231500 +0000" stop="20240623030000 +0000" channel="CNNTurk.tr"><title lang="tr">CNN TÜRK Masası</title></programme>
@@ -1217,8 +1225,8 @@
 <programme start="20240623070000 +0000" stop="20240623100000 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240623100000 +0000" stop="20240623124500 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin</title></programme>
 <programme start="20240623124500 +0000" stop="20240623170000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
-<programme start="20240623170000 +0000" stop="20240623214500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
-<programme start="20240623170000 +0000" stop="20240623214500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240623160000 +0000" stop="20240623214500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240623160000 +0000" stop="20240623214500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240623214500 +0000" stop="20240624000000 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin</title></programme>
 <programme start="20240624000000 +0000" stop="20240624041500 +0000" channel="TV8.tr"><title lang="tr">Dizi</title></programme>
 <programme start="20240624041500 +0000" stop="20240624053000 +0000" channel="TV8.tr"><title lang="tr">8&apos;de Sağlık</title></programme>
