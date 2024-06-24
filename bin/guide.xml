@@ -1175,16 +1175,18 @@
 <programme start="20240624053000 +0000" stop="20240624070000 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
 <programme start="20240624070000 +0000" stop="20240624100000 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240624100000 +0000" stop="20240624124500 +0000" channel="TV8.tr"><title lang="tr">Cevap Ver Türkiye</title></programme>
-<programme start="20240624124500 +0000" stop="20240624150000 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin</title></programme>
-<programme start="20240624150000 +0000" stop="20240624211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
-<programme start="20240624150000 +0000" stop="20240624211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
-<programme start="20240624211500 +0000" stop="20240624233000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
-<programme start="20240624233000 +0000" stop="20240625030000 +0000" channel="TV8.tr"><title lang="tr">Cevap Ver Türkiye</title></programme>
+<programme start="20240624124500 +0000" stop="20240624160000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
+<programme start="20240624160000 +0000" stop="20240624211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240624160000 +0000" stop="20240624211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240624211500 +0000" stop="20240624233000 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin</title></programme>
+<programme start="20240624233000 +0000" stop="20240625013000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
+<programme start="20240625013000 +0000" stop="20240625030000 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
 <programme start="20240625030000 +0000" stop="20240625041500 +0000" channel="TV8.tr"><title lang="tr">Dizi</title></programme>
 <programme start="20240625041500 +0000" stop="20240625053000 +0000" channel="TV8.tr"><title lang="tr">8&apos;de Sağlık</title></programme>
-<programme start="20240625053000 +0000" stop="20240625070000 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
-<programme start="20240625070000 +0000" stop="20240625100000 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
-<programme start="20240625100000 +0000" stop="20240625170000 +0000" channel="TV8.tr"><title lang="tr">Cevap Ver Türkiye</title></programme>
+<programme start="20240625053000 +0000" stop="20240625064500 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
+<programme start="20240625064500 +0000" stop="20240625090000 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin</title></programme>
+<programme start="20240625090000 +0000" stop="20240625124500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240625124500 +0000" stop="20240625170000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
 <programme start="20240625170000 +0000" stop="20240625211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240623192000 +0000" stop="20240623213000 +0000" channel="TV85.tr"><title lang="tr">Arsenal - Bayern Münih...</title></programme>
 <programme start="20240623213000 +0000" stop="20240623214000 +0000" channel="TV85.tr"><title lang="tr">Meksika - Jamaika</title></programme>
@@ -1208,6 +1210,16 @@
 <programme start="20240624220000 +0000" stop="20240625000000 +0000" channel="TV85.tr"><title lang="tr">Kolombiya - Paraguay</title></programme>
 <programme start="20240625000000 +0000" stop="20240625010000 +0000" channel="TV85.tr"><title lang="tr">Copa America</title></programme>
 <programme start="20240625010000 +0000" stop="20240625050000 +0000" channel="TV85.tr"><title lang="tr">Brezilya - Kostarika</title></programme>
+<programme start="20240625050000 +0000" stop="20240625060000 +0000" channel="TV85.tr"><title lang="tr">Klasikler</title></programme>
+<programme start="20240625060000 +0000" stop="20240625080000 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
+<programme start="20240625080000 +0000" stop="20240625100000 +0000" channel="TV85.tr"><title lang="tr">Brezilya - Kosta Rika</title></programme>
+<programme start="20240625100000 +0000" stop="20240625120000 +0000" channel="TV85.tr"><title lang="tr">Kolombiya - Paraguay</title></programme>
+<programme start="20240625120000 +0000" stop="20240625134500 +0000" channel="TV85.tr"><title lang="tr">Copa America Grup...</title></programme>
+<programme start="20240625134500 +0000" stop="20240625140000 +0000" channel="TV85.tr"><title lang="tr">Flashback</title></programme>
+<programme start="20240625140000 +0000" stop="20240625160000 +0000" channel="TV85.tr"><title lang="tr">Brezilya - Kosta Rika</title></programme>
+<programme start="20240625160000 +0000" stop="20240625180000 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
+<programme start="20240625180000 +0000" stop="20240625194500 +0000" channel="TV85.tr"><title lang="tr">Copa America Grup...</title></programme>
+<programme start="20240625194500 +0000" stop="20240625220000 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
 <programme start="20240623210000 +0000" stop="20240623220000 +0000" channel="UlusalKanal.tr"><title lang="tr">Yurdumuzun Türküleri</title></programme>
 <programme start="20240623220000 +0000" stop="20240624050000 +0000" channel="UlusalKanal.tr"><title lang="tr">Tekrar Programlar</title></programme>
 <programme start="20240624050000 +0000" stop="20240624080000 +0000" channel="UlusalKanal.tr"><title lang="tr">Televizyon Gazetesi</title></programme>
