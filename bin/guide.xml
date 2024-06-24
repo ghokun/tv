@@ -279,8 +279,8 @@
 <programme start="20240624110000 +0000" stop="20240624123000 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Hattı</title></programme>
 <programme start="20240624123000 +0000" stop="20240624150000 +0000" channel="HaberturkTV.tr"><title lang="tr">HT Spor Aktüel</title></programme>
 <programme start="20240624150000 +0000" stop="20240624170000 +0000" channel="HaberturkTV.tr"><title lang="tr">Ana Haber Bülteni</title></programme>
-<programme start="20240624170000 +0000" stop="20240624173000 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240624173000 +0000" stop="20240624200000 +0000" channel="HaberturkTV.tr"><title lang="tr">Açık ve Net</title></programme>
+<programme start="20240624170000 +0000" stop="20240624190000 +0000" channel="HaberturkTV.tr"><title lang="tr">Özel Röportaj</title></programme>
+<programme start="20240624190000 +0000" stop="20240624200000 +0000" channel="HaberturkTV.tr"><title lang="tr">Açık ve Net</title></programme>
 <programme start="20240624200000 +0000" stop="20240624220000 +0000" channel="HaberturkTV.tr"><title lang="tr">Mesut Yar ile Gece Hattı</title></programme>
 <programme start="20240624200000 +0000" stop="20240624220000 +0000" channel="HaberturkTV.tr"><title lang="tr">Mesut Yar ile Gece Hattı</title></programme>
 <programme start="20240624220000 +0000" stop="20240625010000 +0000" channel="HaberturkTV.tr"><title lang="tr">Açık ve Net</title></programme>
@@ -334,8 +334,8 @@
 <programme start="20240624114000 +0000" stop="20240624133000 +0000" channel="Kanal7.tr"><title lang="tr">Evlat</title></programme>
 <programme start="20240624133000 +0000" stop="20240624150000 +0000" channel="Kanal7.tr"><title lang="tr">Kan Çiçekleri</title></programme>
 <programme start="20240624150000 +0000" stop="20240624160000 +0000" channel="Kanal7.tr"><title lang="tr">Kanal 7 Haber Saati</title></programme>
-<programme start="20240624160000 +0000" stop="20240624183000 +0000" channel="Kanal7.tr"><title lang="tr">Esaret</title></programme>
-<programme start="20240624183000 +0000" stop="20240624202000 +0000" channel="Kanal7.tr"><title lang="tr">Rüzgarlı Tepe</title></programme>
+<programme start="20240624160000 +0000" stop="20240624182000 +0000" channel="Kanal7.tr"><title lang="tr">Esaret</title></programme>
+<programme start="20240624182000 +0000" stop="20240624202000 +0000" channel="Kanal7.tr"><title lang="tr">Rüzgarlı Tepe</title></programme>
 <programme start="20240624202000 +0000" stop="20240624233000 +0000" channel="Kanal7.tr"><title lang="tr">Diriliş Ertuğrul</title></programme>
 <programme start="20240624202000 +0000" stop="20240624233000 +0000" channel="Kanal7.tr"><title lang="tr">Diriliş Ertuğrul</title></programme>
 <programme start="20240624233000 +0000" stop="20240625033000 +0000" channel="Kanal7.tr"><title lang="tr">Tekrar Programlar</title></programme>
@@ -783,8 +783,10 @@
 <programme start="20240624113000 +0000" stop="20240624140000 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
 <programme start="20240624140000 +0000" stop="20240624160000 +0000" channel="TRT1.tr"><title lang="tr">Lingo</title></programme>
 <programme start="20240624160000 +0000" stop="20240624165500 +0000" channel="TRT1.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240624165500 +0000" stop="20240624215000 +0000" channel="TRT1.tr"><title lang="tr">İddiaların Aksine</title></programme>
-<programme start="20240624165500 +0000" stop="20240624215000 +0000" channel="TRT1.tr"><title lang="tr">İddiaların Aksine</title></programme>
+<programme start="20240624165500 +0000" stop="20240624170000 +0000" channel="TRT1.tr"><title lang="tr">İddiaların Aksine</title></programme>
+<programme start="20240624170000 +0000" stop="20240624190000 +0000" channel="TRT1.tr"><title lang="tr">Babamın Penguenleri</title></programme>
+<programme start="20240624190000 +0000" stop="20240624211500 +0000" channel="TRT1.tr"><title lang="tr">Hırvatistan - İtalya</title></programme>
+<programme start="20240624190000 +0000" stop="20240624211500 +0000" channel="TRT1.tr"><title lang="tr">Hırvatistan - İtalya</title></programme>
 <programme start="20240624211500 +0000" stop="20240624225500 +0000" channel="TRT1.tr"><title lang="tr">Babamın Penguenleri</title></programme>
 <programme start="20240624225500 +0000" stop="20240625013500 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
 <programme start="20240625013500 +0000" stop="20240625020000 +0000" channel="TRT1.tr"><title lang="tr">Yaşam Başka Yerde</title></programme>
