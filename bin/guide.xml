@@ -169,7 +169,7 @@
 <programme start="20240624221500 +0000" stop="20240625001500 +0000" channel="BeyazTV.tr"><title lang="tr">Kondor Operasyonu</title></programme>
 <programme start="20240625001500 +0000" stop="20240625023000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
 <programme start="20240625023000 +0000" stop="20240625030000 +0000" channel="BeyazTV.tr"><title lang="tr">Belma Belen&apos;le Geziyoruz</title></programme>
-<programme start="20240625030000 +0000" stop="20240625043000 +0000" channel="BeyazTV.tr"><title lang="tr">Zaman Yolcuları</title></programme>
+<programme start="20240625030000 +0000" stop="20240625043000 +0000" channel="BeyazTV.tr"><title lang="tr">Kondor Operasyonu</title></programme>
 <programme start="20240625043000 +0000" stop="20240625054500 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Ana Haber</title></programme>
 <programme start="20240625054500 +0000" stop="20240625080000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Magazin</title></programme>
 <programme start="20240625080000 +0000" stop="20240625100000 +0000" channel="BeyazTV.tr"><title lang="tr">Nur Viral&apos;le Hayatta Her...</title></programme>
@@ -258,8 +258,7 @@
 <programme start="20240624193000 +0000" stop="20240624223000 +0000" channel="Fox.tr"><title lang="tr">Mucize Doktor</title></programme>
 <programme start="20240624223000 +0000" stop="20240625011500 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin...</title></programme>
 <programme start="20240625011500 +0000" stop="20240625021500 +0000" channel="Fox.tr"><title lang="tr">Son Yaz</title></programme>
-<programme start="20240625021500 +0000" stop="20240625050000 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin...</title></programme>
-<programme start="20240625050000 +0000" stop="20240625053000 +0000" channel="Fox.tr"><title lang="tr">İlker Karagöz İle...</title></programme>
+<programme start="20240625021500 +0000" stop="20240625053000 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin...</title></programme>
 <programme start="20240625053000 +0000" stop="20240625070000 +0000" channel="Fox.tr"><title lang="tr">Çalar Saat</title></programme>
 <programme start="20240625070000 +0000" stop="20240625100000 +0000" channel="Fox.tr"><title lang="tr">Şevkat Yerimdar</title></programme>
 <programme start="20240625100000 +0000" stop="20240625133000 +0000" channel="Fox.tr"><title lang="tr">Kirli Sepeti</title></programme>
