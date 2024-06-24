@@ -256,9 +256,9 @@
 <programme start="20240624170000 +0000" stop="20240624193000 +0000" channel="Fox.tr"><title lang="tr">Kızıl Goncalar</title></programme>
 <programme start="20240624193000 +0000" stop="20240624223000 +0000" channel="Fox.tr"><title lang="tr">Mucize Doktor</title></programme>
 <programme start="20240624193000 +0000" stop="20240624223000 +0000" channel="Fox.tr"><title lang="tr">Mucize Doktor</title></programme>
-<programme start="20240624223000 +0000" stop="20240625011500 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin...</title></programme>
-<programme start="20240625011500 +0000" stop="20240625021500 +0000" channel="Fox.tr"><title lang="tr">Son Yaz</title></programme>
-<programme start="20240625021500 +0000" stop="20240625050000 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin...</title></programme>
+<programme start="20240624223000 +0000" stop="20240625003000 +0000" channel="Fox.tr"><title lang="tr">Yasak Elma</title></programme>
+<programme start="20240625003000 +0000" stop="20240625024500 +0000" channel="Fox.tr"><title lang="tr">Son Yaz</title></programme>
+<programme start="20240625024500 +0000" stop="20240625050000 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin...</title></programme>
 <programme start="20240625050000 +0000" stop="20240625053000 +0000" channel="Fox.tr"><title lang="tr">İlker Karagöz İle...</title></programme>
 <programme start="20240625053000 +0000" stop="20240625070000 +0000" channel="Fox.tr"><title lang="tr">Çalar Saat</title></programme>
 <programme start="20240625070000 +0000" stop="20240625100000 +0000" channel="Fox.tr"><title lang="tr">Şevkat Yerimdar</title></programme>
@@ -778,14 +778,12 @@
 <programme start="20240624033000 +0000" stop="20240624040000 +0000" channel="TRT1.tr"><title lang="tr">Uğurlugiller</title></programme>
 <programme start="20240624040000 +0000" stop="20240624073000 +0000" channel="TRT1.tr"><title lang="tr">Kara Tahta</title></programme>
 <programme start="20240624073000 +0000" stop="20240624101500 +0000" channel="TRT1.tr"><title lang="tr">Alişan ile Hayata Gülümse</title></programme>
-<programme start="20240624093500 +0000" stop="20240624110000 +0000" channel="TRT1.tr"><title lang="tr">Lingo</title></programme>
-<programme start="20240624110000 +0000" stop="20240624121500 +0000" channel="TRT1.tr"><title lang="tr">Seksenler</title></programme>
-<programme start="20240624121500 +0000" stop="20240624160000 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
+<programme start="20240624101500 +0000" stop="20240624113000 +0000" channel="TRT1.tr"><title lang="tr">Seksenler</title></programme>
+<programme start="20240624113000 +0000" stop="20240624140000 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
+<programme start="20240624140000 +0000" stop="20240624160000 +0000" channel="TRT1.tr"><title lang="tr">Lingo</title></programme>
 <programme start="20240624160000 +0000" stop="20240624165500 +0000" channel="TRT1.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240624165500 +0000" stop="20240624170000 +0000" channel="TRT1.tr"><title lang="tr">İddiaların Aksine</title></programme>
-<programme start="20240624170000 +0000" stop="20240624190000 +0000" channel="TRT1.tr"><title lang="tr">Babamın Penguenleri</title></programme>
-<programme start="20240624190000 +0000" stop="20240624211500 +0000" channel="TRT1.tr"><title lang="tr">Hırvatistan - İtalya</title></programme>
-<programme start="20240624190000 +0000" stop="20240624211500 +0000" channel="TRT1.tr"><title lang="tr">Hırvatistan - İtalya</title></programme>
+<programme start="20240624165500 +0000" stop="20240624215000 +0000" channel="TRT1.tr"><title lang="tr">İddiaların Aksine</title></programme>
+<programme start="20240624165500 +0000" stop="20240624215000 +0000" channel="TRT1.tr"><title lang="tr">İddiaların Aksine</title></programme>
 <programme start="20240624211500 +0000" stop="20240624225500 +0000" channel="TRT1.tr"><title lang="tr">Babamın Penguenleri</title></programme>
 <programme start="20240624225500 +0000" stop="20240625013500 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
 <programme start="20240625013500 +0000" stop="20240625020000 +0000" channel="TRT1.tr"><title lang="tr">Yaşam Başka Yerde</title></programme>
@@ -813,7 +811,7 @@
 <programme start="20240624063000 +0000" stop="20240624070000 +0000" channel="TRT2.tr"><title lang="tr">Tabii Dünyası</title></programme>
 <programme start="20240624070000 +0000" stop="20240624080000 +0000" channel="TRT2.tr"><title lang="tr">Küçük Dahi İbn-i Sina</title></programme>
 <programme start="20240624080000 +0000" stop="20240624083000 +0000" channel="TRT2.tr"><title lang="tr">Anlatı</title></programme>
-<programme start="20240624083000 +0000" stop="20240624084500 +0000" channel="TRT2.tr"><title lang="tr">Geri Dönüşen Sanat</title></programme>
+<programme start="20240624083000 +0000" stop="20240624084500 +0000" channel="TRT2.tr"><title lang="tr">Eskiz</title></programme>
 <programme start="20240624084500 +0000" stop="20240624090000 +0000" channel="TRT2.tr"><title lang="tr">Sûret</title></programme>
 <programme start="20240624090000 +0000" stop="20240624093000 +0000" channel="TRT2.tr"><title lang="tr">Hayat Sanat</title></programme>
 <programme start="20240624093000 +0000" stop="20240624103000 +0000" channel="TRT2.tr"><title lang="tr">İmkansızın Peşinde:...</title></programme>
