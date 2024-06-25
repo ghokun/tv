@@ -785,13 +785,15 @@
 <programme start="20240625180000 +0000" stop="20240625190000 +0000" channel="TRT1.tr"><title lang="tr">Kupa Saati</title></programme>
 <programme start="20240625190000 +0000" stop="20240625211500 +0000" channel="TRT1.tr"><title lang="tr">İngiltere - Slovenya</title></programme>
 <programme start="20240625190000 +0000" stop="20240625211500 +0000" channel="TRT1.tr"><title lang="tr">İngiltere - Slovenya</title></programme>
-<programme start="20240625211500 +0000" stop="20240625230500 +0000" channel="TRT1.tr"><title lang="tr">Büyük Gözler</title></programme>
-<programme start="20240625230500 +0000" stop="20240626015500 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
-<programme start="20240626015500 +0000" stop="20240626033000 +0000" channel="TRT1.tr"><title lang="tr">Lingo</title></programme>
-<programme start="20240626033000 +0000" stop="20240626040000 +0000" channel="TRT1.tr"><title lang="tr">Uğurlugiller</title></programme>
-<programme start="20240626040000 +0000" stop="20240626063500 +0000" channel="TRT1.tr"><title lang="tr">Kara Tahta</title></programme>
-<programme start="20240626063500 +0000" stop="20240626113000 +0000" channel="TRT1.tr"><title lang="tr">Kasaba Doktoru</title></programme>
-<programme start="20240626113000 +0000" stop="20240626150000 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
+<programme start="20240625211500 +0000" stop="20240625230000 +0000" channel="TRT1.tr"><title lang="tr">Kaçış Yok</title></programme>
+<programme start="20240625230000 +0000" stop="20240626015000 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
+<programme start="20240626015000 +0000" stop="20240626030000 +0000" channel="TRT1.tr"><title lang="tr">Lingo</title></programme>
+<programme start="20240626030000 +0000" stop="20240626032500 +0000" channel="TRT1.tr"><title lang="tr">Yaşam Başka Yerde</title></programme>
+<programme start="20240626032500 +0000" stop="20240626035000 +0000" channel="TRT1.tr"><title lang="tr">Uğurlugiller</title></programme>
+<programme start="20240626035000 +0000" stop="20240626065500 +0000" channel="TRT1.tr"><title lang="tr">Kara Tahta</title></programme>
+<programme start="20240626065500 +0000" stop="20240626100000 +0000" channel="TRT1.tr"><title lang="tr">Kasaba Doktoru</title></programme>
+<programme start="20240626100000 +0000" stop="20240626112500 +0000" channel="TRT1.tr"><title lang="tr">Lingo</title></programme>
+<programme start="20240626112500 +0000" stop="20240626150000 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
 <programme start="20240626150000 +0000" stop="20240626155500 +0000" channel="TRT1.tr"><title lang="tr">Ana Haber</title></programme>
 <programme start="20240626155500 +0000" stop="20240626160000 +0000" channel="TRT1.tr"><title lang="tr">İddiaların Aksine</title></programme>
 <programme start="20240626160000 +0000" stop="20240626180000 +0000" channel="TRT1.tr"><title lang="tr">Ukrayna - Belçika</title></programme>
@@ -1230,9 +1232,9 @@
 <programme start="20240625053000 +0000" stop="20240625064500 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
 <programme start="20240625064500 +0000" stop="20240625090000 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
 <programme start="20240625090000 +0000" stop="20240625124500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
-<programme start="20240625124500 +0000" stop="20240625170000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
-<programme start="20240625170000 +0000" stop="20240625211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
-<programme start="20240625170000 +0000" stop="20240625211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240625124500 +0000" stop="20240625160000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
+<programme start="20240625160000 +0000" stop="20240625211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240625160000 +0000" stop="20240625211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240625211500 +0000" stop="20240625233000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
 <programme start="20240625233000 +0000" stop="20240626013000 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
 <programme start="20240626013000 +0000" stop="20240626030000 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
