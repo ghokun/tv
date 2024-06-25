@@ -173,8 +173,8 @@
 <programme start="20240626043000 +0000" stop="20240626054500 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Ana Haber</title></programme>
 <programme start="20240626054500 +0000" stop="20240626080000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Magazin</title></programme>
 <programme start="20240626080000 +0000" stop="20240626100000 +0000" channel="BeyazTV.tr"><title lang="tr">Nur Viral&apos;le Hayatta Her...</title></programme>
-<programme start="20240626100000 +0000" stop="20240626114500 +0000" channel="BeyazTV.tr"><title lang="tr">Esra Ezmeci ile Yeni Baştan</title></programme>
-<programme start="20240626114500 +0000" stop="20240626132000 +0000" channel="BeyazTV.tr"><title lang="tr">Nermin&apos;in Enfes Mutfağı</title></programme>
+<programme start="20240626100000 +0000" stop="20240626120000 +0000" channel="BeyazTV.tr"><title lang="tr">Esra Ezmeci ile Yeni Baştan</title></programme>
+<programme start="20240626120000 +0000" stop="20240626132000 +0000" channel="BeyazTV.tr"><title lang="tr">Nermin&apos;in Enfes Mutfağı</title></programme>
 <programme start="20240626132000 +0000" stop="20240626153000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
 <programme start="20240626153000 +0000" stop="20240626163000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Ana Haber</title></programme>
 <programme start="20240626163000 +0000" stop="20240626183000 +0000" channel="BeyazTV.tr"><title lang="tr">Ölümsüz Aşk</title></programme>
@@ -362,12 +362,14 @@
 <programme start="20240625211500 +0000" stop="20240625231500 +0000" channel="KanalD.tr"><title lang="tr">Iron Man</title></programme>
 <programme start="20240625231500 +0000" stop="20240626013000 +0000" channel="KanalD.tr"><title lang="tr">Güneşin Kızları</title></programme>
 <programme start="20240626013000 +0000" stop="20240626040000 +0000" channel="KanalD.tr"><title lang="tr">Tatlı İntikam</title></programme>
-<programme start="20240626040000 +0000" stop="20240626060000 +0000" channel="KanalD.tr"><title lang="tr">Afili Aşk</title></programme>
+<programme start="20240626040000 +0000" stop="20240626060000 +0000" channel="KanalD.tr"><title lang="tr">Yalan</title></programme>
 <programme start="20240626060000 +0000" stop="20240626080000 +0000" channel="KanalD.tr"><title lang="tr">Neler Oluyor Hayatta</title></programme>
 <programme start="20240626080000 +0000" stop="20240626100000 +0000" channel="KanalD.tr"><title lang="tr">Öyle Bir Geçer Zaman Ki</title></programme>
 <programme start="20240626100000 +0000" stop="20240626130000 +0000" channel="KanalD.tr"><title lang="tr">Gelinim Mutfakta</title></programme>
 <programme start="20240626130000 +0000" stop="20240626160000 +0000" channel="KanalD.tr"><title lang="tr">Arka Sokaklar</title></programme>
-<programme start="20240626160000 +0000" stop="20240626233000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
+<programme start="20240626160000 +0000" stop="20240626170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
+<programme start="20240626170000 +0000" stop="20240626191500 +0000" channel="KanalD.tr"><title lang="tr">Turnike</title></programme>
+<programme start="20240626191500 +0000" stop="20240626214500 +0000" channel="KanalD.tr"><title lang="tr">Yalan</title></programme>
 <programme start="20240624210000 +0000" stop="20240624215000 +0000" channel="NTV.tr"><title lang="tr">Bugün Yarın</title></programme>
 <programme start="20240624215000 +0000" stop="20240624215500 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
 <programme start="20240624215500 +0000" stop="20240624220000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
@@ -662,9 +664,9 @@
 <programme start="20240625131500 +0000" stop="20240625160000 +0000" channel="StarTV.tr"><title lang="tr">Erkenci Kuş</title></programme>
 <programme start="20240625160000 +0000" stop="20240625170000 +0000" channel="StarTV.tr"><title lang="tr">Star Haber</title></programme>
 <programme start="20240625170000 +0000" stop="20240625191500 +0000" channel="StarTV.tr"><title lang="tr">Küçük Esnaf</title></programme>
-<programme start="20240625191500 +0000" stop="20240625211500 +0000" channel="StarTV.tr"><title lang="tr">Küçük Esnaf</title></programme>
-<programme start="20240625191500 +0000" stop="20240625211500 +0000" channel="StarTV.tr"><title lang="tr">Küçük Esnaf</title></programme>
-<programme start="20240625211500 +0000" stop="20240625233000 +0000" channel="StarTV.tr"><title lang="tr">İstanbullu Gelin</title></programme>
+<programme start="20240625191500 +0000" stop="20240625213000 +0000" channel="StarTV.tr"><title lang="tr">Küçük Esnaf</title></programme>
+<programme start="20240625191500 +0000" stop="20240625213000 +0000" channel="StarTV.tr"><title lang="tr">Küçük Esnaf</title></programme>
+<programme start="20240625213000 +0000" stop="20240625233000 +0000" channel="StarTV.tr"><title lang="tr">İstanbullu Gelin</title></programme>
 <programme start="20240625233000 +0000" stop="20240626010000 +0000" channel="StarTV.tr"><title lang="tr">Yüksek Sosyete</title></programme>
 <programme start="20240626010000 +0000" stop="20240626023000 +0000" channel="StarTV.tr"><title lang="tr">Baba Ocağı</title></programme>
 <programme start="20240626023000 +0000" stop="20240626040000 +0000" channel="StarTV.tr"><title lang="tr">Erkenci Kuş</title></programme>
