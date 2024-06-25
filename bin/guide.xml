@@ -166,8 +166,20 @@
 <programme start="20240625183000 +0000" stop="20240625203000 +0000" channel="BeyazTV.tr"><title lang="tr">Gizli Dünya</title></programme>
 <programme start="20240625203000 +0000" stop="20240625221500 +0000" channel="BeyazTV.tr"><title lang="tr">Ne Var Ne Yok</title></programme>
 <programme start="20240625203000 +0000" stop="20240625221500 +0000" channel="BeyazTV.tr"><title lang="tr">Ne Var Ne Yok</title></programme>
-<programme start="20240625221500 +0000" stop="20240626030000 +0000" channel="BeyazTV.tr"><title lang="tr">Kara Maske</title></programme>
-<programme start="20240626030000 +0000" stop="20240626070000 +0000" channel="BeyazTV.tr"><title lang="tr">Gizli Dünya</title></programme>
+<programme start="20240625221500 +0000" stop="20240626001500 +0000" channel="BeyazTV.tr"><title lang="tr">Kara Maske</title></programme>
+<programme start="20240626001500 +0000" stop="20240626020000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
+<programme start="20240626020000 +0000" stop="20240626030000 +0000" channel="BeyazTV.tr"><title lang="tr">Belma Belen&apos;le Geziyoruz</title></programme>
+<programme start="20240626030000 +0000" stop="20240626043000 +0000" channel="BeyazTV.tr"><title lang="tr">Gizli Dünya</title></programme>
+<programme start="20240626043000 +0000" stop="20240626054500 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Ana Haber</title></programme>
+<programme start="20240626054500 +0000" stop="20240626080000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Magazin</title></programme>
+<programme start="20240626080000 +0000" stop="20240626100000 +0000" channel="BeyazTV.tr"><title lang="tr">Nur Viral&apos;le Hayatta Her...</title></programme>
+<programme start="20240626100000 +0000" stop="20240626114500 +0000" channel="BeyazTV.tr"><title lang="tr">Esra Ezmeci ile Yeni Baştan</title></programme>
+<programme start="20240626114500 +0000" stop="20240626132000 +0000" channel="BeyazTV.tr"><title lang="tr">Nermin&apos;in Enfes Mutfağı</title></programme>
+<programme start="20240626132000 +0000" stop="20240626153000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
+<programme start="20240626153000 +0000" stop="20240626163000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Ana Haber</title></programme>
+<programme start="20240626163000 +0000" stop="20240626183000 +0000" channel="BeyazTV.tr"><title lang="tr">Ölümsüz Aşk</title></programme>
+<programme start="20240626183000 +0000" stop="20240626203000 +0000" channel="BeyazTV.tr"><title lang="tr">Entrika</title></programme>
+<programme start="20240626203000 +0000" stop="20240626221500 +0000" channel="BeyazTV.tr"><title lang="tr">Kırmızı Beyaz Futbol</title></programme>
 <programme start="20240624174500 +0000" stop="20240624220000 +0000" channel="CNNTurk.tr"><title lang="tr">Ne Oluyor?</title></programme>
 <programme start="20240624220000 +0000" stop="20240624231500 +0000" channel="CNNTurk.tr"><title lang="tr">Gece Haberleri</title></programme>
 <programme start="20240624231500 +0000" stop="20240625030000 +0000" channel="CNNTurk.tr"><title lang="tr">Ne Oluyor?</title></programme>
