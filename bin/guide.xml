@@ -363,12 +363,14 @@
 <programme start="20240626214500 +0000" stop="20240626234500 +0000" channel="KanalD.tr"><title lang="tr">Turnike</title></programme>
 <programme start="20240626234500 +0000" stop="20240627014500 +0000" channel="KanalD.tr"><title lang="tr">Güneşin Kızları</title></programme>
 <programme start="20240627014500 +0000" stop="20240627040000 +0000" channel="KanalD.tr"><title lang="tr">Tatlı İntikam</title></programme>
-<programme start="20240627040000 +0000" stop="20240627060000 +0000" channel="KanalD.tr"><title lang="tr">Afili Aşk</title></programme>
+<programme start="20240627040000 +0000" stop="20240627060000 +0000" channel="KanalD.tr"><title lang="tr">Yalan</title></programme>
 <programme start="20240627060000 +0000" stop="20240627080000 +0000" channel="KanalD.tr"><title lang="tr">Neler Oluyor Hayatta</title></programme>
 <programme start="20240627080000 +0000" stop="20240627100000 +0000" channel="KanalD.tr"><title lang="tr">Öyle Bir Geçer Zaman Ki</title></programme>
 <programme start="20240627100000 +0000" stop="20240627130000 +0000" channel="KanalD.tr"><title lang="tr">Gelinim Mutfakta</title></programme>
 <programme start="20240627130000 +0000" stop="20240627160000 +0000" channel="KanalD.tr"><title lang="tr">Arka Sokaklar</title></programme>
-<programme start="20240627160000 +0000" stop="20240627233000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
+<programme start="20240627160000 +0000" stop="20240627170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
+<programme start="20240627170000 +0000" stop="20240627201500 +0000" channel="KanalD.tr"><title lang="tr">Aşk-ı Memnu</title></programme>
+<programme start="20240627201500 +0000" stop="20240627224500 +0000" channel="KanalD.tr"><title lang="tr">Hava Saldırısı</title></programme>
 <programme start="20240625210000 +0000" stop="20240625215000 +0000" channel="NTV.tr"><title lang="tr">Bugün Yarın</title></programme>
 <programme start="20240625215000 +0000" stop="20240625215500 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
 <programme start="20240625215500 +0000" stop="20240625220000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
@@ -1119,7 +1121,8 @@
 <programme start="20240627105000 +0000" stop="20240627105500 +0000" channel="TRTHaber.tr"><title lang="tr">Piyasa Raporu</title></programme>
 <programme start="20240627105500 +0000" stop="20240627110000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20240627110000 +0000" stop="20240627120000 +0000" channel="TRTHaber.tr"><title lang="tr">Haber Ajandası</title></programme>
-<programme start="20240627120000 +0000" stop="20240627130000 +0000" channel="TRTHaber.tr"><title lang="tr">Haber Ajandası</title></programme>
+<programme start="20240627120000 +0000" stop="20240627125500 +0000" channel="TRTHaber.tr"><title lang="tr">Haber Ajandası</title></programme>
+<programme start="20240627125500 +0000" stop="20240627130000 +0000" channel="TRTHaber.tr"><title lang="tr">Milli Güç Güçlü Türkiye</title></programme>
 <programme start="20240627130000 +0000" stop="20240627150000 +0000" channel="TRTHaber.tr"><title lang="tr">Günün İçinden</title></programme>
 <programme start="20240627150000 +0000" stop="20240627155500 +0000" channel="TRTHaber.tr"><title lang="tr">Sıcak Haber</title></programme>
 <programme start="20240627155500 +0000" stop="20240627160000 +0000" channel="TRTHaber.tr"><title lang="tr">Piyasa Raporu</title></programme>
