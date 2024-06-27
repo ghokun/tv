@@ -115,8 +115,7 @@
 <programme start="20240628175000 +0000" stop="20240628180000 +0000" channel="AHaber.tr"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20240628180000 +0000" stop="20240628210000 +0000" channel="AHaber.tr"><title lang="tr">Aklın Yolu</title></programme>
 <programme start="20240626234000 +0000" stop="20240627003000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Ana Haber BÜltenİ</title><category lang="tr">News</category></programme>
-<programme start="20240627003000 +0000" stop="20240627020000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Destan</title><credits><actor>Selim Bayraktar</actor><actor>Burak Tozkoparan</actor><actor>Kanbolat Gorkem Arslan</actor><actor>Ebru Sahin</actor><actor>Elif Dogan</actor><actor>Evren Erler</actor><actor>Teoman Kumbaracibasi</actor></credits><category lang="tr">Drama series</category></programme>
-<programme start="20240627020000 +0000" stop="20240627050000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Gül Masali</title><category lang="tr">Drama series</category></programme>
+<programme start="20240627003000 +0000" stop="20240627050000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Destan</title><credits><actor>Selim Bayraktar</actor><actor>Burak Tozkoparan</actor><actor>Kanbolat Gorkem Arslan</actor><actor>Ebru Sahin</actor><actor>Elif Dogan</actor><actor>Evren Erler</actor><actor>Teoman Kumbaracibasi</actor></credits><category lang="tr">Drama series</category></programme>
 <programme start="20240627050000 +0000" stop="20240627070000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Kahvalti Haberleri</title><desc lang="tr">Turkiye gundeminin en sicak haberleri ve gelismeleri ile gune baslangic.</desc><credits><actor>Melih Altinok</actor></credits><category lang="tr">News</category></programme>
 <programme start="20240627050000 +0000" stop="20240627070000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Kahvalti Haberleri</title><desc lang="tr">Turkiye gundeminin en sicak haberleri ve gelismeleri ile gune baslangic.</desc><credits><actor>Melih Altinok</actor></credits><category lang="tr">News</category></programme>
 <programme start="20240627070000 +0000" stop="20240627100000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Muge Anli ile Tatli Sert</title><desc lang="tr">Muge Anli ve ekibi faili mechul cinayetler ve kayiplarin yani sira bircok sosyal sorumluluk projesini cozmeye calisiyor.</desc><credits><actor>Muge Anli</actor></credits><category lang="tr">Crime</category><category lang="tr">Talk show</category></programme>
@@ -146,7 +145,7 @@
 <programme start="20240628165000 +0000" stop="20240628233000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Avrupa Haber</title><desc lang="tr">Yurt disinda yasayan vatandaslari ilgilendiren önemli haberlere yer veriliyor. Avrupali Türkler&apos;in yasadigi sorunlar basta olmak üzere, gündemin önemli basliklari sicagi sicagina seyircilere ulastiriliyor.</desc><credits><actor>Kübra Dogru</actor></credits><category lang="tr">News</category><category lang="tr">Event</category></programme>
 <programme start="20240628165000 +0000" stop="20240628233000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Avrupa Haber</title><desc lang="tr">Yurt disinda yasayan vatandaslari ilgilendiren önemli haberlere yer veriliyor. Avrupali Türkler&apos;in yasadigi sorunlar basta olmak üzere, gündemin önemli basliklari sicagi sicagina seyircilere ulastiriliyor.</desc><credits><actor>Kübra Dogru</actor></credits><category lang="tr">News</category><category lang="tr">Event</category></programme>
 <programme start="20240628233000 +0000" stop="20240628234000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Avrupa Haber</title><desc lang="tr">Yurt disinda yasayan vatandaslari ilgilendiren önemli haberlere yer veriliyor. Avrupali Türkler&apos;in yasadigi sorunlar basta olmak üzere, gündemin önemli basliklari sicagi sicagina seyircilere ulastiriliyor.</desc><credits><actor>Kübra Dogru</actor></credits><category lang="tr">News</category><category lang="tr">Event</category></programme>
-<programme start="20240628234000 +0000" stop="20240629003000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Ana Haber BÜltenİ</title><category lang="tr">News</category></programme>
+<programme start="20240628234000 +0000" stop="20240629020000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Ana Haber BÜltenİ</title><category lang="tr">News</category></programme>
 <programme start="20240626203000 +0000" stop="20240626221500 +0000" channel="BeyazTV.tr"><title lang="tr">Kırmızı Beyaz Futbol</title></programme>
 <programme start="20240626221500 +0000" stop="20240627001500 +0000" channel="BeyazTV.tr"><title lang="tr">Ölümsüz Aşk</title></programme>
 <programme start="20240627001500 +0000" stop="20240627023000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
@@ -291,7 +290,8 @@
 <programme start="20240628123000 +0000" stop="20240628130000 +0000" channel="HaberturkTV.tr"><title lang="tr">HT Spor Aktüel</title></programme>
 <programme start="20240628130000 +0000" stop="20240628150000 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Hattı</title></programme>
 <programme start="20240628150000 +0000" stop="20240628170000 +0000" channel="HaberturkTV.tr"><title lang="tr">Ana Haber Bülteni</title></programme>
-<programme start="20240628170000 +0000" stop="20240628200000 +0000" channel="HaberturkTV.tr"><title lang="tr">Enine Boyuna</title></programme>
+<programme start="20240628170000 +0000" stop="20240628180000 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240628180000 +0000" stop="20240628200000 +0000" channel="HaberturkTV.tr"><title lang="tr">Özel Röportaj</title></programme>
 <programme start="20240628200000 +0000" stop="20240628220000 +0000" channel="HaberturkTV.tr"><title lang="tr">Mesut Yar ile Gece Hattı</title></programme>
 <programme start="20240626180000 +0000" stop="20240626220000 +0000" channel="HalkTV.tr"><title lang="tr">Sözüm Var</title></programme>
 <programme start="20240626220000 +0000" stop="20240627000000 +0000" channel="HalkTV.tr"><title lang="tr">Halk TV&apos;de Bugün</title></programme>
@@ -367,8 +367,8 @@
 <programme start="20240628080000 +0000" stop="20240628100000 +0000" channel="KanalD.tr"><title lang="tr">Öyle Bir Geçer Zaman Ki</title></programme>
 <programme start="20240628100000 +0000" stop="20240628130000 +0000" channel="KanalD.tr"><title lang="tr">Gelinim Mutfakta</title></programme>
 <programme start="20240628130000 +0000" stop="20240628160000 +0000" channel="KanalD.tr"><title lang="tr">Arka Sokaklar</title></programme>
-<programme start="20240628160000 +0000" stop="20240628204500 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
-<programme start="20240628204500 +0000" stop="20240628234500 +0000" channel="KanalD.tr"><title lang="tr">Arka Sokaklar</title></programme>
+<programme start="20240628160000 +0000" stop="20240628170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
+<programme start="20240628170000 +0000" stop="20240628211500 +0000" channel="KanalD.tr"><title lang="tr">Arka Sokaklar</title></programme>
 <programme start="20240626210000 +0000" stop="20240626215500 +0000" channel="NTV.tr"><title lang="tr">Euro 2024</title></programme>
 <programme start="20240626215500 +0000" stop="20240626220000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20240626220000 +0000" stop="20240626223500 +0000" channel="NTV.tr"><title lang="tr">Haber Bülteni</title></programme>
@@ -557,7 +557,7 @@
 <programme start="20240627204500 +0000" stop="20240627224500 +0000" channel="ShowTV.tr"><title lang="tr">Kader</title></programme>
 <programme start="20240627204500 +0000" stop="20240627224500 +0000" channel="ShowTV.tr"><title lang="tr">Kader</title></programme>
 <programme start="20240627224500 +0000" stop="20240628003000 +0000" channel="ShowTV.tr"><title lang="tr">Öldürme Arzusu</title></programme>
-<programme start="20240628003000 +0000" stop="20240628030000 +0000" channel="ShowTV.tr"><title lang="tr">Kızılcık Şerbeti</title></programme>
+<programme start="20240628003000 +0000" stop="20240628030000 +0000" channel="ShowTV.tr"><title lang="tr">Ramo</title></programme>
 <programme start="20240628030000 +0000" stop="20240628061500 +0000" channel="ShowTV.tr"><title lang="tr">Aşk Laftan Anlamaz</title></programme>
 <programme start="20240628061500 +0000" stop="20240628091500 +0000" channel="ShowTV.tr"><title lang="tr">Gelsin Hayat Bildiği Gibi</title></programme>
 <programme start="20240628091500 +0000" stop="20240628120000 +0000" channel="ShowTV.tr"><title lang="tr">Aslı Hünel ile Gelin Evi</title></programme>
