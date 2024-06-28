@@ -648,9 +648,9 @@
 <programme start="20240628103000 +0000" stop="20240628131500 +0000" channel="StarTV.tr"><title lang="tr">Yüksek Sosyete</title></programme>
 <programme start="20240628131500 +0000" stop="20240628160000 +0000" channel="StarTV.tr"><title lang="tr">Erkenci Kuş</title></programme>
 <programme start="20240628160000 +0000" stop="20240628170000 +0000" channel="StarTV.tr"><title lang="tr">Star Haber</title></programme>
-<programme start="20240628170000 +0000" stop="20240628193000 +0000" channel="StarTV.tr"><title lang="tr">Düğün Dernek</title></programme>
-<programme start="20240628193000 +0000" stop="20240628213000 +0000" channel="StarTV.tr"><title lang="tr">Düğün Dernek</title></programme>
-<programme start="20240628193000 +0000" stop="20240628213000 +0000" channel="StarTV.tr"><title lang="tr">Düğün Dernek</title></programme>
+<programme start="20240628170000 +0000" stop="20240628191500 +0000" channel="StarTV.tr"><title lang="tr">Düğün Dernek</title></programme>
+<programme start="20240628191500 +0000" stop="20240628213000 +0000" channel="StarTV.tr"><title lang="tr">Düğün Dernek</title></programme>
+<programme start="20240628191500 +0000" stop="20240628213000 +0000" channel="StarTV.tr"><title lang="tr">Düğün Dernek</title></programme>
 <programme start="20240628213000 +0000" stop="20240629001500 +0000" channel="StarTV.tr"><title lang="tr">İstanbullu Gelin</title></programme>
 <programme start="20240629001500 +0000" stop="20240629023000 +0000" channel="StarTV.tr"><title lang="tr">Yüksek Sosyete</title></programme>
 <programme start="20240629023000 +0000" stop="20240629040000 +0000" channel="StarTV.tr"><title lang="tr">Erkenci Kuş</title></programme>
@@ -663,7 +663,8 @@
 <programme start="20240629133000 +0000" stop="20240629160000 +0000" channel="StarTV.tr"><title lang="tr">Erkenci Kuş</title></programme>
 <programme start="20240629160000 +0000" stop="20240629170000 +0000" channel="StarTV.tr"><title lang="tr">Star Haber</title></programme>
 <programme start="20240629170000 +0000" stop="20240629180000 +0000" channel="StarTV.tr"><title lang="tr">Çok Güzel Hareketler 2</title></programme>
-<programme start="20240629180000 +0000" stop="20240629213000 +0000" channel="StarTV.tr"><title lang="tr">İbo Show</title></programme>
+<programme start="20240629180000 +0000" stop="20240629204500 +0000" channel="StarTV.tr"><title lang="tr">İbo Show</title></programme>
+<programme start="20240629204500 +0000" stop="20240629230000 +0000" channel="StarTV.tr"><title lang="tr">Sıfırla</title></programme>
 <programme start="20240627203000 +0000" stop="20240627221500 +0000" channel="Teve2.tr"><title lang="tr">Kanıt</title></programme>
 <programme start="20240627221500 +0000" stop="20240627231500 +0000" channel="Teve2.tr"><title lang="tr">Binbir Gece</title></programme>
 <programme start="20240627231500 +0000" stop="20240628003000 +0000" channel="Teve2.tr"><title lang="tr">Fatmagül&apos;ün Suçu Ne?</title></programme>
