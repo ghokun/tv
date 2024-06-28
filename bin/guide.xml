@@ -557,52 +557,50 @@
 <programme start="20240629152500 +0000" stop="20240629170000 +0000" channel="ShowTV.tr"><title lang="tr">Show Ana Haber</title></programme>
 <programme start="20240629170000 +0000" stop="20240629204500 +0000" channel="ShowTV.tr"><title lang="tr">Güldür Güldür Show</title></programme>
 <programme start="20240629204500 +0000" stop="20240629231500 +0000" channel="ShowTV.tr"><title lang="tr">Haydut</title></programme>
-<programme start="20240627210000 +0000" stop="20240627220000 +0000" channel="SozcuTV.tr"><title lang="tr">S Raporu</title></programme>
+<programme start="20240627210000 +0000" stop="20240627213000 +0000" channel="SozcuTV.tr"><title lang="tr">-</title></programme>
+<programme start="20240627213000 +0000" stop="20240627220000 +0000" channel="SozcuTV.tr"><title lang="tr">S Raporu</title></programme>
 <programme start="20240627220000 +0000" stop="20240628003000 +0000" channel="SozcuTV.tr"><title lang="tr">Sözün Gücü</title></programme>
-<programme start="20240628003000 +0000" stop="20240628020000 +0000" channel="SozcuTV.tr"><title lang="tr">Türkiye&apos;nin Sözü</title></programme>
-<programme start="20240628020000 +0000" stop="20240628030000 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240628030000 +0000" stop="20240628040000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240628040000 +0000" stop="20240628054500 +0000" channel="SozcuTV.tr"><title lang="tr">Sabah Kahvesi</title></programme>
-<programme start="20240628054500 +0000" stop="20240628070000 +0000" channel="SozcuTV.tr"><title lang="tr">Para Politika</title></programme>
-<programme start="20240628070000 +0000" stop="20240628080000 +0000" channel="SozcuTV.tr"><title lang="tr">Para Politika</title></programme>
-<programme start="20240628080000 +0000" stop="20240628090000 +0000" channel="SozcuTV.tr"><title lang="tr">Para Politika</title></programme>
-<programme start="20240628090000 +0000" stop="20240628100000 +0000" channel="SozcuTV.tr"><title lang="tr">Gündem Masası</title></programme>
-<programme start="20240628100000 +0000" stop="20240628110000 +0000" channel="SozcuTV.tr"><title lang="tr">Gündem Masası</title></programme>
-<programme start="20240628110000 +0000" stop="20240628120000 +0000" channel="SozcuTV.tr"><title lang="tr">Gündem Masası</title></programme>
-<programme start="20240628120000 +0000" stop="20240628130000 +0000" channel="SozcuTV.tr"><title lang="tr">Öncesi Sonrası</title></programme>
-<programme start="20240628130000 +0000" stop="20240628140000 +0000" channel="SozcuTV.tr"><title lang="tr">Öncesi Sonrası</title></programme>
-<programme start="20240628140000 +0000" stop="20240628150000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Saati</title></programme>
-<programme start="20240628150000 +0000" stop="20240628153000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Saati</title></programme>
-<programme start="20240628153000 +0000" stop="20240628154000 +0000" channel="SozcuTV.tr"><title lang="tr">Üçüncü Sayfa</title></programme>
-<programme start="20240628154000 +0000" stop="20240628160000 +0000" channel="SozcuTV.tr"><title lang="tr">SZC Spor</title></programme>
-<programme start="20240628160000 +0000" stop="20240628171500 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240628171500 +0000" stop="20240628200000 +0000" channel="SozcuTV.tr"><title lang="tr">Aklın Yolu</title></programme>
-<programme start="20240628200000 +0000" stop="20240628213000 +0000" channel="SozcuTV.tr"><title lang="tr">Nokta Atışı</title></programme>
-<programme start="20240628210000 +0000" stop="20240628220000 +0000" channel="SozcuTV.tr"><title lang="tr">S Raporu</title></programme>
+<programme start="20240628003000 +0000" stop="20240628020000 +0000" channel="SozcuTV.tr"><title lang="tr">Öncesi Sonrası Gece</title></programme>
+<programme start="20240628020000 +0000" stop="20240628023000 +0000" channel="SozcuTV.tr"><title lang="tr">Türkiye&apos;nin Yıldızları</title></programme>
+<programme start="20240628023000 +0000" stop="20240628030000 +0000" channel="SozcuTV.tr"><title lang="tr">Cumhuriyet&apos;in Yüzleri</title></programme>
+<programme start="20240628030000 +0000" stop="20240628040000 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
+<programme start="20240628040000 +0000" stop="20240628060000 +0000" channel="SozcuTV.tr"><title lang="tr">Sabah Kahvesi</title></programme>
+<programme start="20240628060000 +0000" stop="20240628090000 +0000" channel="SozcuTV.tr"><title lang="tr">Son Söz</title></programme>
+<programme start="20240628090000 +0000" stop="20240628091500 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240628091500 +0000" stop="20240628100000 +0000" channel="SozcuTV.tr"><title lang="tr">İyilik Sağlık</title></programme>
+<programme start="20240628100000 +0000" stop="20240628120000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240628120000 +0000" stop="20240628130000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240628130000 +0000" stop="20240628140000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240628140000 +0000" stop="20240628150000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240628150000 +0000" stop="20240628151500 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240628151500 +0000" stop="20240628160000 +0000" channel="SozcuTV.tr"><title lang="tr">Başka Bir Söz</title></programme>
+<programme start="20240628160000 +0000" stop="20240628170000 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
+<programme start="20240628170000 +0000" stop="20240628204500 +0000" channel="SozcuTV.tr"><title lang="tr">Nokta Atışı</title></programme>
+<programme start="20240628204500 +0000" stop="20240628212000 +0000" channel="SozcuTV.tr"><title lang="tr">Türkiye&apos;nin Yıldızları</title></programme>
+<programme start="20240628210000 +0000" stop="20240628213000 +0000" channel="SozcuTV.tr"><title lang="tr">-</title></programme>
+<programme start="20240628213000 +0000" stop="20240628220000 +0000" channel="SozcuTV.tr"><title lang="tr">S Raporu</title></programme>
 <programme start="20240628220000 +0000" stop="20240629003000 +0000" channel="SozcuTV.tr"><title lang="tr">Sözün Gücü</title></programme>
-<programme start="20240629003000 +0000" stop="20240629020000 +0000" channel="SozcuTV.tr"><title lang="tr">Türkiye&apos;nin Sözü</title></programme>
-<programme start="20240629020000 +0000" stop="20240629030000 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240629030000 +0000" stop="20240629040000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240629040000 +0000" stop="20240629054500 +0000" channel="SozcuTV.tr"><title lang="tr">Sabah Kahvesi</title></programme>
-<programme start="20240629054500 +0000" stop="20240629070000 +0000" channel="SozcuTV.tr"><title lang="tr">Para Politika</title></programme>
-<programme start="20240629070000 +0000" stop="20240629080000 +0000" channel="SozcuTV.tr"><title lang="tr">Para Politika</title></programme>
-<programme start="20240629080000 +0000" stop="20240629090000 +0000" channel="SozcuTV.tr"><title lang="tr">Para Politika</title></programme>
-<programme start="20240629090000 +0000" stop="20240629100000 +0000" channel="SozcuTV.tr"><title lang="tr">Gündem Masası</title></programme>
-<programme start="20240629100000 +0000" stop="20240629110000 +0000" channel="SozcuTV.tr"><title lang="tr">Gündem Masası</title></programme>
-<programme start="20240629110000 +0000" stop="20240629120000 +0000" channel="SozcuTV.tr"><title lang="tr">Gündem Masası</title></programme>
-<programme start="20240629120000 +0000" stop="20240629130000 +0000" channel="SozcuTV.tr"><title lang="tr">Öncesi Sonrası</title></programme>
-<programme start="20240629130000 +0000" stop="20240629140000 +0000" channel="SozcuTV.tr"><title lang="tr">Öncesi Sonrası</title></programme>
-<programme start="20240629140000 +0000" stop="20240629150000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Saati</title></programme>
-<programme start="20240629150000 +0000" stop="20240629153000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Saati</title></programme>
-<programme start="20240629153000 +0000" stop="20240629154000 +0000" channel="SozcuTV.tr"><title lang="tr">Üçüncü Sayfa</title></programme>
-<programme start="20240629154000 +0000" stop="20240629160000 +0000" channel="SozcuTV.tr"><title lang="tr">SZC Spor</title></programme>
-<programme start="20240629160000 +0000" stop="20240629171500 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240629171500 +0000" stop="20240629200000 +0000" channel="SozcuTV.tr"><title lang="tr">Aklın Yolu</title></programme>
-<programme start="20240629200000 +0000" stop="20240629213000 +0000" channel="SozcuTV.tr"><title lang="tr">Nokta Atışı</title></programme>
-<programme start="20240627210000 +0000" stop="20240627230000 +0000" channel="SportsTV.tr"><title lang="tr">Futbol Center</title></programme>
+<programme start="20240629003000 +0000" stop="20240629020000 +0000" channel="SozcuTV.tr"><title lang="tr">Öncesi Sonrası Gece</title></programme>
+<programme start="20240629020000 +0000" stop="20240629023000 +0000" channel="SozcuTV.tr"><title lang="tr">Türkiye&apos;nin Yıldızları</title></programme>
+<programme start="20240629023000 +0000" stop="20240629030000 +0000" channel="SozcuTV.tr"><title lang="tr">Cumhuriyet&apos;in Yüzleri</title></programme>
+<programme start="20240629030000 +0000" stop="20240629040000 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
+<programme start="20240629040000 +0000" stop="20240629060000 +0000" channel="SozcuTV.tr"><title lang="tr">Sabah Kahvesi</title></programme>
+<programme start="20240629060000 +0000" stop="20240629090000 +0000" channel="SozcuTV.tr"><title lang="tr">Son Söz</title></programme>
+<programme start="20240629090000 +0000" stop="20240629091500 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240629091500 +0000" stop="20240629100000 +0000" channel="SozcuTV.tr"><title lang="tr">İyilik Sağlık</title></programme>
+<programme start="20240629100000 +0000" stop="20240629120000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240629120000 +0000" stop="20240629130000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240629130000 +0000" stop="20240629140000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240629140000 +0000" stop="20240629150000 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240629150000 +0000" stop="20240629151500 +0000" channel="SozcuTV.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240629151500 +0000" stop="20240629160000 +0000" channel="SozcuTV.tr"><title lang="tr">Başka Bir Söz</title></programme>
+<programme start="20240629160000 +0000" stop="20240629170000 +0000" channel="SozcuTV.tr"><title lang="tr">Ana Haber</title></programme>
+<programme start="20240629170000 +0000" stop="20240629204500 +0000" channel="SozcuTV.tr"><title lang="tr">Nokta Atışı</title></programme>
+<programme start="20240629204500 +0000" stop="20240629212000 +0000" channel="SozcuTV.tr"><title lang="tr">Türkiye&apos;nin Yıldızları</title></programme>
+<programme start="20240627210000 +0000" stop="20240627230000 +0000" channel="SportsTV.tr"><title lang="tr">Beşiktaş - ÇBK Mersin</title></programme>
 <programme start="20240627230000 +0000" stop="20240628030000 +0000" channel="SportsTV.tr"><title lang="tr">Tekrarlar</title></programme>
-<programme start="20240628030000 +0000" stop="20240628050000 +0000" channel="SportsTV.tr"><title lang="tr">Piacenza - Cisterna</title></programme>
-<programme start="20240628050000 +0000" stop="20240628060000 +0000" channel="SportsTV.tr"><title lang="tr">Auto Life</title></programme>
+<programme start="20240628030000 +0000" stop="20240628050000 +0000" channel="SportsTV.tr"><title lang="tr">ÇBK Mersin-Galatasaray Ç.F.</title></programme>
+<programme start="20240628050000 +0000" stop="20240628060000 +0000" channel="SportsTV.tr"><title lang="tr">Reaction Sports</title></programme>
 <programme start="20240628060000 +0000" stop="20240628062000 +0000" channel="SportsTV.tr"><title lang="tr">Dinamik Sabahlar</title></programme>
 <programme start="20240628062000 +0000" stop="20240628064500 +0000" channel="SportsTV.tr"><title lang="tr">Pilates</title></programme>
 <programme start="20240628064500 +0000" stop="20240628074500 +0000" channel="SportsTV.tr"><title lang="tr">Yoga</title></programme>
@@ -610,20 +608,18 @@
 <programme start="20240628080000 +0000" stop="20240628081500 +0000" channel="SportsTV.tr"><title lang="tr">Pilates</title></programme>
 <programme start="20240628081500 +0000" stop="20240628083000 +0000" channel="SportsTV.tr"><title lang="tr">Fit Mutfak</title></programme>
 <programme start="20240628083000 +0000" stop="20240628090000 +0000" channel="SportsTV.tr"><title lang="tr">Yoga</title></programme>
-<programme start="20240628090000 +0000" stop="20240628110000 +0000" channel="SportsTV.tr"><title lang="tr">Wisla Plock - PSG</title></programme>
-<programme start="20240628110000 +0000" stop="20240628120000 +0000" channel="SportsTV.tr"><title lang="tr">Cimnastik Her Yerde</title></programme>
-<programme start="20240628120000 +0000" stop="20240628130000 +0000" channel="SportsTV.tr"><title lang="tr">Türkiye Yüzüyor</title></programme>
-<programme start="20240628130000 +0000" stop="20240628143000 +0000" channel="SportsTV.tr"><title lang="tr">Mobil 1 The Grid</title></programme>
-<programme start="20240628143000 +0000" stop="20240628150000 +0000" channel="SportsTV.tr"><title lang="tr">Spor 360</title></programme>
-<programme start="20240628150000 +0000" stop="20240628160000 +0000" channel="SportsTV.tr"><title lang="tr">Süper Spor</title></programme>
-<programme start="20240628160000 +0000" stop="20240628170000 +0000" channel="SportsTV.tr"><title lang="tr">Hedef Paris</title></programme>
-<programme start="20240628170000 +0000" stop="20240628180000 +0000" channel="SportsTV.tr"><title lang="tr">Center Court</title></programme>
-<programme start="20240628180000 +0000" stop="20240628190000 +0000" channel="SportsTV.tr"><title lang="tr">Euro Formula Open Belçika</title></programme>
-<programme start="20240628190000 +0000" stop="20240628210000 +0000" channel="SportsTV.tr"><title lang="tr">Scandicci - Milano</title></programme>
-<programme start="20240628210000 +0000" stop="20240628230000 +0000" channel="SportsTV.tr"><title lang="tr">Futbol Center</title></programme>
+<programme start="20240628090000 +0000" stop="20240628100000 +0000" channel="SportsTV.tr"><title lang="tr">Auto Life</title></programme>
+<programme start="20240628100000 +0000" stop="20240628110000 +0000" channel="SportsTV.tr"><title lang="tr">Sporsever</title></programme>
+<programme start="20240628110000 +0000" stop="20240628120000 +0000" channel="SportsTV.tr"><title lang="tr">Haliç Kürek Yarışları 2024 Finaller</title></programme>
+<programme start="20240628120000 +0000" stop="20240628150000 +0000" channel="SportsTV.tr"><title lang="tr">Scandicci - Imoco</title></programme>
+<programme start="20240628150000 +0000" stop="20240628160000 +0000" channel="SportsTV.tr"><title lang="tr">Futbol Center</title></programme>
+<programme start="20240628160000 +0000" stop="20240628180000 +0000" channel="SportsTV.tr"><title lang="tr">Montpellier - HC Zagreb</title></programme>
+<programme start="20240628180000 +0000" stop="20240628190000 +0000" channel="SportsTV.tr"><title lang="tr">Futbol Center</title></programme>
+<programme start="20240628190000 +0000" stop="20240628210000 +0000" channel="SportsTV.tr"><title lang="tr">Milano - Brescia</title></programme>
+<programme start="20240628210000 +0000" stop="20240628230000 +0000" channel="SportsTV.tr"><title lang="tr">Beşiktaş - ÇBK Mersin</title></programme>
 <programme start="20240628230000 +0000" stop="20240629030000 +0000" channel="SportsTV.tr"><title lang="tr">Tekrarlar</title></programme>
-<programme start="20240629030000 +0000" stop="20240629050000 +0000" channel="SportsTV.tr"><title lang="tr">Piacenza - Cisterna</title></programme>
-<programme start="20240629050000 +0000" stop="20240629060000 +0000" channel="SportsTV.tr"><title lang="tr">Auto Life</title></programme>
+<programme start="20240629030000 +0000" stop="20240629050000 +0000" channel="SportsTV.tr"><title lang="tr">ÇBK Mersin-Galatasaray Ç.F.</title></programme>
+<programme start="20240629050000 +0000" stop="20240629060000 +0000" channel="SportsTV.tr"><title lang="tr">Reaction Sports</title></programme>
 <programme start="20240629060000 +0000" stop="20240629062000 +0000" channel="SportsTV.tr"><title lang="tr">Dinamik Sabahlar</title></programme>
 <programme start="20240629062000 +0000" stop="20240629064500 +0000" channel="SportsTV.tr"><title lang="tr">Pilates</title></programme>
 <programme start="20240629064500 +0000" stop="20240629074500 +0000" channel="SportsTV.tr"><title lang="tr">Yoga</title></programme>
@@ -631,16 +627,14 @@
 <programme start="20240629080000 +0000" stop="20240629081500 +0000" channel="SportsTV.tr"><title lang="tr">Pilates</title></programme>
 <programme start="20240629081500 +0000" stop="20240629083000 +0000" channel="SportsTV.tr"><title lang="tr">Fit Mutfak</title></programme>
 <programme start="20240629083000 +0000" stop="20240629090000 +0000" channel="SportsTV.tr"><title lang="tr">Yoga</title></programme>
-<programme start="20240629090000 +0000" stop="20240629110000 +0000" channel="SportsTV.tr"><title lang="tr">Wisla Plock - PSG</title></programme>
-<programme start="20240629110000 +0000" stop="20240629120000 +0000" channel="SportsTV.tr"><title lang="tr">Cimnastik Her Yerde</title></programme>
-<programme start="20240629120000 +0000" stop="20240629130000 +0000" channel="SportsTV.tr"><title lang="tr">Türkiye Yüzüyor</title></programme>
-<programme start="20240629130000 +0000" stop="20240629143000 +0000" channel="SportsTV.tr"><title lang="tr">Mobil 1 The Grid</title></programme>
-<programme start="20240629143000 +0000" stop="20240629150000 +0000" channel="SportsTV.tr"><title lang="tr">Spor 360</title></programme>
-<programme start="20240629150000 +0000" stop="20240629160000 +0000" channel="SportsTV.tr"><title lang="tr">Süper Spor</title></programme>
-<programme start="20240629160000 +0000" stop="20240629170000 +0000" channel="SportsTV.tr"><title lang="tr">Hedef Paris</title></programme>
-<programme start="20240629170000 +0000" stop="20240629180000 +0000" channel="SportsTV.tr"><title lang="tr">Center Court</title></programme>
-<programme start="20240629180000 +0000" stop="20240629190000 +0000" channel="SportsTV.tr"><title lang="tr">Euro Formula Open Belçika</title></programme>
-<programme start="20240629190000 +0000" stop="20240629210000 +0000" channel="SportsTV.tr"><title lang="tr">Scandicci - Milano</title></programme>
+<programme start="20240629090000 +0000" stop="20240629100000 +0000" channel="SportsTV.tr"><title lang="tr">Auto Life</title></programme>
+<programme start="20240629100000 +0000" stop="20240629110000 +0000" channel="SportsTV.tr"><title lang="tr">Sporsever</title></programme>
+<programme start="20240629110000 +0000" stop="20240629120000 +0000" channel="SportsTV.tr"><title lang="tr">Haliç Kürek Yarışları 2024 Finaller</title></programme>
+<programme start="20240629120000 +0000" stop="20240629150000 +0000" channel="SportsTV.tr"><title lang="tr">Scandicci - Imoco</title></programme>
+<programme start="20240629150000 +0000" stop="20240629160000 +0000" channel="SportsTV.tr"><title lang="tr">Futbol Center</title></programme>
+<programme start="20240629160000 +0000" stop="20240629180000 +0000" channel="SportsTV.tr"><title lang="tr">Montpellier - HC Zagreb</title></programme>
+<programme start="20240629180000 +0000" stop="20240629190000 +0000" channel="SportsTV.tr"><title lang="tr">Futbol Center</title></programme>
+<programme start="20240629190000 +0000" stop="20240629210000 +0000" channel="SportsTV.tr"><title lang="tr">Milano - Brescia</title></programme>
 <programme start="20240627190000 +0000" stop="20240627211500 +0000" channel="StarTV.tr"><title lang="tr">Yetenekli Bay Cage</title></programme>
 <programme start="20240627211500 +0000" stop="20240627230000 +0000" channel="StarTV.tr"><title lang="tr">Eyvah Babam</title></programme>
 <programme start="20240627230000 +0000" stop="20240628004500 +0000" channel="StarTV.tr"><title lang="tr">Yetenekli Bay Cage</title></programme>
@@ -707,25 +701,27 @@
 <programme start="20240628024000 +0000" stop="20240628030000 +0000" channel="TLC.tr"><title lang="tr">Meksika Evleri</title></programme>
 <programme start="20240628030000 +0000" stop="20240628033000 +0000" channel="TLC.tr"><title lang="tr">Emlak Avcıları Amerika</title></programme>
 <programme start="20240628033000 +0000" stop="20240628040000 +0000" channel="TLC.tr"><title lang="tr">Emlak Avcıları Amerika</title></programme>
-<programme start="20240628040000 +0000" stop="20240628043000 +0000" channel="TLC.tr"><title lang="tr">Emlak Avcıları Amerika</title></programme>
-<programme start="20240628043000 +0000" stop="20240628053000 +0000" channel="TLC.tr"><title lang="tr">Bu Evi Neden Aldım?</title></programme>
-<programme start="20240628053000 +0000" stop="20240628063000 +0000" channel="TLC.tr"><title lang="tr">Şikago Evleri</title></programme>
-<programme start="20240628063000 +0000" stop="20240628073000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler Sahilde</title></programme>
-<programme start="20240628073000 +0000" stop="20240628083000 +0000" channel="TLC.tr"><title lang="tr">Hayalimdeki Kumsal Evi</title></programme>
-<programme start="20240628083000 +0000" stop="20240628093000 +0000" channel="TLC.tr"><title lang="tr">Hayalimdeki Ev</title></programme>
-<programme start="20240628093000 +0000" stop="20240628100000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler</title></programme>
-<programme start="20240628100000 +0000" stop="20240628103000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler</title></programme>
-<programme start="20240628103000 +0000" stop="20240628110000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler</title></programme>
-<programme start="20240628110000 +0000" stop="20240628113000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler</title></programme>
-<programme start="20240628113000 +0000" stop="20240628120000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler</title></programme>
-<programme start="20240628120000 +0000" stop="20240628123000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler</title></programme>
-<programme start="20240628123000 +0000" stop="20240628133000 +0000" channel="TLC.tr"><title lang="tr">Gölde Emlak Günlükleri</title></programme>
-<programme start="20240628133000 +0000" stop="20240628143000 +0000" channel="TLC.tr"><title lang="tr">Hawaii Evleri Yenileniyor</title></programme>
-<programme start="20240628143000 +0000" stop="20240628153000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler Sahilde</title></programme>
-<programme start="20240628153000 +0000" stop="20240628163000 +0000" channel="TLC.tr"><title lang="tr">Hayalimdeki Kumsal Evi</title></programme>
-<programme start="20240628163000 +0000" stop="20240628183000 +0000" channel="TLC.tr"><title lang="tr">Sakar Polis 2</title></programme>
-<programme start="20240628183000 +0000" stop="20240628203000 +0000" channel="TLC.tr"><title lang="tr">Sakar Polis 2</title></programme>
-<programme start="20240628203000 +0000" stop="20240628213000 +0000" channel="TLC.tr"><title lang="tr">Cinayet Kayıtları</title></programme>
+<programme start="20240628040000 +0000" stop="20240628050000 +0000" channel="TLC.tr"><title lang="tr">Ya Sev Ya Sat Tatilde</title></programme>
+<programme start="20240628050000 +0000" stop="20240628060000 +0000" channel="TLC.tr"><title lang="tr">Ya Sev Ya Sat Tatilde</title></programme>
+<programme start="20240628060000 +0000" stop="20240628070000 +0000" channel="TLC.tr"><title lang="tr">Yazlıkları Değişelim</title></programme>
+<programme start="20240628070000 +0000" stop="20240628080000 +0000" channel="TLC.tr"><title lang="tr">Hayalimdeki Kumsal Evi</title></programme>
+<programme start="20240628080000 +0000" stop="20240628090000 +0000" channel="TLC.tr"><title lang="tr">Hayalimdeki Kumsal Evi</title></programme>
+<programme start="20240628090000 +0000" stop="20240628100000 +0000" channel="TLC.tr"><title lang="tr">Mücevher Dünyası</title></programme>
+<programme start="20240628100000 +0000" stop="20240628103000 +0000" channel="TLC.tr"><title lang="tr">Hint Düğünü Bizim İşimiz</title></programme>
+<programme start="20240628103000 +0000" stop="20240628110000 +0000" channel="TLC.tr"><title lang="tr">Hint Düğünü Bizim İşimiz</title></programme>
+<programme start="20240628110000 +0000" stop="20240628113000 +0000" channel="TLC.tr"><title lang="tr">Gelinliğe Evet De Hindistan</title></programme>
+<programme start="20240628113000 +0000" stop="20240628120000 +0000" channel="TLC.tr"><title lang="tr">Gelinliğe Evet De Hindistan</title></programme>
+<programme start="20240628120000 +0000" stop="20240628140000 +0000" channel="TLC.tr"><title lang="tr">Ağır Yaşamlar: Şimdi Ne Yapıyorlar?</title></programme>
+<programme start="20240628140000 +0000" stop="20240628150000 +0000" channel="TLC.tr"><title lang="tr">Hawaii Evleri Yenileniyor</title></programme>
+<programme start="20240628150000 +0000" stop="20240628160000 +0000" channel="TLC.tr"><title lang="tr">Gölde Emlak Günlükleri</title></programme>
+<programme start="20240628160000 +0000" stop="20240628163000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler</title></programme>
+<programme start="20240628163000 +0000" stop="20240628170000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler</title></programme>
+<programme start="20240628170000 +0000" stop="20240628173000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler</title></programme>
+<programme start="20240628173000 +0000" stop="20240628180000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler</title></programme>
+<programme start="20240628180000 +0000" stop="20240628183000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler</title></programme>
+<programme start="20240628183000 +0000" stop="20240628190000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler</title></programme>
+<programme start="20240628190000 +0000" stop="20240628200000 +0000" channel="TLC.tr"><title lang="tr">Rehine Operasyonu</title></programme>
+<programme start="20240628200000 +0000" stop="20240628210000 +0000" channel="TLC.tr"><title lang="tr">Güzellik Kraliçesi Cinayetleri</title></programme>
 <programme start="20240628210000 +0000" stop="20240628213000 +0000" channel="TLC.tr"><title lang="tr">-</title></programme>
 <programme start="20240628213000 +0000" stop="20240628223000 +0000" channel="TLC.tr"><title lang="tr">Acımasız Kızlar</title></programme>
 <programme start="20240628223000 +0000" stop="20240628232500 +0000" channel="TLC.tr"><title lang="tr">Amerikan Dedektif</title></programme>
@@ -737,25 +733,27 @@
 <programme start="20240629024000 +0000" stop="20240629030000 +0000" channel="TLC.tr"><title lang="tr">Meksika Evleri</title></programme>
 <programme start="20240629030000 +0000" stop="20240629033000 +0000" channel="TLC.tr"><title lang="tr">Emlak Avcıları Amerika</title></programme>
 <programme start="20240629033000 +0000" stop="20240629040000 +0000" channel="TLC.tr"><title lang="tr">Emlak Avcıları Amerika</title></programme>
-<programme start="20240629040000 +0000" stop="20240629043000 +0000" channel="TLC.tr"><title lang="tr">Emlak Avcıları Amerika</title></programme>
-<programme start="20240629043000 +0000" stop="20240629053000 +0000" channel="TLC.tr"><title lang="tr">Bu Evi Neden Aldım?</title></programme>
-<programme start="20240629053000 +0000" stop="20240629063000 +0000" channel="TLC.tr"><title lang="tr">Şikago Evleri</title></programme>
-<programme start="20240629063000 +0000" stop="20240629073000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler Sahilde</title></programme>
-<programme start="20240629073000 +0000" stop="20240629083000 +0000" channel="TLC.tr"><title lang="tr">Hayalimdeki Kumsal Evi</title></programme>
-<programme start="20240629083000 +0000" stop="20240629093000 +0000" channel="TLC.tr"><title lang="tr">Hayalimdeki Ev</title></programme>
-<programme start="20240629093000 +0000" stop="20240629100000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler</title></programme>
-<programme start="20240629100000 +0000" stop="20240629103000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler</title></programme>
-<programme start="20240629103000 +0000" stop="20240629110000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler</title></programme>
-<programme start="20240629110000 +0000" stop="20240629113000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler</title></programme>
-<programme start="20240629113000 +0000" stop="20240629120000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler</title></programme>
-<programme start="20240629120000 +0000" stop="20240629123000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler</title></programme>
-<programme start="20240629123000 +0000" stop="20240629133000 +0000" channel="TLC.tr"><title lang="tr">Gölde Emlak Günlükleri</title></programme>
-<programme start="20240629133000 +0000" stop="20240629143000 +0000" channel="TLC.tr"><title lang="tr">Hawaii Evleri Yenileniyor</title></programme>
-<programme start="20240629143000 +0000" stop="20240629153000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler Sahilde</title></programme>
-<programme start="20240629153000 +0000" stop="20240629163000 +0000" channel="TLC.tr"><title lang="tr">Hayalimdeki Kumsal Evi</title></programme>
-<programme start="20240629163000 +0000" stop="20240629183000 +0000" channel="TLC.tr"><title lang="tr">Sakar Polis 2</title></programme>
-<programme start="20240629183000 +0000" stop="20240629203000 +0000" channel="TLC.tr"><title lang="tr">Sakar Polis 2</title></programme>
-<programme start="20240629203000 +0000" stop="20240629213000 +0000" channel="TLC.tr"><title lang="tr">Cinayet Kayıtları</title></programme>
+<programme start="20240629040000 +0000" stop="20240629050000 +0000" channel="TLC.tr"><title lang="tr">Ya Sev Ya Sat Tatilde</title></programme>
+<programme start="20240629050000 +0000" stop="20240629060000 +0000" channel="TLC.tr"><title lang="tr">Ya Sev Ya Sat Tatilde</title></programme>
+<programme start="20240629060000 +0000" stop="20240629070000 +0000" channel="TLC.tr"><title lang="tr">Yazlıkları Değişelim</title></programme>
+<programme start="20240629070000 +0000" stop="20240629080000 +0000" channel="TLC.tr"><title lang="tr">Hayalimdeki Kumsal Evi</title></programme>
+<programme start="20240629080000 +0000" stop="20240629090000 +0000" channel="TLC.tr"><title lang="tr">Hayalimdeki Kumsal Evi</title></programme>
+<programme start="20240629090000 +0000" stop="20240629100000 +0000" channel="TLC.tr"><title lang="tr">Mücevher Dünyası</title></programme>
+<programme start="20240629100000 +0000" stop="20240629103000 +0000" channel="TLC.tr"><title lang="tr">Hint Düğünü Bizim İşimiz</title></programme>
+<programme start="20240629103000 +0000" stop="20240629110000 +0000" channel="TLC.tr"><title lang="tr">Hint Düğünü Bizim İşimiz</title></programme>
+<programme start="20240629110000 +0000" stop="20240629113000 +0000" channel="TLC.tr"><title lang="tr">Gelinliğe Evet De Hindistan</title></programme>
+<programme start="20240629113000 +0000" stop="20240629120000 +0000" channel="TLC.tr"><title lang="tr">Gelinliğe Evet De Hindistan</title></programme>
+<programme start="20240629120000 +0000" stop="20240629140000 +0000" channel="TLC.tr"><title lang="tr">Ağır Yaşamlar: Şimdi Ne Yapıyorlar?</title></programme>
+<programme start="20240629140000 +0000" stop="20240629150000 +0000" channel="TLC.tr"><title lang="tr">Hawaii Evleri Yenileniyor</title></programme>
+<programme start="20240629150000 +0000" stop="20240629160000 +0000" channel="TLC.tr"><title lang="tr">Gölde Emlak Günlükleri</title></programme>
+<programme start="20240629160000 +0000" stop="20240629163000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler</title></programme>
+<programme start="20240629163000 +0000" stop="20240629170000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler</title></programme>
+<programme start="20240629170000 +0000" stop="20240629173000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler</title></programme>
+<programme start="20240629173000 +0000" stop="20240629180000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler</title></programme>
+<programme start="20240629180000 +0000" stop="20240629183000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler</title></programme>
+<programme start="20240629183000 +0000" stop="20240629190000 +0000" channel="TLC.tr"><title lang="tr">Rüya Gibi Evler</title></programme>
+<programme start="20240629190000 +0000" stop="20240629200000 +0000" channel="TLC.tr"><title lang="tr">Rehine Operasyonu</title></programme>
+<programme start="20240629200000 +0000" stop="20240629210000 +0000" channel="TLC.tr"><title lang="tr">Güzellik Kraliçesi Cinayetleri</title></programme>
 <programme start="20240627170000 +0000" stop="20240627211500 +0000" channel="TRT1.tr"><title lang="tr">Sen Türkülerini Söyle</title></programme>
 <programme start="20240627211500 +0000" stop="20240627230500 +0000" channel="TRT1.tr"><title lang="tr">Büyük Gözler</title></programme>
 <programme start="20240627230500 +0000" stop="20240628014500 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
@@ -1263,25 +1261,29 @@
 <programme start="20240629190000 +0000" stop="20240629200000 +0000" channel="TV85.tr"><title lang="tr">Şampiyonlar Ligi...</title></programme>
 <programme start="20240629200000 +0000" stop="20240629210000 +0000" channel="TV85.tr"><title lang="tr">Copa America B Grubu Maç...</title></programme>
 <programme start="20240627210000 +0000" stop="20240627220000 +0000" channel="UlusalKanal.tr"><title lang="tr">-</title></programme>
-<programme start="20240627220000 +0000" stop="20240628050000 +0000" channel="UlusalKanal.tr"><title lang="tr">Tekrar Programlar</title></programme>
-<programme start="20240628050000 +0000" stop="20240628080000 +0000" channel="UlusalKanal.tr"><title lang="tr">Televizyon Gazetesi</title></programme>
-<programme start="20240628080000 +0000" stop="20240628090000 +0000" channel="UlusalKanal.tr"><title lang="tr">Yurdumuzun Türküleri</title></programme>
-<programme start="20240628090000 +0000" stop="20240628120000 +0000" channel="UlusalKanal.tr"><title lang="tr">Gün Ortası</title></programme>
-<programme start="20240628120000 +0000" stop="20240628144500 +0000" channel="UlusalKanal.tr"><title lang="tr">Akşam Raporu</title></programme>
-<programme start="20240628144500 +0000" stop="20240628160000 +0000" channel="UlusalKanal.tr"><title lang="tr">Belgesel</title></programme>
-<programme start="20240628160000 +0000" stop="20240628173000 +0000" channel="UlusalKanal.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240628173000 +0000" stop="20240628193000 +0000" channel="UlusalKanal.tr"><title lang="tr">Başkent Kulisi</title></programme>
-<programme start="20240628193000 +0000" stop="20240628200000 +0000" channel="UlusalKanal.tr"><title lang="tr">Dip Dalgası</title></programme>
-<programme start="20240628200000 +0000" stop="20240628220000 +0000" channel="UlusalKanal.tr"><title lang="tr">Gece Hattı</title></programme>
+<programme start="20240627220000 +0000" stop="20240628060000 +0000" channel="UlusalKanal.tr"><title lang="tr">Tekrar Programlar</title></programme>
+<programme start="20240628060000 +0000" stop="20240628080000 +0000" channel="UlusalKanal.tr"><title lang="tr">Gün Doğdu</title></programme>
+<programme start="20240628080000 +0000" stop="20240628100000 +0000" channel="UlusalKanal.tr"><title lang="tr">Yurdumuzun Türküleri</title></programme>
+<programme start="20240628100000 +0000" stop="20240628130000 +0000" channel="UlusalKanal.tr"><title lang="tr">Hafta Sonu</title></programme>
+<programme start="20240628130000 +0000" stop="20240628150000 +0000" channel="UlusalKanal.tr"><title lang="tr">Sanat Hayatı</title></programme>
+<programme start="20240628150000 +0000" stop="20240628160000 +0000" channel="UlusalKanal.tr"><title lang="tr">Güneşli Sohbetler</title></programme>
+<programme start="20240628160000 +0000" stop="20240628170000 +0000" channel="UlusalKanal.tr"><title lang="tr">Ana Haber</title></programme>
+<programme start="20240628170000 +0000" stop="20240628173000 +0000" channel="UlusalKanal.tr"><title lang="tr">Belgesel</title></programme>
+<programme start="20240628173000 +0000" stop="20240628181500 +0000" channel="UlusalKanal.tr"><title lang="tr">Üreten Türkiye</title></programme>
+<programme start="20240628181500 +0000" stop="20240628190000 +0000" channel="UlusalKanal.tr"><title lang="tr">Belgesel</title></programme>
+<programme start="20240628190000 +0000" stop="20240628200000 +0000" channel="UlusalKanal.tr"><title lang="tr">Sinema Hakka’l Yakin</title></programme>
+<programme start="20240628200000 +0000" stop="20240628220000 +0000" channel="UlusalKanal.tr"><title lang="tr">Film Kuşağı</title></programme>
 <programme start="20240628210000 +0000" stop="20240628220000 +0000" channel="UlusalKanal.tr"><title lang="tr">-</title></programme>
-<programme start="20240628220000 +0000" stop="20240629050000 +0000" channel="UlusalKanal.tr"><title lang="tr">Tekrar Programlar</title></programme>
-<programme start="20240629050000 +0000" stop="20240629080000 +0000" channel="UlusalKanal.tr"><title lang="tr">Televizyon Gazetesi</title></programme>
-<programme start="20240629080000 +0000" stop="20240629090000 +0000" channel="UlusalKanal.tr"><title lang="tr">Yurdumuzun Türküleri</title></programme>
-<programme start="20240629090000 +0000" stop="20240629120000 +0000" channel="UlusalKanal.tr"><title lang="tr">Gün Ortası</title></programme>
-<programme start="20240629120000 +0000" stop="20240629144500 +0000" channel="UlusalKanal.tr"><title lang="tr">Akşam Raporu</title></programme>
-<programme start="20240629144500 +0000" stop="20240629160000 +0000" channel="UlusalKanal.tr"><title lang="tr">Belgesel</title></programme>
-<programme start="20240629160000 +0000" stop="20240629173000 +0000" channel="UlusalKanal.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240629173000 +0000" stop="20240629193000 +0000" channel="UlusalKanal.tr"><title lang="tr">Başkent Kulisi</title></programme>
-<programme start="20240629193000 +0000" stop="20240629200000 +0000" channel="UlusalKanal.tr"><title lang="tr">Dip Dalgası</title></programme>
-<programme start="20240629200000 +0000" stop="20240629220000 +0000" channel="UlusalKanal.tr"><title lang="tr">Gece Hattı</title></programme>
+<programme start="20240628220000 +0000" stop="20240629060000 +0000" channel="UlusalKanal.tr"><title lang="tr">Tekrar Programlar</title></programme>
+<programme start="20240629060000 +0000" stop="20240629080000 +0000" channel="UlusalKanal.tr"><title lang="tr">Gün Doğdu</title></programme>
+<programme start="20240629080000 +0000" stop="20240629100000 +0000" channel="UlusalKanal.tr"><title lang="tr">Yurdumuzun Türküleri</title></programme>
+<programme start="20240629100000 +0000" stop="20240629130000 +0000" channel="UlusalKanal.tr"><title lang="tr">Hafta Sonu</title></programme>
+<programme start="20240629130000 +0000" stop="20240629150000 +0000" channel="UlusalKanal.tr"><title lang="tr">Sanat Hayatı</title></programme>
+<programme start="20240629150000 +0000" stop="20240629160000 +0000" channel="UlusalKanal.tr"><title lang="tr">Güneşli Sohbetler</title></programme>
+<programme start="20240629160000 +0000" stop="20240629170000 +0000" channel="UlusalKanal.tr"><title lang="tr">Ana Haber</title></programme>
+<programme start="20240629170000 +0000" stop="20240629173000 +0000" channel="UlusalKanal.tr"><title lang="tr">Belgesel</title></programme>
+<programme start="20240629173000 +0000" stop="20240629181500 +0000" channel="UlusalKanal.tr"><title lang="tr">Üreten Türkiye</title></programme>
+<programme start="20240629181500 +0000" stop="20240629190000 +0000" channel="UlusalKanal.tr"><title lang="tr">Belgesel</title></programme>
+<programme start="20240629190000 +0000" stop="20240629200000 +0000" channel="UlusalKanal.tr"><title lang="tr">Sinema Hakka’l Yakin</title></programme>
+<programme start="20240629200000 +0000" stop="20240629220000 +0000" channel="UlusalKanal.tr"><title lang="tr">Film Kuşağı</title></programme>
 </tv>
