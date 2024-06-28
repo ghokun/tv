@@ -363,7 +363,9 @@
 <programme start="20240628160000 +0000" stop="20240628170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
 <programme start="20240628170000 +0000" stop="20240628211500 +0000" channel="KanalD.tr"><title lang="tr">Arka Sokaklar</title></programme>
 <programme start="20240628170000 +0000" stop="20240628211500 +0000" channel="KanalD.tr"><title lang="tr">Arka Sokaklar</title></programme>
-<programme start="20240628234500 +0000" stop="20240629040000 +0000" channel="KanalD.tr"><title lang="tr">Güneşin Kızları</title></programme>
+<programme start="20240628211500 +0000" stop="20240628234500 +0000" channel="KanalD.tr"><title lang="tr">Yalan</title></programme>
+<programme start="20240628234500 +0000" stop="20240629020000 +0000" channel="KanalD.tr"><title lang="tr">Güneşin Kızları</title></programme>
+<programme start="20240629020000 +0000" stop="20240629040000 +0000" channel="KanalD.tr"><title lang="tr">Tatlı İntikam</title></programme>
 <programme start="20240629040000 +0000" stop="20240629053000 +0000" channel="KanalD.tr"><title lang="tr">Afili Aşk</title></programme>
 <programme start="20240629053000 +0000" stop="20240629064500 +0000" channel="KanalD.tr"><title lang="tr">Konuştukça</title></programme>
 <programme start="20240629064500 +0000" stop="20240629144500 +0000" channel="KanalD.tr"><title lang="tr">Magazin D Cumartesi</title></programme>
@@ -548,7 +550,7 @@
 <programme start="20240628203000 +0000" stop="20240628221500 +0000" channel="ShowTV.tr"><title lang="tr">Aranan Adam</title></programme>
 <programme start="20240628221500 +0000" stop="20240628233000 +0000" channel="ShowTV.tr"><title lang="tr">Ölüm Gecesi</title></programme>
 <programme start="20240628233000 +0000" stop="20240629004500 +0000" channel="ShowTV.tr"><title lang="tr">Yavru ile Katip</title></programme>
-<programme start="20240629004500 +0000" stop="20240629030000 +0000" channel="ShowTV.tr"><title lang="tr">Kızılcık Şerbeti</title></programme>
+<programme start="20240629004500 +0000" stop="20240629030000 +0000" channel="ShowTV.tr"><title lang="tr">Ramo</title></programme>
 <programme start="20240629030000 +0000" stop="20240629050000 +0000" channel="ShowTV.tr"><title lang="tr">Aşk Laftan Anlamaz</title></programme>
 <programme start="20240629050000 +0000" stop="20240629070000 +0000" channel="ShowTV.tr"><title lang="tr">Yavru ile Katip</title></programme>
 <programme start="20240629070000 +0000" stop="20240629100000 +0000" channel="ShowTV.tr"><title lang="tr">Cumartesi Sürprizi</title></programme>
