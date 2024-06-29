@@ -279,11 +279,10 @@
 <programme start="20240629150000 +0000" stop="20240629151500 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240629151500 +0000" stop="20240629160000 +0000" channel="HaberturkTV.tr"><title lang="tr">Yolların Hikayesi</title></programme>
 <programme start="20240629160000 +0000" stop="20240629180000 +0000" channel="HaberturkTV.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240629180000 +0000" stop="20240629220000 +0000" channel="HaberturkTV.tr"><title lang="tr">Gerçek Fikri Ne?</title></programme>
-<programme start="20240629180000 +0000" stop="20240629220000 +0000" channel="HaberturkTV.tr"><title lang="tr">Gerçek Fikri Ne?</title></programme>
-<programme start="20240629220000 +0000" stop="20240629221500 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240629221500 +0000" stop="20240630020000 +0000" channel="HaberturkTV.tr"><title lang="tr">Gerçek Fikri Ne?</title></programme>
-<programme start="20240630020000 +0000" stop="20240630031500 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240629180000 +0000" stop="20240629210000 +0000" channel="HaberturkTV.tr"><title lang="tr">Gerçek Fikri Ne?</title></programme>
+<programme start="20240629210000 +0000" stop="20240629213000 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240629213000 +0000" stop="20240630000000 +0000" channel="HaberturkTV.tr"><title lang="tr">Gerçek Fikri Ne?</title></programme>
+<programme start="20240630000000 +0000" stop="20240630031500 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240630031500 +0000" stop="20240630040000 +0000" channel="HaberturkTV.tr"><title lang="tr">Hazer Amani ile Lezzete...</title></programme>
 <programme start="20240630040000 +0000" stop="20240630060000 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240630060000 +0000" stop="20240630090000 +0000" channel="HaberturkTV.tr"><title lang="tr">Burası Hafta Sonu</title></programme>
@@ -1207,8 +1206,8 @@
 <programme start="20240630060000 +0000" stop="20240630070000 +0000" channel="TV8.tr"><title lang="tr">Gençlik Rüzgarı</title></programme>
 <programme start="20240630070000 +0000" stop="20240630103000 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240630103000 +0000" stop="20240630120000 +0000" channel="TV8.tr"><title lang="tr">Komançi İstasyonu</title></programme>
-<programme start="20240630120000 +0000" stop="20240630170000 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
-<programme start="20240630170000 +0000" stop="20240630211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240630120000 +0000" stop="20240630160000 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
+<programme start="20240630160000 +0000" stop="20240630211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240628191500 +0000" stop="20240628220000 +0000" channel="TV85.tr"><title lang="tr">Fenerbahçe 2023-2024...</title></programme>
 <programme start="20240628220000 +0000" stop="20240629000000 +0000" channel="TV85.tr"><title lang="tr">Kolombiya - Kosta Rika</title></programme>
 <programme start="20240629000000 +0000" stop="20240629010000 +0000" channel="TV85.tr"><title lang="tr">Copa America D Grubu Maç...</title></programme>
