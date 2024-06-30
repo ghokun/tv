@@ -286,8 +286,9 @@
 <programme start="20240630220000 +0000" stop="20240630221500 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240630221500 +0000" stop="20240701020000 +0000" channel="HaberturkTV.tr"><title lang="tr">Habertürk Gündem</title></programme>
 <programme start="20240701020000 +0000" stop="20240701030000 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240701030000 +0000" stop="20240701060000 +0000" channel="HaberturkTV.tr"><title lang="tr">Gün Başlıyor</title></programme>
-<programme start="20240701060000 +0000" stop="20240701083000 +0000" channel="HaberturkTV.tr"><title lang="tr">Para Gündem</title></programme>
+<programme start="20240701030000 +0000" stop="20240701063000 +0000" channel="HaberturkTV.tr"><title lang="tr">Gün Başlıyor</title></programme>
+<programme start="20240701063000 +0000" stop="20240701073000 +0000" channel="HaberturkTV.tr"><title lang="tr">Özel Röportaj</title></programme>
+<programme start="20240701073000 +0000" stop="20240701083000 +0000" channel="HaberturkTV.tr"><title lang="tr">Para Gündem</title></programme>
 <programme start="20240701083000 +0000" stop="20240701090000 +0000" channel="HaberturkTV.tr"><title lang="tr">HT Spor Gündem</title></programme>
 <programme start="20240701090000 +0000" stop="20240701104500 +0000" channel="HaberturkTV.tr"><title lang="tr">Gün Ortası</title></programme>
 <programme start="20240701104500 +0000" stop="20240701110000 +0000" channel="HaberturkTV.tr"><title lang="tr">Spor Bülteni</title></programme>
