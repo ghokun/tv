@@ -1194,13 +1194,13 @@
 <programme start="20240630133000 +0000" stop="20240630170000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
 <programme start="20240630170000 +0000" stop="20240630211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240630170000 +0000" stop="20240630211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
-<programme start="20240630211500 +0000" stop="20240701000000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
-<programme start="20240701000000 +0000" stop="20240701003000 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin</title></programme>
-<programme start="20240701003000 +0000" stop="20240701041500 +0000" channel="TV8.tr"><title lang="tr">Gençlik Rüzgarı</title></programme>
+<programme start="20240630211500 +0000" stop="20240701003000 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
+<programme start="20240701003000 +0000" stop="20240701011500 +0000" channel="TV8.tr"><title lang="tr">Gençlik Rüzgarı</title></programme>
+<programme start="20240701011500 +0000" stop="20240701041500 +0000" channel="TV8.tr"><title lang="tr">Yabancı Sinema</title></programme>
 <programme start="20240701041500 +0000" stop="20240701053000 +0000" channel="TV8.tr"><title lang="tr">8&apos;de Sağlık</title></programme>
 <programme start="20240701053000 +0000" stop="20240701064500 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
-<programme start="20240701064500 +0000" stop="20240701090000 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
-<programme start="20240701090000 +0000" stop="20240701124500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240701064500 +0000" stop="20240701104500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240701104500 +0000" stop="20240701124500 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
 <programme start="20240701124500 +0000" stop="20240701170000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
 <programme start="20240701170000 +0000" stop="20240701211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240629210000 +0000" stop="20240629220000 +0000" channel="TV85.tr"><title lang="tr">Copa America C Grubu Maç...</title></programme>
