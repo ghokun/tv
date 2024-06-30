@@ -289,13 +289,13 @@
 <programme start="20240701030000 +0000" stop="20240701060000 +0000" channel="HaberturkTV.tr"><title lang="tr">Gün Başlıyor</title></programme>
 <programme start="20240701060000 +0000" stop="20240701083000 +0000" channel="HaberturkTV.tr"><title lang="tr">Para Gündem</title></programme>
 <programme start="20240701083000 +0000" stop="20240701090000 +0000" channel="HaberturkTV.tr"><title lang="tr">HT Spor Gündem</title></programme>
-<programme start="20240701090000 +0000" stop="20240701120000 +0000" channel="HaberturkTV.tr"><title lang="tr">Gün Ortası</title></programme>
-<programme start="20240701120000 +0000" stop="20240701123000 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Hattı</title></programme>
+<programme start="20240701090000 +0000" stop="20240701104500 +0000" channel="HaberturkTV.tr"><title lang="tr">Gün Ortası</title></programme>
+<programme start="20240701104500 +0000" stop="20240701110000 +0000" channel="HaberturkTV.tr"><title lang="tr">Spor Bülteni</title></programme>
+<programme start="20240701110000 +0000" stop="20240701123000 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Hattı</title></programme>
 <programme start="20240701123000 +0000" stop="20240701130000 +0000" channel="HaberturkTV.tr"><title lang="tr">HT Spor Aktüel</title></programme>
-<programme start="20240701130000 +0000" stop="20240701150000 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Hattı</title></programme>
+<programme start="20240701130000 +0000" stop="20240701150000 +0000" channel="HaberturkTV.tr"><title lang="tr">HT 360</title></programme>
 <programme start="20240701150000 +0000" stop="20240701170000 +0000" channel="HaberturkTV.tr"><title lang="tr">Ana Haber Bülteni</title></programme>
-<programme start="20240701170000 +0000" stop="20240701173000 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240701173000 +0000" stop="20240701200000 +0000" channel="HaberturkTV.tr"><title lang="tr">Açık ve Net</title></programme>
+<programme start="20240701170000 +0000" stop="20240701200000 +0000" channel="HaberturkTV.tr"><title lang="tr">Açık ve Net</title></programme>
 <programme start="20240701200000 +0000" stop="20240701220000 +0000" channel="HaberturkTV.tr"><title lang="tr">Mesut Yar ile Gece Hattı</title></programme>
 <programme start="20240629170000 +0000" stop="20240629220000 +0000" channel="HalkTV.tr"><title lang="tr">Nasıl Olacak?</title></programme>
 <programme start="20240629220000 +0000" stop="20240630000000 +0000" channel="HalkTV.tr"><title lang="tr">Halk TV&apos;de Bugün</title></programme>
@@ -349,8 +349,8 @@
 <programme start="20240701114000 +0000" stop="20240701133000 +0000" channel="Kanal7.tr"><title lang="tr">Evlat</title></programme>
 <programme start="20240701133000 +0000" stop="20240701150000 +0000" channel="Kanal7.tr"><title lang="tr">Kan Çiçekleri</title></programme>
 <programme start="20240701150000 +0000" stop="20240701160000 +0000" channel="Kanal7.tr"><title lang="tr">Kanal 7 Haber Saati</title></programme>
-<programme start="20240701160000 +0000" stop="20240701183000 +0000" channel="Kanal7.tr"><title lang="tr">Esaret</title></programme>
-<programme start="20240701183000 +0000" stop="20240701202000 +0000" channel="Kanal7.tr"><title lang="tr">Rüzgarlı Tepe</title></programme>
+<programme start="20240701160000 +0000" stop="20240701182000 +0000" channel="Kanal7.tr"><title lang="tr">Esaret</title></programme>
+<programme start="20240701182000 +0000" stop="20240701202000 +0000" channel="Kanal7.tr"><title lang="tr">Öylesine Derin</title></programme>
 <programme start="20240701202000 +0000" stop="20240701233000 +0000" channel="Kanal7.tr"><title lang="tr">Diriliş Ertuğrul</title></programme>
 <programme start="20240629201500 +0000" stop="20240629230000 +0000" channel="KanalD.tr"><title lang="tr">Arka Sokaklar</title></programme>
 <programme start="20240629230000 +0000" stop="20240630003000 +0000" channel="KanalD.tr"><title lang="tr">Güneşin Kızları</title></programme>
@@ -673,7 +673,7 @@
 <programme start="20240701103000 +0000" stop="20240701131500 +0000" channel="StarTV.tr"><title lang="tr">Yüksek Sosyete</title></programme>
 <programme start="20240701131500 +0000" stop="20240701160000 +0000" channel="StarTV.tr"><title lang="tr">Erkenci Kuş</title></programme>
 <programme start="20240701160000 +0000" stop="20240701170000 +0000" channel="StarTV.tr"><title lang="tr">Star Haber</title></programme>
-<programme start="20240701170000 +0000" stop="20240701213000 +0000" channel="StarTV.tr"><title lang="tr">Dizi</title></programme>
+<programme start="20240701170000 +0000" stop="20240701213000 +0000" channel="StarTV.tr"><title lang="tr">Kolpaçino 3. Devre</title></programme>
 <programme start="20240629200000 +0000" stop="20240629213000 +0000" channel="Teve2.tr"><title lang="tr">Kanıt</title></programme>
 <programme start="20240629213000 +0000" stop="20240629224500 +0000" channel="Teve2.tr"><title lang="tr">Rehber</title></programme>
 <programme start="20240629224500 +0000" stop="20240630003000 +0000" channel="Teve2.tr"><title lang="tr">Geniş Aile</title></programme>
@@ -791,9 +791,12 @@
 <programme start="20240701040000 +0000" stop="20240701063500 +0000" channel="TRT1.tr"><title lang="tr">Kara Tahta</title></programme>
 <programme start="20240701063500 +0000" stop="20240701095000 +0000" channel="TRT1.tr"><title lang="tr">Kasaba Doktoru</title></programme>
 <programme start="20240701095000 +0000" stop="20240701113000 +0000" channel="TRT1.tr"><title lang="tr">Lingo</title></programme>
-<programme start="20240701113000 +0000" stop="20240701160000 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
-<programme start="20240701160000 +0000" stop="20240701165500 +0000" channel="TRT1.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240701165500 +0000" stop="20240701215000 +0000" channel="TRT1.tr"><title lang="tr">İddiaların Aksine</title></programme>
+<programme start="20240701113000 +0000" stop="20240701150000 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
+<programme start="20240701150000 +0000" stop="20240701155500 +0000" channel="TRT1.tr"><title lang="tr">Ana Haber</title></programme>
+<programme start="20240701155500 +0000" stop="20240701160000 +0000" channel="TRT1.tr"><title lang="tr">İddiaların Aksine</title></programme>
+<programme start="20240701160000 +0000" stop="20240701180000 +0000" channel="TRT1.tr"><title lang="tr">Fransa - Belçika</title></programme>
+<programme start="20240701180000 +0000" stop="20240701190000 +0000" channel="TRT1.tr"><title lang="tr">Kupa Saati</title></programme>
+<programme start="20240701190000 +0000" stop="20240701211500 +0000" channel="TRT1.tr"><title lang="tr">Portekiz - Slovenya</title></programme>
 <programme start="20240629204500 +0000" stop="20240629221500 +0000" channel="TRT2.tr"><title lang="tr">Viyana Filarmoni...</title></programme>
 <programme start="20240629221500 +0000" stop="20240630003000 +0000" channel="TRT2.tr"><title lang="tr">En Şiddetli Sene</title></programme>
 <programme start="20240630003000 +0000" stop="20240630015800 +0000" channel="TRT2.tr"><title lang="tr">Arkadaşımın Evi Nerede?</title></programme>
