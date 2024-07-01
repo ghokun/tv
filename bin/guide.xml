@@ -663,21 +663,19 @@
 <programme start="20240701103000 +0000" stop="20240701131500 +0000" channel="StarTV.tr"><title lang="tr">Yüksek Sosyete</title></programme>
 <programme start="20240701131500 +0000" stop="20240701160000 +0000" channel="StarTV.tr"><title lang="tr">Erkenci Kuş</title></programme>
 <programme start="20240701160000 +0000" stop="20240701170000 +0000" channel="StarTV.tr"><title lang="tr">Star Haber</title></programme>
-<programme start="20240701170000 +0000" stop="20240701184500 +0000" channel="StarTV.tr"><title lang="tr">Kolpaçino 3. Devre</title></programme>
-<programme start="20240701184500 +0000" stop="20240701203000 +0000" channel="StarTV.tr"><title lang="tr">Kolpaçino 3. Devre</title></programme>
-<programme start="20240701203000 +0000" stop="20240701231500 +0000" channel="StarTV.tr"><title lang="tr">İstanbullu Gelin</title></programme>
-<programme start="20240701203000 +0000" stop="20240701231500 +0000" channel="StarTV.tr"><title lang="tr">İstanbullu Gelin</title></programme>
-<programme start="20240701231500 +0000" stop="20240702010000 +0000" channel="StarTV.tr"><title lang="tr">Yüksek Sosyete</title></programme>
-<programme start="20240702010000 +0000" stop="20240702021500 +0000" channel="StarTV.tr"><title lang="tr">Baba Ocağı</title></programme>
-<programme start="20240702021500 +0000" stop="20240702040000 +0000" channel="StarTV.tr"><title lang="tr">Erkenci Kuş</title></programme>
+<programme start="20240701170000 +0000" stop="20240701213000 +0000" channel="StarTV.tr"><title lang="tr">Kolpaçino 3. Devre</title></programme>
+<programme start="20240701170000 +0000" stop="20240701213000 +0000" channel="StarTV.tr"><title lang="tr">Kolpaçino 3. Devre</title></programme>
+<programme start="20240701213000 +0000" stop="20240701230000 +0000" channel="StarTV.tr"><title lang="tr">İstanbullu Gelin</title></programme>
+<programme start="20240701230000 +0000" stop="20240702000000 +0000" channel="StarTV.tr"><title lang="tr">Yüksek Sosyete</title></programme>
+<programme start="20240702000000 +0000" stop="20240702023000 +0000" channel="StarTV.tr"><title lang="tr">Baba Ocağı</title></programme>
+<programme start="20240702023000 +0000" stop="20240702040000 +0000" channel="StarTV.tr"><title lang="tr">Erkenci Kuş</title></programme>
 <programme start="20240702040000 +0000" stop="20240702060000 +0000" channel="StarTV.tr"><title lang="tr">Hayat Bazen Tatlıdır</title></programme>
 <programme start="20240702060000 +0000" stop="20240702080000 +0000" channel="StarTV.tr"><title lang="tr">Ada Masalı</title></programme>
 <programme start="20240702080000 +0000" stop="20240702103000 +0000" channel="StarTV.tr"><title lang="tr">Dolunay</title></programme>
 <programme start="20240702103000 +0000" stop="20240702131500 +0000" channel="StarTV.tr"><title lang="tr">Yüksek Sosyete</title></programme>
 <programme start="20240702131500 +0000" stop="20240702160000 +0000" channel="StarTV.tr"><title lang="tr">Erkenci Kuş</title></programme>
 <programme start="20240702160000 +0000" stop="20240702170000 +0000" channel="StarTV.tr"><title lang="tr">Star Haber</title></programme>
-<programme start="20240702170000 +0000" stop="20240702191500 +0000" channel="StarTV.tr"><title lang="tr">Dedemin Fişi</title></programme>
-<programme start="20240702191500 +0000" stop="20240702213000 +0000" channel="StarTV.tr"><title lang="tr">Dedemin Fişi</title></programme>
+<programme start="20240702170000 +0000" stop="20240702213000 +0000" channel="StarTV.tr"><title lang="tr">Dizi</title></programme>
 <programme start="20240630200000 +0000" stop="20240630213000 +0000" channel="Teve2.tr"><title lang="tr">Kanıt</title></programme>
 <programme start="20240630213000 +0000" stop="20240630224500 +0000" channel="Teve2.tr"><title lang="tr">Çok Gezenti</title></programme>
 <programme start="20240630224500 +0000" stop="20240701003000 +0000" channel="Teve2.tr"><title lang="tr">Geniş Aile</title></programme>
@@ -1249,7 +1247,17 @@
 <programme start="20240701212000 +0000" stop="20240701230000 +0000" channel="TV85.tr"><title lang="tr">Copa America B Grubu Maç...</title></programme>
 <programme start="20240701230000 +0000" stop="20240702000000 +0000" channel="TV85.tr"><title lang="tr">Copa America C Grubu Maç...</title></programme>
 <programme start="20240702000000 +0000" stop="20240702020000 +0000" channel="TV85.tr"><title lang="tr">ABD - Uruguay</title></programme>
-<programme start="20240702020000 +0000" stop="20240702060000 +0000" channel="TV85.tr"><title lang="tr">Bolivya - Panama</title></programme>
+<programme start="20240702020000 +0000" stop="20240702050000 +0000" channel="TV85.tr"><title lang="tr">Bolivya - Panama</title></programme>
+<programme start="20240702050000 +0000" stop="20240702070000 +0000" channel="TV85.tr"><title lang="tr">Retro</title></programme>
+<programme start="20240702070000 +0000" stop="20240702090000 +0000" channel="TV85.tr"><title lang="tr">ABD - Uruguay</title></programme>
+<programme start="20240702090000 +0000" stop="20240702110000 +0000" channel="TV85.tr"><title lang="tr">Bolivya - Panama</title></programme>
+<programme start="20240702110000 +0000" stop="20240702121500 +0000" channel="TV85.tr"><title lang="tr">Copa America A Grubu Maç...</title></programme>
+<programme start="20240702121500 +0000" stop="20240702133000 +0000" channel="TV85.tr"><title lang="tr">Copa America B Grubu Maç...</title></programme>
+<programme start="20240702133000 +0000" stop="20240702150000 +0000" channel="TV85.tr"><title lang="tr">Copa America C Grubu Maç...</title></programme>
+<programme start="20240702150000 +0000" stop="20240702160000 +0000" channel="TV85.tr"><title lang="tr">Copa America D Grubu Maç...</title></programme>
+<programme start="20240702160000 +0000" stop="20240702180000 +0000" channel="TV85.tr"><title lang="tr">ABD - Uruguay</title></programme>
+<programme start="20240702180000 +0000" stop="20240702200000 +0000" channel="TV85.tr"><title lang="tr">Bolivya - Panama</title></programme>
+<programme start="20240702200000 +0000" stop="20240702211500 +0000" channel="TV85.tr"><title lang="tr">Copa America B Grubu Maç...</title></programme>
 <programme start="20240630210000 +0000" stop="20240630220000 +0000" channel="UlusalKanal.tr"><title lang="tr">-</title></programme>
 <programme start="20240630220000 +0000" stop="20240701050000 +0000" channel="UlusalKanal.tr"><title lang="tr">Tekrar Programlar</title></programme>
 <programme start="20240701050000 +0000" stop="20240701080000 +0000" channel="UlusalKanal.tr"><title lang="tr">Televizyon Gazetesi</title></programme>
