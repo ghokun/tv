@@ -663,19 +663,21 @@
 <programme start="20240701103000 +0000" stop="20240701131500 +0000" channel="StarTV.tr"><title lang="tr">Yüksek Sosyete</title></programme>
 <programme start="20240701131500 +0000" stop="20240701160000 +0000" channel="StarTV.tr"><title lang="tr">Erkenci Kuş</title></programme>
 <programme start="20240701160000 +0000" stop="20240701170000 +0000" channel="StarTV.tr"><title lang="tr">Star Haber</title></programme>
-<programme start="20240701170000 +0000" stop="20240701213000 +0000" channel="StarTV.tr"><title lang="tr">Kolpaçino 3. Devre</title></programme>
-<programme start="20240701170000 +0000" stop="20240701213000 +0000" channel="StarTV.tr"><title lang="tr">Kolpaçino 3. Devre</title></programme>
-<programme start="20240701213000 +0000" stop="20240701230000 +0000" channel="StarTV.tr"><title lang="tr">İstanbullu Gelin</title></programme>
-<programme start="20240701230000 +0000" stop="20240702000000 +0000" channel="StarTV.tr"><title lang="tr">Yüksek Sosyete</title></programme>
-<programme start="20240702000000 +0000" stop="20240702023000 +0000" channel="StarTV.tr"><title lang="tr">Baba Ocağı</title></programme>
-<programme start="20240702023000 +0000" stop="20240702040000 +0000" channel="StarTV.tr"><title lang="tr">Erkenci Kuş</title></programme>
+<programme start="20240701170000 +0000" stop="20240701184500 +0000" channel="StarTV.tr"><title lang="tr">Kolpaçino 3. Devre</title></programme>
+<programme start="20240701184500 +0000" stop="20240701203000 +0000" channel="StarTV.tr"><title lang="tr">Kolpaçino 3. Devre</title></programme>
+<programme start="20240701203000 +0000" stop="20240701231500 +0000" channel="StarTV.tr"><title lang="tr">İstanbullu Gelin</title></programme>
+<programme start="20240701203000 +0000" stop="20240701231500 +0000" channel="StarTV.tr"><title lang="tr">İstanbullu Gelin</title></programme>
+<programme start="20240701231500 +0000" stop="20240702010000 +0000" channel="StarTV.tr"><title lang="tr">Yüksek Sosyete</title></programme>
+<programme start="20240702010000 +0000" stop="20240702021500 +0000" channel="StarTV.tr"><title lang="tr">Baba Ocağı</title></programme>
+<programme start="20240702021500 +0000" stop="20240702040000 +0000" channel="StarTV.tr"><title lang="tr">Erkenci Kuş</title></programme>
 <programme start="20240702040000 +0000" stop="20240702060000 +0000" channel="StarTV.tr"><title lang="tr">Hayat Bazen Tatlıdır</title></programme>
 <programme start="20240702060000 +0000" stop="20240702080000 +0000" channel="StarTV.tr"><title lang="tr">Ada Masalı</title></programme>
 <programme start="20240702080000 +0000" stop="20240702103000 +0000" channel="StarTV.tr"><title lang="tr">Dolunay</title></programme>
 <programme start="20240702103000 +0000" stop="20240702131500 +0000" channel="StarTV.tr"><title lang="tr">Yüksek Sosyete</title></programme>
 <programme start="20240702131500 +0000" stop="20240702160000 +0000" channel="StarTV.tr"><title lang="tr">Erkenci Kuş</title></programme>
 <programme start="20240702160000 +0000" stop="20240702170000 +0000" channel="StarTV.tr"><title lang="tr">Star Haber</title></programme>
-<programme start="20240702170000 +0000" stop="20240702213000 +0000" channel="StarTV.tr"><title lang="tr">Dizi</title></programme>
+<programme start="20240702170000 +0000" stop="20240702191500 +0000" channel="StarTV.tr"><title lang="tr">Dedemin Fişi</title></programme>
+<programme start="20240702191500 +0000" stop="20240702213000 +0000" channel="StarTV.tr"><title lang="tr">Dedemin Fişi</title></programme>
 <programme start="20240630200000 +0000" stop="20240630213000 +0000" channel="Teve2.tr"><title lang="tr">Kanıt</title></programme>
 <programme start="20240630213000 +0000" stop="20240630224500 +0000" channel="Teve2.tr"><title lang="tr">Çok Gezenti</title></programme>
 <programme start="20240630224500 +0000" stop="20240701003000 +0000" channel="Teve2.tr"><title lang="tr">Geniş Aile</title></programme>
