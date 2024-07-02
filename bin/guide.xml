@@ -1225,9 +1225,9 @@
 <programme start="20240702053000 +0000" stop="20240702064500 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
 <programme start="20240702064500 +0000" stop="20240702104500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240702104500 +0000" stop="20240702124500 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
-<programme start="20240702124500 +0000" stop="20240702160000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
-<programme start="20240702160000 +0000" stop="20240702211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
-<programme start="20240702160000 +0000" stop="20240702211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240702124500 +0000" stop="20240702170000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
+<programme start="20240702170000 +0000" stop="20240702211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240702170000 +0000" stop="20240702211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240702211500 +0000" stop="20240702233000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
 <programme start="20240702233000 +0000" stop="20240703013000 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
 <programme start="20240703013000 +0000" stop="20240703030000 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
@@ -1260,14 +1260,9 @@
 <programme start="20240703000000 +0000" stop="20240703010000 +0000" channel="TV85.tr"><title lang="tr">Copa America D Grubu Maç...</title></programme>
 <programme start="20240703010000 +0000" stop="20240703030000 +0000" channel="TV85.tr"><title lang="tr">Brezilya - Kolombiya</title></programme>
 <programme start="20240703030000 +0000" stop="20240703050000 +0000" channel="TV85.tr"><title lang="tr">Kosta Rika - Paraguay</title></programme>
-<programme start="20240703050000 +0000" stop="20240703053000 +0000" channel="TV85.tr"><title lang="tr">Olympiakos - Fiorentina</title></programme>
-<programme start="20240703053000 +0000" stop="20240703061500 +0000" channel="TV85.tr"><title lang="tr">Atalanta - Bayer Leverkusen</title></programme>
-<programme start="20240703061500 +0000" stop="20240703070000 +0000" channel="TV85.tr"><title lang="tr">Borussia Dortmund-Real Madrid</title></programme>
+<programme start="20240703050000 +0000" stop="20240703070000 +0000" channel="TV85.tr"><title lang="tr">Olympiakos - Fiorentina</title></programme>
 <programme start="20240703070000 +0000" stop="20240703090000 +0000" channel="TV85.tr"><title lang="tr">Brezilya - Kolombiya</title></programme>
-<programme start="20240703090000 +0000" stop="20240703110000 +0000" channel="TV85.tr"><title lang="tr">Kosta Rika - Paraguay</title></programme>
-<programme start="20240703110000 +0000" stop="20240703121500 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
-<programme start="20240703121500 +0000" stop="20240703133000 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
-<programme start="20240703133000 +0000" stop="20240703150000 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
+<programme start="20240703090000 +0000" stop="20240703150000 +0000" channel="TV85.tr"><title lang="tr">Kosta Rika - Paraguay</title></programme>
 <programme start="20240703150000 +0000" stop="20240703170000 +0000" channel="TV85.tr"><title lang="tr">Brezilya - Kolombiya</title></programme>
 <programme start="20240703170000 +0000" stop="20240703181500 +0000" channel="TV85.tr"><title lang="tr">Copa America A Grubu Maç...</title></programme>
 <programme start="20240703181500 +0000" stop="20240703192000 +0000" channel="TV85.tr"><title lang="tr">Copa America B Grubu Maç...</title></programme>
