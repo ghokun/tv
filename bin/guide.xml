@@ -369,10 +369,13 @@
 <programme start="20240703014500 +0000" stop="20240703040000 +0000" channel="KanalD.tr"><title lang="tr">Tatlı İntikam</title></programme>
 <programme start="20240703040000 +0000" stop="20240703060000 +0000" channel="KanalD.tr"><title lang="tr">Öyle Bir Geçer Zaman Ki</title></programme>
 <programme start="20240703060000 +0000" stop="20240703080000 +0000" channel="KanalD.tr"><title lang="tr">Neler Oluyor Hayatta</title></programme>
-<programme start="20240703080000 +0000" stop="20240703100000 +0000" channel="KanalD.tr"><title lang="tr">Magazin D Yaz</title></programme>
+<programme start="20240703080000 +0000" stop="20240703090000 +0000" channel="KanalD.tr"><title lang="tr">Magazin D Yaz</title></programme>
+<programme start="20240703090000 +0000" stop="20240703100000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Haber Gün Arası</title></programme>
 <programme start="20240703100000 +0000" stop="20240703130000 +0000" channel="KanalD.tr"><title lang="tr">Gelinim Mutfakta</title></programme>
 <programme start="20240703130000 +0000" stop="20240703160000 +0000" channel="KanalD.tr"><title lang="tr">Arka Sokaklar</title></programme>
-<programme start="20240703160000 +0000" stop="20240703233000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
+<programme start="20240703160000 +0000" stop="20240703170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
+<programme start="20240703170000 +0000" stop="20240703194500 +0000" channel="KanalD.tr"><title lang="tr">Turnike</title></programme>
+<programme start="20240703194500 +0000" stop="20240703230000 +0000" channel="KanalD.tr"><title lang="tr">Çok Akustik</title></programme>
 <programme start="20240701210000 +0000" stop="20240701215000 +0000" channel="NTV.tr"><title lang="tr">Bugün Yarın</title></programme>
 <programme start="20240701215000 +0000" stop="20240701215500 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
 <programme start="20240701215500 +0000" stop="20240701220000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
@@ -1222,9 +1225,9 @@
 <programme start="20240702053000 +0000" stop="20240702064500 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
 <programme start="20240702064500 +0000" stop="20240702104500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240702104500 +0000" stop="20240702124500 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
-<programme start="20240702124500 +0000" stop="20240702170000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
-<programme start="20240702170000 +0000" stop="20240702211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
-<programme start="20240702170000 +0000" stop="20240702211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240702124500 +0000" stop="20240702160000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
+<programme start="20240702160000 +0000" stop="20240702211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240702160000 +0000" stop="20240702211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240702211500 +0000" stop="20240702233000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
 <programme start="20240702233000 +0000" stop="20240703013000 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
 <programme start="20240703013000 +0000" stop="20240703030000 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
@@ -1257,9 +1260,14 @@
 <programme start="20240703000000 +0000" stop="20240703010000 +0000" channel="TV85.tr"><title lang="tr">Copa America D Grubu Maç...</title></programme>
 <programme start="20240703010000 +0000" stop="20240703030000 +0000" channel="TV85.tr"><title lang="tr">Brezilya - Kolombiya</title></programme>
 <programme start="20240703030000 +0000" stop="20240703050000 +0000" channel="TV85.tr"><title lang="tr">Kosta Rika - Paraguay</title></programme>
-<programme start="20240703050000 +0000" stop="20240703070000 +0000" channel="TV85.tr"><title lang="tr">Olympiakos - Fiorentina</title></programme>
+<programme start="20240703050000 +0000" stop="20240703053000 +0000" channel="TV85.tr"><title lang="tr">Olympiakos - Fiorentina</title></programme>
+<programme start="20240703053000 +0000" stop="20240703061500 +0000" channel="TV85.tr"><title lang="tr">Atalanta - Bayer Leverkusen</title></programme>
+<programme start="20240703061500 +0000" stop="20240703070000 +0000" channel="TV85.tr"><title lang="tr">Borussia Dortmund-Real Madrid</title></programme>
 <programme start="20240703070000 +0000" stop="20240703090000 +0000" channel="TV85.tr"><title lang="tr">Brezilya - Kolombiya</title></programme>
-<programme start="20240703090000 +0000" stop="20240703150000 +0000" channel="TV85.tr"><title lang="tr">Kosta Rika - Paraguay</title></programme>
+<programme start="20240703090000 +0000" stop="20240703110000 +0000" channel="TV85.tr"><title lang="tr">Kosta Rika - Paraguay</title></programme>
+<programme start="20240703110000 +0000" stop="20240703121500 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
+<programme start="20240703121500 +0000" stop="20240703133000 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
+<programme start="20240703133000 +0000" stop="20240703150000 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
 <programme start="20240703150000 +0000" stop="20240703170000 +0000" channel="TV85.tr"><title lang="tr">Brezilya - Kolombiya</title></programme>
 <programme start="20240703170000 +0000" stop="20240703181500 +0000" channel="TV85.tr"><title lang="tr">Copa America A Grubu Maç...</title></programme>
 <programme start="20240703181500 +0000" stop="20240703192000 +0000" channel="TV85.tr"><title lang="tr">Copa America B Grubu Maç...</title></programme>
