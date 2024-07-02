@@ -663,8 +663,7 @@
 <programme start="20240702160000 +0000" stop="20240702170000 +0000" channel="StarTV.tr"><title lang="tr">Star Haber</title></programme>
 <programme start="20240702170000 +0000" stop="20240702213000 +0000" channel="StarTV.tr"><title lang="tr">Dizi</title></programme>
 <programme start="20240702170000 +0000" stop="20240702213000 +0000" channel="StarTV.tr"><title lang="tr">Dizi</title></programme>
-<programme start="20240702213000 +0000" stop="20240702230000 +0000" channel="StarTV.tr"><title lang="tr">İstanbullu Gelin</title></programme>
-<programme start="20240702230000 +0000" stop="20240703000000 +0000" channel="StarTV.tr"><title lang="tr">Yüksek Sosyete</title></programme>
+<programme start="20240702213000 +0000" stop="20240703000000 +0000" channel="StarTV.tr"><title lang="tr">İstanbullu Gelin</title></programme>
 <programme start="20240703000000 +0000" stop="20240703013000 +0000" channel="StarTV.tr"><title lang="tr">Yüksek Sosyete</title></programme>
 <programme start="20240703013000 +0000" stop="20240703023000 +0000" channel="StarTV.tr"><title lang="tr">Baba Ocağı</title></programme>
 <programme start="20240703023000 +0000" stop="20240703040000 +0000" channel="StarTV.tr"><title lang="tr">Erkenci Kuş</title></programme>
@@ -787,7 +786,7 @@
 <programme start="20240702180000 +0000" stop="20240702190000 +0000" channel="TRT1.tr"><title lang="tr">Kupa Saati</title></programme>
 <programme start="20240702190000 +0000" stop="20240702211500 +0000" channel="TRT1.tr"><title lang="tr">Avusturya - Türkiye</title></programme>
 <programme start="20240702190000 +0000" stop="20240702211500 +0000" channel="TRT1.tr"><title lang="tr">Avusturya - Türkiye</title></programme>
-<programme start="20240702211500 +0000" stop="20240703033000 +0000" channel="TRT1.tr"><title lang="tr">Dizi</title></programme>
+<programme start="20240702211500 +0000" stop="20240702223500 +0000" channel="TRT1.tr"><title lang="tr">3&apos;te 3</title></programme>
 <programme start="20240702223500 +0000" stop="20240703005500 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
 <programme start="20240703005500 +0000" stop="20240703014500 +0000" channel="TRT1.tr"><title lang="tr">Turgay Başyayla ile...</title></programme>
 <programme start="20240703014500 +0000" stop="20240703025000 +0000" channel="TRT1.tr"><title lang="tr">Lingo</title></programme>
