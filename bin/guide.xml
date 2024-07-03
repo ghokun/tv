@@ -1099,6 +1099,7 @@
 <programme start="20240703105500 +0000" stop="20240703110000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20240703110000 +0000" stop="20240703120000 +0000" channel="TRTHaber.tr"><title lang="tr">Haber Ajandası</title></programme>
 <programme start="20240703120000 +0000" stop="20240703130000 +0000" channel="TRTHaber.tr"><title lang="tr">Haber Ajandası</title></programme>
+<programme start="20240703125500 +0000" stop="20240703130000 +0000" channel="TRTHaber.tr"><title lang="tr">Milli Güç Güçlü Türkiye</title></programme>
 <programme start="20240703130000 +0000" stop="20240703150000 +0000" channel="TRTHaber.tr"><title lang="tr">Günün İçinden</title></programme>
 <programme start="20240703150000 +0000" stop="20240703155500 +0000" channel="TRTHaber.tr"><title lang="tr">Sıcak Haber</title></programme>
 <programme start="20240703155500 +0000" stop="20240703160000 +0000" channel="TRTHaber.tr"><title lang="tr">Piyasa Raporu</title></programme>
@@ -1162,8 +1163,8 @@
 <programme start="20240703122500 +0000" stop="20240703123500 +0000" channel="TRTTurk.tr"><title lang="tr">Beni Bir Dinler Misin ?</title></programme>
 <programme start="20240703123500 +0000" stop="20240703124500 +0000" channel="TRTTurk.tr"><title lang="tr">Mikrofon Senin Rouen</title></programme>
 <programme start="20240703124500 +0000" stop="20240703133000 +0000" channel="TRTTurk.tr"><title lang="tr">Böyle Bitmesin</title></programme>
-<programme start="20240703133000 +0000" stop="20240703135000 +0000" channel="TRTTurk.tr"><title lang="tr">Şef Olacak Çocuk</title></programme>
-<programme start="20240703135000 +0000" stop="20240703140500 +0000" channel="TRTTurk.tr"><title lang="tr">Gönlünü Ferah Tut</title></programme>
+<programme start="20240703130000 +0000" stop="20240703134000 +0000" channel="TRTTurk.tr"><title lang="tr">Böyle Bitmesin</title></programme>
+<programme start="20240703134000 +0000" stop="20240703140000 +0000" channel="TRTTurk.tr"><title lang="tr">Şef Olacak Çocuk</title></programme>
 <programme start="20240703140000 +0000" stop="20240703141500 +0000" channel="TRTTurk.tr"><title lang="tr">Gönlünü Ferah Tut</title></programme>
 <programme start="20240703141500 +0000" stop="20240703143000 +0000" channel="TRTTurk.tr"><title lang="tr">Arkadaşım Kirpi</title></programme>
 <programme start="20240703143000 +0000" stop="20240703151000 +0000" channel="TRTTurk.tr"><title lang="tr">Kültür Pusulası</title></programme>
