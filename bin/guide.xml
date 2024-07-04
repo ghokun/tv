@@ -164,9 +164,8 @@
 <programme start="20240704181500 +0000" stop="20240704203000 +0000" channel="BeyazTV.tr"><title lang="tr">Casus Oyunu</title></programme>
 <programme start="20240704203000 +0000" stop="20240704221500 +0000" channel="BeyazTV.tr"><title lang="tr">Gündemin İzinde</title></programme>
 <programme start="20240704203000 +0000" stop="20240704221500 +0000" channel="BeyazTV.tr"><title lang="tr">Gündemin İzinde</title></programme>
-<programme start="20240704221500 +0000" stop="20240705001500 +0000" channel="BeyazTV.tr"><title lang="tr">Transit</title></programme>
-<programme start="20240705001500 +0000" stop="20240705013000 +0000" channel="BeyazTV.tr"><title lang="tr">Casus Oyunu</title></programme>
-<programme start="20240705013000 +0000" stop="20240705030000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
+<programme start="20240704221500 +0000" stop="20240705023000 +0000" channel="BeyazTV.tr"><title lang="tr">Transit</title></programme>
+<programme start="20240705023000 +0000" stop="20240705030000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
 <programme start="20240705030000 +0000" stop="20240705043000 +0000" channel="BeyazTV.tr"><title lang="tr">Casus Oyunu</title></programme>
 <programme start="20240705043000 +0000" stop="20240705063000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
 <programme start="20240705063000 +0000" stop="20240705090000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Magazin</title></programme>
@@ -521,7 +520,8 @@
 <programme start="20240705113000 +0000" stop="20240705115000 +0000" channel="NTV.tr"><title lang="tr">Finans Kafe</title></programme>
 <programme start="20240705115000 +0000" stop="20240705115500 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
 <programme start="20240705115500 +0000" stop="20240705120000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20240705120000 +0000" stop="20240705124500 +0000" channel="NTV.tr"><title lang="tr">Öğle Bülteni</title></programme>
+<programme start="20240705120000 +0000" stop="20240705124000 +0000" channel="NTV.tr"><title lang="tr">Öğle Bülteni</title></programme>
+<programme start="20240705124000 +0000" stop="20240705124500 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
 <programme start="20240705124500 +0000" stop="20240705125500 +0000" channel="NTV.tr"><title lang="tr">Spor</title></programme>
 <programme start="20240705125500 +0000" stop="20240705130000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20240705130000 +0000" stop="20240705133000 +0000" channel="NTV.tr"><title lang="tr">Günün İçinden</title></programme>
@@ -1270,7 +1270,7 @@
 <programme start="20240704210000 +0000" stop="20240704221500 +0000" channel="TV85.tr"><title lang="tr">Copa America B Grubu Maç...</title></programme>
 <programme start="20240704221500 +0000" stop="20240704233000 +0000" channel="TV85.tr"><title lang="tr">Copa America C Grubu Maç...</title></programme>
 <programme start="20240704233000 +0000" stop="20240705010000 +0000" channel="TV85.tr"><title lang="tr">Copa America D Grubu Maç...</title></programme>
-<programme start="20240705010000 +0000" stop="20240705030000 +0000" channel="TV85.tr"><title lang="tr">Copa America Çeyrek Final...</title></programme>
+<programme start="20240705010000 +0000" stop="20240705050000 +0000" channel="TV85.tr"><title lang="tr">Copa America Çeyrek Final...</title></programme>
 <programme start="20240705030000 +0000" stop="20240705054500 +0000" channel="TV85.tr"><title lang="tr">Tekrarlar</title></programme>
 <programme start="20240705054500 +0000" stop="20240705080000 +0000" channel="TV85.tr"><title lang="tr">Efsane Maçlar</title></programme>
 <programme start="20240705080000 +0000" stop="20240705100000 +0000" channel="TV85.tr"><title lang="tr">Arjantin - Ekvator</title></programme>
