@@ -55,9 +55,9 @@
 <programme start="20240706120000 +0000" stop="20240706140000 +0000" channel="360.tr"><title lang="tr">Her Şeyim Sensin</title></programme>
 <programme start="20240706140000 +0000" stop="20240706150000 +0000" channel="360.tr"><title lang="tr">Şeflerin Mutfağı</title></programme>
 <programme start="20240706150000 +0000" stop="20240706164500 +0000" channel="360.tr"><title lang="tr">Gelincik</title></programme>
-<programme start="20240706164500 +0000" stop="20240706183000 +0000" channel="360.tr"><title lang="tr">Aileler Yarışıyor</title></programme>
-<programme start="20240706183000 +0000" stop="20240706203000 +0000" channel="360.tr"><title lang="tr">Hanzo</title></programme>
-<programme start="20240706203000 +0000" stop="20240706221500 +0000" channel="360.tr"><title lang="tr">Hanzo</title></programme>
+<programme start="20240706164500 +0000" stop="20240706184500 +0000" channel="360.tr"><title lang="tr">Hanzo</title></programme>
+<programme start="20240706184500 +0000" stop="20240706203000 +0000" channel="360.tr"><title lang="tr">Hanzo</title></programme>
+<programme start="20240706203000 +0000" stop="20240706221500 +0000" channel="360.tr"><title lang="tr">Seksenler</title></programme>
 <programme start="20240704210000 +0000" stop="20240704230000 +0000" channel="AHaber.tr"><title lang="tr">Gece Ajansı</title></programme>
 <programme start="20240704230000 +0000" stop="20240705003000 +0000" channel="AHaber.tr"><title lang="tr">A Haber Gece</title></programme>
 <programme start="20240705003000 +0000" stop="20240705020000 +0000" channel="AHaber.tr"><title lang="tr">Arka Plan</title></programme>
@@ -157,7 +157,8 @@
 <programme start="20240705183000 +0000" stop="20240705200000 +0000" channel="BeyazTV.tr"><title lang="tr">Ölümsüzlük Oyunu</title></programme>
 <programme start="20240705200000 +0000" stop="20240705220000 +0000" channel="BeyazTV.tr"><title lang="tr">Zaman Polisi</title></programme>
 <programme start="20240705200000 +0000" stop="20240705220000 +0000" channel="BeyazTV.tr"><title lang="tr">Zaman Polisi</title></programme>
-<programme start="20240705220000 +0000" stop="20240706001500 +0000" channel="BeyazTV.tr"><title lang="tr">Ölümsüzlük Oyunu</title></programme>
+<programme start="20240705220000 +0000" stop="20240705221500 +0000" channel="BeyazTV.tr"><title lang="tr">Ölümsüzlük Oyunu</title></programme>
+<programme start="20240705221500 +0000" stop="20240706001500 +0000" channel="BeyazTV.tr"><title lang="tr">Ölümsüzler</title></programme>
 <programme start="20240706001500 +0000" stop="20240706023000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
 <programme start="20240706023000 +0000" stop="20240706030000 +0000" channel="BeyazTV.tr"><title lang="tr">Belma Belen&apos;le Geziyoruz</title></programme>
 <programme start="20240706030000 +0000" stop="20240706050000 +0000" channel="BeyazTV.tr"><title lang="tr">Zaman Polisi</title></programme>
@@ -173,8 +174,7 @@
 <programme start="20240706153000 +0000" stop="20240706163000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Ana Haber</title></programme>
 <programme start="20240706163000 +0000" stop="20240706174500 +0000" channel="BeyazTV.tr"><title lang="tr">Artçı Şok</title></programme>
 <programme start="20240706174500 +0000" stop="20240706193000 +0000" channel="BeyazTV.tr"><title lang="tr">Havada Asılı</title></programme>
-<programme start="20240706193000 +0000" stop="20240706204500 +0000" channel="BeyazTV.tr"><title lang="tr">Artçı Şok</title></programme>
-<programme start="20240706204500 +0000" stop="20240706221500 +0000" channel="BeyazTV.tr"><title lang="tr">Kırmızı Beyaz Futbol</title></programme>
+<programme start="20240706193000 +0000" stop="20240706221500 +0000" channel="BeyazTV.tr"><title lang="tr">Artçı Şok</title></programme>
 <programme start="20240704174500 +0000" stop="20240704220000 +0000" channel="CNNTurk.tr"><title lang="tr">Gece Görüşü</title></programme>
 <programme start="20240704220000 +0000" stop="20240704231500 +0000" channel="CNNTurk.tr"><title lang="tr">Gece Haberleri</title></programme>
 <programme start="20240704231500 +0000" stop="20240705030000 +0000" channel="CNNTurk.tr"><title lang="tr">Gece Görüşü</title></programme>
