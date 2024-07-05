@@ -172,9 +172,9 @@
 <programme start="20240706130000 +0000" stop="20240706140000 +0000" channel="BeyazTV.tr"><title lang="tr">Cumartesi Sohbeti</title></programme>
 <programme start="20240706140000 +0000" stop="20240706153000 +0000" channel="BeyazTV.tr"><title lang="tr">Belma Belen&apos;le Geziyoruz</title></programme>
 <programme start="20240706153000 +0000" stop="20240706163000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Ana Haber</title></programme>
-<programme start="20240706163000 +0000" stop="20240706183000 +0000" channel="BeyazTV.tr"><title lang="tr">İyi Olan Kazansın</title></programme>
-<programme start="20240706183000 +0000" stop="20240706203000 +0000" channel="BeyazTV.tr"><title lang="tr">Ölümsüzler</title></programme>
-<programme start="20240706203000 +0000" stop="20240706221500 +0000" channel="BeyazTV.tr"><title lang="tr">İyi Olan Kazansın</title></programme>
+<programme start="20240706163000 +0000" stop="20240706174500 +0000" channel="BeyazTV.tr"><title lang="tr">Artçı Şok</title></programme>
+<programme start="20240706174500 +0000" stop="20240706193000 +0000" channel="BeyazTV.tr"><title lang="tr">Havada Asılı</title></programme>
+<programme start="20240706193000 +0000" stop="20240706221500 +0000" channel="BeyazTV.tr"><title lang="tr">Artçı Şok</title></programme>
 <programme start="20240704174500 +0000" stop="20240704220000 +0000" channel="CNNTurk.tr"><title lang="tr">Gece Görüşü</title></programme>
 <programme start="20240704220000 +0000" stop="20240704231500 +0000" channel="CNNTurk.tr"><title lang="tr">Gece Haberleri</title></programme>
 <programme start="20240704231500 +0000" stop="20240705030000 +0000" channel="CNNTurk.tr"><title lang="tr">Gece Görüşü</title></programme>
@@ -380,7 +380,7 @@
 <programme start="20240706131500 +0000" stop="20240706160000 +0000" channel="KanalD.tr"><title lang="tr">Arka Sokaklar</title></programme>
 <programme start="20240706160000 +0000" stop="20240706170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
 <programme start="20240706170000 +0000" stop="20240706201500 +0000" channel="KanalD.tr"><title lang="tr">Yalan</title></programme>
-<programme start="20240706201500 +0000" stop="20240706224500 +0000" channel="KanalD.tr"><title lang="tr">Çok Akustik</title></programme>
+<programme start="20240706201500 +0000" stop="20240706220000 +0000" channel="KanalD.tr"><title lang="tr">Ay&apos;ın Köpek Balığı Yüzü</title></programme>
 <programme start="20240704210000 +0000" stop="20240704215000 +0000" channel="NTV.tr"><title lang="tr">Bugün Yarın</title></programme>
 <programme start="20240704215000 +0000" stop="20240704215500 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
 <programme start="20240704215500 +0000" stop="20240704220000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
