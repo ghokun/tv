@@ -380,7 +380,7 @@
 <programme start="20240706131500 +0000" stop="20240706160000 +0000" channel="KanalD.tr"><title lang="tr">Arka Sokaklar</title></programme>
 <programme start="20240706160000 +0000" stop="20240706170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
 <programme start="20240706170000 +0000" stop="20240706201500 +0000" channel="KanalD.tr"><title lang="tr">Yalan</title></programme>
-<programme start="20240706201500 +0000" stop="20240706224500 +0000" channel="KanalD.tr"><title lang="tr">Çok Akustik</title></programme>
+<programme start="20240706201500 +0000" stop="20240706220000 +0000" channel="KanalD.tr"><title lang="tr">Ay&apos;ın Köpek Balığı Yüzü</title></programme>
 <programme start="20240704210000 +0000" stop="20240704215000 +0000" channel="NTV.tr"><title lang="tr">Bugün Yarın</title></programme>
 <programme start="20240704215000 +0000" stop="20240704215500 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
 <programme start="20240704215500 +0000" stop="20240704220000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
@@ -1212,9 +1212,9 @@
 <programme start="20240705053000 +0000" stop="20240705064500 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
 <programme start="20240705064500 +0000" stop="20240705104500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240705104500 +0000" stop="20240705124500 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
-<programme start="20240705124500 +0000" stop="20240705170000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
-<programme start="20240705170000 +0000" stop="20240705211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
-<programme start="20240705170000 +0000" stop="20240705211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240705124500 +0000" stop="20240705160000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
+<programme start="20240705160000 +0000" stop="20240705211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240705160000 +0000" stop="20240705211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240705211500 +0000" stop="20240705233000 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
 <programme start="20240705233000 +0000" stop="20240706013000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
 <programme start="20240706013000 +0000" stop="20240706030000 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
@@ -1244,11 +1244,22 @@
 <programme start="20240705180000 +0000" stop="20240705200000 +0000" channel="TV85.tr"><title lang="tr">Arjantin - Ekvator</title></programme>
 <programme start="20240705200000 +0000" stop="20240705211500 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
 <programme start="20240705200000 +0000" stop="20240705211500 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
-<programme start="20240706020000 +0000" stop="20240706030000 +0000" channel="TV85.tr"><title lang="tr">Arjantin - Ekvator</title></programme>
+<programme start="20240705211500 +0000" stop="20240705224500 +0000" channel="TV85.tr"><title lang="tr">NBA Stüdyo</title></programme>
+<programme start="20240705224500 +0000" stop="20240705234500 +0000" channel="TV85.tr"><title lang="tr">Copa America D Grubu Maç...</title></programme>
+<programme start="20240705234500 +0000" stop="20240706010000 +0000" channel="TV85.tr"><title lang="tr">Copa America B Grubu Maç...</title></programme>
+<programme start="20240706010000 +0000" stop="20240706030000 +0000" channel="TV85.tr"><title lang="tr">Venezuela - Kanada</title></programme>
 <programme start="20240706030000 +0000" stop="20240706050000 +0000" channel="TV85.tr"><title lang="tr">Arjantin - Ekvator</title></programme>
-<programme start="20240706050000 +0000" stop="20240706121500 +0000" channel="TV85.tr"><title lang="tr">Klasikler</title></programme>
-<programme start="20240706121500 +0000" stop="20240706201500 +0000" channel="TV85.tr"><title lang="tr">Arjantin - Ekvator</title></programme>
-<programme start="20240706201500 +0000" stop="20240706213000 +0000" channel="TV85.tr"><title lang="tr">Arjantin - Ekvator</title></programme>
+<programme start="20240706050000 +0000" stop="20240706060000 +0000" channel="TV85.tr"><title lang="tr">Klasikler</title></programme>
+<programme start="20240706060000 +0000" stop="20240706070000 +0000" channel="TV85.tr"><title lang="tr">Finals</title></programme>
+<programme start="20240706070000 +0000" stop="20240706090000 +0000" channel="TV85.tr"><title lang="tr">Venezuela - Kanada</title></programme>
+<programme start="20240706090000 +0000" stop="20240706100000 +0000" channel="TV85.tr"><title lang="tr">UEFA Avrupa Ligi Magazin</title></programme>
+<programme start="20240706100000 +0000" stop="20240706110000 +0000" channel="TV85.tr"><title lang="tr">UEFA Şampiyonlar Ligi Magazin</title></programme>
+<programme start="20240706110000 +0000" stop="20240706121500 +0000" channel="TV85.tr"><title lang="tr">NBA Stüdyo</title></programme>
+<programme start="20240706121500 +0000" stop="20240706141500 +0000" channel="TV85.tr"><title lang="tr">Arjantin - Ekvator</title></programme>
+<programme start="20240706141500 +0000" stop="20240706153000 +0000" channel="TV85.tr"><title lang="tr">Copa America D Grubu Maç...</title></programme>
+<programme start="20240706153000 +0000" stop="20240706173000 +0000" channel="TV85.tr"><title lang="tr">Şampiyonluk Yolu Real...</title></programme>
+<programme start="20240706173000 +0000" stop="20240706193000 +0000" channel="TV85.tr"><title lang="tr">Şampiyonluk Yolu...</title></programme>
+<programme start="20240706193000 +0000" stop="20240706213000 +0000" channel="TV85.tr"><title lang="tr">Şampiyonluk Yolu Real...</title></programme>
 <programme start="20240704210000 +0000" stop="20240704220000 +0000" channel="UlusalKanal.tr"><title lang="tr">-</title></programme>
 <programme start="20240704220000 +0000" stop="20240705050000 +0000" channel="UlusalKanal.tr"><title lang="tr">Tekrar Programlar</title></programme>
 <programme start="20240705050000 +0000" stop="20240705080000 +0000" channel="UlusalKanal.tr"><title lang="tr">Televizyon Gazetesi</title></programme>
