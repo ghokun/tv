@@ -567,8 +567,8 @@
 <programme start="20240707214500 +0000" stop="20240708000000 +0000" channel="ShowTV.tr"><title lang="tr">Eşkıya</title></programme>
 <programme start="20240708000000 +0000" stop="20240708014500 +0000" channel="ShowTV.tr"><title lang="tr">Her Şey Çok Güzel Olacak</title></programme>
 <programme start="20240708014500 +0000" stop="20240708030000 +0000" channel="ShowTV.tr"><title lang="tr">Kadifeden Kesesi</title></programme>
-<programme start="20240708030000 +0000" stop="20240708063000 +0000" channel="ShowTV.tr"><title lang="tr">Aşk Laftan Anlamaz</title></programme>
-<programme start="20240708063000 +0000" stop="20240708090000 +0000" channel="ShowTV.tr"><title lang="tr">Bir Şansım Olsa</title></programme>
+<programme start="20240708030000 +0000" stop="20240708060000 +0000" channel="ShowTV.tr"><title lang="tr">Aşk Laftan Anlamaz</title></programme>
+<programme start="20240708060000 +0000" stop="20240708090000 +0000" channel="ShowTV.tr"><title lang="tr">Kuzey Yıldızı: İlk Aşk</title></programme>
 <programme start="20240708090000 +0000" stop="20240708120000 +0000" channel="ShowTV.tr"><title lang="tr">Sandık Kokusu</title></programme>
 <programme start="20240708120000 +0000" stop="20240708153000 +0000" channel="ShowTV.tr"><title lang="tr">Kızılcık Şerbeti</title></programme>
 <programme start="20240708153000 +0000" stop="20240708170000 +0000" channel="ShowTV.tr"><title lang="tr">Show Ana Haber</title></programme>
@@ -902,9 +902,32 @@
 <programme start="20240708014000 +0000" stop="20240708021000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Doğu&apos;nun Kayıp Silüetleri</title></programme>
 <programme start="20240708021000 +0000" stop="20240708024000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Yenilmez Savaşçılar</title></programme>
 <programme start="20240708024000 +0000" stop="20240708033500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Guguk Kuşu - Yuvamdaki...</title></programme>
-<programme start="20240708033500 +0000" stop="20240708035000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Açık Ateş</title></programme>
-<programme start="20240708035000 +0000" stop="20240708090000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Tanıtım</title></programme>
-<programme start="20240708090000 +0000" stop="20240708110000 +0000" channel="TRTBelgesel.tr"><title lang="tr">TRT Belgesel</title></programme>
+<programme start="20240708033500 +0000" stop="20240708035500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Açık Ateş</title></programme>
+<programme start="20240708035500 +0000" stop="20240708035800 +0000" channel="TRTBelgesel.tr"><title lang="tr">Tanıtım</title></programme>
+<programme start="20240708035800 +0000" stop="20240708040000 +0000" channel="TRTBelgesel.tr"><title lang="tr">İstiklal Marşı</title></programme>
+<programme start="20240708040000 +0000" stop="20240708044000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Kuşlar, Çakallar ve...</title></programme>
+<programme start="20240708044000 +0000" stop="20240708053000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Gizemli Tarih Troya</title></programme>
+<programme start="20240708053000 +0000" stop="20240708062000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Şefin Özel Konuğu</title></programme>
+<programme start="20240708062000 +0000" stop="20240708070500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Sıra Dışı Bir Kaya</title></programme>
+<programme start="20240708070500 +0000" stop="20240708074500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Maceraya Engel Yok</title></programme>
+<programme start="20240708074500 +0000" stop="20240708081500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Yiyeceğin Serüveni</title></programme>
+<programme start="20240708081500 +0000" stop="20240708090500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Yok Olmadan Keşfet</title></programme>
+<programme start="20240708090500 +0000" stop="20240708094500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Hedef Sıfır Atık</title></programme>
+<programme start="20240708094500 +0000" stop="20240708103500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Nasıl Çalışır</title></programme>
+<programme start="20240708103500 +0000" stop="20240708113500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Denizlerin Dahi Avcıları</title></programme>
+<programme start="20240708113500 +0000" stop="20240708120500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Çırak</title></programme>
+<programme start="20240708120500 +0000" stop="20240708130500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Su Savaşları</title></programme>
+<programme start="20240708130500 +0000" stop="20240708140500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Zorlu İşler Reshad Strik</title></programme>
+<programme start="20240708140500 +0000" stop="20240708150500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Savunma Sanatları</title></programme>
+<programme start="20240708150500 +0000" stop="20240708155500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Büyük Aile Çiftliği</title></programme>
+<programme start="20240708155500 +0000" stop="20240708162000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Avustralyalı Yılan...</title></programme>
+<programme start="20240708162000 +0000" stop="20240708171500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Anadolu&apos;da Yaşam</title></programme>
+<programme start="20240708171500 +0000" stop="20240708174500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Kelebek Etkisi</title></programme>
+<programme start="20240708174500 +0000" stop="20240708184000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Kalahari:Gizli İş...</title></programme>
+<programme start="20240708184000 +0000" stop="20240708191500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Bir Şefin Maceraları</title></programme>
+<programme start="20240708191500 +0000" stop="20240708194500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Yiyeceğin Serüveni</title></programme>
+<programme start="20240708194500 +0000" stop="20240708203000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Sıra Dışı Bir Kaya</title></programme>
+<programme start="20240708203000 +0000" stop="20240708213000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Savunma Sanatları</title></programme>
 <programme start="20240706205000 +0000" stop="20240706211500 +0000" channel="TRTCocuk.tr"><title lang="tr">Variloto</title></programme>
 <programme start="20240706211500 +0000" stop="20240706213500 +0000" channel="TRTCocuk.tr"><title lang="tr">Maysa ve Bulut</title></programme>
 <programme start="20240706213500 +0000" stop="20240706220000 +0000" channel="TRTCocuk.tr"><title lang="tr">Aslan</title></programme>
