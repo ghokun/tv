@@ -770,16 +770,22 @@
 <programme start="20240706211500 +0000" stop="20240706223000 +0000" channel="TRT1.tr"><title lang="tr">Pelin Çift İle Gündem...</title></programme>
 <programme start="20240706223000 +0000" stop="20240706224500 +0000" channel="TRT1.tr"><title lang="tr">Pelin Çift İle Gündem...</title></programme>
 <programme start="20240706224500 +0000" stop="20240707033000 +0000" channel="TRT1.tr"><title lang="tr">Dizi</title></programme>
-<programme start="20240707033000 +0000" stop="20240707054000 +0000" channel="TRT1.tr"><title lang="tr">Beni Böyle Sev</title></programme>
-<programme start="20240707054000 +0000" stop="20240707084500 +0000" channel="TRT1.tr"><title lang="tr">Perihan Abla</title></programme>
+<programme start="20240707011500 +0000" stop="20240707015500 +0000" channel="TRT1.tr"><title lang="tr">Turgay Başyayla ile...</title></programme>
+<programme start="20240707015500 +0000" stop="20240707034000 +0000" channel="TRT1.tr"><title lang="tr">Beni Böyle Sev</title></programme>
+<programme start="20240707034000 +0000" stop="20240707044000 +0000" channel="TRT1.tr"><title lang="tr">Yedi Numara</title></programme>
+<programme start="20240707044000 +0000" stop="20240707054000 +0000" channel="TRT1.tr"><title lang="tr">Yeditepe İstanbul</title></programme>
+<programme start="20240707054000 +0000" stop="20240707084500 +0000" channel="TRT1.tr"><title lang="tr">Alparslan: Büyük Selçuklu</title></programme>
 <programme start="20240707084500 +0000" stop="20240707100000 +0000" channel="TRT1.tr"><title lang="tr">Enine Boyuna</title></programme>
-<programme start="20240707100000 +0000" stop="20240707111500 +0000" channel="TRT1.tr"><title lang="tr">Biraz Kül Biraz Duman</title></programme>
-<programme start="20240707111500 +0000" stop="20240707160000 +0000" channel="TRT1.tr"><title lang="tr">Dizi</title></programme>
+<programme start="20240707100000 +0000" stop="20240707111000 +0000" channel="TRT1.tr"><title lang="tr">Turgay Başyayla ile...</title></programme>
+<programme start="20240707111000 +0000" stop="20240707125000 +0000" channel="TRT1.tr"><title lang="tr">Seksenler</title></programme>
+<programme start="20240707125000 +0000" stop="20240707160000 +0000" channel="TRT1.tr"><title lang="tr">Kod Adı Kırlangıç</title></programme>
 <programme start="20240707160000 +0000" stop="20240707170000 +0000" channel="TRT1.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240707170000 +0000" stop="20240707190000 +0000" channel="TRT1.tr"><title lang="tr">Deha</title></programme>
-<programme start="20240707190000 +0000" stop="20240707211500 +0000" channel="TRT1.tr"><title lang="tr">Zafere Kaçış</title></programme>
-<programme start="20240707190000 +0000" stop="20240707211500 +0000" channel="TRT1.tr"><title lang="tr">Zafere Kaçış</title></programme>
-<programme start="20240707211500 +0000" stop="20240708025000 +0000" channel="TRT1.tr"><title lang="tr">3&apos;te 3</title></programme>
+<programme start="20240707170000 +0000" stop="20240707191500 +0000" channel="TRT1.tr"><title lang="tr">Deha</title></programme>
+<programme start="20240707191500 +0000" stop="20240707213000 +0000" channel="TRT1.tr"><title lang="tr">Zafere Kaçış</title></programme>
+<programme start="20240707191500 +0000" stop="20240707213000 +0000" channel="TRT1.tr"><title lang="tr">Zafere Kaçış</title></programme>
+<programme start="20240707213000 +0000" stop="20240707231500 +0000" channel="TRT1.tr"><title lang="tr">Deha</title></programme>
+<programme start="20240707231500 +0000" stop="20240708013000 +0000" channel="TRT1.tr"><title lang="tr">Alparslan: Büyük Selçuklu</title></programme>
+<programme start="20240708013000 +0000" stop="20240708025000 +0000" channel="TRT1.tr"><title lang="tr">Kod Adı Kırlangıç</title></programme>
 <programme start="20240708025000 +0000" stop="20240708032000 +0000" channel="TRT1.tr"><title lang="tr">Uğurlugiller</title></programme>
 <programme start="20240708032000 +0000" stop="20240708062000 +0000" channel="TRT1.tr"><title lang="tr">Kalk Gidelim</title></programme>
 <programme start="20240708062000 +0000" stop="20240708095000 +0000" channel="TRT1.tr"><title lang="tr">Kasaba Doktoru</title></programme>
@@ -859,8 +865,9 @@
 <programme start="20240707004000 +0000" stop="20240707013000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Şefin Özel Konuğu</title></programme>
 <programme start="20240707013000 +0000" stop="20240707022500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Ailenin Yeni Üyesi</title></programme>
 <programme start="20240707022500 +0000" stop="20240707025500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Doğu&apos;nun Kayıp Silüetleri</title></programme>
-<programme start="20240707025500 +0000" stop="20240707035500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Şehirden Uzakta</title></programme>
-<programme start="20240707035500 +0000" stop="20240707075500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Tanıtım</title></programme>
+<programme start="20240707025500 +0000" stop="20240707040000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Şehirden Uzakta</title></programme>
+<programme start="20240707040000 +0000" stop="20240707050000 +0000" channel="TRTBelgesel.tr"><title lang="tr">TRT Belgesel</title></programme>
+<programme start="20240707050000 +0000" stop="20240707070000 +0000" channel="TRTBelgesel.tr"><title lang="tr">TRT Belgesel</title></programme>
 <programme start="20240707070000 +0000" stop="20240707090000 +0000" channel="TRTBelgesel.tr"><title lang="tr">TRT Belgesel</title></programme>
 <programme start="20240707090000 +0000" stop="20240707110000 +0000" channel="TRTBelgesel.tr"><title lang="tr">TRT Belgesel</title></programme>
 <programme start="20240707110000 +0000" stop="20240707130000 +0000" channel="TRTBelgesel.tr"><title lang="tr">TRT Belgesel</title></programme>
