@@ -39,7 +39,7 @@
         "group_title": "Ulusal",
         "name": "Beyaz TV",
         "tvg_logo": "https://i.imgur.com/uykIdML.png",
-        "url": "https://beyaztv.blutv.com/blutv_beyaztv_live/live.m3u8"
+        "url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8"
       }
     },
     "CNNTurk.tr": {
@@ -229,6 +229,20 @@
       },
       "group": "Ulusal"
     },
+    "TRT4K.tr": {
+      "epg": {
+        "channel": "TRT 4K",
+        "lang": "tr",
+        "site": "dsmart.com.tr",
+        "site_id": "174#59dcbee1cfef0b4d80a49650"
+      },
+      "m3u": {
+        "group_title": "Belgesel",
+        "name": "TRT 4K",
+        "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/TRT_4K.svg/512px-TRT_4K.svg.png",
+        "url": "https://mn-nl.mncdn.com/blutv_trt4k/live.m3u8"
+      }
+    },
     "TRTBelgesel.tr": {
       "epg": {
         "channel": "TRT Belgesel",
@@ -249,7 +263,7 @@
         "group_title": "Çocuk",
         "name": "TRT Çocuk",
         "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png",
-        "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8"
+        "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
       }
     },
     "TRTHaber.tr": {
@@ -287,6 +301,15 @@
         "site_id": "55"
       },
       "group": "Eğlence"
+    },
+    "TV100.tr": {
+      "epg": {
+        "channel": "TV 100 HD",
+        "lang": "tr",
+        "site": "digiturk.com.tr",
+        "site_id": "37"
+      },
+      "group": "Haber"
     },
     "UlusalKanal.tr": {
       "epg": {
