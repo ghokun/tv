@@ -21,12 +21,14 @@
 <channel id="TLC.tr"><display-name>TLC</display-name><url>https://turksatkablo.com.tr</url></channel>
 <channel id="TRT1.tr"><display-name>TRT 1</display-name><url>https://digiturk.com.tr</url></channel>
 <channel id="TRT2.tr"><display-name>TRT 2</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="TRT4K.tr"><display-name>TRT 4K</display-name><url>https://dsmart.com.tr</url></channel>
 <channel id="TRTBelgesel.tr"><display-name>TRT Belgesel</display-name><url>https://digiturk.com.tr</url></channel>
 <channel id="TRTCocuk.tr"><display-name>TRT Cocuk</display-name><url>https://digiturk.com.tr</url></channel>
 <channel id="TRTHaber.tr"><display-name>TRT Haber</display-name><url>https://digiturk.com.tr</url></channel>
 <channel id="TRTTurk.tr"><display-name>TRT Turk</display-name><url>https://digiturk.com.tr</url></channel>
 <channel id="TV8.tr"><display-name>TV 8</display-name><url>https://digiturk.com.tr</url></channel>
 <channel id="TV85.tr"><display-name>TV 8.5</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="TV100.tr"><display-name>TV 100</display-name><url>https://digiturk.com.tr</url></channel>
 <channel id="UlusalKanal.tr"><display-name>Ulusal Kanal</display-name><url>https://turksatkablo.com.tr</url></channel>
 <programme start="20240706203000 +0000" stop="20240706221500 +0000" channel="360.tr"><title lang="tr">Hanzo</title></programme>
 <programme start="20240706221500 +0000" stop="20240707000000 +0000" channel="360.tr"><title lang="tr">Her Şeyim Sensin</title></programme>
@@ -785,6 +787,7 @@
 <programme start="20240707084500 +0000" stop="20240707100000 +0000" channel="TRT1.tr"><title lang="tr">Enine Boyuna</title></programme>
 <programme start="20240707100000 +0000" stop="20240707111500 +0000" channel="TRT1.tr"><title lang="tr">Biraz Kül Biraz Duman</title></programme>
 <programme start="20240707111500 +0000" stop="20240707160000 +0000" channel="TRT1.tr"><title lang="tr">Dizi</title></programme>
+<programme start="20240707125000 +0000" stop="20240707160000 +0000" channel="TRT1.tr"><title lang="tr">Kod Adı Kırlangıç</title></programme>
 <programme start="20240707160000 +0000" stop="20240707170000 +0000" channel="TRT1.tr"><title lang="tr">Ana Haber</title></programme>
 <programme start="20240707170000 +0000" stop="20240707191500 +0000" channel="TRT1.tr"><title lang="tr">Deha</title></programme>
 <programme start="20240707191500 +0000" stop="20240707213000 +0000" channel="TRT1.tr"><title lang="tr">Zafere Kaçış</title></programme>
@@ -1228,6 +1231,40 @@
 <programme start="20240708180000 +0000" stop="20240708183000 +0000" channel="TV85.tr"><title lang="tr">Kolombiya - Panama</title></programme>
 <programme start="20240708183000 +0000" stop="20240708194500 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
 <programme start="20240708194500 +0000" stop="20240708210000 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
+<programme start="20240706210000 +0000" stop="20240706220000 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
+<programme start="20240706220000 +0000" stop="20240707010000 +0000" channel="TV100.tr"><title lang="tr">Kübra Par ile Farklı...</title></programme>
+<programme start="20240707010000 +0000" stop="20240707020000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240707020000 +0000" stop="20240707030000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240707030000 +0000" stop="20240707033000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240707033000 +0000" stop="20240707040000 +0000" channel="TV100.tr"><title lang="tr">Gün&apos;den Kalan</title></programme>
+<programme start="20240707040000 +0000" stop="20240707060000 +0000" channel="TV100.tr"><title lang="tr">Hafta Sonu Gün Uyanıyor</title></programme>
+<programme start="20240707060000 +0000" stop="20240707070000 +0000" channel="TV100.tr"><title lang="tr">Magazin Hattı</title></programme>
+<programme start="20240707070000 +0000" stop="20240707080000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240707080000 +0000" stop="20240707090000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240707090000 +0000" stop="20240707100000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240707100000 +0000" stop="20240707110000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240707110000 +0000" stop="20240707120000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240707120000 +0000" stop="20240707121500 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240707121500 +0000" stop="20240707130000 +0000" channel="TV100.tr"><title lang="tr">Ebru Doğdu ile Eğitim...</title></programme>
+<programme start="20240707130000 +0000" stop="20240707140000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240707140000 +0000" stop="20240707150000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240707150000 +0000" stop="20240707163000 +0000" channel="TV100.tr"><title lang="tr">Hafta Sonu Ana Haber Bülteni</title></programme>
+<programme start="20240707163000 +0000" stop="20240707173000 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
+<programme start="20240707173000 +0000" stop="20240707203000 +0000" channel="TV100.tr"><title lang="tr">Başak Şengül ile Doğru...</title></programme>
+<programme start="20240707203000 +0000" stop="20240707230000 +0000" channel="TV100.tr"><title lang="tr">Cansu Canan Özgen ile...</title></programme>
+<programme start="20240707203000 +0000" stop="20240707230000 +0000" channel="TV100.tr"><title lang="tr">Cansu Canan Özgen ile...</title></programme>
+<programme start="20240707230000 +0000" stop="20240708000000 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
+<programme start="20240708000000 +0000" stop="20240708023000 +0000" channel="TV100.tr"><title lang="tr">Cansu Canan Özgen ile...</title></programme>
+<programme start="20240708023000 +0000" stop="20240708030000 +0000" channel="TV100.tr"><title lang="tr">Gün&apos;den Kalan</title></programme>
+<programme start="20240708030000 +0000" stop="20240708060000 +0000" channel="TV100.tr"><title lang="tr">Gün Uyanıyor</title></programme>
+<programme start="20240708060000 +0000" stop="20240708090000 +0000" channel="TV100.tr"><title lang="tr">Günün Rotası</title></programme>
+<programme start="20240708090000 +0000" stop="20240708110000 +0000" channel="TV100.tr"><title lang="tr">Haberde Gün Ortası</title></programme>
+<programme start="20240708110000 +0000" stop="20240708130000 +0000" channel="TV100.tr"><title lang="tr">Güne Bakış</title></programme>
+<programme start="20240708130000 +0000" stop="20240708150000 +0000" channel="TV100.tr"><title lang="tr">Haberin İçinden</title></programme>
+<programme start="20240708150000 +0000" stop="20240708163000 +0000" channel="TV100.tr"><title lang="tr">Osman Kenan Çapoğlu ile...</title></programme>
+<programme start="20240708163000 +0000" stop="20240708174500 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
+<programme start="20240708174500 +0000" stop="20240708204500 +0000" channel="TV100.tr"><title lang="tr">Kübra Par ile Farklı...</title></programme>
+<programme start="20240708204500 +0000" stop="20240708214500 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
 <programme start="20240706210000 +0000" stop="20240706220000 +0000" channel="UlusalKanal.tr"><title lang="tr">Yurdumuzun Türküleri</title></programme>
 <programme start="20240706220000 +0000" stop="20240707050000 +0000" channel="UlusalKanal.tr"><title lang="tr">Tekrar Programlar</title></programme>
 <programme start="20240707050000 +0000" stop="20240707080000 +0000" channel="UlusalKanal.tr"><title lang="tr">Televizyon Gazetesi</title></programme>
