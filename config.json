@@ -282,7 +282,12 @@
         "site": "digiturk.com.tr",
         "site_id": "61"
       },
-      "group": "Haber"
+      "m3u": {
+        "group_title": "Haber",
+        "name": "TRT Türk",
+        "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/512px-TRT_T%C3%BCrk_logo.svg.png",
+        "url": "https://tv-trtturk.medya.trt.com.tr/master.m3u8"
+      }
     },
     "TV8.tr": {
       "epg": {
