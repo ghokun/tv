@@ -773,15 +773,14 @@
 <programme start="20240709062000 +0000" stop="20240709095000 +0000" channel="TRT1.tr"><title lang="tr">Kasaba Doktoru</title></programme>
 <programme start="20240709095000 +0000" stop="20240709113000 +0000" channel="TRT1.tr"><title lang="tr">Lingo</title></programme>
 <programme start="20240709113000 +0000" stop="20240709160000 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
-<programme start="20240709122500 +0000" stop="20240709160000 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
 <programme start="20240709160000 +0000" stop="20240709165500 +0000" channel="TRT1.tr"><title lang="tr">Ana Haber</title></programme>
 <programme start="20240709165500 +0000" stop="20240709170000 +0000" channel="TRT1.tr"><title lang="tr">İddiaların Aksine</title></programme>
 <programme start="20240709170000 +0000" stop="20240709190000 +0000" channel="TRT1.tr"><title lang="tr">Kupa Saati</title></programme>
 <programme start="20240709190000 +0000" stop="20240709211500 +0000" channel="TRT1.tr"><title lang="tr">İspanya - Fransa</title></programme>
 <programme start="20240709190000 +0000" stop="20240709211500 +0000" channel="TRT1.tr"><title lang="tr">İspanya - Fransa</title></programme>
-<programme start="20240709211500 +0000" stop="20240709223000 +0000" channel="TRT1.tr"><title lang="tr">3&apos;te 3</title></programme>
-<programme start="20240709223000 +0000" stop="20240710010000 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
-<programme start="20240710010000 +0000" stop="20240710024000 +0000" channel="TRT1.tr"><title lang="tr">Seksenler</title></programme>
+<programme start="20240709211500 +0000" stop="20240709224000 +0000" channel="TRT1.tr"><title lang="tr">3&apos;te 3</title></programme>
+<programme start="20240709224000 +0000" stop="20240710013500 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
+<programme start="20240710013500 +0000" stop="20240710024000 +0000" channel="TRT1.tr"><title lang="tr">Lingo</title></programme>
 <programme start="20240710024000 +0000" stop="20240710030500 +0000" channel="TRT1.tr"><title lang="tr">Uğurlugiller</title></programme>
 <programme start="20240710030500 +0000" stop="20240710061500 +0000" channel="TRT1.tr"><title lang="tr">Kalk Gidelim</title></programme>
 <programme start="20240710061500 +0000" stop="20240710094500 +0000" channel="TRT1.tr"><title lang="tr">Kasaba Doktoru</title></programme>
@@ -856,7 +855,7 @@
 <programme start="20240710103000 +0000" stop="20240710110000 +0000" channel="TRT2.tr"><title lang="tr">Satranç Dünyası</title></programme>
 <programme start="20240710110000 +0000" stop="20240710113000 +0000" channel="TRT2.tr"><title lang="tr">Anlatı</title></programme>
 <programme start="20240710113000 +0000" stop="20240710114500 +0000" channel="TRT2.tr"><title lang="tr">Keşif</title></programme>
-<programme start="20240710114500 +0000" stop="20240710134500 +0000" channel="TRT2.tr"><title lang="tr">Plan 75</title></programme>
+<programme start="20240710114500 +0000" stop="20240710134500 +0000" channel="TRT2.tr"><title lang="tr">Yabancı Sinema: Plan 75</title></programme>
 <programme start="20240710134500 +0000" stop="20240710144500 +0000" channel="TRT2.tr"><title lang="tr">Saadete Ermişlerin Bahçesi</title></programme>
 <programme start="20240710144500 +0000" stop="20240710150000 +0000" channel="TRT2.tr"><title lang="tr">Müzelerin Yıldızları</title></programme>
 <programme start="20240710150000 +0000" stop="20240710153000 +0000" channel="TRT2.tr"><title lang="tr">Hayat Sanat</title></programme>
@@ -865,7 +864,7 @@
 <programme start="20240710170000 +0000" stop="20240710173000 +0000" channel="TRT2.tr"><title lang="tr">Tanışma Hikayesi</title></programme>
 <programme start="20240710173000 +0000" stop="20240710180000 +0000" channel="TRT2.tr"><title lang="tr">Kayıp İzler Atlası</title></programme>
 <programme start="20240710180000 +0000" stop="20240710183000 +0000" channel="TRT2.tr"><title lang="tr">Sanatçının Şehri</title></programme>
-<programme start="20240710183000 +0000" stop="20240710200000 +0000" channel="TRT2.tr"><title lang="tr">Kule</title></programme>
+<programme start="20240710183000 +0000" stop="20240710200000 +0000" channel="TRT2.tr"><title lang="tr">Yabancı Sinema: Kule [...</title></programme>
 <programme start="20240710200000 +0000" stop="20240710211500 +0000" channel="TRT2.tr"><title lang="tr">Saadete Ermişlerin Bahçesi</title></programme>
 <programme start="20240708203000 +0000" stop="20240708213000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Savunma Sanatları</title></programme>
 <programme start="20240708213000 +0000" stop="20240708221500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Büyük Aile Çiftliği</title></programme>
@@ -997,7 +996,7 @@
 <programme start="20240709173000 +0000" stop="20240709175500 +0000" channel="TRTCocuk.tr"><title lang="tr">Köstebekgiller</title></programme>
 <programme start="20240709175500 +0000" stop="20240709182000 +0000" channel="TRTCocuk.tr"><title lang="tr">Vikingler</title></programme>
 <programme start="20240709182000 +0000" stop="20240709183000 +0000" channel="TRTCocuk.tr"><title lang="tr">Kaf Dağı Masalları</title></programme>
-<programme start="20240709183000 +0000" stop="20240709184500 +0000" channel="TRTCocuk.tr"><title lang="tr">Dijital Tayfa</title></programme>
+<programme start="20240709183000 +0000" stop="20240709184500 +0000" channel="TRTCocuk.tr"><title lang="tr">Trafik Tayfa</title></programme>
 <programme start="20240709184500 +0000" stop="20240709191000 +0000" channel="TRTCocuk.tr"><title lang="tr">Heidi</title></programme>
 <programme start="20240709191000 +0000" stop="20240709193500 +0000" channel="TRTCocuk.tr"><title lang="tr">Babamın Gölgesi 1915</title></programme>
 <programme start="20240709193500 +0000" stop="20240709200000 +0000" channel="TRTCocuk.tr"><title lang="tr">Rafadan Tayfa</title></programme>
@@ -1038,7 +1037,7 @@
 <programme start="20240710080500 +0000" stop="20240710081500 +0000" channel="TRTCocuk.tr"><title lang="tr">Elif ve Arkadaşları</title></programme>
 <programme start="20240710081500 +0000" stop="20240710083000 +0000" channel="TRTCocuk.tr"><title lang="tr">Dedektif Reptır</title></programme>
 <programme start="20240710083000 +0000" stop="20240710084500 +0000" channel="TRTCocuk.tr"><title lang="tr">Katuri</title></programme>
-<programme start="20240710084500 +0000" stop="20240710085500 +0000" channel="TRTCocuk.tr"><title lang="tr">Dijital Tayfa</title></programme>
+<programme start="20240710084500 +0000" stop="20240710085500 +0000" channel="TRTCocuk.tr"><title lang="tr">Trafik Tayfa</title></programme>
 <programme start="20240710085500 +0000" stop="20240710092000 +0000" channel="TRTCocuk.tr"><title lang="tr">Maysa ve Bulut</title></programme>
 <programme start="20240710092000 +0000" stop="20240710094500 +0000" channel="TRTCocuk.tr"><title lang="tr">Heidi</title></programme>
 <programme start="20240710094500 +0000" stop="20240710101000 +0000" channel="TRTCocuk.tr"><title lang="tr">İbi</title></programme>
@@ -1064,7 +1063,7 @@
 <programme start="20240710173000 +0000" stop="20240710175500 +0000" channel="TRTCocuk.tr"><title lang="tr">Köstebekgiller</title></programme>
 <programme start="20240710175500 +0000" stop="20240710182000 +0000" channel="TRTCocuk.tr"><title lang="tr">Vikingler</title></programme>
 <programme start="20240710182000 +0000" stop="20240710183000 +0000" channel="TRTCocuk.tr"><title lang="tr">Kaf Dağı Masalları</title></programme>
-<programme start="20240710183000 +0000" stop="20240710184500 +0000" channel="TRTCocuk.tr"><title lang="tr">Dijital Tayfa</title></programme>
+<programme start="20240710183000 +0000" stop="20240710184500 +0000" channel="TRTCocuk.tr"><title lang="tr">Trafik Tayfa</title></programme>
 <programme start="20240710184500 +0000" stop="20240710191000 +0000" channel="TRTCocuk.tr"><title lang="tr">Heidi</title></programme>
 <programme start="20240710191000 +0000" stop="20240710193500 +0000" channel="TRTCocuk.tr"><title lang="tr">Babamın Gölgesi 1915</title></programme>
 <programme start="20240710193500 +0000" stop="20240710200000 +0000" channel="TRTCocuk.tr"><title lang="tr">Rafadan Tayfa</title></programme>
