@@ -292,8 +292,9 @@
 <programme start="20240710083000 +0000" stop="20240710090000 +0000" channel="HaberturkTV.tr"><title lang="tr">HT Spor Gündem</title></programme>
 <programme start="20240710090000 +0000" stop="20240710120000 +0000" channel="HaberturkTV.tr"><title lang="tr">Gün Ortası</title></programme>
 <programme start="20240710120000 +0000" stop="20240710150000 +0000" channel="HaberturkTV.tr"><title lang="tr">HT 360</title></programme>
-<programme start="20240710150000 +0000" stop="20240710170000 +0000" channel="HaberturkTV.tr"><title lang="tr">Ana Haber Bülteni</title></programme>
-<programme start="20240710170000 +0000" stop="20240710200000 +0000" channel="HaberturkTV.tr"><title lang="tr">Habertürk Gündem</title></programme>
+<programme start="20240710150000 +0000" stop="20240710163000 +0000" channel="HaberturkTV.tr"><title lang="tr">Ana Haber Bülteni</title></programme>
+<programme start="20240710163000 +0000" stop="20240710173000 +0000" channel="HaberturkTV.tr"><title lang="tr">Özel Röportaj</title></programme>
+<programme start="20240710173000 +0000" stop="20240710200000 +0000" channel="HaberturkTV.tr"><title lang="tr">Habertürk Gündem</title></programme>
 <programme start="20240710200000 +0000" stop="20240710220000 +0000" channel="HaberturkTV.tr"><title lang="tr">Mesut Yar ile Gece Hattı</title></programme>
 <programme start="20240708180000 +0000" stop="20240708220000 +0000" channel="HalkTV.tr"><title lang="tr">Sözüm Var</title></programme>
 <programme start="20240708220000 +0000" stop="20240709000000 +0000" channel="HalkTV.tr"><title lang="tr">Halk TV&apos;de Bugün</title></programme>
