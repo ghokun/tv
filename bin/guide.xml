@@ -198,8 +198,9 @@
 <programme start="20240710130000 +0000" stop="20240710140000 +0000" channel="CNNTurk.tr"><title lang="tr">Günlük</title></programme>
 <programme start="20240710140000 +0000" stop="20240710150000 +0000" channel="CNNTurk.tr"><title lang="tr">Günlük</title></programme>
 <programme start="20240710150000 +0000" stop="20240710174500 +0000" channel="CNNTurk.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240710174500 +0000" stop="20240710210000 +0000" channel="CNNTurk.tr"><title lang="tr">Akıl Çemberi</title></programme>
-<programme start="20240710210000 +0000" stop="20240710231500 +0000" channel="CNNTurk.tr"><title lang="tr">Gece Haberleri</title></programme>
+<programme start="20240710174500 +0000" stop="20240710220000 +0000" channel="CNNTurk.tr"><title lang="tr">Akıl Çemberi</title></programme>
+<programme start="20240710174500 +0000" stop="20240710220000 +0000" channel="CNNTurk.tr"><title lang="tr">Akıl Çemberi</title></programme>
+<programme start="20240710220000 +0000" stop="20240710231500 +0000" channel="CNNTurk.tr"><title lang="tr">Gece Haberleri</title></programme>
 <programme start="20240710231500 +0000" stop="20240711030000 +0000" channel="CNNTurk.tr"><title lang="tr">Akıl Çemberi</title></programme>
 <programme start="20240711030000 +0000" stop="20240711040000 +0000" channel="CNNTurk.tr"><title lang="tr">A&apos;dan Z&apos;ye</title></programme>
 <programme start="20240711040000 +0000" stop="20240711050000 +0000" channel="CNNTurk.tr"><title lang="tr">A&apos;dan Z&apos;ye</title></programme>
