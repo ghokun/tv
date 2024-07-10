@@ -362,8 +362,9 @@
 <programme start="20240710170000 +0000" stop="20240710193000 +0000" channel="KanalD.tr"><title lang="tr">Turnike</title></programme>
 <programme start="20240710193000 +0000" stop="20240710221500 +0000" channel="KanalD.tr"><title lang="tr">Kurtuluş Günü</title></programme>
 <programme start="20240710193000 +0000" stop="20240710221500 +0000" channel="KanalD.tr"><title lang="tr">Kurtuluş Günü</title></programme>
-<programme start="20240710230000 +0000" stop="20240711013000 +0000" channel="KanalD.tr"><title lang="tr">Güneşin Kızları</title></programme>
-<programme start="20240711013000 +0000" stop="20240711040000 +0000" channel="KanalD.tr"><title lang="tr">Çatı Katı Aşk</title></programme>
+<programme start="20240710221500 +0000" stop="20240711003000 +0000" channel="KanalD.tr"><title lang="tr">Kurtuluş Günü</title></programme>
+<programme start="20240711003000 +0000" stop="20240711021500 +0000" channel="KanalD.tr"><title lang="tr">Güneşin Kızları</title></programme>
+<programme start="20240711021500 +0000" stop="20240711040000 +0000" channel="KanalD.tr"><title lang="tr">Çatı Katı Aşk</title></programme>
 <programme start="20240711040000 +0000" stop="20240711060000 +0000" channel="KanalD.tr"><title lang="tr">Öyle Bir Geçer Zaman Ki</title></programme>
 <programme start="20240711060000 +0000" stop="20240711080000 +0000" channel="KanalD.tr"><title lang="tr">Neler Oluyor Hayatta</title></programme>
 <programme start="20240711080000 +0000" stop="20240711090000 +0000" channel="KanalD.tr"><title lang="tr">Magazin D Yaz</title></programme>
