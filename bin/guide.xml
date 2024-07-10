@@ -509,9 +509,8 @@
 <programme start="20240711100000 +0000" stop="20240711105000 +0000" channel="NTV.tr"><title lang="tr">Öğle Bülteni</title></programme>
 <programme start="20240711105000 +0000" stop="20240711105500 +0000" channel="NTV.tr"><title lang="tr">Piyasalar</title></programme>
 <programme start="20240711105500 +0000" stop="20240711110000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20240711110000 +0000" stop="20240711113000 +0000" channel="NTV.tr"><title lang="tr">Öğle Bülteni</title></programme>
-<programme start="20240711113000 +0000" stop="20240711115000 +0000" channel="NTV.tr"><title lang="tr">Finans Kafe</title></programme>
-<programme start="20240711115000 +0000" stop="20240711115500 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
+<programme start="20240711110000 +0000" stop="20240711111000 +0000" channel="NTV.tr"><title lang="tr">Öğle Bülteni</title></programme>
+<programme start="20240711111000 +0000" stop="20240711115500 +0000" channel="NTV.tr"><title lang="tr">Özel Röportaj</title></programme>
 <programme start="20240711115500 +0000" stop="20240711120000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20240711120000 +0000" stop="20240711123500 +0000" channel="NTV.tr"><title lang="tr">Öğle Bülteni</title></programme>
 <programme start="20240711123500 +0000" stop="20240711124000 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
