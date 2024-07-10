@@ -116,10 +116,9 @@
 <programme start="20240711170000 +0000" stop="20240711175000 +0000" channel="AHaber.tr"><title lang="tr">Akşam Ajansı</title></programme>
 <programme start="20240711175000 +0000" stop="20240711180000 +0000" channel="AHaber.tr"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20240711180000 +0000" stop="20240711210000 +0000" channel="AHaber.tr"><title lang="tr">Arka Plan</title></programme>
-<programme start="20240710000000 +0000" stop="20240710001000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Avrupa Haber</title><desc lang="tr">Yurt disinda yasayan vatandaslari ilgilendiren önemli haberlere yer veriliyor. Avrupali Türkler&apos;in yasadigi sorunlar basta olmak üzere, gündemin önemli basliklari sicagi sicagina seyircilere ulastiriliyor.</desc><credits><actor>Kübra Dogru</actor></credits><category lang="tr">News</category><category lang="tr">Event</category></programme>
-<programme start="20240710001000 +0000" stop="20240710010000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Ana Haber BÜltenİ</title><category lang="tr">News</category></programme>
-<programme start="20240710010000 +0000" stop="20240710025000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Kaçak</title><desc lang="tr">Eski bir polis olan Serhat Hakeri, yasadigi bir olay yüzünden izini kaybettirmis ve Divrigi&apos;de kendisine yeni bir hayat kurmustur. Herkes onu Ahmet olarak tanimaktadir ve geçmisini tamamen geride birakmistir.</desc><credits><actor>Gurkan Uygun</actor><actor>Berk Hakman</actor><actor>Mustafa Avkiran</actor><actor>Begüm Birgören</actor><actor>Özlem Yilmaz</actor></credits><category lang="tr">Drama series</category><category lang="tr">Action</category></programme>
-<programme start="20240710025000 +0000" stop="20240710050000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Gül Masali</title><category lang="tr">Drama series</category></programme>
+<programme start="20240709232000 +0000" stop="20240710001000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Ana Haber BÜltenİ</title><category lang="tr">News</category></programme>
+<programme start="20240710001000 +0000" stop="20240710021000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Kaçak</title><desc lang="tr">Eski bir polis olan Serhat Hakeri, yasadigi bir olay yüzünden izini kaybettirmis ve Divrigi&apos;de kendisine yeni bir hayat kurmustur. Herkes onu Ahmet olarak tanimaktadir ve geçmisini tamamen geride birakmistir.</desc><credits><actor>Gurkan Uygun</actor><actor>Berk Hakman</actor><actor>Mustafa Avkiran</actor><actor>Begüm Birgören</actor><actor>Özlem Yilmaz</actor></credits><category lang="tr">Drama series</category><category lang="tr">Action</category></programme>
+<programme start="20240710021000 +0000" stop="20240710050000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Gül Masali</title><category lang="tr">Drama series</category></programme>
 <programme start="20240710050000 +0000" stop="20240710070000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Kahvalti Haberleri</title><desc lang="tr">Turkiye gundeminin en sicak haberleri ve gelismeleri ile gune baslangic.</desc><credits><actor>Melih Altinok</actor></credits><category lang="tr">News</category></programme>
 <programme start="20240710050000 +0000" stop="20240710070000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Kahvalti Haberleri</title><desc lang="tr">Turkiye gundeminin en sicak haberleri ve gelismeleri ile gune baslangic.</desc><credits><actor>Melih Altinok</actor></credits><category lang="tr">News</category></programme>
 <programme start="20240710070000 +0000" stop="20240710100000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Sen Anlat Karadeniz</title><desc lang="tr">Geçmiste para karsiligi satildigi adamin zulmünden kaçip çocuguyla birlikte Karadeniz&apos;e siginan Nefes&apos;le, onu korudugu için ailesinin büyük tepkisiyle karsilasan Tahir...</desc><credits><actor>Ulas Tuna Astepe</actor><actor>Irem Helvacioglu</actor><actor>Öykü Gürman</actor><actor>Aydan Burhan</actor><actor>Serdar Yegin</actor><actor>Burcu Binici</actor></credits><category lang="tr">Drama series</category></programme>
@@ -320,8 +319,7 @@
 <programme start="20240711080000 +0000" stop="20240711100000 +0000" channel="HalkTV.tr"><title lang="tr">Kırmızı Çizgi</title></programme>
 <programme start="20240711100000 +0000" stop="20240711120000 +0000" channel="HalkTV.tr"><title lang="tr">Haber Masası</title></programme>
 <programme start="20240711120000 +0000" stop="20240711130000 +0000" channel="HalkTV.tr"><title lang="tr">Halkın Haberi</title></programme>
-<programme start="20240711130000 +0000" stop="20240711140000 +0000" channel="HalkTV.tr"><title lang="tr">Her Açıdan</title></programme>
-<programme start="20240711140000 +0000" stop="20240711150000 +0000" channel="HalkTV.tr"><title lang="tr">Gündem Özel</title></programme>
+<programme start="20240711130000 +0000" stop="20240711150000 +0000" channel="HalkTV.tr"><title lang="tr">Gündem Özel</title></programme>
 <programme start="20240711150000 +0000" stop="20240711170000 +0000" channel="HalkTV.tr"><title lang="tr">Halk Ana Haber</title></programme>
 <programme start="20240711170000 +0000" stop="20240711180000 +0000" channel="HalkTV.tr"><title lang="tr">İki</title></programme>
 <programme start="20240711180000 +0000" stop="20240711220000 +0000" channel="HalkTV.tr"><title lang="tr">Perdenin Önü Arkası</title></programme>
@@ -442,15 +440,14 @@
 <programme start="20240710143000 +0000" stop="20240710143500 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
 <programme start="20240710143500 +0000" stop="20240710145500 +0000" channel="NTV.tr"><title lang="tr">Gece Gündüz</title></programme>
 <programme start="20240710145500 +0000" stop="20240710150000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20240710150000 +0000" stop="20240710152000 +0000" channel="NTV.tr"><title lang="tr">Günün İçinden</title></programme>
-<programme start="20240710152000 +0000" stop="20240710152500 +0000" channel="NTV.tr"><title lang="tr">Piyasalar</title></programme>
-<programme start="20240710152500 +0000" stop="20240710154000 +0000" channel="NTV.tr"><title lang="tr">Dünyanın Haberi</title></programme>
+<programme start="20240710150000 +0000" stop="20240710150500 +0000" channel="NTV.tr"><title lang="tr">Günün İçinden</title></programme>
+<programme start="20240710150500 +0000" stop="20240710151000 +0000" channel="NTV.tr"><title lang="tr">Piyasalar</title></programme>
+<programme start="20240710151000 +0000" stop="20240710154000 +0000" channel="NTV.tr"><title lang="tr">Ceyda Düvenci İle...</title></programme>
 <programme start="20240710154000 +0000" stop="20240710154500 +0000" channel="NTV.tr"><title lang="tr">Uzman Bakışı</title></programme>
 <programme start="20240710154500 +0000" stop="20240710155500 +0000" channel="NTV.tr"><title lang="tr">Spor</title></programme>
 <programme start="20240710155500 +0000" stop="20240710160000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20240710160000 +0000" stop="20240710161000 +0000" channel="NTV.tr"><title lang="tr">Akşam Haberleri</title></programme>
-<programme start="20240710161000 +0000" stop="20240710161500 +0000" channel="NTV.tr"><title lang="tr">Piyasalar</title></programme>
-<programme start="20240710161500 +0000" stop="20240710165500 +0000" channel="NTV.tr"><title lang="tr">Ceyda Düvenci İle...</title></programme>
+<programme start="20240710160000 +0000" stop="20240710165000 +0000" channel="NTV.tr"><title lang="tr">Akşam Haberleri</title></programme>
+<programme start="20240710165000 +0000" stop="20240710165500 +0000" channel="NTV.tr"><title lang="tr">Piyasalar</title></programme>
 <programme start="20240710165500 +0000" stop="20240710170000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20240710170000 +0000" stop="20240710175000 +0000" channel="NTV.tr"><title lang="tr">Ana Haber</title></programme>
 <programme start="20240710175000 +0000" stop="20240710175500 +0000" channel="NTV.tr"><title lang="tr">Piyasalar</title></programme>
