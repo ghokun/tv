@@ -319,7 +319,8 @@
 <programme start="20240711080000 +0000" stop="20240711100000 +0000" channel="HalkTV.tr"><title lang="tr">Kırmızı Çizgi</title></programme>
 <programme start="20240711100000 +0000" stop="20240711120000 +0000" channel="HalkTV.tr"><title lang="tr">Haber Masası</title></programme>
 <programme start="20240711120000 +0000" stop="20240711130000 +0000" channel="HalkTV.tr"><title lang="tr">Halkın Haberi</title></programme>
-<programme start="20240711130000 +0000" stop="20240711150000 +0000" channel="HalkTV.tr"><title lang="tr">Gündem Özel</title></programme>
+<programme start="20240711130000 +0000" stop="20240711140000 +0000" channel="HalkTV.tr"><title lang="tr">Her Açıdan</title></programme>
+<programme start="20240711140000 +0000" stop="20240711150000 +0000" channel="HalkTV.tr"><title lang="tr">Gündem Özel</title></programme>
 <programme start="20240711150000 +0000" stop="20240711170000 +0000" channel="HalkTV.tr"><title lang="tr">Halk Ana Haber</title></programme>
 <programme start="20240711170000 +0000" stop="20240711180000 +0000" channel="HalkTV.tr"><title lang="tr">İki</title></programme>
 <programme start="20240711180000 +0000" stop="20240711220000 +0000" channel="HalkTV.tr"><title lang="tr">Perdenin Önü Arkası</title></programme>
@@ -431,8 +432,9 @@
 <programme start="20240710124000 +0000" stop="20240710125000 +0000" channel="NTV.tr"><title lang="tr">Spor</title></programme>
 <programme start="20240710125000 +0000" stop="20240710125500 +0000" channel="NTV.tr"><title lang="tr">Hayat Bir Sanat</title></programme>
 <programme start="20240710125500 +0000" stop="20240710130000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20240710130000 +0000" stop="20240710133000 +0000" channel="NTV.tr"><title lang="tr">Günün İçinden</title></programme>
-<programme start="20240710133000 +0000" stop="20240710133500 +0000" channel="NTV.tr"><title lang="tr">Piyasalar</title></programme>
+<programme start="20240710130000 +0000" stop="20240710131500 +0000" channel="NTV.tr"><title lang="tr">Günün İçinden</title></programme>
+<programme start="20240710131500 +0000" stop="20240710132000 +0000" channel="NTV.tr"><title lang="tr">Piyasalar</title></programme>
+<programme start="20240710132000 +0000" stop="20240710133500 +0000" channel="NTV.tr"><title lang="tr">Dünyanın Haberi</title></programme>
 <programme start="20240710133500 +0000" stop="20240710135000 +0000" channel="NTV.tr"><title lang="tr">NTV&apos;ye Sorun Çalışma...</title></programme>
 <programme start="20240710135000 +0000" stop="20240710135500 +0000" channel="NTV.tr"><title lang="tr">Laf Aramızda</title></programme>
 <programme start="20240710135500 +0000" stop="20240710140000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
