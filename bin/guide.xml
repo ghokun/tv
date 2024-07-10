@@ -362,8 +362,9 @@
 <programme start="20240710170000 +0000" stop="20240710193000 +0000" channel="KanalD.tr"><title lang="tr">Turnike</title></programme>
 <programme start="20240710193000 +0000" stop="20240710221500 +0000" channel="KanalD.tr"><title lang="tr">Kurtuluş Günü</title></programme>
 <programme start="20240710193000 +0000" stop="20240710221500 +0000" channel="KanalD.tr"><title lang="tr">Kurtuluş Günü</title></programme>
-<programme start="20240710230000 +0000" stop="20240711013000 +0000" channel="KanalD.tr"><title lang="tr">Güneşin Kızları</title></programme>
-<programme start="20240711013000 +0000" stop="20240711040000 +0000" channel="KanalD.tr"><title lang="tr">Çatı Katı Aşk</title></programme>
+<programme start="20240710221500 +0000" stop="20240711003000 +0000" channel="KanalD.tr"><title lang="tr">Kurtuluş Günü</title></programme>
+<programme start="20240711003000 +0000" stop="20240711021500 +0000" channel="KanalD.tr"><title lang="tr">Güneşin Kızları</title></programme>
+<programme start="20240711021500 +0000" stop="20240711040000 +0000" channel="KanalD.tr"><title lang="tr">Çatı Katı Aşk</title></programme>
 <programme start="20240711040000 +0000" stop="20240711060000 +0000" channel="KanalD.tr"><title lang="tr">Öyle Bir Geçer Zaman Ki</title></programme>
 <programme start="20240711060000 +0000" stop="20240711080000 +0000" channel="KanalD.tr"><title lang="tr">Neler Oluyor Hayatta</title></programme>
 <programme start="20240711080000 +0000" stop="20240711090000 +0000" channel="KanalD.tr"><title lang="tr">Magazin D Yaz</title></programme>
@@ -1216,9 +1217,9 @@
 <programme start="20240710053000 +0000" stop="20240710064500 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
 <programme start="20240710064500 +0000" stop="20240710104500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240710104500 +0000" stop="20240710124500 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
-<programme start="20240710124500 +0000" stop="20240710170000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
-<programme start="20240710170000 +0000" stop="20240710211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
-<programme start="20240710170000 +0000" stop="20240710211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240710124500 +0000" stop="20240710160000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
+<programme start="20240710160000 +0000" stop="20240710211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240710160000 +0000" stop="20240710211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240710211500 +0000" stop="20240710233000 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240710233000 +0000" stop="20240711013000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
 <programme start="20240711013000 +0000" stop="20240711030000 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
@@ -1277,11 +1278,10 @@
 <programme start="20240710130000 +0000" stop="20240710150000 +0000" channel="TV100.tr"><title lang="tr">Haberin İçinden</title></programme>
 <programme start="20240710150000 +0000" stop="20240710163000 +0000" channel="TV100.tr"><title lang="tr">Osman Kenan Çapoğlu ile...</title></programme>
 <programme start="20240710163000 +0000" stop="20240710174500 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
-<programme start="20240710174500 +0000" stop="20240710204500 +0000" channel="TV100.tr"><title lang="tr">Özgür İfade</title></programme>
-<programme start="20240710204500 +0000" stop="20240710214500 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
-<programme start="20240710204500 +0000" stop="20240710214500 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
-<programme start="20240710214500 +0000" stop="20240710230000 +0000" channel="TV100.tr"><title lang="tr">Gece Haberleri</title></programme>
-<programme start="20240710230000 +0000" stop="20240711013000 +0000" channel="TV100.tr"><title lang="tr">Özgür İfade</title></programme>
+<programme start="20240710174500 +0000" stop="20240710210000 +0000" channel="TV100.tr"><title lang="tr">Özgür İfade</title></programme>
+<programme start="20240710210000 +0000" stop="20240710220000 +0000" channel="TV100.tr"><title lang="tr">Gece Haberleri</title></programme>
+<programme start="20240710220000 +0000" stop="20240710231500 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
+<programme start="20240710231500 +0000" stop="20240711013000 +0000" channel="TV100.tr"><title lang="tr">Özgür İfade</title></programme>
 <programme start="20240711013000 +0000" stop="20240711020000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240711020000 +0000" stop="20240711030000 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
 <programme start="20240711030000 +0000" stop="20240711060000 +0000" channel="TV100.tr"><title lang="tr">Gün Uyanıyor</title></programme>
@@ -1291,8 +1291,7 @@
 <programme start="20240711130000 +0000" stop="20240711150000 +0000" channel="TV100.tr"><title lang="tr">Haberin İçinden</title></programme>
 <programme start="20240711150000 +0000" stop="20240711163000 +0000" channel="TV100.tr"><title lang="tr">Osman Kenan Çapoğlu ile...</title></programme>
 <programme start="20240711163000 +0000" stop="20240711174500 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
-<programme start="20240711174500 +0000" stop="20240711204500 +0000" channel="TV100.tr"><title lang="tr">Eşit Ağırlık</title></programme>
-<programme start="20240711204500 +0000" stop="20240711214500 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
+<programme start="20240711174500 +0000" stop="20240711210000 +0000" channel="TV100.tr"><title lang="tr">Eşit Ağırlık</title></programme>
 <programme start="20240709210000 +0000" stop="20240709220000 +0000" channel="UlusalKanal.tr"><title lang="tr">-</title></programme>
 <programme start="20240709220000 +0000" stop="20240710050000 +0000" channel="UlusalKanal.tr"><title lang="tr">Tekrar Programlar</title></programme>
 <programme start="20240710050000 +0000" stop="20240710080000 +0000" channel="UlusalKanal.tr"><title lang="tr">Televizyon Gazetesi</title></programme>
