@@ -433,9 +433,8 @@
 <programme start="20240710124000 +0000" stop="20240710125000 +0000" channel="NTV.tr"><title lang="tr">Spor</title></programme>
 <programme start="20240710125000 +0000" stop="20240710125500 +0000" channel="NTV.tr"><title lang="tr">Hayat Bir Sanat</title></programme>
 <programme start="20240710125500 +0000" stop="20240710130000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20240710130000 +0000" stop="20240710131500 +0000" channel="NTV.tr"><title lang="tr">Günün İçinden</title></programme>
-<programme start="20240710131500 +0000" stop="20240710132000 +0000" channel="NTV.tr"><title lang="tr">Piyasalar</title></programme>
-<programme start="20240710132000 +0000" stop="20240710133500 +0000" channel="NTV.tr"><title lang="tr">Dünyanın Haberi</title></programme>
+<programme start="20240710130000 +0000" stop="20240710133000 +0000" channel="NTV.tr"><title lang="tr">Günün İçinden</title></programme>
+<programme start="20240710133000 +0000" stop="20240710133500 +0000" channel="NTV.tr"><title lang="tr">Piyasalar</title></programme>
 <programme start="20240710133500 +0000" stop="20240710135000 +0000" channel="NTV.tr"><title lang="tr">NTV&apos;ye Sorun Çalışma...</title></programme>
 <programme start="20240710135000 +0000" stop="20240710135500 +0000" channel="NTV.tr"><title lang="tr">Laf Aramızda</title></programme>
 <programme start="20240710135500 +0000" stop="20240710140000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
@@ -443,14 +442,15 @@
 <programme start="20240710143000 +0000" stop="20240710143500 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
 <programme start="20240710143500 +0000" stop="20240710145500 +0000" channel="NTV.tr"><title lang="tr">Gece Gündüz</title></programme>
 <programme start="20240710145500 +0000" stop="20240710150000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20240710150000 +0000" stop="20240710150500 +0000" channel="NTV.tr"><title lang="tr">Günün İçinden</title></programme>
-<programme start="20240710150500 +0000" stop="20240710151000 +0000" channel="NTV.tr"><title lang="tr">Piyasalar</title></programme>
-<programme start="20240710151000 +0000" stop="20240710154000 +0000" channel="NTV.tr"><title lang="tr">Ceyda Düvenci İle...</title></programme>
+<programme start="20240710150000 +0000" stop="20240710152000 +0000" channel="NTV.tr"><title lang="tr">Günün İçinden</title></programme>
+<programme start="20240710152000 +0000" stop="20240710152500 +0000" channel="NTV.tr"><title lang="tr">Piyasalar</title></programme>
+<programme start="20240710152500 +0000" stop="20240710154000 +0000" channel="NTV.tr"><title lang="tr">Dünyanın Haberi</title></programme>
 <programme start="20240710154000 +0000" stop="20240710154500 +0000" channel="NTV.tr"><title lang="tr">Uzman Bakışı</title></programme>
 <programme start="20240710154500 +0000" stop="20240710155500 +0000" channel="NTV.tr"><title lang="tr">Spor</title></programme>
 <programme start="20240710155500 +0000" stop="20240710160000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20240710160000 +0000" stop="20240710165000 +0000" channel="NTV.tr"><title lang="tr">Akşam Haberleri</title></programme>
-<programme start="20240710165000 +0000" stop="20240710165500 +0000" channel="NTV.tr"><title lang="tr">Piyasalar</title></programme>
+<programme start="20240710160000 +0000" stop="20240710161000 +0000" channel="NTV.tr"><title lang="tr">Akşam Haberleri</title></programme>
+<programme start="20240710161000 +0000" stop="20240710161500 +0000" channel="NTV.tr"><title lang="tr">Piyasalar</title></programme>
+<programme start="20240710161500 +0000" stop="20240710165500 +0000" channel="NTV.tr"><title lang="tr">Ceyda Düvenci İle...</title></programme>
 <programme start="20240710165500 +0000" stop="20240710170000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20240710170000 +0000" stop="20240710175000 +0000" channel="NTV.tr"><title lang="tr">Ana Haber</title></programme>
 <programme start="20240710175000 +0000" stop="20240710175500 +0000" channel="NTV.tr"><title lang="tr">Piyasalar</title></programme>
