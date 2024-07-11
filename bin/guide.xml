@@ -358,17 +358,20 @@
 <programme start="20240711130000 +0000" stop="20240711160000 +0000" channel="KanalD.tr"><title lang="tr">Arka Sokaklar</title></programme>
 <programme start="20240711160000 +0000" stop="20240711170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
 <programme start="20240711170000 +0000" stop="20240711184500 +0000" channel="KanalD.tr"><title lang="tr">Aşk-ı Memnu</title></programme>
-<programme start="20240711184500 +0000" stop="20240711233000 +0000" channel="KanalD.tr"><title lang="tr">Aşk-ı Memnu</title></programme>
-<programme start="20240711184500 +0000" stop="20240711233000 +0000" channel="KanalD.tr"><title lang="tr">Aşk-ı Memnu</title></programme>
-<programme start="20240711233000 +0000" stop="20240712020000 +0000" channel="KanalD.tr"><title lang="tr">Güneşin Kızları</title></programme>
-<programme start="20240712020000 +0000" stop="20240712040000 +0000" channel="KanalD.tr"><title lang="tr">Çatı Katı Aşk</title></programme>
+<programme start="20240711184500 +0000" stop="20240711203000 +0000" channel="KanalD.tr"><title lang="tr">Aşk-ı Memnu</title></programme>
+<programme start="20240711203000 +0000" stop="20240711231500 +0000" channel="KanalD.tr"><title lang="tr">Yalan</title></programme>
+<programme start="20240711203000 +0000" stop="20240711231500 +0000" channel="KanalD.tr"><title lang="tr">Yalan</title></programme>
+<programme start="20240711231500 +0000" stop="20240712014500 +0000" channel="KanalD.tr"><title lang="tr">Güneşin Kızları</title></programme>
+<programme start="20240712014500 +0000" stop="20240712040000 +0000" channel="KanalD.tr"><title lang="tr">Çatı Katı Aşk</title></programme>
 <programme start="20240712040000 +0000" stop="20240712060000 +0000" channel="KanalD.tr"><title lang="tr">Öyle Bir Geçer Zaman Ki</title></programme>
 <programme start="20240712060000 +0000" stop="20240712080000 +0000" channel="KanalD.tr"><title lang="tr">Neler Oluyor Hayatta</title></programme>
 <programme start="20240712080000 +0000" stop="20240712090000 +0000" channel="KanalD.tr"><title lang="tr">Magazin D Yaz</title></programme>
 <programme start="20240712090000 +0000" stop="20240712100000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Haber Gün Arası</title></programme>
 <programme start="20240712100000 +0000" stop="20240712130000 +0000" channel="KanalD.tr"><title lang="tr">İnci Taneleri</title></programme>
 <programme start="20240712130000 +0000" stop="20240712160000 +0000" channel="KanalD.tr"><title lang="tr">Arka Sokaklar</title></programme>
-<programme start="20240712160000 +0000" stop="20240712234500 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
+<programme start="20240712160000 +0000" stop="20240712170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
+<programme start="20240712170000 +0000" stop="20240712194500 +0000" channel="KanalD.tr"><title lang="tr">Hızlı ve Öfkeli 9</title></programme>
+<programme start="20240712194500 +0000" stop="20240712221500 +0000" channel="KanalD.tr"><title lang="tr">Çember: Karanlığın...</title></programme>
 <programme start="20240710210000 +0000" stop="20240710215000 +0000" channel="NTV.tr"><title lang="tr">Bugün Yarın</title></programme>
 <programme start="20240710215000 +0000" stop="20240710215500 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
 <programme start="20240710215500 +0000" stop="20240710220000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
@@ -420,9 +423,8 @@
 <programme start="20240711100000 +0000" stop="20240711105000 +0000" channel="NTV.tr"><title lang="tr">Öğle Bülteni</title></programme>
 <programme start="20240711105000 +0000" stop="20240711105500 +0000" channel="NTV.tr"><title lang="tr">Piyasalar</title></programme>
 <programme start="20240711105500 +0000" stop="20240711110000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20240711110000 +0000" stop="20240711113000 +0000" channel="NTV.tr"><title lang="tr">Öğle Bülteni</title></programme>
-<programme start="20240711113000 +0000" stop="20240711115000 +0000" channel="NTV.tr"><title lang="tr">Finans Kafe</title></programme>
-<programme start="20240711115000 +0000" stop="20240711115500 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
+<programme start="20240711110000 +0000" stop="20240711111000 +0000" channel="NTV.tr"><title lang="tr">Öğle Bülteni</title></programme>
+<programme start="20240711111000 +0000" stop="20240711115500 +0000" channel="NTV.tr"><title lang="tr">Özel Röportaj</title></programme>
 <programme start="20240711115500 +0000" stop="20240711120000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20240711120000 +0000" stop="20240711123500 +0000" channel="NTV.tr"><title lang="tr">Öğle Bülteni</title></programme>
 <programme start="20240711123500 +0000" stop="20240711124000 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
@@ -780,13 +782,15 @@
 <programme start="20240711211500 +0000" stop="20240711232000 +0000" channel="TRT1.tr"><title lang="tr">Nereye Gidiyorsun Aida?</title></programme>
 <programme start="20240711232000 +0000" stop="20240712015000 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
 <programme start="20240712015000 +0000" stop="20240712025000 +0000" channel="TRT1.tr"><title lang="tr">Seksenler</title></programme>
-<programme start="20240712025000 +0000" stop="20240712032000 +0000" channel="TRT1.tr"><title lang="tr">Uğurlugiller</title></programme>
-<programme start="20240712032000 +0000" stop="20240712062000 +0000" channel="TRT1.tr"><title lang="tr">Kalk Gidelim</title></programme>
-<programme start="20240712062000 +0000" stop="20240712095000 +0000" channel="TRT1.tr"><title lang="tr">Kasaba Doktoru</title></programme>
-<programme start="20240712095000 +0000" stop="20240712113000 +0000" channel="TRT1.tr"><title lang="tr">Lingo</title></programme>
-<programme start="20240712113000 +0000" stop="20240712160000 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
+<programme start="20240712025000 +0000" stop="20240712031500 +0000" channel="TRT1.tr"><title lang="tr">Uğurlugiller</title></programme>
+<programme start="20240712031500 +0000" stop="20240712063500 +0000" channel="TRT1.tr"><title lang="tr">Kalk Gidelim</title></programme>
+<programme start="20240712063500 +0000" stop="20240712100000 +0000" channel="TRT1.tr"><title lang="tr">Kasaba Doktoru</title></programme>
+<programme start="20240712100000 +0000" stop="20240712112000 +0000" channel="TRT1.tr"><title lang="tr">Lingo</title></programme>
+<programme start="20240712112000 +0000" stop="20240712123000 +0000" channel="TRT1.tr"><title lang="tr">Seksenler</title></programme>
+<programme start="20240712123000 +0000" stop="20240712160000 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
 <programme start="20240712160000 +0000" stop="20240712165500 +0000" channel="TRT1.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240712165500 +0000" stop="20240712215000 +0000" channel="TRT1.tr"><title lang="tr">İddiaların Aksine</title></programme>
+<programme start="20240712165500 +0000" stop="20240712170000 +0000" channel="TRT1.tr"><title lang="tr">İddiaların Aksine</title></programme>
+<programme start="20240712170000 +0000" stop="20240712203000 +0000" channel="TRT1.tr"><title lang="tr">Dangal</title></programme>
 <programme start="20240712203000 +0000" stop="20240712230500 +0000" channel="TRT1.tr"><title lang="tr">Malazgirt 1071: Bizans&apos;ın...</title></programme>
 <programme start="20240710200000 +0000" stop="20240710211500 +0000" channel="TRT2.tr"><title lang="tr">Saadete Ermişlerin Bahçesi</title></programme>
 <programme start="20240710211500 +0000" stop="20240710213000 +0000" channel="TRT2.tr"><title lang="tr">Hüner</title></programme>
@@ -852,7 +856,7 @@
 <programme start="20240712093000 +0000" stop="20240712103000 +0000" channel="TRT2.tr"><title lang="tr">12 Punto Özel Yayını 2024</title></programme>
 <programme start="20240712103000 +0000" stop="20240712110000 +0000" channel="TRT2.tr"><title lang="tr">Tabii Dünyası</title></programme>
 <programme start="20240712110000 +0000" stop="20240712120000 +0000" channel="TRT2.tr"><title lang="tr">Adalett</title></programme>
-<programme start="20240712120000 +0000" stop="20240712134500 +0000" channel="TRT2.tr"><title lang="tr">Yabancı Sinema: Nereye...</title></programme>
+<programme start="20240712120000 +0000" stop="20240712134500 +0000" channel="TRT2.tr"><title lang="tr">Nereye Gidiyorsun Aida?</title></programme>
 <programme start="20240712134500 +0000" stop="20240712144500 +0000" channel="TRT2.tr"><title lang="tr">Saadete Ermişlerin Bahçesi</title></programme>
 <programme start="20240712144500 +0000" stop="20240712150000 +0000" channel="TRT2.tr"><title lang="tr">Müzelerin Yıldızları</title></programme>
 <programme start="20240712150000 +0000" stop="20240712153000 +0000" channel="TRT2.tr"><title lang="tr">Hayat Sanat</title></programme>
@@ -861,7 +865,7 @@
 <programme start="20240712170000 +0000" stop="20240712173000 +0000" channel="TRT2.tr"><title lang="tr">Muhayyelat</title></programme>
 <programme start="20240712173000 +0000" stop="20240712180000 +0000" channel="TRT2.tr"><title lang="tr">Teknoloji ve Sanat</title></programme>
 <programme start="20240712180000 +0000" stop="20240712183000 +0000" channel="TRT2.tr"><title lang="tr">Anlatı</title></programme>
-<programme start="20240712183000 +0000" stop="20240712201500 +0000" channel="TRT2.tr"><title lang="tr">Yabancı Sinema: Aşk...</title></programme>
+<programme start="20240712183000 +0000" stop="20240712201500 +0000" channel="TRT2.tr"><title lang="tr">Aşk Zamanı</title></programme>
 <programme start="20240712201500 +0000" stop="20240712211500 +0000" channel="TRT2.tr"><title lang="tr">Saadete Ermişlerin Bahçesi</title></programme>
 <programme start="20240710204000 +0000" stop="20240710213500 +0000" channel="TRTBelgesel.tr"><title lang="tr">İnce Buzun Üstünde</title></programme>
 <programme start="20240710213500 +0000" stop="20240710222500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Büyük Aile Çiftliği</title></programme>
