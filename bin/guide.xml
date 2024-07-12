@@ -184,8 +184,7 @@
 <programme start="20240712050000 +0000" stop="20240712060000 +0000" channel="CNNTurk.tr"><title lang="tr">A&apos;dan Z&apos;ye</title></programme>
 <programme start="20240712060000 +0000" stop="20240712070000 +0000" channel="CNNTurk.tr"><title lang="tr">Gündem</title></programme>
 <programme start="20240712070000 +0000" stop="20240712080000 +0000" channel="CNNTurk.tr"><title lang="tr">Gündem</title></programme>
-<programme start="20240712080000 +0000" stop="20240712083000 +0000" channel="CNNTurk.tr"><title lang="tr">Gündem</title></programme>
-<programme start="20240712083000 +0000" stop="20240712090000 +0000" channel="CNNTurk.tr"><title lang="tr">Tercih Zamanı</title></programme>
+<programme start="20240712080000 +0000" stop="20240712090000 +0000" channel="CNNTurk.tr"><title lang="tr">Gündem</title></programme>
 <programme start="20240712090000 +0000" stop="20240712100000 +0000" channel="CNNTurk.tr"><title lang="tr">Gün Ortası</title></programme>
 <programme start="20240712100000 +0000" stop="20240712110000 +0000" channel="CNNTurk.tr"><title lang="tr">Gün Ortası</title></programme>
 <programme start="20240712110000 +0000" stop="20240712120000 +0000" channel="CNNTurk.tr"><title lang="tr">Bugün</title></programme>
@@ -251,7 +250,8 @@
 <programme start="20240712100000 +0000" stop="20240712133000 +0000" channel="Fox.tr"><title lang="tr">Kirli Sepeti</title></programme>
 <programme start="20240712133000 +0000" stop="20240712160000 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin...</title></programme>
 <programme start="20240712160000 +0000" stop="20240712170000 +0000" channel="Fox.tr"><title lang="tr">NOW Ana Haber</title></programme>
-<programme start="20240712170000 +0000" stop="20240712191500 +0000" channel="Fox.tr"><title lang="tr">Hava Muhalefeti</title></programme>
+<programme start="20240712170000 +0000" stop="20240712184500 +0000" channel="Fox.tr"><title lang="tr">Gol Kralı</title></programme>
+<programme start="20240712184500 +0000" stop="20240712210000 +0000" channel="Fox.tr"><title lang="tr">Doktor Civanım</title></programme>
 <programme start="20240712191500 +0000" stop="20240712213000 +0000" channel="Fox.tr"><title lang="tr">Hava Muhalefeti</title></programme>
 <programme start="20240712191500 +0000" stop="20240712213000 +0000" channel="Fox.tr"><title lang="tr">Hava Muhalefeti</title></programme>
 <programme start="20240712213000 +0000" stop="20240713000000 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin...</title></programme>
@@ -312,7 +312,8 @@
 <programme start="20240712080000 +0000" stop="20240712100000 +0000" channel="HalkTV.tr"><title lang="tr">Kırmızı Çizgi</title></programme>
 <programme start="20240712100000 +0000" stop="20240712120000 +0000" channel="HalkTV.tr"><title lang="tr">Haber Masası</title></programme>
 <programme start="20240712120000 +0000" stop="20240712130000 +0000" channel="HalkTV.tr"><title lang="tr">Halkın Haberi</title></programme>
-<programme start="20240712130000 +0000" stop="20240712150000 +0000" channel="HalkTV.tr"><title lang="tr">Gündem Özel</title></programme>
+<programme start="20240712130000 +0000" stop="20240712140000 +0000" channel="HalkTV.tr"><title lang="tr">Her Açıdan</title></programme>
+<programme start="20240712140000 +0000" stop="20240712150000 +0000" channel="HalkTV.tr"><title lang="tr">Gündem Özel</title></programme>
 <programme start="20240712150000 +0000" stop="20240712170000 +0000" channel="HalkTV.tr"><title lang="tr">Halk Ana Haber</title></programme>
 <programme start="20240712170000 +0000" stop="20240712220000 +0000" channel="HalkTV.tr"><title lang="tr">Dünyanın 1001 Hali</title></programme>
 <programme start="20240712170000 +0000" stop="20240712220000 +0000" channel="HalkTV.tr"><title lang="tr">Dünyanın 1001 Hali</title></programme>
@@ -351,19 +352,17 @@
 <programme start="20240713160000 +0000" stop="20240713182000 +0000" channel="Kanal7.tr"><title lang="tr">Emanet</title></programme>
 <programme start="20240713182000 +0000" stop="20240713194500 +0000" channel="Kanal7.tr"><title lang="tr">Öylesine Derin</title></programme>
 <programme start="20240713194500 +0000" stop="20240713233000 +0000" channel="Kanal7.tr"><title lang="tr">Diriliş Ertuğrul</title></programme>
-<programme start="20240711203000 +0000" stop="20240711231500 +0000" channel="KanalD.tr"><title lang="tr">Yalan</title></programme>
-<programme start="20240711231500 +0000" stop="20240712014500 +0000" channel="KanalD.tr"><title lang="tr">Güneşin Kızları</title></programme>
-<programme start="20240712014500 +0000" stop="20240712040000 +0000" channel="KanalD.tr"><title lang="tr">Çatı Katı Aşk</title></programme>
+<programme start="20240711184500 +0000" stop="20240711233000 +0000" channel="KanalD.tr"><title lang="tr">Aşk-ı Memnu</title></programme>
+<programme start="20240711233000 +0000" stop="20240712020000 +0000" channel="KanalD.tr"><title lang="tr">Güneşin Kızları</title></programme>
+<programme start="20240712020000 +0000" stop="20240712040000 +0000" channel="KanalD.tr"><title lang="tr">Çatı Katı Aşk</title></programme>
 <programme start="20240712040000 +0000" stop="20240712060000 +0000" channel="KanalD.tr"><title lang="tr">Öyle Bir Geçer Zaman Ki</title></programme>
 <programme start="20240712060000 +0000" stop="20240712080000 +0000" channel="KanalD.tr"><title lang="tr">Neler Oluyor Hayatta</title></programme>
 <programme start="20240712080000 +0000" stop="20240712090000 +0000" channel="KanalD.tr"><title lang="tr">Magazin D Yaz</title></programme>
 <programme start="20240712090000 +0000" stop="20240712100000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Haber Gün Arası</title></programme>
 <programme start="20240712100000 +0000" stop="20240712130000 +0000" channel="KanalD.tr"><title lang="tr">İnci Taneleri</title></programme>
 <programme start="20240712130000 +0000" stop="20240712160000 +0000" channel="KanalD.tr"><title lang="tr">Arka Sokaklar</title></programme>
-<programme start="20240712160000 +0000" stop="20240712170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
-<programme start="20240712170000 +0000" stop="20240712194500 +0000" channel="KanalD.tr"><title lang="tr">Hızlı ve Öfkeli 9</title></programme>
-<programme start="20240712194500 +0000" stop="20240712221500 +0000" channel="KanalD.tr"><title lang="tr">Çember: Karanlığın...</title></programme>
-<programme start="20240712194500 +0000" stop="20240712221500 +0000" channel="KanalD.tr"><title lang="tr">Çember: Karanlığın...</title></programme>
+<programme start="20240712160000 +0000" stop="20240712234500 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
+<programme start="20240712160000 +0000" stop="20240712234500 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
 <programme start="20240712221500 +0000" stop="20240713003000 +0000" channel="KanalD.tr"><title lang="tr">Hızlı ve Öfkeli 9</title></programme>
 <programme start="20240713003000 +0000" stop="20240713021500 +0000" channel="KanalD.tr"><title lang="tr">Güneşin Kızları</title></programme>
 <programme start="20240713021500 +0000" stop="20240713040000 +0000" channel="KanalD.tr"><title lang="tr">Çatı Katı Aşk</title></programme>
@@ -749,7 +748,7 @@
 <programme start="20240713180000 +0000" stop="20240713190000 +0000" channel="TLC.tr"><title lang="tr">Emlakçı Kardeşler: Yuvamız</title></programme>
 <programme start="20240713190000 +0000" stop="20240713200000 +0000" channel="TLC.tr"><title lang="tr">Rehine Operasyonu</title></programme>
 <programme start="20240713200000 +0000" stop="20240713210000 +0000" channel="TLC.tr"><title lang="tr">Öldüren Aşk</title></programme>
-<programme start="20240711170000 +0000" stop="20240711211500 +0000" channel="TRT1.tr"><title lang="tr">Sen Türkülerini Söyle</title></programme>
+<programme start="20240711170000 +0000" stop="20240711215000 +0000" channel="TRT1.tr"><title lang="tr">Sen Türkülerini Söyle</title></programme>
 <programme start="20240711211500 +0000" stop="20240711232000 +0000" channel="TRT1.tr"><title lang="tr">Nereye Gidiyorsun Aida?</title></programme>
 <programme start="20240711232000 +0000" stop="20240712015000 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
 <programme start="20240712015000 +0000" stop="20240712025000 +0000" channel="TRT1.tr"><title lang="tr">Seksenler</title></programme>
@@ -1235,9 +1234,9 @@
 <programme start="20240712231500 +0000" stop="20240713010000 +0000" channel="TV85.tr"><title lang="tr">Copa America Final Yolu</title></programme>
 <programme start="20240713010000 +0000" stop="20240713033000 +0000" channel="TV85.tr"><title lang="tr">Efsane Maçlar</title></programme>
 <programme start="20240713033000 +0000" stop="20240713073000 +0000" channel="TV85.tr"><title lang="tr">Retro</title></programme>
-<programme start="20240711210000 +0000" stop="20240711220000 +0000" channel="TV100.tr"><title lang="tr">Gece Haberleri</title></programme>
-<programme start="20240711220000 +0000" stop="20240711231500 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
-<programme start="20240711231500 +0000" stop="20240712013000 +0000" channel="TV100.tr"><title lang="tr">Eşit Ağırlık</title></programme>
+<programme start="20240711204500 +0000" stop="20240711214500 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
+<programme start="20240711214500 +0000" stop="20240711230000 +0000" channel="TV100.tr"><title lang="tr">Gece Haberleri</title></programme>
+<programme start="20240711230000 +0000" stop="20240712013000 +0000" channel="TV100.tr"><title lang="tr">Eşit Ağırlık</title></programme>
 <programme start="20240712013000 +0000" stop="20240712020000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240712020000 +0000" stop="20240712030000 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
 <programme start="20240712030000 +0000" stop="20240712060000 +0000" channel="TV100.tr"><title lang="tr">Gün Uyanıyor</title></programme>
@@ -1247,7 +1246,9 @@
 <programme start="20240712130000 +0000" stop="20240712150000 +0000" channel="TV100.tr"><title lang="tr">Haberin İçinden</title></programme>
 <programme start="20240712150000 +0000" stop="20240712163000 +0000" channel="TV100.tr"><title lang="tr">Osman Kenan Çapoğlu ile...</title></programme>
 <programme start="20240712163000 +0000" stop="20240712174500 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
-<programme start="20240712174500 +0000" stop="20240712210000 +0000" channel="TV100.tr"><title lang="tr">Özgür İfade</title></programme>
+<programme start="20240712174500 +0000" stop="20240712204500 +0000" channel="TV100.tr"><title lang="tr">Özgür İfade</title></programme>
+<programme start="20240712204500 +0000" stop="20240712214500 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
+<programme start="20240712204500 +0000" stop="20240712214500 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
 <programme start="20240712210000 +0000" stop="20240712220000 +0000" channel="TV100.tr"><title lang="tr">Gece Haberleri</title></programme>
 <programme start="20240712220000 +0000" stop="20240712231500 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
 <programme start="20240712231500 +0000" stop="20240713013000 +0000" channel="TV100.tr"><title lang="tr">Özgür İfade</title></programme>
