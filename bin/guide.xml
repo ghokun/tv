@@ -547,9 +547,10 @@
 <programme start="20240712090000 +0000" stop="20240712120000 +0000" channel="ShowTV.tr"><title lang="tr">Sandık Kokusu</title></programme>
 <programme start="20240712120000 +0000" stop="20240712153000 +0000" channel="ShowTV.tr"><title lang="tr">Kızılcık Şerbeti</title></programme>
 <programme start="20240712153000 +0000" stop="20240712170000 +0000" channel="ShowTV.tr"><title lang="tr">Show Ana Haber</title></programme>
-<programme start="20240712170000 +0000" stop="20240712193000 +0000" channel="ShowTV.tr"><title lang="tr">Katil Avcısı</title></programme>
-<programme start="20240712193000 +0000" stop="20240712213000 +0000" channel="ShowTV.tr"><title lang="tr">Üç Tehlike</title></programme>
-<programme start="20240712193000 +0000" stop="20240712213000 +0000" channel="ShowTV.tr"><title lang="tr">Üç Tehlike</title></programme>
+<programme start="20240712170000 +0000" stop="20240712184500 +0000" channel="ShowTV.tr"><title lang="tr">Katil Avcısı</title></programme>
+<programme start="20240712184500 +0000" stop="20240712204500 +0000" channel="ShowTV.tr"><title lang="tr">Üç Tehlike</title></programme>
+<programme start="20240712204500 +0000" stop="20240712224500 +0000" channel="ShowTV.tr"><title lang="tr">Katil Avcısı</title></programme>
+<programme start="20240712204500 +0000" stop="20240712224500 +0000" channel="ShowTV.tr"><title lang="tr">Katil Avcısı</title></programme>
 <programme start="20240712213000 +0000" stop="20240712234500 +0000" channel="ShowTV.tr"><title lang="tr">Katil Avcısı</title></programme>
 <programme start="20240712234500 +0000" stop="20240713011500 +0000" channel="ShowTV.tr"><title lang="tr">Üç Tehlike</title></programme>
 <programme start="20240713011500 +0000" stop="20240713030000 +0000" channel="ShowTV.tr"><title lang="tr">Arıza</title></programme>
@@ -767,13 +768,11 @@
 <programme start="20240712025000 +0000" stop="20240712032000 +0000" channel="TRT1.tr"><title lang="tr">Uğurlugiller</title></programme>
 <programme start="20240712032000 +0000" stop="20240712062000 +0000" channel="TRT1.tr"><title lang="tr">Kalk Gidelim</title></programme>
 <programme start="20240712062000 +0000" stop="20240712095000 +0000" channel="TRT1.tr"><title lang="tr">Kasaba Doktoru</title></programme>
-<programme start="20240712063500 +0000" stop="20240712100000 +0000" channel="TRT1.tr"><title lang="tr">Kasaba Doktoru</title></programme>
-<programme start="20240712100000 +0000" stop="20240712112000 +0000" channel="TRT1.tr"><title lang="tr">Lingo</title></programme>
-<programme start="20240712112000 +0000" stop="20240712123000 +0000" channel="TRT1.tr"><title lang="tr">Seksenler</title></programme>
-<programme start="20240712123000 +0000" stop="20240712160000 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
+<programme start="20240712095000 +0000" stop="20240712113000 +0000" channel="TRT1.tr"><title lang="tr">Lingo</title></programme>
+<programme start="20240712113000 +0000" stop="20240712160000 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
 <programme start="20240712160000 +0000" stop="20240712165500 +0000" channel="TRT1.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240712165500 +0000" stop="20240712170000 +0000" channel="TRT1.tr"><title lang="tr">İddiaların Aksine</title></programme>
-<programme start="20240712170000 +0000" stop="20240712203000 +0000" channel="TRT1.tr"><title lang="tr">Dangal</title></programme>
+<programme start="20240712165500 +0000" stop="20240712215000 +0000" channel="TRT1.tr"><title lang="tr">İddiaların Aksine</title></programme>
+<programme start="20240712165500 +0000" stop="20240712215000 +0000" channel="TRT1.tr"><title lang="tr">İddiaların Aksine</title></programme>
 <programme start="20240712203000 +0000" stop="20240712230500 +0000" channel="TRT1.tr"><title lang="tr">Malazgirt 1071: Bizans&apos;ın...</title></programme>
 <programme start="20240712203000 +0000" stop="20240712230500 +0000" channel="TRT1.tr"><title lang="tr">Malazgirt 1071: Bizans&apos;ın...</title></programme>
 <programme start="20240712230500 +0000" stop="20240713013000 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
@@ -809,7 +808,7 @@
 <programme start="20240712093000 +0000" stop="20240712103000 +0000" channel="TRT2.tr"><title lang="tr">12 Punto Özel Yayını 2024</title></programme>
 <programme start="20240712103000 +0000" stop="20240712110000 +0000" channel="TRT2.tr"><title lang="tr">Tabii Dünyası</title></programme>
 <programme start="20240712110000 +0000" stop="20240712120000 +0000" channel="TRT2.tr"><title lang="tr">Adalett</title></programme>
-<programme start="20240712120000 +0000" stop="20240712134500 +0000" channel="TRT2.tr"><title lang="tr">Nereye Gidiyorsun Aida?</title></programme>
+<programme start="20240712120000 +0000" stop="20240712134500 +0000" channel="TRT2.tr"><title lang="tr">Yabancı Sinema: Nereye...</title></programme>
 <programme start="20240712134500 +0000" stop="20240712144500 +0000" channel="TRT2.tr"><title lang="tr">Saadete Ermişlerin Bahçesi</title></programme>
 <programme start="20240712144500 +0000" stop="20240712150000 +0000" channel="TRT2.tr"><title lang="tr">Müzelerin Yıldızları</title></programme>
 <programme start="20240712150000 +0000" stop="20240712153000 +0000" channel="TRT2.tr"><title lang="tr">Hayat Sanat</title></programme>
@@ -818,7 +817,7 @@
 <programme start="20240712170000 +0000" stop="20240712173000 +0000" channel="TRT2.tr"><title lang="tr">Muhayyelat</title></programme>
 <programme start="20240712173000 +0000" stop="20240712180000 +0000" channel="TRT2.tr"><title lang="tr">Teknoloji ve Sanat</title></programme>
 <programme start="20240712180000 +0000" stop="20240712183000 +0000" channel="TRT2.tr"><title lang="tr">Anlatı</title></programme>
-<programme start="20240712183000 +0000" stop="20240712201500 +0000" channel="TRT2.tr"><title lang="tr">Aşk Zamanı</title></programme>
+<programme start="20240712183000 +0000" stop="20240712201500 +0000" channel="TRT2.tr"><title lang="tr">Yabancı Sinema: Aşk...</title></programme>
 <programme start="20240712201500 +0000" stop="20240712211500 +0000" channel="TRT2.tr"><title lang="tr">Saadete Ermişlerin Bahçesi</title></programme>
 <programme start="20240712201500 +0000" stop="20240712211500 +0000" channel="TRT2.tr"><title lang="tr">Saadete Ermişlerin Bahçesi</title></programme>
 <programme start="20240712211500 +0000" stop="20240712213000 +0000" channel="TRT2.tr"><title lang="tr">Eskiz</title></programme>
@@ -1076,10 +1075,9 @@
 <programme start="20240712100000 +0000" stop="20240712105000 +0000" channel="TRTHaber.tr"><title lang="tr">Öğle Ana Haber</title></programme>
 <programme start="20240712105000 +0000" stop="20240712105500 +0000" channel="TRTHaber.tr"><title lang="tr">Piyasa Raporu</title></programme>
 <programme start="20240712105500 +0000" stop="20240712110000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20240712110000 +0000" stop="20240712130000 +0000" channel="TRTHaber.tr"><title lang="tr">15 Temmuz Özel Yayını</title></programme>
-<programme start="20240712130000 +0000" stop="20240712135500 +0000" channel="TRTHaber.tr"><title lang="tr">Günün İçinden</title></programme>
-<programme start="20240712135500 +0000" stop="20240712140000 +0000" channel="TRTHaber.tr"><title lang="tr">Milli Güç Güçlü Türkiye</title></programme>
-<programme start="20240712140000 +0000" stop="20240712155500 +0000" channel="TRTHaber.tr"><title lang="tr">Günün İçinden</title></programme>
+<programme start="20240712110000 +0000" stop="20240712130000 +0000" channel="TRTHaber.tr"><title lang="tr">Haber Ajandası</title></programme>
+<programme start="20240712130000 +0000" stop="20240712150000 +0000" channel="TRTHaber.tr"><title lang="tr">Günün İçinden</title></programme>
+<programme start="20240712150000 +0000" stop="20240712155500 +0000" channel="TRTHaber.tr"><title lang="tr">Sıcak Haber</title></programme>
 <programme start="20240712155500 +0000" stop="20240712160000 +0000" channel="TRTHaber.tr"><title lang="tr">Piyasa Raporu</title></programme>
 <programme start="20240712160000 +0000" stop="20240712165500 +0000" channel="TRTHaber.tr"><title lang="tr">Sıcak Haber</title></programme>
 <programme start="20240712165500 +0000" stop="20240712170000 +0000" channel="TRTHaber.tr"><title lang="tr">Ana Habere Doğru</title></programme>
