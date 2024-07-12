@@ -1236,7 +1236,19 @@
 <programme start="20240712210000 +0000" stop="20240712231500 +0000" channel="TV85.tr"><title lang="tr">Büyük Rekabetler</title></programme>
 <programme start="20240712231500 +0000" stop="20240713010000 +0000" channel="TV85.tr"><title lang="tr">Copa America Final Yolu</title></programme>
 <programme start="20240713010000 +0000" stop="20240713033000 +0000" channel="TV85.tr"><title lang="tr">Efsane Maçlar</title></programme>
-<programme start="20240713033000 +0000" stop="20240713073000 +0000" channel="TV85.tr"><title lang="tr">Retro</title></programme>
+<programme start="20240713033000 +0000" stop="20240713040000 +0000" channel="TV85.tr"><title lang="tr">Retro</title></programme>
+<programme start="20240713040000 +0000" stop="20240713060000 +0000" channel="TV85.tr"><title lang="tr">Sezonun En İyileri</title></programme>
+<programme start="20240713060000 +0000" stop="20240713070000 +0000" channel="TV85.tr"><title lang="tr">Klasikler</title></programme>
+<programme start="20240713070000 +0000" stop="20240713090000 +0000" channel="TV85.tr"><title lang="tr">Arjantin - Kanada</title></programme>
+<programme start="20240713090000 +0000" stop="20240713110000 +0000" channel="TV85.tr"><title lang="tr">Uruguay - Kolombiya</title></programme>
+<programme start="20240713110000 +0000" stop="20240713120500 +0000" channel="TV85.tr"><title lang="tr">Arjantin Copa America...</title></programme>
+<programme start="20240713120500 +0000" stop="20240713131500 +0000" channel="TV85.tr"><title lang="tr">Kolombiya Copa America...</title></programme>
+<programme start="20240713131500 +0000" stop="20240713153000 +0000" channel="TV85.tr"><title lang="tr">Büyük Rekabetler</title></programme>
+<programme start="20240713153000 +0000" stop="20240713161500 +0000" channel="TV85.tr"><title lang="tr">Arjantin - Kanada</title></programme>
+<programme start="20240713161500 +0000" stop="20240713170000 +0000" channel="TV85.tr"><title lang="tr">Uruguay - Kolombiya</title></programme>
+<programme start="20240713170000 +0000" stop="20240713191500 +0000" channel="TV85.tr"><title lang="tr">Büyük Rekabetler</title></programme>
+<programme start="20240713191500 +0000" stop="20240713204500 +0000" channel="TV85.tr"><title lang="tr">Büyük Rekabetler</title></programme>
+<programme start="20240713204500 +0000" stop="20240713211500 +0000" channel="TV85.tr"><title lang="tr">Beşiktaş - Dinamo Zagreb</title></programme>
 <programme start="20240711204500 +0000" stop="20240711214500 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
 <programme start="20240711214500 +0000" stop="20240711230000 +0000" channel="TV100.tr"><title lang="tr">Gece Haberleri</title></programme>
 <programme start="20240711230000 +0000" stop="20240712013000 +0000" channel="TV100.tr"><title lang="tr">Eşit Ağırlık</title></programme>
