@@ -3,6 +3,7 @@
 <channel id="AHaber.tr"><display-name>A Haber</display-name><url>https://digiturk.com.tr</url></channel>
 <channel id="ATVAvrupa.tr"><display-name>ATV Avrupa</display-name><url>https://ziggogo.tv</url></channel>
 <channel id="BeyazTV.tr"><display-name>Beyaz TV</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="CartoonNetwork.tr"><display-name>Cartoon Network</display-name><url>https://digiturk.com.tr</url></channel>
 <channel id="CNNTurk.tr"><display-name>CNN Turk</display-name><url>https://digiturk.com.tr</url></channel>
 <channel id="EuroD.tr"><display-name>Euro D</display-name><url>https://tv.blue.ch</url></channel>
 <channel id="Fox.tr"><display-name>Fox</display-name><url>https://digiturk.com.tr</url></channel>
@@ -10,6 +11,8 @@
 <channel id="HalkTV.tr"><display-name>Halk TV</display-name><url>https://digiturk.com.tr</url></channel>
 <channel id="Kanal7.tr"><display-name>Kanal 7</display-name><url>https://digiturk.com.tr</url></channel>
 <channel id="KanalD.tr"><display-name>Kanal D</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="MinikaCocuk.tr"><display-name>Minika Cocuk</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="MinikaGo.tr"><display-name>Minika Go</display-name><url>https://dsmart.com.tr</url></channel>
 <channel id="NTV.tr"><display-name>NTV</display-name><url>https://digiturk.com.tr</url></channel>
 <channel id="Number1TV.tr"><display-name>Number 1 TV</display-name><url>https://digiturk.com.tr</url></channel>
 <channel id="PowerTV.tr"><display-name>Power TV</display-name><url>https://digiturk.com.tr</url></channel>
@@ -173,6 +176,99 @@
 <programme start="20240714163000 +0000" stop="20240714183000 +0000" channel="BeyazTV.tr"><title lang="tr">Kung Fu Cinayetleri</title></programme>
 <programme start="20240714183000 +0000" stop="20240714203000 +0000" channel="BeyazTV.tr"><title lang="tr">22 Mil</title></programme>
 <programme start="20240714203000 +0000" stop="20240714221500 +0000" channel="BeyazTV.tr"><title lang="tr">Kung Fu Cinayetleri</title></programme>
+<programme start="20240712204500 +0000" stop="20240712211000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Sevimli Kahramanlar Hikayeler</title></programme>
+<programme start="20240712211000 +0000" stop="20240712213500 +0000" channel="CartoonNetwork.tr"><title lang="tr">Ben 10</title></programme>
+<programme start="20240712213500 +0000" stop="20240712220000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Ben 10</title></programme>
+<programme start="20240712220000 +0000" stop="20240712222500 +0000" channel="CartoonNetwork.tr"><title lang="tr">Samurai Jack</title></programme>
+<programme start="20240712222500 +0000" stop="20240712225000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Gumball</title></programme>
+<programme start="20240712225000 +0000" stop="20240712231500 +0000" channel="CartoonNetwork.tr"><title lang="tr">Gumball</title></programme>
+<programme start="20240712231500 +0000" stop="20240712234000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Powerpuff Girls</title></programme>
+<programme start="20240712234000 +0000" stop="20240713000500 +0000" channel="CartoonNetwork.tr"><title lang="tr">Powerpuff Girls</title></programme>
+<programme start="20240713000500 +0000" stop="20240713003000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Kral Şakir</title></programme>
+<programme start="20240713003000 +0000" stop="20240713005500 +0000" channel="CartoonNetwork.tr"><title lang="tr">Kral Şakir</title></programme>
+<programme start="20240713005500 +0000" stop="20240713012000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Kral Şakir</title></programme>
+<programme start="20240713012000 +0000" stop="20240713014500 +0000" channel="CartoonNetwork.tr"><title lang="tr">Kral Şakir</title></programme>
+<programme start="20240713014500 +0000" stop="20240713021000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Kral Şakir</title></programme>
+<programme start="20240713021000 +0000" stop="20240713023500 +0000" channel="CartoonNetwork.tr"><title lang="tr">Kral Şakir</title></programme>
+<programme start="20240713023500 +0000" stop="20240713030000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Kral Şakir</title></programme>
+<programme start="20240713030000 +0000" stop="20240713032500 +0000" channel="CartoonNetwork.tr"><title lang="tr">Grizzy ve Lemmingler</title></programme>
+<programme start="20240713032500 +0000" stop="20240713040000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Grizzy ve Lemmingler</title></programme>
+<programme start="20240713040000 +0000" stop="20240713043000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Maşa İle Koca Ayı</title></programme>
+<programme start="20240713043000 +0000" stop="20240713050000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Maşa İle Koca Ayı</title></programme>
+<programme start="20240713050000 +0000" stop="20240713053000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Tom ve Jerry Şov</title></programme>
+<programme start="20240713053000 +0000" stop="20240713060000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Tom ve Jerry Şov</title></programme>
+<programme start="20240713060000 +0000" stop="20240713063000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Batwheels</title></programme>
+<programme start="20240713063000 +0000" stop="20240713070000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Batwheels</title></programme>
+<programme start="20240713070000 +0000" stop="20240713084000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Scooby-Doo! Hayalet Cadı</title></programme>
+<programme start="20240713084000 +0000" stop="20240713090000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Süper 1 Takım</title></programme>
+<programme start="20240713090000 +0000" stop="20240713093000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Süper 1 Takım</title></programme>
+<programme start="20240713093000 +0000" stop="20240713100000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Patron Bebek Yine İş...</title></programme>
+<programme start="20240713100000 +0000" stop="20240713103000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Patron Bebek Yine İş...</title></programme>
+<programme start="20240713103000 +0000" stop="20240713110000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Jade Armor</title></programme>
+<programme start="20240713110000 +0000" stop="20240713113000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Jade Armor</title></programme>
+<programme start="20240713113000 +0000" stop="20240713120000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Hero Inside</title></programme>
+<programme start="20240713120000 +0000" stop="20240713123000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Kral Şakir</title></programme>
+<programme start="20240713123000 +0000" stop="20240713130000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Kral Şakir</title></programme>
+<programme start="20240713130000 +0000" stop="20240713133000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Cesur Prens Ivandoe</title></programme>
+<programme start="20240713133000 +0000" stop="20240713140000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Cesur Prens Ivandoe</title></programme>
+<programme start="20240713140000 +0000" stop="20240713143000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Teen Titans Go!</title></programme>
+<programme start="20240713143000 +0000" stop="20240713150000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Teen Titans Go!</title></programme>
+<programme start="20240713150000 +0000" stop="20240713173000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Gumball&apos;ı Seviyoruz</title></programme>
+<programme start="20240713173000 +0000" stop="20240713180000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Süper 1 Takım</title></programme>
+<programme start="20240713180000 +0000" stop="20240713183000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Süper 1 Takım</title></programme>
+<programme start="20240713183000 +0000" stop="20240713190000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Jellystone</title></programme>
+<programme start="20240713190000 +0000" stop="20240713192500 +0000" channel="CartoonNetwork.tr"><title lang="tr">Jellystone</title></programme>
+<programme start="20240713192500 +0000" stop="20240713195000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Kafadar Ayıcıklar</title></programme>
+<programme start="20240713195000 +0000" stop="20240713202000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Kafadar Ayıcıklar</title></programme>
+<programme start="20240713202000 +0000" stop="20240713204500 +0000" channel="CartoonNetwork.tr"><title lang="tr">Sevimli Kahramanlar Hikayeler</title></programme>
+<programme start="20240713204500 +0000" stop="20240713211000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Sevimli Kahramanlar Hikayeler</title></programme>
+<programme start="20240713204500 +0000" stop="20240713211000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Sevimli Kahramanlar Hikayeler</title></programme>
+<programme start="20240713211000 +0000" stop="20240713213500 +0000" channel="CartoonNetwork.tr"><title lang="tr">Ben 10</title></programme>
+<programme start="20240713213500 +0000" stop="20240713220000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Ben 10</title></programme>
+<programme start="20240713220000 +0000" stop="20240713222500 +0000" channel="CartoonNetwork.tr"><title lang="tr">Samurai Jack</title></programme>
+<programme start="20240713222500 +0000" stop="20240713225000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Gumball</title></programme>
+<programme start="20240713225000 +0000" stop="20240713231500 +0000" channel="CartoonNetwork.tr"><title lang="tr">Gumball</title></programme>
+<programme start="20240713231500 +0000" stop="20240713234000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Powerpuff Girls</title></programme>
+<programme start="20240713234000 +0000" stop="20240714000500 +0000" channel="CartoonNetwork.tr"><title lang="tr">Powerpuff Girls</title></programme>
+<programme start="20240714000500 +0000" stop="20240714003000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Kral Şakir</title></programme>
+<programme start="20240714003000 +0000" stop="20240714005500 +0000" channel="CartoonNetwork.tr"><title lang="tr">Kral Şakir</title></programme>
+<programme start="20240714005500 +0000" stop="20240714012000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Kral Şakir</title></programme>
+<programme start="20240714012000 +0000" stop="20240714014500 +0000" channel="CartoonNetwork.tr"><title lang="tr">Kral Şakir</title></programme>
+<programme start="20240714014500 +0000" stop="20240714021000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Kral Şakir</title></programme>
+<programme start="20240714021000 +0000" stop="20240714023500 +0000" channel="CartoonNetwork.tr"><title lang="tr">Kral Şakir</title></programme>
+<programme start="20240714023500 +0000" stop="20240714030000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Kral Şakir</title></programme>
+<programme start="20240714030000 +0000" stop="20240714032500 +0000" channel="CartoonNetwork.tr"><title lang="tr">Grizzy ve Lemmingler</title></programme>
+<programme start="20240714032500 +0000" stop="20240714040000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Grizzy ve Lemmingler</title></programme>
+<programme start="20240714040000 +0000" stop="20240714043000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Maşa İle Koca Ayı</title></programme>
+<programme start="20240714043000 +0000" stop="20240714050000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Maşa İle Koca Ayı</title></programme>
+<programme start="20240714050000 +0000" stop="20240714053000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Tom ve Jerry Şov</title></programme>
+<programme start="20240714053000 +0000" stop="20240714060000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Tom ve Jerry Şov</title></programme>
+<programme start="20240714060000 +0000" stop="20240714063000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Batwheels</title></programme>
+<programme start="20240714063000 +0000" stop="20240714070000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Batwheels</title></programme>
+<programme start="20240714070000 +0000" stop="20240714080000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Scooby-Doo! ve Boo Kardeşler</title></programme>
+<programme start="20240714080000 +0000" stop="20240714083000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Süper 1 Takım</title></programme>
+<programme start="20240714083000 +0000" stop="20240714090000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Süper 1 Takım</title></programme>
+<programme start="20240714090000 +0000" stop="20240714093000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Süper 1 Takım</title></programme>
+<programme start="20240714093000 +0000" stop="20240714100000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Patron Bebek Yine İş...</title></programme>
+<programme start="20240714100000 +0000" stop="20240714103000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Patron Bebek Yine İş...</title></programme>
+<programme start="20240714103000 +0000" stop="20240714110000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Jade Armor</title></programme>
+<programme start="20240714110000 +0000" stop="20240714113000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Jade Armor</title></programme>
+<programme start="20240714113000 +0000" stop="20240714120000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Hero Inside</title></programme>
+<programme start="20240714120000 +0000" stop="20240714123000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Kral Şakir</title></programme>
+<programme start="20240714123000 +0000" stop="20240714130000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Kral Şakir</title></programme>
+<programme start="20240714130000 +0000" stop="20240714133000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Cesur Prens Ivandoe</title></programme>
+<programme start="20240714133000 +0000" stop="20240714140000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Cesur Prens Ivandoe</title></programme>
+<programme start="20240714140000 +0000" stop="20240714143000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Teen Titans Go!</title></programme>
+<programme start="20240714143000 +0000" stop="20240714150000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Teen Titans Go!</title></programme>
+<programme start="20240714150000 +0000" stop="20240714173000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Gumball&apos;ı Seviyoruz</title></programme>
+<programme start="20240714173000 +0000" stop="20240714180000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Süper 1 Takım</title></programme>
+<programme start="20240714180000 +0000" stop="20240714183000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Süper 1 Takım</title></programme>
+<programme start="20240714183000 +0000" stop="20240714190000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Jellystone</title></programme>
+<programme start="20240714190000 +0000" stop="20240714192500 +0000" channel="CartoonNetwork.tr"><title lang="tr">Jellystone</title></programme>
+<programme start="20240714192500 +0000" stop="20240714195000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Kafadar Ayıcıklar</title></programme>
+<programme start="20240714195000 +0000" stop="20240714202000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Kafadar Ayıcıklar</title></programme>
+<programme start="20240714202000 +0000" stop="20240714204500 +0000" channel="CartoonNetwork.tr"><title lang="tr">Sevimli Kahramanlar Hikayeler</title></programme>
+<programme start="20240714204500 +0000" stop="20240714211000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Sevimli Kahramanlar Hikayeler</title></programme>
 <programme start="20240712174500 +0000" stop="20240712220000 +0000" channel="CNNTurk.tr"><title lang="tr">Akıl Çemberi</title></programme>
 <programme start="20240712220000 +0000" stop="20240712231500 +0000" channel="CNNTurk.tr"><title lang="tr">Gece Haberleri</title></programme>
 <programme start="20240712231500 +0000" stop="20240713030000 +0000" channel="CNNTurk.tr"><title lang="tr">Akıl Çemberi</title></programme>
