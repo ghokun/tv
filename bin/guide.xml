@@ -11,7 +11,7 @@
 <channel id="HalkTV.tr"><display-name>Halk TV</display-name><url>https://digiturk.com.tr</url></channel>
 <channel id="Kanal7.tr"><display-name>Kanal 7</display-name><url>https://digiturk.com.tr</url></channel>
 <channel id="KanalD.tr"><display-name>Kanal D</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="MinikaCocuk.tr"><display-name>Minika Cocuk</display-name><url>https://tvplus.com.tr</url></channel>
+<channel id="MinikaCocuk.tr"><display-name>Minika Cocuk</display-name><url>https://turksatkablo.com.tr</url></channel>
 <channel id="MinikaGo.tr"><display-name>Minika Go</display-name><url>https://digiturk.com.tr</url></channel>
 <channel id="NTV.tr"><display-name>NTV</display-name><url>https://digiturk.com.tr</url></channel>
 <channel id="Number1TV.tr"><display-name>Number 1 TV</display-name><url>https://tvplus.com.tr</url></channel>
@@ -481,6 +481,230 @@
 <programme start="20240714160000 +0000" stop="20240714170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
 <programme start="20240714170000 +0000" stop="20240714200000 +0000" channel="KanalD.tr"><title lang="tr">Armageddon</title></programme>
 <programme start="20240714200000 +0000" stop="20240714224500 +0000" channel="KanalD.tr"><title lang="tr">Sakra</title></programme>
+<programme start="20240712210000 +0000" stop="20240712213000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Bi&apos; Adada Bi&apos; Arada</title></programme>
+<programme start="20240712213000 +0000" stop="20240712214500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kukuli</title></programme>
+<programme start="20240712214500 +0000" stop="20240712220000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kukuli</title></programme>
+<programme start="20240712220000 +0000" stop="20240712221500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Maceracı Yüzgeçler</title></programme>
+<programme start="20240712221500 +0000" stop="20240712223000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Maceracı Yüzgeçler</title></programme>
+<programme start="20240712223000 +0000" stop="20240712224500 +0000" channel="MinikaCocuk.tr"><title lang="tr">İstanbul Muhafızları</title></programme>
+<programme start="20240712224500 +0000" stop="20240712230000 +0000" channel="MinikaCocuk.tr"><title lang="tr">İstanbul Muhafızları</title></programme>
+<programme start="20240712230000 +0000" stop="20240712233000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Şarki</title></programme>
+<programme start="20240712233000 +0000" stop="20240712234500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Neşeli Dünyam</title></programme>
+<programme start="20240712234500 +0000" stop="20240713000000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Neşeli Dünyam</title></programme>
+<programme start="20240713000000 +0000" stop="20240713003000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Maceracı Yüzgeçler</title></programme>
+<programme start="20240713003000 +0000" stop="20240713010000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Maceracı Yüzgeçler</title></programme>
+<programme start="20240713010000 +0000" stop="20240713011500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Neşeli Dünyam</title></programme>
+<programme start="20240713011500 +0000" stop="20240713013000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Neşeli Dünyam</title></programme>
+<programme start="20240713013000 +0000" stop="20240713014500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Neşeli Dünyam</title></programme>
+<programme start="20240713014500 +0000" stop="20240713020000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Neşeli Dünyam</title></programme>
+<programme start="20240713020000 +0000" stop="20240713021500 +0000" channel="MinikaCocuk.tr"><title lang="tr">İstanbul Muhafızları</title></programme>
+<programme start="20240713021500 +0000" stop="20240713023000 +0000" channel="MinikaCocuk.tr"><title lang="tr">İstanbul Muhafızları</title></programme>
+<programme start="20240713023000 +0000" stop="20240713024500 +0000" channel="MinikaCocuk.tr"><title lang="tr">İstanbul Muhafızları</title></programme>
+<programme start="20240713024500 +0000" stop="20240713030000 +0000" channel="MinikaCocuk.tr"><title lang="tr">İstanbul Muhafızları</title></programme>
+<programme start="20240713030000 +0000" stop="20240713031500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Little People</title></programme>
+<programme start="20240713031500 +0000" stop="20240713033000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Little People</title></programme>
+<programme start="20240713033000 +0000" stop="20240713034500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Maceracı Yüzgeçler</title></programme>
+<programme start="20240713034500 +0000" stop="20240713040000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Maceracı Yüzgeçler</title></programme>
+<programme start="20240713040000 +0000" stop="20240713040800 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kid E Cat</title></programme>
+<programme start="20240713040800 +0000" stop="20240713041500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kid E Cat</title></programme>
+<programme start="20240713041500 +0000" stop="20240713042300 +0000" channel="MinikaCocuk.tr"><title lang="tr">Dino City</title></programme>
+<programme start="20240713042300 +0000" stop="20240713043000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Dino City</title></programme>
+<programme start="20240713043000 +0000" stop="20240713044500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Neşeli Dünyam</title></programme>
+<programme start="20240713044500 +0000" stop="20240713050000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Neşeli Dünyam</title></programme>
+<programme start="20240713050000 +0000" stop="20240713051500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Luna&apos;nın Bilim Dünyası</title></programme>
+<programme start="20240713051500 +0000" stop="20240713053000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Luna&apos;nın Bilim Dünyası</title></programme>
+<programme start="20240713053000 +0000" stop="20240713054500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Rainbow Ruby</title></programme>
+<programme start="20240713054500 +0000" stop="20240713060000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Rainbow Ruby</title></programme>
+<programme start="20240713060000 +0000" stop="20240713061000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Turbozours</title></programme>
+<programme start="20240713061000 +0000" stop="20240713062000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Turbozours</title></programme>
+<programme start="20240713062000 +0000" stop="20240713063000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Turbozours</title></programme>
+<programme start="20240713063000 +0000" stop="20240713064500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Daniel Tiger</title></programme>
+<programme start="20240713064500 +0000" stop="20240713070000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Daniel Tiger</title></programme>
+<programme start="20240713070000 +0000" stop="20240713070800 +0000" channel="MinikaCocuk.tr"><title lang="tr">Cleo - Cuquin</title></programme>
+<programme start="20240713070800 +0000" stop="20240713071600 +0000" channel="MinikaCocuk.tr"><title lang="tr">Cleo - Cuquin</title></programme>
+<programme start="20240713071600 +0000" stop="20240713072400 +0000" channel="MinikaCocuk.tr"><title lang="tr">Cleo - Cuquin</title></programme>
+<programme start="20240713072400 +0000" stop="20240713073000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Cleo - Cuquin</title></programme>
+<programme start="20240713073000 +0000" stop="20240713074500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Küçük Prens Ve Arkadaşlari</title></programme>
+<programme start="20240713074500 +0000" stop="20240713080000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Küçük Prens Ve Arkadaşlari</title></programme>
+<programme start="20240713080000 +0000" stop="20240713080500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kid E Cat</title></programme>
+<programme start="20240713080500 +0000" stop="20240713081500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Dino City</title></programme>
+<programme start="20240713081500 +0000" stop="20240713083000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Robot Trains</title></programme>
+<programme start="20240713083000 +0000" stop="20240713084500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Bi&apos; Adada Bi&apos; Arada</title></programme>
+<programme start="20240713084500 +0000" stop="20240713090000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Bi&apos; Adada Bi&apos; Arada</title></programme>
+<programme start="20240713090000 +0000" stop="20240713090500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kuzugiller</title></programme>
+<programme start="20240713090500 +0000" stop="20240713091000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kuzugiller</title></programme>
+<programme start="20240713091000 +0000" stop="20240713091500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kuzugiller</title></programme>
+<programme start="20240713091500 +0000" stop="20240713093000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Cry Babies</title></programme>
+<programme start="20240713093000 +0000" stop="20240713094500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kukuli</title></programme>
+<programme start="20240713094500 +0000" stop="20240713100000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kukuli</title></programme>
+<programme start="20240713100000 +0000" stop="20240713101500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Briko</title></programme>
+<programme start="20240713101500 +0000" stop="20240713103000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Tinpo</title></programme>
+<programme start="20240713103000 +0000" stop="20240713104500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Rainbow Ruby</title></programme>
+<programme start="20240713104500 +0000" stop="20240713110000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Rainbow Ruby</title></programme>
+<programme start="20240713110000 +0000" stop="20240713110800 +0000" channel="MinikaCocuk.tr"><title lang="tr">Cleo - Cuquin</title></programme>
+<programme start="20240713110800 +0000" stop="20240713111600 +0000" channel="MinikaCocuk.tr"><title lang="tr">Cleo - Cuquin</title></programme>
+<programme start="20240713111600 +0000" stop="20240713112400 +0000" channel="MinikaCocuk.tr"><title lang="tr">Cleo - Cuquin</title></programme>
+<programme start="20240713112400 +0000" stop="20240713113000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Cleo - Cuquin</title></programme>
+<programme start="20240713113000 +0000" stop="20240713114500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Küçük Prens Ve Arkadaşlari</title></programme>
+<programme start="20240713114500 +0000" stop="20240713120000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Küçük Prens Ve Arkadaşlari</title></programme>
+<programme start="20240713120000 +0000" stop="20240713121500 +0000" channel="MinikaCocuk.tr"><title lang="tr">İstanbul Muhafızları</title></programme>
+<programme start="20240713121500 +0000" stop="20240713123000 +0000" channel="MinikaCocuk.tr"><title lang="tr">İstanbul Muhafızları</title></programme>
+<programme start="20240713123000 +0000" stop="20240713123800 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kid E Cat</title></programme>
+<programme start="20240713123800 +0000" stop="20240713124500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kid E Cat</title></programme>
+<programme start="20240713124500 +0000" stop="20240713125300 +0000" channel="MinikaCocuk.tr"><title lang="tr">Dino City</title></programme>
+<programme start="20240713125300 +0000" stop="20240713130000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Dino City</title></programme>
+<programme start="20240713130000 +0000" stop="20240713131500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Neşeli Dünyam</title></programme>
+<programme start="20240713131500 +0000" stop="20240713133000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Neşeli Dünyam</title></programme>
+<programme start="20240713133000 +0000" stop="20240713134500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Daniel Tiger</title></programme>
+<programme start="20240713134500 +0000" stop="20240713140000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Daniel Tiger</title></programme>
+<programme start="20240713140000 +0000" stop="20240713141000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Turbozours</title></programme>
+<programme start="20240713141000 +0000" stop="20240713142000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Turbozours</title></programme>
+<programme start="20240713142000 +0000" stop="20240713143000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Turbozours</title></programme>
+<programme start="20240713143000 +0000" stop="20240713144500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Bi&apos; Adada Bi&apos; Arada</title></programme>
+<programme start="20240713144500 +0000" stop="20240713150000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Bi&apos; Adada Bi&apos; Arada</title></programme>
+<programme start="20240713150000 +0000" stop="20240713150400 +0000" channel="MinikaCocuk.tr"><title lang="tr">Cleo - Cuquin</title></programme>
+<programme start="20240713150400 +0000" stop="20240713150800 +0000" channel="MinikaCocuk.tr"><title lang="tr">Cleo - Cuquin</title></programme>
+<programme start="20240713150800 +0000" stop="20240713151200 +0000" channel="MinikaCocuk.tr"><title lang="tr">Cleo - Cuquin</title></programme>
+<programme start="20240713151200 +0000" stop="20240713151500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Cleo - Cuquin</title></programme>
+<programme start="20240713151500 +0000" stop="20240713153000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Cry Babies</title></programme>
+<programme start="20240713153000 +0000" stop="20240713154500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kukuli</title></programme>
+<programme start="20240713154500 +0000" stop="20240713160000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kukuli</title></programme>
+<programme start="20240713160000 +0000" stop="20240713161500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Küçük Prens Ve Arkadaşlari</title></programme>
+<programme start="20240713161500 +0000" stop="20240713163000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Küçük Prens Ve Arkadaşlari</title></programme>
+<programme start="20240713163000 +0000" stop="20240713164500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Rainbow Ruby</title></programme>
+<programme start="20240713164500 +0000" stop="20240713170000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Rainbow Ruby</title></programme>
+<programme start="20240713170000 +0000" stop="20240713171500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Daniel Tiger</title></programme>
+<programme start="20240713171500 +0000" stop="20240713173000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Daniel Tiger</title></programme>
+<programme start="20240713173000 +0000" stop="20240713174500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Bi&apos; Adada Bi&apos; Arada</title></programme>
+<programme start="20240713174500 +0000" stop="20240713180000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Bi&apos; Adada Bi&apos; Arada</title></programme>
+<programme start="20240713180000 +0000" stop="20240713180800 +0000" channel="MinikaCocuk.tr"><title lang="tr">Cleo - Cuquin</title></programme>
+<programme start="20240713180800 +0000" stop="20240713181600 +0000" channel="MinikaCocuk.tr"><title lang="tr">Cleo - Cuquin</title></programme>
+<programme start="20240713181600 +0000" stop="20240713182400 +0000" channel="MinikaCocuk.tr"><title lang="tr">Cleo - Cuquin</title></programme>
+<programme start="20240713182400 +0000" stop="20240713183000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Cleo - Cuquin</title></programme>
+<programme start="20240713183000 +0000" stop="20240713184500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Küçük Prens Ve Arkadaşlari</title></programme>
+<programme start="20240713184500 +0000" stop="20240713190000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Küçük Prens Ve Arkadaşlari</title></programme>
+<programme start="20240713190000 +0000" stop="20240713190800 +0000" channel="MinikaCocuk.tr"><title lang="tr">Roy İle Yangından Korunuyorum Korunuyorum</title></programme>
+<programme start="20240713190800 +0000" stop="20240713191500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Roy İle Yangından Korunuyorum Korunuyorum</title></programme>
+<programme start="20240713191500 +0000" stop="20240713192300 +0000" channel="MinikaCocuk.tr"><title lang="tr">Poli İle Trafiği Öğreniyorum</title></programme>
+<programme start="20240713192300 +0000" stop="20240713193000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Poli İle Trafiği Öğreniyorum</title></programme>
+<programme start="20240713193000 +0000" stop="20240713194500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kukuli</title></programme>
+<programme start="20240713194500 +0000" stop="20240713200000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kukuli</title></programme>
+<programme start="20240713200000 +0000" stop="20240713201500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Tinpo</title></programme>
+<programme start="20240713201500 +0000" stop="20240713203000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Robot Trains</title></programme>
+<programme start="20240713203000 +0000" stop="20240713204500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Neşeli Dünyam</title></programme>
+<programme start="20240713204500 +0000" stop="20240713210000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Neşeli Dünyam</title></programme>
+<programme start="20240713210000 +0000" stop="20240713213000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Bi&apos; Adada Bi&apos; Arada</title></programme>
+<programme start="20240713213000 +0000" stop="20240713214500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kukuli</title></programme>
+<programme start="20240713214500 +0000" stop="20240713220000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kukuli</title></programme>
+<programme start="20240713220000 +0000" stop="20240713221500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Maceracı Yüzgeçler</title></programme>
+<programme start="20240713221500 +0000" stop="20240713223000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Maceracı Yüzgeçler</title></programme>
+<programme start="20240713223000 +0000" stop="20240713224500 +0000" channel="MinikaCocuk.tr"><title lang="tr">İstanbul Muhafızları</title></programme>
+<programme start="20240713224500 +0000" stop="20240713230000 +0000" channel="MinikaCocuk.tr"><title lang="tr">İstanbul Muhafızları</title></programme>
+<programme start="20240713230000 +0000" stop="20240713233000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Şarki</title></programme>
+<programme start="20240713233000 +0000" stop="20240713234500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Neşeli Dünyam</title></programme>
+<programme start="20240713234500 +0000" stop="20240714000000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Neşeli Dünyam</title></programme>
+<programme start="20240714000000 +0000" stop="20240714003000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Maceracı Yüzgeçler</title></programme>
+<programme start="20240714003000 +0000" stop="20240714010000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Maceracı Yüzgeçler</title></programme>
+<programme start="20240714010000 +0000" stop="20240714011500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Neşeli Dünyam</title></programme>
+<programme start="20240714011500 +0000" stop="20240714013000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Neşeli Dünyam</title></programme>
+<programme start="20240714013000 +0000" stop="20240714014500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Neşeli Dünyam</title></programme>
+<programme start="20240714014500 +0000" stop="20240714020000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Neşeli Dünyam</title></programme>
+<programme start="20240714020000 +0000" stop="20240714021500 +0000" channel="MinikaCocuk.tr"><title lang="tr">İstanbul Muhafızları</title></programme>
+<programme start="20240714021500 +0000" stop="20240714023000 +0000" channel="MinikaCocuk.tr"><title lang="tr">İstanbul Muhafızları</title></programme>
+<programme start="20240714023000 +0000" stop="20240714024500 +0000" channel="MinikaCocuk.tr"><title lang="tr">İstanbul Muhafızları</title></programme>
+<programme start="20240714024500 +0000" stop="20240714030000 +0000" channel="MinikaCocuk.tr"><title lang="tr">İstanbul Muhafızları</title></programme>
+<programme start="20240714030000 +0000" stop="20240714031500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Little People</title></programme>
+<programme start="20240714031500 +0000" stop="20240714033000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Little People</title></programme>
+<programme start="20240714033000 +0000" stop="20240714034500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Maceracı Yüzgeçler</title></programme>
+<programme start="20240714034500 +0000" stop="20240714040000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Maceracı Yüzgeçler</title></programme>
+<programme start="20240714040000 +0000" stop="20240714040800 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kid E Cat</title></programme>
+<programme start="20240714040800 +0000" stop="20240714041500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kid E Cat</title></programme>
+<programme start="20240714041500 +0000" stop="20240714042300 +0000" channel="MinikaCocuk.tr"><title lang="tr">Dino City</title></programme>
+<programme start="20240714042300 +0000" stop="20240714043000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Dino City</title></programme>
+<programme start="20240714043000 +0000" stop="20240714044500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Neşeli Dünyam</title></programme>
+<programme start="20240714044500 +0000" stop="20240714050000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Neşeli Dünyam</title></programme>
+<programme start="20240714050000 +0000" stop="20240714051500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Luna&apos;nın Bilim Dünyası</title></programme>
+<programme start="20240714051500 +0000" stop="20240714053000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Luna&apos;nın Bilim Dünyası</title></programme>
+<programme start="20240714053000 +0000" stop="20240714054500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Rainbow Ruby</title></programme>
+<programme start="20240714054500 +0000" stop="20240714060000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Rainbow Ruby</title></programme>
+<programme start="20240714060000 +0000" stop="20240714061000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Turbozours</title></programme>
+<programme start="20240714061000 +0000" stop="20240714062000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Turbozours</title></programme>
+<programme start="20240714062000 +0000" stop="20240714063000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Turbozours</title></programme>
+<programme start="20240714063000 +0000" stop="20240714064500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Daniel Tiger</title></programme>
+<programme start="20240714064500 +0000" stop="20240714070000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Daniel Tiger</title></programme>
+<programme start="20240714070000 +0000" stop="20240714070800 +0000" channel="MinikaCocuk.tr"><title lang="tr">Cleo - Cuquin</title></programme>
+<programme start="20240714070800 +0000" stop="20240714071600 +0000" channel="MinikaCocuk.tr"><title lang="tr">Cleo - Cuquin</title></programme>
+<programme start="20240714071600 +0000" stop="20240714072400 +0000" channel="MinikaCocuk.tr"><title lang="tr">Cleo - Cuquin</title></programme>
+<programme start="20240714072400 +0000" stop="20240714073000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Cleo - Cuquin</title></programme>
+<programme start="20240714073000 +0000" stop="20240714074500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Küçük Prens Ve Arkadaşlari</title></programme>
+<programme start="20240714074500 +0000" stop="20240714080000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Küçük Prens Ve Arkadaşlari</title></programme>
+<programme start="20240714080000 +0000" stop="20240714080500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kid E Cat</title></programme>
+<programme start="20240714080500 +0000" stop="20240714081500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Dino City</title></programme>
+<programme start="20240714081500 +0000" stop="20240714083000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Robot Trains</title></programme>
+<programme start="20240714083000 +0000" stop="20240714084500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Bi&apos; Adada Bi&apos; Arada</title></programme>
+<programme start="20240714084500 +0000" stop="20240714090000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Bi&apos; Adada Bi&apos; Arada</title></programme>
+<programme start="20240714090000 +0000" stop="20240714090500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kuzugiller</title></programme>
+<programme start="20240714090500 +0000" stop="20240714091000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kuzugiller</title></programme>
+<programme start="20240714091000 +0000" stop="20240714091500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kuzugiller</title></programme>
+<programme start="20240714091500 +0000" stop="20240714093000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Cry Babies</title></programme>
+<programme start="20240714093000 +0000" stop="20240714094500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kukuli</title></programme>
+<programme start="20240714094500 +0000" stop="20240714100000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kukuli</title></programme>
+<programme start="20240714100000 +0000" stop="20240714101500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Briko</title></programme>
+<programme start="20240714101500 +0000" stop="20240714103000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Tinpo</title></programme>
+<programme start="20240714103000 +0000" stop="20240714104500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Rainbow Ruby</title></programme>
+<programme start="20240714104500 +0000" stop="20240714110000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Rainbow Ruby</title></programme>
+<programme start="20240714110000 +0000" stop="20240714110800 +0000" channel="MinikaCocuk.tr"><title lang="tr">Cleo - Cuquin</title></programme>
+<programme start="20240714110800 +0000" stop="20240714111600 +0000" channel="MinikaCocuk.tr"><title lang="tr">Cleo - Cuquin</title></programme>
+<programme start="20240714111600 +0000" stop="20240714112400 +0000" channel="MinikaCocuk.tr"><title lang="tr">Cleo - Cuquin</title></programme>
+<programme start="20240714112400 +0000" stop="20240714113000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Cleo - Cuquin</title></programme>
+<programme start="20240714113000 +0000" stop="20240714114500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Küçük Prens Ve Arkadaşlari</title></programme>
+<programme start="20240714114500 +0000" stop="20240714120000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Küçük Prens Ve Arkadaşlari</title></programme>
+<programme start="20240714120000 +0000" stop="20240714121500 +0000" channel="MinikaCocuk.tr"><title lang="tr">İstanbul Muhafızları</title></programme>
+<programme start="20240714121500 +0000" stop="20240714123000 +0000" channel="MinikaCocuk.tr"><title lang="tr">İstanbul Muhafızları</title></programme>
+<programme start="20240714123000 +0000" stop="20240714123800 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kid E Cat</title></programme>
+<programme start="20240714123800 +0000" stop="20240714124500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kid E Cat</title></programme>
+<programme start="20240714124500 +0000" stop="20240714125300 +0000" channel="MinikaCocuk.tr"><title lang="tr">Dino City</title></programme>
+<programme start="20240714125300 +0000" stop="20240714130000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Dino City</title></programme>
+<programme start="20240714130000 +0000" stop="20240714131500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Neşeli Dünyam</title></programme>
+<programme start="20240714131500 +0000" stop="20240714133000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Neşeli Dünyam</title></programme>
+<programme start="20240714133000 +0000" stop="20240714134500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Daniel Tiger</title></programme>
+<programme start="20240714134500 +0000" stop="20240714140000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Daniel Tiger</title></programme>
+<programme start="20240714140000 +0000" stop="20240714141000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Turbozours</title></programme>
+<programme start="20240714141000 +0000" stop="20240714142000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Turbozours</title></programme>
+<programme start="20240714142000 +0000" stop="20240714143000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Turbozours</title></programme>
+<programme start="20240714143000 +0000" stop="20240714144500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Bi&apos; Adada Bi&apos; Arada</title></programme>
+<programme start="20240714144500 +0000" stop="20240714150000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Bi&apos; Adada Bi&apos; Arada</title></programme>
+<programme start="20240714150000 +0000" stop="20240714150400 +0000" channel="MinikaCocuk.tr"><title lang="tr">Cleo - Cuquin</title></programme>
+<programme start="20240714150400 +0000" stop="20240714150800 +0000" channel="MinikaCocuk.tr"><title lang="tr">Cleo - Cuquin</title></programme>
+<programme start="20240714150800 +0000" stop="20240714151200 +0000" channel="MinikaCocuk.tr"><title lang="tr">Cleo - Cuquin</title></programme>
+<programme start="20240714151200 +0000" stop="20240714151500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Cleo - Cuquin</title></programme>
+<programme start="20240714151500 +0000" stop="20240714153000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Cry Babies</title></programme>
+<programme start="20240714153000 +0000" stop="20240714154500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kukuli</title></programme>
+<programme start="20240714154500 +0000" stop="20240714160000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kukuli</title></programme>
+<programme start="20240714160000 +0000" stop="20240714161500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Küçük Prens Ve Arkadaşlari</title></programme>
+<programme start="20240714161500 +0000" stop="20240714163000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Küçük Prens Ve Arkadaşlari</title></programme>
+<programme start="20240714163000 +0000" stop="20240714164500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Rainbow Ruby</title></programme>
+<programme start="20240714164500 +0000" stop="20240714170000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Rainbow Ruby</title></programme>
+<programme start="20240714170000 +0000" stop="20240714171500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Daniel Tiger</title></programme>
+<programme start="20240714171500 +0000" stop="20240714173000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Daniel Tiger</title></programme>
+<programme start="20240714173000 +0000" stop="20240714174500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Bi&apos; Adada Bi&apos; Arada</title></programme>
+<programme start="20240714174500 +0000" stop="20240714180000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Bi&apos; Adada Bi&apos; Arada</title></programme>
+<programme start="20240714180000 +0000" stop="20240714180800 +0000" channel="MinikaCocuk.tr"><title lang="tr">Cleo - Cuquin</title></programme>
+<programme start="20240714180800 +0000" stop="20240714181600 +0000" channel="MinikaCocuk.tr"><title lang="tr">Cleo - Cuquin</title></programme>
+<programme start="20240714181600 +0000" stop="20240714182400 +0000" channel="MinikaCocuk.tr"><title lang="tr">Cleo - Cuquin</title></programme>
+<programme start="20240714182400 +0000" stop="20240714183000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Cleo - Cuquin</title></programme>
+<programme start="20240714183000 +0000" stop="20240714184500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Küçük Prens Ve Arkadaşlari</title></programme>
+<programme start="20240714184500 +0000" stop="20240714190000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Küçük Prens Ve Arkadaşlari</title></programme>
+<programme start="20240714190000 +0000" stop="20240714190800 +0000" channel="MinikaCocuk.tr"><title lang="tr">Roy İle Yangından Korunuyorum Korunuyorum</title></programme>
+<programme start="20240714190800 +0000" stop="20240714191500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Roy İle Yangından Korunuyorum Korunuyorum</title></programme>
+<programme start="20240714191500 +0000" stop="20240714192300 +0000" channel="MinikaCocuk.tr"><title lang="tr">Poli İle Trafiği Öğreniyorum</title></programme>
+<programme start="20240714192300 +0000" stop="20240714193000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Poli İle Trafiği Öğreniyorum</title></programme>
+<programme start="20240714193000 +0000" stop="20240714194500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kukuli</title></programme>
+<programme start="20240714194500 +0000" stop="20240714200000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kukuli</title></programme>
+<programme start="20240714200000 +0000" stop="20240714201500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Tinpo</title></programme>
+<programme start="20240714201500 +0000" stop="20240714203000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Robot Trains</title></programme>
+<programme start="20240714203000 +0000" stop="20240714204500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Neşeli Dünyam</title></programme>
+<programme start="20240714204500 +0000" stop="20240714210000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Neşeli Dünyam</title></programme>
 <programme start="20240712210000 +0000" stop="20240712213000 +0000" channel="MinikaGo.tr"><title lang="tr">Peter Pan</title></programme>
 <programme start="20240712213000 +0000" stop="20240712214500 +0000" channel="MinikaGo.tr"><title lang="tr">Berry Bees</title></programme>
 <programme start="20240712214500 +0000" stop="20240712220000 +0000" channel="MinikaGo.tr"><title lang="tr">Berry Bees</title></programme>
