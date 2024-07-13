@@ -128,8 +128,8 @@
       "epg": {
         "channel": "Minika Çocuk",
         "lang": "tr",
-        "site": "dsmart.com.tr",
-        "site_id": "119#58d29bb0eefad3db9c60626d"
+        "site": "tvplus.com.tr",
+        "site_id": "102"
       },
       "m3u": {
         "group_title": "Çocuk",
@@ -142,8 +142,8 @@
       "epg": {
         "channel": "Minika GO",
         "lang": "tr",
-        "site": "dsmart.com.tr",
-        "site_id": "113#58d29bb0eefad3db9c606257"
+        "site": "digiturk.com.tr",
+        "site_id": "170"
       },
       "m3u": {
         "group_title": "Çocuk",
@@ -165,8 +165,8 @@
       "epg": {
         "channel": "NUMBER1 TV",
         "lang": "tr",
-        "site": "digiturk.com.tr",
-        "site_id": "95"
+        "site": "tvplus.com.tr",
+        "site_id": "204"
       },
       "m3u": {
         "group_title": "Müzik",
@@ -179,8 +179,8 @@
       "epg": {
         "channel": "POWER TV",
         "lang": "tr",
-        "site": "digiturk.com.tr",
-        "site_id": "100"
+        "site": "tvplus.com.tr",
+        "site_id": "172"
       },
       "group": "Müzik"
     },

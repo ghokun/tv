@@ -12,11 +12,11 @@
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="HalkTV.tr" site_id="53">HALK TV</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="Kanal7.tr" site_id="34">Kanal 7</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="KanalD.tr" site_id="24">Kanal D</channel>
-<channel site="dsmart.com.tr" lang="tr" xmltv_id="MinikaCocuk.tr" site_id="119#58d29bb0eefad3db9c60626d">Minika Çocuk</channel>
-<channel site="dsmart.com.tr" lang="tr" xmltv_id="MinikaGo.tr" site_id="113#58d29bb0eefad3db9c606257">Minika GO</channel>
+<channel site="tvplus.com.tr" lang="tr" xmltv_id="MinikaCocuk.tr" site_id="102">Minika Çocuk</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="MinikaGo.tr" site_id="170">Minika GO</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="NTV.tr" site_id="41">NTV</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="Number1TV.tr" site_id="95">NUMBER1 TV</channel>
-<channel site="digiturk.com.tr" lang="tr" xmltv_id="PowerTV.tr" site_id="100">POWER TV</channel>
+<channel site="tvplus.com.tr" lang="tr" xmltv_id="Number1TV.tr" site_id="204">NUMBER1 TV</channel>
+<channel site="tvplus.com.tr" lang="tr" xmltv_id="PowerTV.tr" site_id="172">POWER TV</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="ShowTV.tr" site_id="22">Show TV</channel>
 <channel site="turksatkablo.com.tr" lang="tr" xmltv_id="SozcuTV.tr" site_id="3779">SZC</channel>
 <channel site="turksatkablo.com.tr" lang="tr" xmltv_id="SportsTV.tr" site_id="329">Sports Tv</channel>
