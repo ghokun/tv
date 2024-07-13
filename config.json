@@ -42,6 +42,20 @@
         "url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8"
       }
     },
+    "CartoonNetwork.tr": {
+      "epg": {
+        "channel": "Cartoon Network",
+        "lang": "tr",
+        "site": "digiturk.com.tr",
+        "site_id": "169"
+      },
+      "m3u": {
+        "group_title": "Çocuk",
+        "name": "Cartoon Network",
+        "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",
+        "url": "http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8"
+      }
+    },
     "CNNTurk.tr": {
       "epg": {
         "channel": "CNN TÜRK",
@@ -109,6 +123,34 @@
         "site_id": "24"
       },
       "group": "Ulusal"
+    },
+    "MinikaCocuk.tr": {
+      "epg": {
+        "channel": "Minika Çocuk",
+        "lang": "tr",
+        "site": "dsmart.com.tr",
+        "site_id": "119#58d29bb0eefad3db9c60626d"
+      },
+      "m3u": {
+        "group_title": "Çocuk",
+        "name": "Minika Çocuk",
+        "tvg_logo": "https://i.imgur.com/VCywMTv.png",
+        "url": "http://stream.tvcdn.net/cocuk-egitim/minika-cocuk.m3u8"
+      }
+    },
+    "MinikaGo.tr": {
+      "epg": {
+        "channel": "Minika GO",
+        "lang": "tr",
+        "site": "dsmart.com.tr",
+        "site_id": "113#58d29bb0eefad3db9c606257"
+      },
+      "m3u": {
+        "group_title": "Çocuk",
+        "name": "Minika GO",
+        "tvg_logo": "https://i.imgur.com/qIoipDq.png",
+        "url": "http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8"
+      }
     },
     "NTV.tr": {
       "epg": {
