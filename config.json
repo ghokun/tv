@@ -67,7 +67,12 @@
         "site": "digiturk.com.tr",
         "site_id": "26"
       },
-      "group": "Ulusal"
+      "m3u": {
+        "group_title": "Ulusal",
+        "name": "NOW",
+        "tvg_logo": "http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png",
+        "url": "http://stream.tvcdn.net/ulusal/now-tv.m3u8"
+      }
     },
     "HaberturkTV.tr": {
       "epg": {
