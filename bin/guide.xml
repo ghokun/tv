@@ -1205,14 +1205,13 @@
 <programme start="20240713120000 +0000" stop="20240713170000 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
 <programme start="20240713170000 +0000" stop="20240713211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240713170000 +0000" stop="20240713211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
-<programme start="20240713211500 +0000" stop="20240713234500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
-<programme start="20240713234500 +0000" stop="20240714014500 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
-<programme start="20240714014500 +0000" stop="20240714030000 +0000" channel="TV8.tr"><title lang="tr">Sinema</title></programme>
-<programme start="20240714030000 +0000" stop="20240714040000 +0000" channel="TV8.tr"><title lang="tr">Dizi</title></programme>
-<programme start="20240714040000 +0000" stop="20240714050000 +0000" channel="TV8.tr"><title lang="tr">Tuzak</title></programme>
-<programme start="20240714050000 +0000" stop="20240714063000 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
-<programme start="20240714063000 +0000" stop="20240714103000 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
-<programme start="20240714103000 +0000" stop="20240714120000 +0000" channel="TV8.tr"><title lang="tr">Batılı Adam</title></programme>
+<programme start="20240713211500 +0000" stop="20240714000000 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240714000000 +0000" stop="20240714020000 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
+<programme start="20240714020000 +0000" stop="20240714033000 +0000" channel="TV8.tr"><title lang="tr">Dizi</title></programme>
+<programme start="20240714033000 +0000" stop="20240714050000 +0000" channel="TV8.tr"><title lang="tr">Tuzak</title></programme>
+<programme start="20240714050000 +0000" stop="20240714060000 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
+<programme start="20240714060000 +0000" stop="20240714111500 +0000" channel="TV8.tr"><title lang="tr">Gençlik Rüzgarı</title></programme>
+<programme start="20240714111500 +0000" stop="20240714120000 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240714120000 +0000" stop="20240714170000 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
 <programme start="20240714170000 +0000" stop="20240714211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240712210000 +0000" stop="20240712231500 +0000" channel="TV85.tr"><title lang="tr">Büyük Rekabetler</title></programme>
@@ -1271,9 +1270,9 @@
 <programme start="20240713140000 +0000" stop="20240713150000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240713150000 +0000" stop="20240713163000 +0000" channel="TV100.tr"><title lang="tr">Hafta Sonu Ana Haber Bülteni</title></programme>
 <programme start="20240713163000 +0000" stop="20240713173000 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
-<programme start="20240713173000 +0000" stop="20240713210000 +0000" channel="TV100.tr"><title lang="tr">Kübra Par ile Farklı...</title></programme>
-<programme start="20240713210000 +0000" stop="20240713220000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240713220000 +0000" stop="20240713230000 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
+<programme start="20240713173000 +0000" stop="20240713214500 +0000" channel="TV100.tr"><title lang="tr">Kübra Par ile Farklı...</title></programme>
+<programme start="20240713173000 +0000" stop="20240713214500 +0000" channel="TV100.tr"><title lang="tr">Kübra Par ile Farklı...</title></programme>
+<programme start="20240713214500 +0000" stop="20240713230000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240713230000 +0000" stop="20240714020000 +0000" channel="TV100.tr"><title lang="tr">Kübra Par ile Farklı...</title></programme>
 <programme start="20240714020000 +0000" stop="20240714030000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240714030000 +0000" stop="20240714033000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
