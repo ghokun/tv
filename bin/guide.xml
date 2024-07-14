@@ -5,7 +5,7 @@
 <channel id="BeyazTV.tr"><display-name>Beyaz TV</display-name><url>https://digiturk.com.tr</url></channel>
 <channel id="CartoonNetwork.tr"><display-name>Cartoon Network</display-name><url>https://digiturk.com.tr</url></channel>
 <channel id="CNNTurk.tr"><display-name>CNN Turk</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="DMAX.tr"><display-name>DMAX</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="DMAX.tr"><display-name>DMAX</display-name><url>https://turksatkablo.com.tr</url></channel>
 <channel id="EuroD.tr"><display-name>Euro D</display-name><url>https://tv.blue.ch</url></channel>
 <channel id="Fox.tr"><display-name>Fox</display-name><url>https://digiturk.com.tr</url></channel>
 <channel id="HaberturkTV.tr"><display-name>Haberturk TV</display-name><url>https://digiturk.com.tr</url></channel>
@@ -312,33 +312,76 @@
 <programme start="20240715140000 +0000" stop="20240715150000 +0000" channel="CNNTurk.tr"><title lang="tr">Günlük</title></programme>
 <programme start="20240715150000 +0000" stop="20240715173000 +0000" channel="CNNTurk.tr"><title lang="tr">Ana Haber</title></programme>
 <programme start="20240715173000 +0000" stop="20240715210000 +0000" channel="CNNTurk.tr"><title lang="tr">Tarafsız Bölge</title></programme>
-<programme start="20240713210000 +0000" stop="20240713230000 +0000" channel="DMAX.tr"><title lang="tr">Fildişi Kule</title></programme>
-<programme start="20240713230000 +0000" stop="20240714010000 +0000" channel="DMAX.tr"><title lang="tr">Tartışma Zemini</title></programme>
-<programme start="20240714010000 +0000" stop="20240714030000 +0000" channel="DMAX.tr"><title lang="tr">Balçiçek İle Şimdi</title></programme>
-<programme start="20240714030000 +0000" stop="20240714060000 +0000" channel="DMAX.tr"><title lang="tr">Merve Ahu Sarı İle Haber...</title></programme>
-<programme start="20240714060000 +0000" stop="20240714090000 +0000" channel="DMAX.tr"><title lang="tr">Ekol&apos;de Hafta Sonu</title></programme>
-<programme start="20240714090000 +0000" stop="20240714110000 +0000" channel="DMAX.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240714110000 +0000" stop="20240714120000 +0000" channel="DMAX.tr"><title lang="tr">Paranın Yönü</title></programme>
-<programme start="20240714120000 +0000" stop="20240714140000 +0000" channel="DMAX.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240714140000 +0000" stop="20240714160000 +0000" channel="DMAX.tr"><title lang="tr">Balçiçek İle Şimdi</title></programme>
-<programme start="20240714160000 +0000" stop="20240714180000 +0000" channel="DMAX.tr"><title lang="tr">Hafta Sonu Ekol Ana Haber</title></programme>
-<programme start="20240714180000 +0000" stop="20240714190000 +0000" channel="DMAX.tr"><title lang="tr">Sorgusuz Sualsiz</title></programme>
-<programme start="20240714190000 +0000" stop="20240714200000 +0000" channel="DMAX.tr"><title lang="tr">Paranın Yönü</title></programme>
-<programme start="20240714200000 +0000" stop="20240714210000 +0000" channel="DMAX.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240714210000 +0000" stop="20240714230000 +0000" channel="DMAX.tr"><title lang="tr">Ekol Futbol</title></programme>
-<programme start="20240714230000 +0000" stop="20240715010000 +0000" channel="DMAX.tr"><title lang="tr">Sorgusuz Sualsiz</title></programme>
-<programme start="20240715010000 +0000" stop="20240715030000 +0000" channel="DMAX.tr"><title lang="tr">Balçiçek İle Şimdi</title></programme>
-<programme start="20240715030000 +0000" stop="20240715060000 +0000" channel="DMAX.tr"><title lang="tr">Lara İle Yeni Gün</title></programme>
-<programme start="20240715060000 +0000" stop="20240715080000 +0000" channel="DMAX.tr"><title lang="tr">Ajans</title></programme>
-<programme start="20240715080000 +0000" stop="20240715100000 +0000" channel="DMAX.tr"><title lang="tr">Zeliha Saraç İle Gündem</title></programme>
-<programme start="20240715100000 +0000" stop="20240715114500 +0000" channel="DMAX.tr"><title lang="tr">Gün Ortası</title></programme>
-<programme start="20240715114500 +0000" stop="20240715120000 +0000" channel="DMAX.tr"><title lang="tr">Spor Bülteni</title></programme>
-<programme start="20240715120000 +0000" stop="20240715134500 +0000" channel="DMAX.tr"><title lang="tr">Duygu Kaya İle Bugün</title></programme>
-<programme start="20240715134500 +0000" stop="20240715140000 +0000" channel="DMAX.tr"><title lang="tr">Spor Bülteni</title></programme>
-<programme start="20240715140000 +0000" stop="20240715160000 +0000" channel="DMAX.tr"><title lang="tr">Pınar Işık Ardor İle...</title></programme>
-<programme start="20240715160000 +0000" stop="20240715173000 +0000" channel="DMAX.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240715173000 +0000" stop="20240715200000 +0000" channel="DMAX.tr"><title lang="tr">Kritik Gündem</title></programme>
-<programme start="20240715200000 +0000" stop="20240716020000 +0000" channel="DMAX.tr"><title lang="tr">Gece Haberleri</title></programme>
+<programme start="20240713210000 +0000" stop="20240713215500 +0000" channel="DMAX.tr"><title lang="tr">Amerikan Hurda Avcıları</title></programme>
+<programme start="20240713215500 +0000" stop="20240713222200 +0000" channel="DMAX.tr"><title lang="tr">Konteyner Savaşları</title></programme>
+<programme start="20240713222200 +0000" stop="20240713225000 +0000" channel="DMAX.tr"><title lang="tr">Konteyner Savaşları</title></programme>
+<programme start="20240713225000 +0000" stop="20240713234000 +0000" channel="DMAX.tr"><title lang="tr">Alaska&apos;nın Mimarları</title></programme>
+<programme start="20240713234000 +0000" stop="20240714002000 +0000" channel="DMAX.tr"><title lang="tr">Kırsalın Ustaları</title></programme>
+<programme start="20240714002000 +0000" stop="20240714010500 +0000" channel="DMAX.tr"><title lang="tr">Opal Avcıları: Kızıl Kumlar</title></programme>
+<programme start="20240714010500 +0000" stop="20240714015000 +0000" channel="DMAX.tr"><title lang="tr">Alaska: Son Sınır</title></programme>
+<programme start="20240714015000 +0000" stop="20240714023500 +0000" channel="DMAX.tr"><title lang="tr">Gizli Suları Keşfet</title></programme>
+<programme start="20240714023500 +0000" stop="20240714030000 +0000" channel="DMAX.tr"><title lang="tr">Nasıl Yapılmış?</title></programme>
+<programme start="20240714030000 +0000" stop="20240714033000 +0000" channel="DMAX.tr"><title lang="tr">Nasıl Yapılır?</title></programme>
+<programme start="20240714033000 +0000" stop="20240714040000 +0000" channel="DMAX.tr"><title lang="tr">Nasıl Yapılır?</title></programme>
+<programme start="20240714040000 +0000" stop="20240714043000 +0000" channel="DMAX.tr"><title lang="tr">Nasıl Yapılır?</title></programme>
+<programme start="20240714043000 +0000" stop="20240714045700 +0000" channel="DMAX.tr"><title lang="tr">Konteyner Savaşları</title></programme>
+<programme start="20240714045700 +0000" stop="20240714052500 +0000" channel="DMAX.tr"><title lang="tr">Konteyner Savaşları</title></programme>
+<programme start="20240714052500 +0000" stop="20240714055200 +0000" channel="DMAX.tr"><title lang="tr">Konteyner Savaşları</title></programme>
+<programme start="20240714055200 +0000" stop="20240714062000 +0000" channel="DMAX.tr"><title lang="tr">Konteyner Savaşları</title></programme>
+<programme start="20240714062000 +0000" stop="20240714072000 +0000" channel="DMAX.tr"><title lang="tr">Amerikan Tamirhanesi</title></programme>
+<programme start="20240714072000 +0000" stop="20240714082000 +0000" channel="DMAX.tr"><title lang="tr">Vegas Çekicileri</title></programme>
+<programme start="20240714082000 +0000" stop="20240714084700 +0000" channel="DMAX.tr"><title lang="tr">İkinci El Kralları</title></programme>
+<programme start="20240714084700 +0000" stop="20240714091500 +0000" channel="DMAX.tr"><title lang="tr">İkinci El Kralları</title></programme>
+<programme start="20240714091500 +0000" stop="20240714094200 +0000" channel="DMAX.tr"><title lang="tr">İkinci El Kralları</title></programme>
+<programme start="20240714094200 +0000" stop="20240714101000 +0000" channel="DMAX.tr"><title lang="tr">İkinci El Kralları</title></programme>
+<programme start="20240714101000 +0000" stop="20240714111000 +0000" channel="DMAX.tr"><title lang="tr">Guy Fieri ile Yollarda</title></programme>
+<programme start="20240714111000 +0000" stop="20240714121000 +0000" channel="DMAX.tr"><title lang="tr">Mangal Savaşları</title></programme>
+<programme start="20240714121000 +0000" stop="20240714131000 +0000" channel="DMAX.tr"><title lang="tr">İngiltere Mezatçıları</title></programme>
+<programme start="20240714131000 +0000" stop="20240714141000 +0000" channel="DMAX.tr"><title lang="tr">Amerikan Hurda Avcıları</title></programme>
+<programme start="20240714141000 +0000" stop="20240714151000 +0000" channel="DMAX.tr"><title lang="tr">Amerikan Hurda Avcıları</title></programme>
+<programme start="20240714151000 +0000" stop="20240714161000 +0000" channel="DMAX.tr"><title lang="tr">Küçük Dev Güreşçiler</title></programme>
+<programme start="20240714161000 +0000" stop="20240714171000 +0000" channel="DMAX.tr"><title lang="tr">Opal Avcıları: Kızıl Kumlar</title></programme>
+<programme start="20240714171000 +0000" stop="20240714181000 +0000" channel="DMAX.tr"><title lang="tr">Dünya&apos;nın Dört Bir Yanı</title></programme>
+<programme start="20240714181000 +0000" stop="20240714183700 +0000" channel="DMAX.tr"><title lang="tr">Antika Avcıları</title></programme>
+<programme start="20240714183700 +0000" stop="20240714190500 +0000" channel="DMAX.tr"><title lang="tr">Antika Avcıları</title></programme>
+<programme start="20240714190500 +0000" stop="20240714193200 +0000" channel="DMAX.tr"><title lang="tr">Antika Avcıları</title></programme>
+<programme start="20240714193200 +0000" stop="20240714200000 +0000" channel="DMAX.tr"><title lang="tr">Antika Avcıları</title></programme>
+<programme start="20240714200000 +0000" stop="20240714210000 +0000" channel="DMAX.tr"><title lang="tr">Altın Peşinde: Parker&apos;ın Yolu</title></programme>
+<programme start="20240714210000 +0000" stop="20240714215500 +0000" channel="DMAX.tr"><title lang="tr">Amerikan Hurda Avcıları</title></programme>
+<programme start="20240714215500 +0000" stop="20240714222200 +0000" channel="DMAX.tr"><title lang="tr">Konteyner Savaşları</title></programme>
+<programme start="20240714222200 +0000" stop="20240714225000 +0000" channel="DMAX.tr"><title lang="tr">Konteyner Savaşları</title></programme>
+<programme start="20240714225000 +0000" stop="20240714234000 +0000" channel="DMAX.tr"><title lang="tr">Alaska&apos;nın Mimarları</title></programme>
+<programme start="20240714234000 +0000" stop="20240715002000 +0000" channel="DMAX.tr"><title lang="tr">Kırsalın Ustaları</title></programme>
+<programme start="20240715002000 +0000" stop="20240715010500 +0000" channel="DMAX.tr"><title lang="tr">Opal Avcıları: Kızıl Kumlar</title></programme>
+<programme start="20240715010500 +0000" stop="20240715015000 +0000" channel="DMAX.tr"><title lang="tr">Alaska: Son Sınır</title></programme>
+<programme start="20240715015000 +0000" stop="20240715023500 +0000" channel="DMAX.tr"><title lang="tr">Gizli Suları Keşfet</title></programme>
+<programme start="20240715023500 +0000" stop="20240715030000 +0000" channel="DMAX.tr"><title lang="tr">Nasıl Yapılmış?</title></programme>
+<programme start="20240715030000 +0000" stop="20240715033000 +0000" channel="DMAX.tr"><title lang="tr">Nasıl Yapılır?</title></programme>
+<programme start="20240715033000 +0000" stop="20240715040000 +0000" channel="DMAX.tr"><title lang="tr">Nasıl Yapılır?</title></programme>
+<programme start="20240715040000 +0000" stop="20240715043000 +0000" channel="DMAX.tr"><title lang="tr">Nasıl Yapılır?</title></programme>
+<programme start="20240715043000 +0000" stop="20240715045700 +0000" channel="DMAX.tr"><title lang="tr">Konteyner Savaşları</title></programme>
+<programme start="20240715045700 +0000" stop="20240715052500 +0000" channel="DMAX.tr"><title lang="tr">Konteyner Savaşları</title></programme>
+<programme start="20240715052500 +0000" stop="20240715055200 +0000" channel="DMAX.tr"><title lang="tr">Konteyner Savaşları</title></programme>
+<programme start="20240715055200 +0000" stop="20240715062000 +0000" channel="DMAX.tr"><title lang="tr">Konteyner Savaşları</title></programme>
+<programme start="20240715062000 +0000" stop="20240715072000 +0000" channel="DMAX.tr"><title lang="tr">Amerikan Tamirhanesi</title></programme>
+<programme start="20240715072000 +0000" stop="20240715082000 +0000" channel="DMAX.tr"><title lang="tr">Vegas Çekicileri</title></programme>
+<programme start="20240715082000 +0000" stop="20240715084700 +0000" channel="DMAX.tr"><title lang="tr">İkinci El Kralları</title></programme>
+<programme start="20240715084700 +0000" stop="20240715091500 +0000" channel="DMAX.tr"><title lang="tr">İkinci El Kralları</title></programme>
+<programme start="20240715091500 +0000" stop="20240715094200 +0000" channel="DMAX.tr"><title lang="tr">İkinci El Kralları</title></programme>
+<programme start="20240715094200 +0000" stop="20240715101000 +0000" channel="DMAX.tr"><title lang="tr">İkinci El Kralları</title></programme>
+<programme start="20240715101000 +0000" stop="20240715111000 +0000" channel="DMAX.tr"><title lang="tr">Guy Fieri ile Yollarda</title></programme>
+<programme start="20240715111000 +0000" stop="20240715121000 +0000" channel="DMAX.tr"><title lang="tr">Mangal Savaşları</title></programme>
+<programme start="20240715121000 +0000" stop="20240715131000 +0000" channel="DMAX.tr"><title lang="tr">İngiltere Mezatçıları</title></programme>
+<programme start="20240715131000 +0000" stop="20240715141000 +0000" channel="DMAX.tr"><title lang="tr">Amerikan Hurda Avcıları</title></programme>
+<programme start="20240715141000 +0000" stop="20240715151000 +0000" channel="DMAX.tr"><title lang="tr">Amerikan Hurda Avcıları</title></programme>
+<programme start="20240715151000 +0000" stop="20240715161000 +0000" channel="DMAX.tr"><title lang="tr">Küçük Dev Güreşçiler</title></programme>
+<programme start="20240715161000 +0000" stop="20240715171000 +0000" channel="DMAX.tr"><title lang="tr">Opal Avcıları: Kızıl Kumlar</title></programme>
+<programme start="20240715171000 +0000" stop="20240715181000 +0000" channel="DMAX.tr"><title lang="tr">Dünya&apos;nın Dört Bir Yanı</title></programme>
+<programme start="20240715181000 +0000" stop="20240715183700 +0000" channel="DMAX.tr"><title lang="tr">Antika Avcıları</title></programme>
+<programme start="20240715183700 +0000" stop="20240715190500 +0000" channel="DMAX.tr"><title lang="tr">Antika Avcıları</title></programme>
+<programme start="20240715190500 +0000" stop="20240715193200 +0000" channel="DMAX.tr"><title lang="tr">Antika Avcıları</title></programme>
+<programme start="20240715193200 +0000" stop="20240715200000 +0000" channel="DMAX.tr"><title lang="tr">Antika Avcıları</title></programme>
+<programme start="20240715200000 +0000" stop="20240715210000 +0000" channel="DMAX.tr"><title lang="tr">Altın Peşinde: Parker&apos;ın Yolu</title></programme>
 <programme start="20240713212000 +0000" stop="20240714004500 +0000" channel="EuroD.tr"><title lang="tr">cok akustik</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/300.311_genre_w1920.webp</image></programme>
 <programme start="20240714004500 +0000" stop="20240714030000 +0000" channel="EuroD.tr"><title lang="tr">Güneşi Beklerken</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p15270797ih10aa_Iconic_w1920.webp</image></programme>
 <programme start="20240714030000 +0000" stop="20240714040000 +0000" channel="EuroD.tr"><title lang="tr">Cati kati ask</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/200.213_genre_w1920.webp</image></programme>
