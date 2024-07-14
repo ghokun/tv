@@ -9,6 +9,10 @@ https://ythls.armelin.one/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Çocuk",Cartoon Network
 http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_Türk_logo.svg/512px-CNN_Türk_logo.svg.png" group-title="Haber",CNN TÜRK
+http://stream.tvcdn.net/haber/cnn-turk.m3u8
+#EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/512px-DMAX_BLACK.svg.png" group-title="Eğlence",DMAX
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 tvg-id="EuroD.tr" tvg-logo="https://i.imgur.com/x9kHsXo.png" group-title="Ulusal",Euro D (720p)
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="Ulusal",NOW
@@ -47,6 +51,8 @@ https://dogus-live.daioncdn.net/tlc/tlc.m3u8
 https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://i.imgur.com/iOCQdyD.png" group-title="Ulusal",TRT 2
 https://trt2.blutv.com/blutv_trt2/live.m3u8
+#EXTINF:-1 tvg-id="TRT3.tr" tvg-logo="https://i.imgur.com/6tv0zxh.png" group-title="Spor",TRT 3
+http://stream.tvcdn.net/spor/trt-3-spor.m3u8
 #EXTINF:-1 tvg-id="TRT4K.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/TRT_4K.svg/512px-TRT_4K.svg.png" group-title="Belgesel",TRT 4K
 https://mn-nl.mncdn.com/blutv_trt4k/live.m3u8
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/512px-TRT_Belgesel_logo_%282019-%29.svg.png" group-title="Belgesel",TRT Belgesel (720p)

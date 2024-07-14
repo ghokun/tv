@@ -6,6 +6,7 @@
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="BeyazTV.tr" site_id="36">Beyaz TV</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="CartoonNetwork.tr" site_id="169">Cartoon Network</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="CNNTurk.tr" site_id="42">CNN TÜRK</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="DMAX.tr" site_id="49">DMAX</channel>
 <channel site="tv.blue.ch" lang="tr" xmltv_id="EuroD.tr" site_id="161">Euro D</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="Fox.tr" site_id="26">FOX</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="HaberturkTV.tr" site_id="44">Haber Türk</channel>
@@ -25,6 +26,7 @@
 <channel site="turksatkablo.com.tr" lang="tr" xmltv_id="TLC.tr" site_id="1754">TLC</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="TRT1.tr" site_id="23">TRT 1</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="TRT2.tr" site_id="66">TRT 2</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="TRT3.tr" site_id="56">TRT 3</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="TRT4K.tr" site_id="174#59dcbee1cfef0b4d80a49650">TRT 4K</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="TRTBelgesel.tr" site_id="190">TRT Belgesel</channel>
 <channel site="digiturk.com.tr" lang="tr" xmltv_id="TRTCocuk.tr" site_id="160">TRT Çocuk</channel>
