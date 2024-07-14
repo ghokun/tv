@@ -74,8 +74,8 @@
       "epg": {
         "channel": "DMAX",
         "lang": "tr",
-        "site": "digiturk.com.tr",
-        "site_id": "49"
+        "site": "turksatkablo.com.tr",
+        "site_id": "1900"
       },
       "m3u": {
         "group_title": "Eğlence",
