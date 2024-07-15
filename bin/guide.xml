@@ -169,6 +169,15 @@
 <programme start="20240716000000 +0000" stop="20240716013000 +0000" channel="BeyazTV.tr"><title lang="tr">Tabana Kuvvet</title></programme>
 <programme start="20240716013000 +0000" stop="20240716030000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
 <programme start="20240716030000 +0000" stop="20240716070000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyin Avcıları</title></programme>
+<programme start="20240716050000 +0000" stop="20240716090000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Magazin</title></programme>
+<programme start="20240716090000 +0000" stop="20240716104500 +0000" channel="BeyazTV.tr"><title lang="tr">Nilüfer Zamanı</title></programme>
+<programme start="20240716104500 +0000" stop="20240716121500 +0000" channel="BeyazTV.tr"><title lang="tr">Nermin ile Hazırsan...</title></programme>
+<programme start="20240716121500 +0000" stop="20240716132000 +0000" channel="BeyazTV.tr"><title lang="tr">Belma Belen&apos;le Geziyoruz</title></programme>
+<programme start="20240716132000 +0000" stop="20240716153000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
+<programme start="20240716153000 +0000" stop="20240716163000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Ana Haber</title></programme>
+<programme start="20240716163000 +0000" stop="20240716184500 +0000" channel="BeyazTV.tr"><title lang="tr">Yabancı</title></programme>
+<programme start="20240716184500 +0000" stop="20240716203000 +0000" channel="BeyazTV.tr"><title lang="tr">Kozmik İstila</title></programme>
+<programme start="20240716203000 +0000" stop="20240716221500 +0000" channel="BeyazTV.tr"><title lang="tr">Yabancı</title></programme>
 <programme start="20240714204500 +0000" stop="20240714211000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Sevimli Kahramanlar Hikayeler</title></programme>
 <programme start="20240714211000 +0000" stop="20240714213500 +0000" channel="CartoonNetwork.tr"><title lang="tr">Ben 10</title></programme>
 <programme start="20240714213500 +0000" stop="20240714220000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Ben 10</title></programme>
@@ -280,10 +289,10 @@
 <programme start="20240715120000 +0000" stop="20240715130000 +0000" channel="CNNTurk.tr"><title lang="tr">Bugün</title></programme>
 <programme start="20240715130000 +0000" stop="20240715140000 +0000" channel="CNNTurk.tr"><title lang="tr">Günlük</title></programme>
 <programme start="20240715140000 +0000" stop="20240715150000 +0000" channel="CNNTurk.tr"><title lang="tr">Günlük</title></programme>
-<programme start="20240715150000 +0000" stop="20240715173000 +0000" channel="CNNTurk.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240715173000 +0000" stop="20240715210000 +0000" channel="CNNTurk.tr"><title lang="tr">Tarafsız Bölge</title></programme>
-<programme start="20240715210000 +0000" stop="20240715213000 +0000" channel="CNNTurk.tr"><title lang="tr">Gece Haberleri</title></programme>
-<programme start="20240715213000 +0000" stop="20240716030000 +0000" channel="CNNTurk.tr"><title lang="tr">Tarafsız Bölge</title></programme>
+<programme start="20240715150000 +0000" stop="20240715174500 +0000" channel="CNNTurk.tr"><title lang="tr">Ana Haber</title></programme>
+<programme start="20240715174500 +0000" stop="20240715210000 +0000" channel="CNNTurk.tr"><title lang="tr">Gece Görüşü</title></programme>
+<programme start="20240715210000 +0000" stop="20240715231500 +0000" channel="CNNTurk.tr"><title lang="tr">Gece Haberleri</title></programme>
+<programme start="20240715231500 +0000" stop="20240716030000 +0000" channel="CNNTurk.tr"><title lang="tr">Gece Görüşü</title></programme>
 <programme start="20240716030000 +0000" stop="20240716040000 +0000" channel="CNNTurk.tr"><title lang="tr">A&apos;dan Z&apos;ye</title></programme>
 <programme start="20240716040000 +0000" stop="20240716050000 +0000" channel="CNNTurk.tr"><title lang="tr">A&apos;dan Z&apos;ye</title></programme>
 <programme start="20240716050000 +0000" stop="20240716060000 +0000" channel="CNNTurk.tr"><title lang="tr">A&apos;dan Z&apos;ye</title></programme>
@@ -297,7 +306,7 @@
 <programme start="20240716130000 +0000" stop="20240716140000 +0000" channel="CNNTurk.tr"><title lang="tr">Günlük</title></programme>
 <programme start="20240716140000 +0000" stop="20240716150000 +0000" channel="CNNTurk.tr"><title lang="tr">Günlük</title></programme>
 <programme start="20240716150000 +0000" stop="20240716174500 +0000" channel="CNNTurk.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240716174500 +0000" stop="20240716220000 +0000" channel="CNNTurk.tr"><title lang="tr">Gece Görüşü</title></programme>
+<programme start="20240716174500 +0000" stop="20240716220000 +0000" channel="CNNTurk.tr"><title lang="tr">Akıl Çemberi</title></programme>
 <programme start="20240714210000 +0000" stop="20240714215500 +0000" channel="DMAX.tr"><title lang="tr">Amerikan Hurda Avcıları</title></programme>
 <programme start="20240714215500 +0000" stop="20240714222200 +0000" channel="DMAX.tr"><title lang="tr">Konteyner Savaşları</title></programme>
 <programme start="20240714222200 +0000" stop="20240714225000 +0000" channel="DMAX.tr"><title lang="tr">Konteyner Savaşları</title></programme>
