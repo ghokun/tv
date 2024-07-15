@@ -76,24 +76,12 @@
 <programme start="20240715045500 +0000" stop="20240715050000 +0000" channel="AHaber.tr"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20240715050000 +0000" stop="20240715055500 +0000" channel="AHaber.tr"><title lang="tr">Sabah Ajansı</title></programme>
 <programme start="20240715055500 +0000" stop="20240715060000 +0000" channel="AHaber.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20240715060000 +0000" stop="20240715065500 +0000" channel="AHaber.tr"><title lang="tr">Ajans Bugün</title></programme>
-<programme start="20240715065500 +0000" stop="20240715070000 +0000" channel="AHaber.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20240715070000 +0000" stop="20240715080000 +0000" channel="AHaber.tr"><title lang="tr">Ajans Bugün</title></programme>
-<programme start="20240715080000 +0000" stop="20240715085500 +0000" channel="AHaber.tr"><title lang="tr">Ajans Bugün</title></programme>
-<programme start="20240715085500 +0000" stop="20240715090000 +0000" channel="AHaber.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20240715090000 +0000" stop="20240715100000 +0000" channel="AHaber.tr"><title lang="tr">Ajans Bugün</title></programme>
-<programme start="20240715100000 +0000" stop="20240715105500 +0000" channel="AHaber.tr"><title lang="tr">Ajans</title></programme>
-<programme start="20240715105500 +0000" stop="20240715110000 +0000" channel="AHaber.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20240715110000 +0000" stop="20240715120000 +0000" channel="AHaber.tr"><title lang="tr">Ajans</title></programme>
-<programme start="20240715120000 +0000" stop="20240715125500 +0000" channel="AHaber.tr"><title lang="tr">Ajans Gün İçi</title></programme>
-<programme start="20240715125500 +0000" stop="20240715130000 +0000" channel="AHaber.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20240715130000 +0000" stop="20240715140000 +0000" channel="AHaber.tr"><title lang="tr">Ajans Gün İçi</title></programme>
-<programme start="20240715140000 +0000" stop="20240715150000 +0000" channel="AHaber.tr"><title lang="tr">Ajans Akşama Doğru</title></programme>
-<programme start="20240715150000 +0000" stop="20240715160000 +0000" channel="AHaber.tr"><title lang="tr">Ajans Akşama Doğru</title></programme>
-<programme start="20240715160000 +0000" stop="20240715170000 +0000" channel="AHaber.tr"><title lang="tr">Akşam Ajansı</title></programme>
-<programme start="20240715170000 +0000" stop="20240715175000 +0000" channel="AHaber.tr"><title lang="tr">Akşam Ajansı</title></programme>
-<programme start="20240715175000 +0000" stop="20240715180000 +0000" channel="AHaber.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20240715180000 +0000" stop="20240715210000 +0000" channel="AHaber.tr"><title lang="tr">Sebep Sonuç</title></programme>
+<programme start="20240715060000 +0000" stop="20240715090000 +0000" channel="AHaber.tr"><title lang="tr">15 Temmuz Özel Yayın</title></programme>
+<programme start="20240715090000 +0000" stop="20240715120000 +0000" channel="AHaber.tr"><title lang="tr">15 Temmuz Özel Yayın</title></programme>
+<programme start="20240715120000 +0000" stop="20240715150000 +0000" channel="AHaber.tr"><title lang="tr">15 Temmuz Özel Yayın</title></programme>
+<programme start="20240715150000 +0000" stop="20240715180000 +0000" channel="AHaber.tr"><title lang="tr">15 Temmuz Özel Yayın</title></programme>
+<programme start="20240715180000 +0000" stop="20240715200000 +0000" channel="AHaber.tr"><title lang="tr">15 Temmuz Özel Yayın</title></programme>
+<programme start="20240715200000 +0000" stop="20240715210000 +0000" channel="AHaber.tr"><title lang="tr">15 Temmuz Özel Yayın</title></programme>
 <programme start="20240715210000 +0000" stop="20240715230000 +0000" channel="AHaber.tr"><title lang="tr">Gece Ajansı</title></programme>
 <programme start="20240715230000 +0000" stop="20240716003000 +0000" channel="AHaber.tr"><title lang="tr">A Haber Gece</title></programme>
 <programme start="20240716003000 +0000" stop="20240716020000 +0000" channel="AHaber.tr"><title lang="tr">Sebep Sonuç</title></programme>
@@ -413,13 +401,14 @@
 <programme start="20240715170000 +0000" stop="20240715191500 +0000" channel="Fox.tr"><title lang="tr">Üçlü Pürüz</title></programme>
 <programme start="20240715191500 +0000" stop="20240715223000 +0000" channel="Fox.tr"><title lang="tr">Kızıl Goncalar</title></programme>
 <programme start="20240715191500 +0000" stop="20240715223000 +0000" channel="Fox.tr"><title lang="tr">Kızıl Goncalar</title></programme>
-<programme start="20240716003000 +0000" stop="20240716024500 +0000" channel="Fox.tr"><title lang="tr">Son Yaz</title></programme>
-<programme start="20240716024500 +0000" stop="20240716053000 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin...</title></programme>
+<programme start="20240715223000 +0000" stop="20240716010000 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin...</title></programme>
+<programme start="20240716010000 +0000" stop="20240716023000 +0000" channel="Fox.tr"><title lang="tr">Son Yaz</title></programme>
+<programme start="20240716023000 +0000" stop="20240716053000 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin...</title></programme>
 <programme start="20240716053000 +0000" stop="20240716070000 +0000" channel="Fox.tr"><title lang="tr">Çalar Saat</title></programme>
-<programme start="20240716070000 +0000" stop="20240716100000 +0000" channel="Fox.tr"><title lang="tr">Şevkat Yerimdar</title></programme>
-<programme start="20240716100000 +0000" stop="20240716111500 +0000" channel="Fox.tr"><title lang="tr">Kiraz Mevsimi</title></programme>
-<programme start="20240716111500 +0000" stop="20240716133000 +0000" channel="Fox.tr"><title lang="tr">Recep İvedik 4</title></programme>
-<programme start="20240716133000 +0000" stop="20240716160000 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin...</title></programme>
+<programme start="20240716070000 +0000" stop="20240716093000 +0000" channel="Fox.tr"><title lang="tr">Şevkat Yerimdar</title></programme>
+<programme start="20240716093000 +0000" stop="20240716110000 +0000" channel="Fox.tr"><title lang="tr">Kiraz Mevsimi</title></programme>
+<programme start="20240716110000 +0000" stop="20240716131500 +0000" channel="Fox.tr"><title lang="tr">Üçlü Pürüz</title></programme>
+<programme start="20240716131500 +0000" stop="20240716160000 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin...</title></programme>
 <programme start="20240716160000 +0000" stop="20240716170000 +0000" channel="Fox.tr"><title lang="tr">NOW Ana Haber</title></programme>
 <programme start="20240716170000 +0000" stop="20240716190000 +0000" channel="Fox.tr"><title lang="tr">Tolgshow Filtresiz</title></programme>
 <programme start="20240716190000 +0000" stop="20240716210000 +0000" channel="Fox.tr"><title lang="tr">Tolgshow Filtresiz</title></programme>
@@ -427,16 +416,11 @@
 <programme start="20240714221500 +0000" stop="20240715000000 +0000" channel="HaberturkTV.tr"><title lang="tr">Özel Röportaj</title></programme>
 <programme start="20240715000000 +0000" stop="20240715030000 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240715030000 +0000" stop="20240715060000 +0000" channel="HaberturkTV.tr"><title lang="tr">Gün Başlıyor</title></programme>
-<programme start="20240715060000 +0000" stop="20240715083000 +0000" channel="HaberturkTV.tr"><title lang="tr">Para Gündem</title></programme>
-<programme start="20240715083000 +0000" stop="20240715090000 +0000" channel="HaberturkTV.tr"><title lang="tr">HT Spor Gündem</title></programme>
-<programme start="20240715090000 +0000" stop="20240715104500 +0000" channel="HaberturkTV.tr"><title lang="tr">Gün Ortası</title></programme>
-<programme start="20240715104500 +0000" stop="20240715110000 +0000" channel="HaberturkTV.tr"><title lang="tr">Spor Bülteni</title></programme>
-<programme start="20240715110000 +0000" stop="20240715123000 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Hattı</title></programme>
-<programme start="20240715123000 +0000" stop="20240715130000 +0000" channel="HaberturkTV.tr"><title lang="tr">HT Spor Aktüel</title></programme>
-<programme start="20240715130000 +0000" stop="20240715150000 +0000" channel="HaberturkTV.tr"><title lang="tr">HT 360</title></programme>
-<programme start="20240715150000 +0000" stop="20240715170000 +0000" channel="HaberturkTV.tr"><title lang="tr">Ana Haber Bülteni</title></programme>
-<programme start="20240715170000 +0000" stop="20240715173000 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240715173000 +0000" stop="20240715200000 +0000" channel="HaberturkTV.tr"><title lang="tr">Açık ve Net</title></programme>
+<programme start="20240715060000 +0000" stop="20240715090000 +0000" channel="HaberturkTV.tr"><title lang="tr">15 Temmuz Milletin Zaferi</title></programme>
+<programme start="20240715090000 +0000" stop="20240715120000 +0000" channel="HaberturkTV.tr"><title lang="tr">15 Temmuz Milletin Zaferi</title></programme>
+<programme start="20240715120000 +0000" stop="20240715150000 +0000" channel="HaberturkTV.tr"><title lang="tr">15 Temmuz Milletin Zaferi</title></programme>
+<programme start="20240715150000 +0000" stop="20240715183000 +0000" channel="HaberturkTV.tr"><title lang="tr">Ana Haber Bülteni</title></programme>
+<programme start="20240715183000 +0000" stop="20240715200000 +0000" channel="HaberturkTV.tr"><title lang="tr">15 Temmuz Özel Yayını</title></programme>
 <programme start="20240715200000 +0000" stop="20240715220000 +0000" channel="HaberturkTV.tr"><title lang="tr">Mesut Yar ile Gece Hattı</title></programme>
 <programme start="20240715200000 +0000" stop="20240715220000 +0000" channel="HaberturkTV.tr"><title lang="tr">Mesut Yar ile Gece Hattı</title></programme>
 <programme start="20240715220000 +0000" stop="20240716000000 +0000" channel="HaberturkTV.tr"><title lang="tr">15 Temmuz Özel Yayını</title></programme>
@@ -486,14 +470,15 @@
 <programme start="20240714233000 +0000" stop="20240715033000 +0000" channel="Kanal7.tr"><title lang="tr">Tekrar Programlar</title></programme>
 <programme start="20240715033000 +0000" stop="20240715051500 +0000" channel="Kanal7.tr"><title lang="tr">Kanal 7&apos;de Sabah</title></programme>
 <programme start="20240715051500 +0000" stop="20240715061500 +0000" channel="Kanal7.tr"><title lang="tr">Hayatı Paylaşmak</title></programme>
-<programme start="20240715061500 +0000" stop="20240715080000 +0000" channel="Kanal7.tr"><title lang="tr">Yemin</title></programme>
-<programme start="20240715080000 +0000" stop="20240715100000 +0000" channel="Kanal7.tr"><title lang="tr">TV Filmi</title></programme>
-<programme start="20240715100000 +0000" stop="20240715121500 +0000" channel="Kanal7.tr"><title lang="tr">TV Filmi</title></programme>
-<programme start="20240715121500 +0000" stop="20240715134500 +0000" channel="Kanal7.tr"><title lang="tr">Nefes</title></programme>
-<programme start="20240715134500 +0000" stop="20240715150000 +0000" channel="Kanal7.tr"><title lang="tr">Her Halimle Sev</title></programme>
+<programme start="20240715061500 +0000" stop="20240715074500 +0000" channel="Kanal7.tr"><title lang="tr">Yemin</title></programme>
+<programme start="20240715074500 +0000" stop="20240715094500 +0000" channel="Kanal7.tr"><title lang="tr">TV Filmi</title></programme>
+<programme start="20240715094500 +0000" stop="20240715111500 +0000" channel="Kanal7.tr"><title lang="tr">TV Filmi</title></programme>
+<programme start="20240715111500 +0000" stop="20240715130000 +0000" channel="Kanal7.tr"><title lang="tr">Nefes</title></programme>
+<programme start="20240715130000 +0000" stop="20240715150000 +0000" channel="Kanal7.tr"><title lang="tr">Her Halimle Sev</title></programme>
 <programme start="20240715150000 +0000" stop="20240715160000 +0000" channel="Kanal7.tr"><title lang="tr">Kanal 7 Haber Saati</title></programme>
 <programme start="20240715160000 +0000" stop="20240715182000 +0000" channel="Kanal7.tr"><title lang="tr">Esaret</title></programme>
-<programme start="20240715182000 +0000" stop="20240715194500 +0000" channel="Kanal7.tr"><title lang="tr">15 Temmuz Destanı Özel</title></programme>
+<programme start="20240715182000 +0000" stop="20240715190500 +0000" channel="Kanal7.tr"><title lang="tr">15 Temmuz Destanı Özel</title></programme>
+<programme start="20240715190500 +0000" stop="20240715194500 +0000" channel="Kanal7.tr"><title lang="tr">Öylesine Derin</title></programme>
 <programme start="20240715194500 +0000" stop="20240715233000 +0000" channel="Kanal7.tr"><title lang="tr">Diriliş Ertuğrul</title></programme>
 <programme start="20240715194500 +0000" stop="20240715233000 +0000" channel="Kanal7.tr"><title lang="tr">Diriliş Ertuğrul</title></programme>
 <programme start="20240715233000 +0000" stop="20240716033000 +0000" channel="Kanal7.tr"><title lang="tr">Tekrar Programlar</title></programme>
@@ -1226,8 +1211,7 @@
 <programme start="20240715103000 +0000" stop="20240715131500 +0000" channel="StarTV.tr"><title lang="tr">Yüksek Sosyete</title></programme>
 <programme start="20240715131500 +0000" stop="20240715160000 +0000" channel="StarTV.tr"><title lang="tr">Erkenci Kuş</title></programme>
 <programme start="20240715160000 +0000" stop="20240715170000 +0000" channel="StarTV.tr"><title lang="tr">Star Haber</title></programme>
-<programme start="20240715170000 +0000" stop="20240715213000 +0000" channel="StarTV.tr"><title lang="tr">Dizi</title></programme>
-<programme start="20240715170000 +0000" stop="20240715213000 +0000" channel="StarTV.tr"><title lang="tr">Dizi</title></programme>
+<programme start="20240715170000 +0000" stop="20240715203000 +0000" channel="StarTV.tr"><title lang="tr">John Wick 4</title></programme>
 <programme start="20240715203000 +0000" stop="20240715230000 +0000" channel="StarTV.tr"><title lang="tr">John Wick 4</title></programme>
 <programme start="20240715203000 +0000" stop="20240715230000 +0000" channel="StarTV.tr"><title lang="tr">John Wick 4</title></programme>
 <programme start="20240715230000 +0000" stop="20240716023000 +0000" channel="StarTV.tr"><title lang="tr">Yüksek Sosyete</title></programme>
@@ -1479,6 +1463,7 @@
 <programme start="20240715021500 +0000" stop="20240715030500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Büyük Aile Çiftliği</title></programme>
 <programme start="20240715030500 +0000" stop="20240715035500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Plaj Çakalları</title></programme>
 <programme start="20240715035500 +0000" stop="20240715075500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Tanıtım</title></programme>
+<programme start="20240715064000 +0000" stop="20240715073500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Ailenin Yeni Üyesi</title></programme>
 <programme start="20240715073500 +0000" stop="20240715080500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Yiyeceğin Serüveni</title></programme>
 <programme start="20240715080500 +0000" stop="20240715085000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Yok Olmadan Keşfet</title></programme>
 <programme start="20240715085000 +0000" stop="20240715093000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Hedef Sıfır Atık</title></programme>
@@ -1497,6 +1482,15 @@
 <programme start="20240715193000 +0000" stop="20240715201000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Dünyayı Darp Edenler</title></programme>
 <programme start="20240715201000 +0000" stop="20240715211000 +0000" channel="TRTBelgesel.tr"><title lang="tr">67 49 32 Kuzey</title></programme>
 <programme start="20240715201000 +0000" stop="20240715211000 +0000" channel="TRTBelgesel.tr"><title lang="tr">67 49 32 Kuzey</title></programme>
+<programme start="20240715211000 +0000" stop="20240715220500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Türkiye&apos;nin Dev...</title></programme>
+<programme start="20240715220500 +0000" stop="20240715230000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Yurtsuz Kraliçe</title></programme>
+<programme start="20240715230000 +0000" stop="20240715235000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Nasıl Çalışır</title></programme>
+<programme start="20240715235000 +0000" stop="20240716003500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Yeni Köylü</title></programme>
+<programme start="20240716003500 +0000" stop="20240716011500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Hedef Sıfır Atık</title></programme>
+<programme start="20240716011500 +0000" stop="20240716021000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Su Savaşları</title></programme>
+<programme start="20240716021000 +0000" stop="20240716025500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Ulak</title></programme>
+<programme start="20240716025500 +0000" stop="20240716035500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Dağ Gibi</title></programme>
+<programme start="20240716035500 +0000" stop="20240716075500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Tanıtım</title></programme>
 <programme start="20240714205000 +0000" stop="20240714211500 +0000" channel="TRTCocuk.tr"><title lang="tr">Variloto</title></programme>
 <programme start="20240714211500 +0000" stop="20240714213500 +0000" channel="TRTCocuk.tr"><title lang="tr">Maysa ve Bulut</title></programme>
 <programme start="20240714213500 +0000" stop="20240714220000 +0000" channel="TRTCocuk.tr"><title lang="tr">Aslan</title></programme>
@@ -1770,9 +1764,9 @@
 <programme start="20240715053000 +0000" stop="20240715064500 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
 <programme start="20240715064500 +0000" stop="20240715104500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240715104500 +0000" stop="20240715124500 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
-<programme start="20240715124500 +0000" stop="20240715170000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
-<programme start="20240715170000 +0000" stop="20240715211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
-<programme start="20240715170000 +0000" stop="20240715211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240715124500 +0000" stop="20240715160000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
+<programme start="20240715160000 +0000" stop="20240715211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240715160000 +0000" stop="20240715211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240715211500 +0000" stop="20240715233000 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240715233000 +0000" stop="20240716013000 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
 <programme start="20240716013000 +0000" stop="20240716030000 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
