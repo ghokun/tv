@@ -171,7 +171,8 @@
 <programme start="20240715221500 +0000" stop="20240716000000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyin Avcıları</title></programme>
 <programme start="20240716000000 +0000" stop="20240716013000 +0000" channel="BeyazTV.tr"><title lang="tr">Tabana Kuvvet</title></programme>
 <programme start="20240716013000 +0000" stop="20240716030000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
-<programme start="20240716030000 +0000" stop="20240716070000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyin Avcıları</title></programme>
+<programme start="20240716030000 +0000" stop="20240716043000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyin Avcıları</title></programme>
+<programme start="20240716043000 +0000" stop="20240716050000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
 <programme start="20240716050000 +0000" stop="20240716090000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Magazin</title></programme>
 <programme start="20240716090000 +0000" stop="20240716104500 +0000" channel="BeyazTV.tr"><title lang="tr">Nilüfer Zamanı</title></programme>
 <programme start="20240716104500 +0000" stop="20240716121500 +0000" channel="BeyazTV.tr"><title lang="tr">Nermin ile Hazırsan...</title></programme>
@@ -293,9 +294,10 @@
 <programme start="20240715130000 +0000" stop="20240715140000 +0000" channel="CNNTurk.tr"><title lang="tr">Günlük</title></programme>
 <programme start="20240715140000 +0000" stop="20240715150000 +0000" channel="CNNTurk.tr"><title lang="tr">Günlük</title></programme>
 <programme start="20240715150000 +0000" stop="20240715174500 +0000" channel="CNNTurk.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240715174500 +0000" stop="20240715210000 +0000" channel="CNNTurk.tr"><title lang="tr">Gece Görüşü</title></programme>
-<programme start="20240715210000 +0000" stop="20240715231500 +0000" channel="CNNTurk.tr"><title lang="tr">Gece Haberleri</title></programme>
-<programme start="20240715231500 +0000" stop="20240716030000 +0000" channel="CNNTurk.tr"><title lang="tr">Gece Görüşü</title></programme>
+<programme start="20240715174500 +0000" stop="20240715220000 +0000" channel="CNNTurk.tr"><title lang="tr">Akıl Çemberi</title></programme>
+<programme start="20240715174500 +0000" stop="20240715220000 +0000" channel="CNNTurk.tr"><title lang="tr">Akıl Çemberi</title></programme>
+<programme start="20240715220000 +0000" stop="20240715231500 +0000" channel="CNNTurk.tr"><title lang="tr">Gece Haberleri</title></programme>
+<programme start="20240715231500 +0000" stop="20240716030000 +0000" channel="CNNTurk.tr"><title lang="tr">Akıl Çemberi</title></programme>
 <programme start="20240716030000 +0000" stop="20240716040000 +0000" channel="CNNTurk.tr"><title lang="tr">A&apos;dan Z&apos;ye</title></programme>
 <programme start="20240716040000 +0000" stop="20240716050000 +0000" channel="CNNTurk.tr"><title lang="tr">A&apos;dan Z&apos;ye</title></programme>
 <programme start="20240716050000 +0000" stop="20240716060000 +0000" channel="CNNTurk.tr"><title lang="tr">A&apos;dan Z&apos;ye</title></programme>
@@ -527,17 +529,19 @@
 <programme start="20240715130000 +0000" stop="20240715160000 +0000" channel="KanalD.tr"><title lang="tr">Arka Sokaklar</title></programme>
 <programme start="20240715160000 +0000" stop="20240715170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
 <programme start="20240715170000 +0000" stop="20240715201500 +0000" channel="KanalD.tr"><title lang="tr">Yalan</title></programme>
-<programme start="20240715201500 +0000" stop="20240715233000 +0000" channel="KanalD.tr"><title lang="tr">Annem</title></programme>
-<programme start="20240715201500 +0000" stop="20240715233000 +0000" channel="KanalD.tr"><title lang="tr">Annem</title></programme>
-<programme start="20240715233000 +0000" stop="20240716020000 +0000" channel="KanalD.tr"><title lang="tr">Güneşin Kızları</title></programme>
-<programme start="20240716020000 +0000" stop="20240716040000 +0000" channel="KanalD.tr"><title lang="tr">Çatı Katı Aşk</title></programme>
+<programme start="20240715201500 +0000" stop="20240716001500 +0000" channel="KanalD.tr"><title lang="tr">Annem</title></programme>
+<programme start="20240715201500 +0000" stop="20240716001500 +0000" channel="KanalD.tr"><title lang="tr">Annem</title></programme>
+<programme start="20240716001500 +0000" stop="20240716014500 +0000" channel="KanalD.tr"><title lang="tr">Güneşi Beklerken</title></programme>
+<programme start="20240716014500 +0000" stop="20240716040000 +0000" channel="KanalD.tr"><title lang="tr">Çatı Katı Aşk</title></programme>
 <programme start="20240716040000 +0000" stop="20240716060000 +0000" channel="KanalD.tr"><title lang="tr">Öyle Bir Geçer Zaman Ki</title></programme>
 <programme start="20240716060000 +0000" stop="20240716080000 +0000" channel="KanalD.tr"><title lang="tr">Neler Oluyor Hayatta</title></programme>
 <programme start="20240716080000 +0000" stop="20240716090000 +0000" channel="KanalD.tr"><title lang="tr">Magazin D Yaz</title></programme>
 <programme start="20240716090000 +0000" stop="20240716100000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Haber Gün Arası</title></programme>
 <programme start="20240716100000 +0000" stop="20240716130000 +0000" channel="KanalD.tr"><title lang="tr">İnci Taneleri</title></programme>
 <programme start="20240716130000 +0000" stop="20240716160000 +0000" channel="KanalD.tr"><title lang="tr">Arka Sokaklar</title></programme>
-<programme start="20240716160000 +0000" stop="20240716233000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
+<programme start="20240716160000 +0000" stop="20240716170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
+<programme start="20240716170000 +0000" stop="20240716204500 +0000" channel="KanalD.tr"><title lang="tr">Avengers: Endgame</title></programme>
+<programme start="20240716204500 +0000" stop="20240716233000 +0000" channel="KanalD.tr"><title lang="tr">Avengers: Endgame</title></programme>
 <programme start="20240714210000 +0000" stop="20240714213000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Bi&apos; Adada Bi&apos; Arada</title></programme>
 <programme start="20240714213000 +0000" stop="20240714214500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kukuli</title></programme>
 <programme start="20240714214500 +0000" stop="20240714220000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kukuli</title></programme>
