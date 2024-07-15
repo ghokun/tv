@@ -85,10 +85,15 @@
 <programme start="20240715100000 +0000" stop="20240715105500 +0000" channel="AHaber.tr"><title lang="tr">Ajans</title></programme>
 <programme start="20240715105500 +0000" stop="20240715110000 +0000" channel="AHaber.tr"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20240715110000 +0000" stop="20240715120000 +0000" channel="AHaber.tr"><title lang="tr">Ajans</title></programme>
-<programme start="20240715120000 +0000" stop="20240715150000 +0000" channel="AHaber.tr"><title lang="tr">15 Temmuz Özel Yayın</title></programme>
-<programme start="20240715150000 +0000" stop="20240715180000 +0000" channel="AHaber.tr"><title lang="tr">15 Temmuz Özel Yayın</title></programme>
-<programme start="20240715180000 +0000" stop="20240715200000 +0000" channel="AHaber.tr"><title lang="tr">15 Temmuz Özel Yayın</title></programme>
-<programme start="20240715200000 +0000" stop="20240715210000 +0000" channel="AHaber.tr"><title lang="tr">15 Temmuz Özel Yayın</title></programme>
+<programme start="20240715120000 +0000" stop="20240715125500 +0000" channel="AHaber.tr"><title lang="tr">Ajans Gün İçi</title></programme>
+<programme start="20240715125500 +0000" stop="20240715130000 +0000" channel="AHaber.tr"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20240715130000 +0000" stop="20240715140000 +0000" channel="AHaber.tr"><title lang="tr">Ajans Gün İçi</title></programme>
+<programme start="20240715140000 +0000" stop="20240715150000 +0000" channel="AHaber.tr"><title lang="tr">Ajans Akşama Doğru</title></programme>
+<programme start="20240715150000 +0000" stop="20240715160000 +0000" channel="AHaber.tr"><title lang="tr">Ajans Akşama Doğru</title></programme>
+<programme start="20240715160000 +0000" stop="20240715170000 +0000" channel="AHaber.tr"><title lang="tr">Akşam Ajansı</title></programme>
+<programme start="20240715170000 +0000" stop="20240715175000 +0000" channel="AHaber.tr"><title lang="tr">Akşam Ajansı</title></programme>
+<programme start="20240715175000 +0000" stop="20240715180000 +0000" channel="AHaber.tr"><title lang="tr">Hava Durumu</title></programme>
+<programme start="20240715180000 +0000" stop="20240715210000 +0000" channel="AHaber.tr"><title lang="tr">Sebep Sonuç</title></programme>
 <programme start="20240715210000 +0000" stop="20240715230000 +0000" channel="AHaber.tr"><title lang="tr">Gece Ajansı</title></programme>
 <programme start="20240715230000 +0000" stop="20240716003000 +0000" channel="AHaber.tr"><title lang="tr">A Haber Gece</title></programme>
 <programme start="20240716003000 +0000" stop="20240716020000 +0000" channel="AHaber.tr"><title lang="tr">Sebep Sonuç</title></programme>
