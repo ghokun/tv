@@ -172,8 +172,10 @@
 <programme start="20240716203000 +0000" stop="20240716221500 +0000" channel="BeyazTV.tr"><title lang="tr">Yabancı</title></programme>
 <programme start="20240716203000 +0000" stop="20240716221500 +0000" channel="BeyazTV.tr"><title lang="tr">Yabancı</title></programme>
 <programme start="20240716221500 +0000" stop="20240717001500 +0000" channel="BeyazTV.tr"><title lang="tr">Kozmik İstila</title></programme>
-<programme start="20240717001500 +0000" stop="20240717030000 +0000" channel="BeyazTV.tr"><title lang="tr">Yabancı</title></programme>
-<programme start="20240717030000 +0000" stop="20240717070000 +0000" channel="BeyazTV.tr"><title lang="tr">Kozmik İstila</title></programme>
+<programme start="20240717001500 +0000" stop="20240717023000 +0000" channel="BeyazTV.tr"><title lang="tr">Yabancı</title></programme>
+<programme start="20240717023000 +0000" stop="20240717030000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
+<programme start="20240717030000 +0000" stop="20240717043000 +0000" channel="BeyazTV.tr"><title lang="tr">Kozmik İstila</title></programme>
+<programme start="20240717043000 +0000" stop="20240717063000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
 <programme start="20240717063000 +0000" stop="20240717090000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Magazin</title></programme>
 <programme start="20240717090000 +0000" stop="20240717104500 +0000" channel="BeyazTV.tr"><title lang="tr">Nilüfer Zamanı</title></programme>
 <programme start="20240717104500 +0000" stop="20240717121500 +0000" channel="BeyazTV.tr"><title lang="tr">Nermin&apos;le Hazırsan...</title></programme>
@@ -395,8 +397,10 @@
 <programme start="20240716151500 +0000" stop="20240716154000 +0000" channel="EuroD.tr"><title lang="tr">Sicak gelişme</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/700.701_genre_w1920.webp</image></programme>
 <programme start="20240716154000 +0000" stop="20240716170000 +0000" channel="EuroD.tr"><title lang="tr">Kanal D Ana Haber</title><desc lang="tr">Türkiye&apos;nin ve dünyanin gündemindekiler, siyasal ve ekonomik gelismeler aktariliyor.</desc><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/700.701_genre_w1920.webp</image></programme>
 <programme start="20240716170000 +0000" stop="20240716195000 +0000" channel="EuroD.tr"><title lang="tr">Askin 5 Hali</title><desc lang="tr">Hande annesinin baskisina dayanamayarak onun onderdigi bes kisi ile gorusmeyi kabul eder. Arkadasi Korhan&apos;in yardimiyla randevulara giden Hande garip olaylarla karsilasir.</desc><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/100.111_genre_w1920.webp</image></programme>
-<programme start="20240716195000 +0000" stop="20240717004500 +0000" channel="EuroD.tr"><title lang="tr">Askin 5 Hali</title><desc lang="tr">Hande annesinin baskisina dayanamayarak onun onderdigi bes kisi ile gorusmeyi kabul eder. Arkadasi Korhan&apos;in yardimiyla randevulara giden Hande garip olaylarla karsilasir.</desc><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/100.111_genre_w1920.webp</image></programme>
-<programme start="20240716195000 +0000" stop="20240717004500 +0000" channel="EuroD.tr"><title lang="tr">Askin 5 Hali</title><desc lang="tr">Hande annesinin baskisina dayanamayarak onun onderdigi bes kisi ile gorusmeyi kabul eder. Arkadasi Korhan&apos;in yardimiyla randevulara giden Hande garip olaylarla karsilasir.</desc><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/100.111_genre_w1920.webp</image></programme>
+<programme start="20240716195000 +0000" stop="20240716221500 +0000" channel="EuroD.tr"><title lang="tr">Askin 5 Hali</title><desc lang="tr">Hande annesinin baskisina dayanamayarak onun onderdigi bes kisi ile gorusmeyi kabul eder. Arkadasi Korhan&apos;in yardimiyla randevulara giden Hande garip olaylarla karsilasir.</desc><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/100.111_genre_w1920.webp</image></programme>
+<programme start="20240716221500 +0000" stop="20240716234000 +0000" channel="EuroD.tr"><title lang="tr">Agir Ask</title><desc lang="tr">Euro D kanalinda gösterilen Agir Ask adli program.</desc><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/100.110_genre_w1920.webp</image></programme>
+<programme start="20240716234000 +0000" stop="20240717004500 +0000" channel="EuroD.tr"><title lang="tr">Agir Ask</title><desc lang="tr">Euro D kanalinda gösterilen Agir Ask adli program.</desc><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/100.110_genre_w1920.webp</image></programme>
+<programme start="20240716234000 +0000" stop="20240717004500 +0000" channel="EuroD.tr"><title lang="tr">Agir Ask</title><desc lang="tr">Euro D kanalinda gösterilen Agir Ask adli program.</desc><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/100.110_genre_w1920.webp</image></programme>
 <programme start="20240717004500 +0000" stop="20240717030000 +0000" channel="EuroD.tr"><title lang="tr">Güneşi Beklerken</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p15270797ih10aa_Iconic_w1920.webp</image></programme>
 <programme start="20240717030000 +0000" stop="20240717040000 +0000" channel="EuroD.tr"><title lang="tr">Cati kati ask</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/200.213_genre_w1920.webp</image></programme>
 <programme start="20240717040000 +0000" stop="20240717060000 +0000" channel="EuroD.tr"><title lang="tr">Öyle Bir Gecer Zaman Ki</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p11405153ih10ac_Iconic_w1920.webp</image></programme>
@@ -407,7 +411,9 @@
 <programme start="20240717130000 +0000" stop="20240717151500 +0000" channel="EuroD.tr"><title lang="tr">Arka Sokaklar</title><desc lang="tr">Istanbul Polis Teskilati Asayis Sube&apos;de görev yapan &apos;sivil&apos; bir ekip Istanbul&apos;un sokaklarini arsinlamakta ve karsilarina çikan her türlü kanunsuzlukla savasmaktadirlar. Görevleri sirasinda degisik ve çesitli insan hikayeleriyle karsilasirlar.</desc><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/200.216_genre_w1920.webp</image></programme>
 <programme start="20240717151500 +0000" stop="20240717154000 +0000" channel="EuroD.tr"><title lang="tr">Sicak gelişme</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/700.701_genre_w1920.webp</image></programme>
 <programme start="20240717154000 +0000" stop="20240717170000 +0000" channel="EuroD.tr"><title lang="tr">Kanal D Ana Haber</title><desc lang="tr">Türkiye&apos;nin ve dünyanin gündemindekiler, siyasal ve ekonomik gelismeler aktariliyor.</desc><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/700.701_genre_w1920.webp</image></programme>
-<programme start="20240717170000 +0000" stop="20240718004500 +0000" channel="EuroD.tr"><title lang="tr">Turnike</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/300.399_genre_w1920.webp</image></programme>
+<programme start="20240717170000 +0000" stop="20240717210000 +0000" channel="EuroD.tr"><title lang="tr">Turnike</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/300.399_genre_w1920.webp</image></programme>
+<programme start="20240717210000 +0000" stop="20240717224500 +0000" channel="EuroD.tr"><title lang="tr">Huysuz</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/100.111_genre_w1920.webp</image></programme>
+<programme start="20240717224500 +0000" stop="20240718004500 +0000" channel="EuroD.tr"><title lang="tr">Huysuz</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/100.111_genre_w1920.webp</image></programme>
 <programme start="20240715191500 +0000" stop="20240715223000 +0000" channel="Fox.tr"><title lang="tr">Kızıl Goncalar</title></programme>
 <programme start="20240715223000 +0000" stop="20240716010000 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin...</title></programme>
 <programme start="20240716010000 +0000" stop="20240716023000 +0000" channel="Fox.tr"><title lang="tr">Son Yaz</title></programme>
@@ -1893,7 +1899,25 @@
 <programme start="20240716203000 +0000" stop="20240716213000 +0000" channel="TV85.tr"><title lang="tr">Şampiyonlar Ligi...</title></programme>
 <programme start="20240716213000 +0000" stop="20240716223000 +0000" channel="TV85.tr"><title lang="tr">Şampiyonlar Ligi...</title></programme>
 <programme start="20240716223000 +0000" stop="20240716231500 +0000" channel="TV85.tr"><title lang="tr">Büyük Rekabetler</title></programme>
-<programme start="20240716231500 +0000" stop="20240717001000 +0000" channel="TV85.tr"><title lang="tr">Copa America 2024...</title></programme>
+<programme start="20240716231500 +0000" stop="20240717001500 +0000" channel="TV85.tr"><title lang="tr">Copa America 2024...</title></programme>
+<programme start="20240717001500 +0000" stop="20240717004500 +0000" channel="TV85.tr"><title lang="tr">Büyük Rekabetler</title></programme>
+<programme start="20240717004500 +0000" stop="20240717030000 +0000" channel="TV85.tr"><title lang="tr">Arjantin - Kolombiya</title></programme>
+<programme start="20240717030000 +0000" stop="20240717040000 +0000" channel="TV85.tr"><title lang="tr">UEFA Şampiyonlar Ligi...</title></programme>
+<programme start="20240717040000 +0000" stop="20240717053000 +0000" channel="TV85.tr"><title lang="tr">UEFA Şampiyonlar Ligi...</title></programme>
+<programme start="20240717053000 +0000" stop="20240717071500 +0000" channel="TV85.tr"><title lang="tr">UEFA Şampiyonlar Ligi...</title></programme>
+<programme start="20240717071500 +0000" stop="20240717081500 +0000" channel="TV85.tr"><title lang="tr">UEFA Şampiyonlar Ligi...</title></programme>
+<programme start="20240717081500 +0000" stop="20240717090000 +0000" channel="TV85.tr"><title lang="tr">Borussia DortmundReal Madrid</title></programme>
+<programme start="20240717090000 +0000" stop="20240717101500 +0000" channel="TV85.tr"><title lang="tr">Arjantin Copa America 2024...</title></programme>
+<programme start="20240717101500 +0000" stop="20240717114500 +0000" channel="TV85.tr"><title lang="tr">Fildişi Sahili Afrika...</title></programme>
+<programme start="20240717114500 +0000" stop="20240717140000 +0000" channel="TV85.tr"><title lang="tr">Şampiyonluk Yolu Real...</title></programme>
+<programme start="20240717140000 +0000" stop="20240717152500 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
+<programme start="20240717152500 +0000" stop="20240717165500 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
+<programme start="20240717165500 +0000" stop="20240717172500 +0000" channel="TV85.tr"><title lang="tr">Arjantin - Kolombiya</title></programme>
+<programme start="20240717172500 +0000" stop="20240717181000 +0000" channel="TV85.tr"><title lang="tr">Top 50</title></programme>
+<programme start="20240717181000 +0000" stop="20240717190000 +0000" channel="TV85.tr"><title lang="tr">Beşiktaş – Shakhtar...</title></programme>
+<programme start="20240717190000 +0000" stop="20240717200500 +0000" channel="TV85.tr"><title lang="tr">Büyük Rekabetler</title></programme>
+<programme start="20240717200500 +0000" stop="20240717204500 +0000" channel="TV85.tr"><title lang="tr">Büyük Rekabetler</title></programme>
+<programme start="20240717204500 +0000" stop="20240717211500 +0000" channel="TV85.tr"><title lang="tr">Beşiktaş – Shakhtar...</title></programme>
 <programme start="20240715210000 +0000" stop="20240715220000 +0000" channel="TV100.tr"><title lang="tr">Gece Haberleri</title></programme>
 <programme start="20240715220000 +0000" stop="20240715231500 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
 <programme start="20240715231500 +0000" stop="20240716013000 +0000" channel="TV100.tr"><title lang="tr">Kübra Par ile Farklı...</title></programme>
