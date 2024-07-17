@@ -548,7 +548,8 @@
 <programme start="20240718130000 +0000" stop="20240718160000 +0000" channel="KanalD.tr"><title lang="tr">Arka Sokaklar</title></programme>
 <programme start="20240718160000 +0000" stop="20240718170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
 <programme start="20240718170000 +0000" stop="20240718184500 +0000" channel="KanalD.tr"><title lang="tr">Aşk-ı Memnu</title></programme>
-<programme start="20240718184500 +0000" stop="20240718230000 +0000" channel="KanalD.tr"><title lang="tr">Aşk-ı Memnu</title></programme>
+<programme start="20240718184500 +0000" stop="20240718203000 +0000" channel="KanalD.tr"><title lang="tr">Aşk-ı Memnu</title></programme>
+<programme start="20240718203000 +0000" stop="20240718231000 +0000" channel="KanalD.tr"><title lang="tr">Yalan</title></programme>
 <programme start="20240716210000 +0000" stop="20240716213000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Bi&apos; Adada Bi&apos; Arada</title></programme>
 <programme start="20240716213000 +0000" stop="20240716214500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kukuli</title></programme>
 <programme start="20240716214500 +0000" stop="20240716220000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kukuli</title></programme>
@@ -1934,9 +1935,11 @@
 <programme start="20240717130000 +0000" stop="20240717150000 +0000" channel="TV100.tr"><title lang="tr">Haberin İçinden</title></programme>
 <programme start="20240717150000 +0000" stop="20240717163000 +0000" channel="TV100.tr"><title lang="tr">Osman Kenan Çapoğlu ile...</title></programme>
 <programme start="20240717163000 +0000" stop="20240717174500 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
-<programme start="20240717174500 +0000" stop="20240717210000 +0000" channel="TV100.tr"><title lang="tr">Özgür İfade</title></programme>
-<programme start="20240717210000 +0000" stop="20240717220000 +0000" channel="TV100.tr"><title lang="tr">Gece Haberleri</title></programme>
-<programme start="20240717220000 +0000" stop="20240717231500 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
+<programme start="20240717174500 +0000" stop="20240717203000 +0000" channel="TV100.tr"><title lang="tr">Özgür İfade</title></programme>
+<programme start="20240717203000 +0000" stop="20240717213000 +0000" channel="TV100.tr"><title lang="tr">Candaş Tolga ile Az Önce...</title></programme>
+<programme start="20240717203000 +0000" stop="20240717213000 +0000" channel="TV100.tr"><title lang="tr">Candaş Tolga ile Az Önce...</title></programme>
+<programme start="20240717213000 +0000" stop="20240717223000 +0000" channel="TV100.tr"><title lang="tr">Gece Haberleri</title></programme>
+<programme start="20240717223000 +0000" stop="20240717231500 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
 <programme start="20240717231500 +0000" stop="20240718013000 +0000" channel="TV100.tr"><title lang="tr">Özgür İfade</title></programme>
 <programme start="20240718013000 +0000" stop="20240718020000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240718020000 +0000" stop="20240718030000 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
