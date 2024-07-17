@@ -171,9 +171,9 @@
 <programme start="20240717132000 +0000" stop="20240717153000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
 <programme start="20240717153000 +0000" stop="20240717163000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Ana Haber</title></programme>
 <programme start="20240717163000 +0000" stop="20240717181500 +0000" channel="BeyazTV.tr"><title lang="tr">Brooklyn Çeteleri</title></programme>
-<programme start="20240717181500 +0000" stop="20240717203000 +0000" channel="BeyazTV.tr"><title lang="tr">Süper Polis 4</title></programme>
-<programme start="20240717203000 +0000" stop="20240717221500 +0000" channel="BeyazTV.tr"><title lang="tr">Brooklyn Çeteleri</title></programme>
-<programme start="20240717203000 +0000" stop="20240717221500 +0000" channel="BeyazTV.tr"><title lang="tr">Brooklyn Çeteleri</title></programme>
+<programme start="20240717181500 +0000" stop="20240717200000 +0000" channel="BeyazTV.tr"><title lang="tr">Süper Polis 4</title></programme>
+<programme start="20240717200000 +0000" stop="20240717221500 +0000" channel="BeyazTV.tr"><title lang="tr">Brooklyn Çeteleri</title></programme>
+<programme start="20240717200000 +0000" stop="20240717221500 +0000" channel="BeyazTV.tr"><title lang="tr">Brooklyn Çeteleri</title></programme>
 <programme start="20240717221500 +0000" stop="20240718001500 +0000" channel="BeyazTV.tr"><title lang="tr">Süper Polis 4</title></programme>
 <programme start="20240718001500 +0000" stop="20240718023000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
 <programme start="20240718023000 +0000" stop="20240718030000 +0000" channel="BeyazTV.tr"><title lang="tr">Brooklyn Çeteleri</title></programme>
@@ -520,7 +520,7 @@
 <programme start="20240718111500 +0000" stop="20240718130000 +0000" channel="Kanal7.tr"><title lang="tr">Nefes</title></programme>
 <programme start="20240718130000 +0000" stop="20240718150000 +0000" channel="Kanal7.tr"><title lang="tr">Her Halimle Sev</title></programme>
 <programme start="20240718150000 +0000" stop="20240718160000 +0000" channel="Kanal7.tr"><title lang="tr">Kanal 7 Haber Saati</title></programme>
-<programme start="20240718160000 +0000" stop="20240718182000 +0000" channel="Kanal7.tr"><title lang="tr">Esaret</title></programme>
+<programme start="20240718160000 +0000" stop="20240718182000 +0000" channel="Kanal7.tr"><title lang="tr">Emanet</title></programme>
 <programme start="20240718182000 +0000" stop="20240718194500 +0000" channel="Kanal7.tr"><title lang="tr">Öylesine Derin</title></programme>
 <programme start="20240718194500 +0000" stop="20240718233000 +0000" channel="Kanal7.tr"><title lang="tr">Diriliş Ertuğrul</title></programme>
 <programme start="20240716160000 +0000" stop="20240716233000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
@@ -535,10 +535,11 @@
 <programme start="20240717130000 +0000" stop="20240717160000 +0000" channel="KanalD.tr"><title lang="tr">Arka Sokaklar</title></programme>
 <programme start="20240717160000 +0000" stop="20240717170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
 <programme start="20240717170000 +0000" stop="20240717203000 +0000" channel="KanalD.tr"><title lang="tr">Turnike</title></programme>
-<programme start="20240717203000 +0000" stop="20240717230000 +0000" channel="KanalD.tr"><title lang="tr">Panik Odası</title></programme>
-<programme start="20240717203000 +0000" stop="20240717230000 +0000" channel="KanalD.tr"><title lang="tr">Panik Odası</title></programme>
-<programme start="20240717230000 +0000" stop="20240718013000 +0000" channel="KanalD.tr"><title lang="tr">Güneşi Beklerken</title></programme>
-<programme start="20240718013000 +0000" stop="20240718040000 +0000" channel="KanalD.tr"><title lang="tr">Çatı Katı Aşk</title></programme>
+<programme start="20240717203000 +0000" stop="20240717224000 +0000" channel="KanalD.tr"><title lang="tr">Panik Odası</title></programme>
+<programme start="20240717203000 +0000" stop="20240717224000 +0000" channel="KanalD.tr"><title lang="tr">Panik Odası</title></programme>
+<programme start="20240717224000 +0000" stop="20240718003000 +0000" channel="KanalD.tr"><title lang="tr">Panik Odası</title></programme>
+<programme start="20240718003000 +0000" stop="20240718020000 +0000" channel="KanalD.tr"><title lang="tr">Güneşi Beklerken</title></programme>
+<programme start="20240718020000 +0000" stop="20240718040000 +0000" channel="KanalD.tr"><title lang="tr">Çatı Katı Aşk</title></programme>
 <programme start="20240718040000 +0000" stop="20240718060000 +0000" channel="KanalD.tr"><title lang="tr">Öyle Bir Geçer Zaman Ki</title></programme>
 <programme start="20240718060000 +0000" stop="20240718080000 +0000" channel="KanalD.tr"><title lang="tr">Neler Oluyor Hayatta</title></programme>
 <programme start="20240718080000 +0000" stop="20240718090000 +0000" channel="KanalD.tr"><title lang="tr">Magazin D Yaz</title></programme>
@@ -1482,10 +1483,8 @@
 <programme start="20240717093000 +0000" stop="20240717103000 +0000" channel="TRT3.tr"><title lang="tr">Gün Ortası</title></programme>
 <programme start="20240717103000 +0000" stop="20240717110000 +0000" channel="TRT3.tr"><title lang="tr">Trendyol Süper Lig En...</title></programme>
 <programme start="20240717110000 +0000" stop="20240717130000 +0000" channel="TRT3.tr"><title lang="tr">TBMM-TV</title></programme>
-<programme start="20240717130000 +0000" stop="20240717143000 +0000" channel="TRT3.tr"><title lang="tr">Gündem Futbol Transfer</title></programme>
-<programme start="20240717143000 +0000" stop="20240717150000 +0000" channel="TRT3.tr"><title lang="tr">Dünyadan Spor</title></programme>
-<programme start="20240717150000 +0000" stop="20240717170000 +0000" channel="TRT3.tr"><title lang="tr">Spor Merkezi</title></programme>
-<programme start="20240717170000 +0000" stop="20240717180000 +0000" channel="TRT3.tr"><title lang="tr">Spor Akşamı</title></programme>
+<programme start="20240717130000 +0000" stop="20240717150000 +0000" channel="TRT3.tr"><title lang="tr">TBMM-TV</title></programme>
+<programme start="20240717150000 +0000" stop="20240717180000 +0000" channel="TRT3.tr"><title lang="tr">TBMM-TV</title></programme>
 <programme start="20240717180000 +0000" stop="20240717200000 +0000" channel="TRT3.tr"><title lang="tr">Aktüel Futbol Transfer</title></programme>
 <programme start="20240717200000 +0000" stop="20240717220000 +0000" channel="TRT3.tr"><title lang="tr">Transfer Günlüğü</title></programme>
 <programme start="20240717200000 +0000" stop="20240717220000 +0000" channel="TRT3.tr"><title lang="tr">Transfer Günlüğü</title></programme>
@@ -1868,9 +1867,9 @@
 <programme start="20240717053000 +0000" stop="20240717064500 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
 <programme start="20240717064500 +0000" stop="20240717104500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240717104500 +0000" stop="20240717124500 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
-<programme start="20240717124500 +0000" stop="20240717170000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
-<programme start="20240717170000 +0000" stop="20240717211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
-<programme start="20240717170000 +0000" stop="20240717211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240717124500 +0000" stop="20240717160000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
+<programme start="20240717160000 +0000" stop="20240717211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240717160000 +0000" stop="20240717211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240717211500 +0000" stop="20240717233000 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240717233000 +0000" stop="20240718013000 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
 <programme start="20240718013000 +0000" stop="20240718030000 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
@@ -1904,6 +1903,24 @@
 <programme start="20240717200500 +0000" stop="20240717204500 +0000" channel="TV85.tr"><title lang="tr">Büyük Rekabetler</title></programme>
 <programme start="20240717204500 +0000" stop="20240717211500 +0000" channel="TV85.tr"><title lang="tr">Beşiktaş – Shakhtar...</title></programme>
 <programme start="20240717204500 +0000" stop="20240717211500 +0000" channel="TV85.tr"><title lang="tr">Beşiktaş – Shakhtar...</title></programme>
+<programme start="20240717211500 +0000" stop="20240717220000 +0000" channel="TV85.tr"><title lang="tr">Büyük Rekabetler</title></programme>
+<programme start="20240717220000 +0000" stop="20240717234500 +0000" channel="TV85.tr"><title lang="tr">Beşiktaş – Shakhtar...</title></programme>
+<programme start="20240717234500 +0000" stop="20240718014500 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
+<programme start="20240718014500 +0000" stop="20240718031500 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
+<programme start="20240718031500 +0000" stop="20240718044500 +0000" channel="TV85.tr"><title lang="tr">Klasikler</title></programme>
+<programme start="20240718044500 +0000" stop="20240718050000 +0000" channel="TV85.tr"><title lang="tr">Best Off</title></programme>
+<programme start="20240718050000 +0000" stop="20240718065000 +0000" channel="TV85.tr"><title lang="tr">UEFA Şampiyonlar Ligi...</title></programme>
+<programme start="20240718065000 +0000" stop="20240718070000 +0000" channel="TV85.tr"><title lang="tr">All The Goals [andriy...</title></programme>
+<programme start="20240718070000 +0000" stop="20240718090000 +0000" channel="TV85.tr"><title lang="tr">Uruguay - Kolombiya</title></programme>
+<programme start="20240718090000 +0000" stop="20240718110000 +0000" channel="TV85.tr"><title lang="tr">Arjantin - Kanada</title></programme>
+<programme start="20240718110000 +0000" stop="20240718131500 +0000" channel="TV85.tr"><title lang="tr">Borussia Dortmund – Real...</title></programme>
+<programme start="20240718131500 +0000" stop="20240718153000 +0000" channel="TV85.tr"><title lang="tr">Atalanta – Bayer Leverkusen</title></programme>
+<programme start="20240718153000 +0000" stop="20240718165000 +0000" channel="TV85.tr"><title lang="tr">Copa America Final Yolu – 1</title></programme>
+<programme start="20240718165000 +0000" stop="20240718180000 +0000" channel="TV85.tr"><title lang="tr">Copa America Final Yolu – 2</title></programme>
+<programme start="20240718180000 +0000" stop="20240718200000 +0000" channel="TV85.tr"><title lang="tr">Uruguay - Kolombiya</title></programme>
+<programme start="20240718200000 +0000" stop="20240718201500 +0000" channel="TV85.tr"><title lang="tr">Best Off</title></programme>
+<programme start="20240718201500 +0000" stop="20240718204500 +0000" channel="TV85.tr"><title lang="tr">Arjantin - Kanada</title></programme>
+<programme start="20240718204500 +0000" stop="20240718211500 +0000" channel="TV85.tr"><title lang="tr">Uruguay - Kolombiya</title></programme>
 <programme start="20240716210000 +0000" stop="20240716220000 +0000" channel="TV100.tr"><title lang="tr">Gece Haberleri</title></programme>
 <programme start="20240716220000 +0000" stop="20240716231500 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
 <programme start="20240716231500 +0000" stop="20240717013000 +0000" channel="TV100.tr"><title lang="tr">Özgür İfade</title></programme>
