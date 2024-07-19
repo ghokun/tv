@@ -420,21 +420,20 @@
 <programme start="20240719133000 +0000" stop="20240719160000 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin...</title></programme>
 <programme start="20240719160000 +0000" stop="20240719170000 +0000" channel="Fox.tr"><title lang="tr">NOW Ana Haber</title></programme>
 <programme start="20240719170000 +0000" stop="20240719190000 +0000" channel="Fox.tr"><title lang="tr">Gurbetçi Şaban</title></programme>
-<programme start="20240719190000 +0000" stop="20240719204500 +0000" channel="Fox.tr"><title lang="tr">Çağla ile Bu Yaz</title></programme>
-<programme start="20240719204500 +0000" stop="20240719224500 +0000" channel="Fox.tr"><title lang="tr">Gurbetçi Şaban</title></programme>
-<programme start="20240719204500 +0000" stop="20240719224500 +0000" channel="Fox.tr"><title lang="tr">Gurbetçi Şaban</title></programme>
-<programme start="20240719224500 +0000" stop="20240720010000 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin...</title></programme>
-<programme start="20240720010000 +0000" stop="20240720030000 +0000" channel="Fox.tr"><title lang="tr">Yasak Elma</title></programme>
-<programme start="20240720030000 +0000" stop="20240720053000 +0000" channel="Fox.tr"><title lang="tr">Her Yerde Sen</title></programme>
+<programme start="20240719190000 +0000" stop="20240719210000 +0000" channel="Fox.tr"><title lang="tr">Çağla ile Bu Yaz</title></programme>
+<programme start="20240719210000 +0000" stop="20240719224500 +0000" channel="Fox.tr"><title lang="tr">Gurbetçi Şaban</title></programme>
+<programme start="20240719224500 +0000" stop="20240720011500 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin...</title></programme>
+<programme start="20240720011500 +0000" stop="20240720031500 +0000" channel="Fox.tr"><title lang="tr">Yasak Elma</title></programme>
+<programme start="20240720031500 +0000" stop="20240720053000 +0000" channel="Fox.tr"><title lang="tr">Her Yerde Sen</title></programme>
 <programme start="20240720053000 +0000" stop="20240720070000 +0000" channel="Fox.tr"><title lang="tr">Çalar Saat Hafta Sonu</title></programme>
-<programme start="20240720070000 +0000" stop="20240720100000 +0000" channel="Fox.tr"><title lang="tr">Şevkat Yerimdar</title></programme>
-<programme start="20240720100000 +0000" stop="20240720110000 +0000" channel="Fox.tr"><title lang="tr">Memet Özer ile Mutfakta</title></programme>
-<programme start="20240720110000 +0000" stop="20240720130000 +0000" channel="Fox.tr"><title lang="tr">Yasak Elma</title></programme>
-<programme start="20240720130000 +0000" stop="20240720160000 +0000" channel="Fox.tr"><title lang="tr">Hudutsuz Sevda</title></programme>
+<programme start="20240720070000 +0000" stop="20240720101500 +0000" channel="Fox.tr"><title lang="tr">Şevkat Yerimdar</title></programme>
+<programme start="20240720101500 +0000" stop="20240720110000 +0000" channel="Fox.tr"><title lang="tr">Memet Özer ile Mutfakta</title></programme>
+<programme start="20240720110000 +0000" stop="20240720133000 +0000" channel="Fox.tr"><title lang="tr">Yasak Elma</title></programme>
+<programme start="20240720133000 +0000" stop="20240720160000 +0000" channel="Fox.tr"><title lang="tr">Hudutsuz Sevda</title></programme>
 <programme start="20240720160000 +0000" stop="20240720170000 +0000" channel="Fox.tr"><title lang="tr">NOW Ana Haber Hafta Sonu</title></programme>
 <programme start="20240720170000 +0000" stop="20240720184500 +0000" channel="Fox.tr"><title lang="tr">Bıçkın</title></programme>
 <programme start="20240720184500 +0000" stop="20240720204500 +0000" channel="Fox.tr"><title lang="tr">Sen Çal Kapımı</title></programme>
-<programme start="20240720204500 +0000" stop="20240720223000 +0000" channel="Fox.tr"><title lang="tr">İlk Buluşma</title></programme>
+<programme start="20240720204500 +0000" stop="20240720230000 +0000" channel="Fox.tr"><title lang="tr">İlk Buluşma</title></programme>
 <programme start="20240718200000 +0000" stop="20240718220000 +0000" channel="HaberturkTV.tr"><title lang="tr">Mesut Yar ile Gece Hattı</title></programme>
 <programme start="20240718220000 +0000" stop="20240719003000 +0000" channel="HaberturkTV.tr"><title lang="tr">Türkiye&apos;nin Nabzı</title></programme>
 <programme start="20240719003000 +0000" stop="20240719010000 +0000" channel="HaberturkTV.tr"><title lang="tr">Mesut Yar ile Gece Hattı</title></programme>
@@ -1251,7 +1250,7 @@
 <programme start="20240720020000 +0000" stop="20240720040000 +0000" channel="StarTV.tr"><title lang="tr">Erkenci Kuş</title></programme>
 <programme start="20240720040000 +0000" stop="20240720060000 +0000" channel="StarTV.tr"><title lang="tr">Pulsar</title></programme>
 <programme start="20240720060000 +0000" stop="20240720090000 +0000" channel="StarTV.tr"><title lang="tr">Ada Masalı</title></programme>
-<programme start="20240720090000 +0000" stop="20240720113000 +0000" channel="StarTV.tr"><title lang="tr">Aramızda Kalsın</title></programme>
+<programme start="20240720090000 +0000" stop="20240720113000 +0000" channel="StarTV.tr"><title lang="tr">Dolunay</title></programme>
 <programme start="20240720113000 +0000" stop="20240720133000 +0000" channel="StarTV.tr"><title lang="tr">Yüksek Sosyete</title></programme>
 <programme start="20240720133000 +0000" stop="20240720151500 +0000" channel="StarTV.tr"><title lang="tr">Erkenci Kuş</title></programme>
 <programme start="20240720151500 +0000" stop="20240720170000 +0000" channel="StarTV.tr"><title lang="tr">Star Haber</title></programme>
@@ -1374,7 +1373,7 @@
 <programme start="20240720122000 +0000" stop="20240720160000 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
 <programme start="20240720160000 +0000" stop="20240720170000 +0000" channel="TRT1.tr"><title lang="tr">Ana Haber</title></programme>
 <programme start="20240720170000 +0000" stop="20240720201500 +0000" channel="TRT1.tr"><title lang="tr">Ben ve Babam - Vatan</title></programme>
-<programme start="20240720201500 +0000" stop="20240720210000 +0000" channel="TRT1.tr"><title lang="tr">Pelin Çift İle Gündem...</title></programme>
+<programme start="20240720201500 +0000" stop="20240720211500 +0000" channel="TRT1.tr"><title lang="tr">Pelin Çift İle Gündem...</title></programme>
 <programme start="20240718200000 +0000" stop="20240718213000 +0000" channel="TRT2.tr"><title lang="tr">Pazar Konseri</title></programme>
 <programme start="20240718213000 +0000" stop="20240718220000 +0000" channel="TRT2.tr"><title lang="tr">Hayat Sanat</title></programme>
 <programme start="20240718220000 +0000" stop="20240718233000 +0000" channel="TRT2.tr"><title lang="tr">Elmalar</title></programme>
@@ -1874,8 +1873,8 @@
 <programme start="20240720083000 +0000" stop="20240720090000 +0000" channel="TV85.tr"><title lang="tr">Best Off</title></programme>
 <programme start="20240720090000 +0000" stop="20240720120000 +0000" channel="TV85.tr"><title lang="tr">Arjantin - Kolombiya</title></programme>
 <programme start="20240720120000 +0000" stop="20240720141500 +0000" channel="TV85.tr"><title lang="tr">Fildişi Sahili - Nijerya</title></programme>
-<programme start="20240720141500 +0000" stop="20240720160000 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
-<programme start="20240720160000 +0000" stop="20240720173000 +0000" channel="TV85.tr"><title lang="tr">Grazer - Beşiktaş</title></programme>
+<programme start="20240720141500 +0000" stop="20240720153000 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
+<programme start="20240720153000 +0000" stop="20240720173000 +0000" channel="TV85.tr"><title lang="tr">Grazer - Beşiktaş</title></programme>
 <programme start="20240720173000 +0000" stop="20240720194500 +0000" channel="TV85.tr"><title lang="tr">Büyük Rekabetler</title></programme>
 <programme start="20240720194500 +0000" stop="20240720204500 +0000" channel="TV85.tr"><title lang="tr">UEFA Şampiyonlar Ligi...</title></programme>
 <programme start="20240720204500 +0000" stop="20240720211500 +0000" channel="TV85.tr"><title lang="tr">Grazer - Beşiktaş</title></programme>
