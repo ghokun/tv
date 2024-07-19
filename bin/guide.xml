@@ -170,15 +170,15 @@
 <programme start="20240720080000 +0000" stop="20240720090000 +0000" channel="BeyazTV.tr"><title lang="tr">Bu Cumartesi</title></programme>
 <programme start="20240720090000 +0000" stop="20240720100000 +0000" channel="BeyazTV.tr"><title lang="tr">Elif Melek&apos;le Baştan Başa</title></programme>
 <programme start="20240720100000 +0000" stop="20240720110000 +0000" channel="BeyazTV.tr"><title lang="tr">Söz Sende</title></programme>
-<programme start="20240720110000 +0000" stop="20240720120000 +0000" channel="BeyazTV.tr"><title lang="tr">Yaşama Dair</title></programme>
+<programme start="20240720110000 +0000" stop="20240720120000 +0000" channel="BeyazTV.tr"><title lang="tr">Hadi Çocuklar Eğlenelim</title></programme>
 <programme start="20240720120000 +0000" stop="20240720130000 +0000" channel="BeyazTV.tr"><title lang="tr">Ivana Sert&apos;le İş Dünyası</title></programme>
 <programme start="20240720130000 +0000" stop="20240720135000 +0000" channel="BeyazTV.tr"><title lang="tr">Cumartesi Sohbeti</title></programme>
 <programme start="20240720135000 +0000" stop="20240720153000 +0000" channel="BeyazTV.tr"><title lang="tr">Belma Belen&apos;le Geziyoruz</title></programme>
 <programme start="20240720153000 +0000" stop="20240720163000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Hafta Sonu Ana Haber</title></programme>
-<programme start="20240720163000 +0000" stop="20240720174500 +0000" channel="BeyazTV.tr"><title lang="tr">İyi Olan Kazansın</title></programme>
-<programme start="20240720174500 +0000" stop="20240720193000 +0000" channel="BeyazTV.tr"><title lang="tr">Orman</title></programme>
-<programme start="20240720193000 +0000" stop="20240720204500 +0000" channel="BeyazTV.tr"><title lang="tr">İyi Olan Kazansın</title></programme>
-<programme start="20240720204500 +0000" stop="20240720221500 +0000" channel="BeyazTV.tr"><title lang="tr">Orman</title></programme>
+<programme start="20240720163000 +0000" stop="20240720181500 +0000" channel="BeyazTV.tr"><title lang="tr">İyi Olan Kazansın</title></programme>
+<programme start="20240720181500 +0000" stop="20240720193000 +0000" channel="BeyazTV.tr"><title lang="tr">Orman</title></programme>
+<programme start="20240720193000 +0000" stop="20240720203000 +0000" channel="BeyazTV.tr"><title lang="tr">İyi Olan Kazansın</title></programme>
+<programme start="20240720203000 +0000" stop="20240720231500 +0000" channel="BeyazTV.tr"><title lang="tr">Orman</title></programme>
 <programme start="20240718204500 +0000" stop="20240718211000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Sevimli Kahramanlar Hikayeler</title></programme>
 <programme start="20240718211000 +0000" stop="20240718213500 +0000" channel="CartoonNetwork.tr"><title lang="tr">Ben 10</title></programme>
 <programme start="20240718213500 +0000" stop="20240718220000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Ben 10</title></programme>
@@ -528,16 +528,19 @@
 <programme start="20240719130000 +0000" stop="20240719160000 +0000" channel="KanalD.tr"><title lang="tr">Arka Sokaklar</title></programme>
 <programme start="20240719160000 +0000" stop="20240719170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
 <programme start="20240719170000 +0000" stop="20240719193000 +0000" channel="KanalD.tr"><title lang="tr">Password</title></programme>
-<programme start="20240719193000 +0000" stop="20240719211500 +0000" channel="KanalD.tr"><title lang="tr">Dizi - Sinema</title></programme>
-<programme start="20240719193000 +0000" stop="20240719211500 +0000" channel="KanalD.tr"><title lang="tr">Dizi - Sinema</title></programme>
-<programme start="20240719211500 +0000" stop="20240719230000 +0000" channel="KanalD.tr"><title lang="tr">Dizi - Sinema</title></programme>
-<programme start="20240719230000 +0000" stop="20240720013000 +0000" channel="KanalD.tr"><title lang="tr">Güneşi Beklerken</title></programme>
+<programme start="20240719193000 +0000" stop="20240719213000 +0000" channel="KanalD.tr"><title lang="tr">Password</title></programme>
+<programme start="20240719193000 +0000" stop="20240719213000 +0000" channel="KanalD.tr"><title lang="tr">Password</title></programme>
+<programme start="20240719213000 +0000" stop="20240719233000 +0000" channel="KanalD.tr"><title lang="tr">Çember: Ölüm Meleği</title></programme>
+<programme start="20240719233000 +0000" stop="20240720013000 +0000" channel="KanalD.tr"><title lang="tr">Güneşi Beklerken</title></programme>
 <programme start="20240720013000 +0000" stop="20240720040000 +0000" channel="KanalD.tr"><title lang="tr">Çatı Katı Aşk</title></programme>
 <programme start="20240720040000 +0000" stop="20240720053000 +0000" channel="KanalD.tr"><title lang="tr">Öyle Bir Geçer Zaman Ki</title></programme>
 <programme start="20240720053000 +0000" stop="20240720064500 +0000" channel="KanalD.tr"><title lang="tr">Konuştukça</title></programme>
-<programme start="20240720064500 +0000" stop="20240720144500 +0000" channel="KanalD.tr"><title lang="tr">Magazin D Cumartesi</title></programme>
-<programme start="20240720144500 +0000" stop="20240720160000 +0000" channel="KanalD.tr"><title lang="tr">Magazin D Cumartesi</title></programme>
-<programme start="20240720160000 +0000" stop="20240721000000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
+<programme start="20240720064500 +0000" stop="20240720100000 +0000" channel="KanalD.tr"><title lang="tr">Magazin D Cumartesi</title></programme>
+<programme start="20240720100000 +0000" stop="20240720124500 +0000" channel="KanalD.tr"><title lang="tr">Password</title></programme>
+<programme start="20240720124500 +0000" stop="20240720160000 +0000" channel="KanalD.tr"><title lang="tr">Arka Sokaklar</title></programme>
+<programme start="20240720160000 +0000" stop="20240720170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
+<programme start="20240720170000 +0000" stop="20240720194500 +0000" channel="KanalD.tr"><title lang="tr">Turnike</title></programme>
+<programme start="20240720194500 +0000" stop="20240720214500 +0000" channel="KanalD.tr"><title lang="tr">Çok Akustik</title></programme>
 <programme start="20240718210000 +0000" stop="20240718213000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Bi&apos; Adada Bi&apos; Arada</title></programme>
 <programme start="20240718213000 +0000" stop="20240718214500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kukuli</title></programme>
 <programme start="20240718214500 +0000" stop="20240718220000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kukuli</title></programme>
@@ -1353,18 +1356,18 @@
 <programme start="20240719185500 +0000" stop="20240719230000 +0000" channel="TRT1.tr"><title lang="tr">Baba 2</title></programme>
 <programme start="20240719185500 +0000" stop="20240719230000 +0000" channel="TRT1.tr"><title lang="tr">Baba 2</title></programme>
 <programme start="20240719230000 +0000" stop="20240720000500 +0000" channel="TRT1.tr"><title lang="tr">Lingo</title></programme>
-<programme start="20240720000500 +0000" stop="20240720022000 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
-<programme start="20240720022000 +0000" stop="20240720051000 +0000" channel="TRT1.tr"><title lang="tr">Beni Böyle Sev</title></programme>
-<programme start="20240720051000 +0000" stop="20240720061000 +0000" channel="TRT1.tr"><title lang="tr">Yedi Numara</title></programme>
-<programme start="20240720061000 +0000" stop="20240720072000 +0000" channel="TRT1.tr"><title lang="tr">Yeditepe İstanbul</title></programme>
-<programme start="20240720072000 +0000" stop="20240720082500 +0000" channel="TRT1.tr"><title lang="tr">Hayallerinin Peşinde</title></programme>
-<programme start="20240720082500 +0000" stop="20240720100000 +0000" channel="TRT1.tr"><title lang="tr">Kare Takımı Gizemli Ada</title></programme>
+<programme start="20240720000500 +0000" stop="20240720021500 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
+<programme start="20240720021500 +0000" stop="20240720045000 +0000" channel="TRT1.tr"><title lang="tr">Beni Böyle Sev</title></programme>
+<programme start="20240720045000 +0000" stop="20240720055000 +0000" channel="TRT1.tr"><title lang="tr">Yedi Numara</title></programme>
+<programme start="20240720055000 +0000" stop="20240720070000 +0000" channel="TRT1.tr"><title lang="tr">Yeditepe İstanbul</title></programme>
+<programme start="20240720070000 +0000" stop="20240720080500 +0000" channel="TRT1.tr"><title lang="tr">Hayallerinin Peşinde</title></programme>
+<programme start="20240720080500 +0000" stop="20240720100000 +0000" channel="TRT1.tr"><title lang="tr">Kare Takımı Gizemli Ada</title></programme>
 <programme start="20240720100000 +0000" stop="20240720110500 +0000" channel="TRT1.tr"><title lang="tr">Turgay Başyayla ile...</title></programme>
 <programme start="20240720110500 +0000" stop="20240720122000 +0000" channel="TRT1.tr"><title lang="tr">Seksenler</title></programme>
 <programme start="20240720122000 +0000" stop="20240720160000 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
 <programme start="20240720160000 +0000" stop="20240720170000 +0000" channel="TRT1.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240720170000 +0000" stop="20240720193000 +0000" channel="TRT1.tr"><title lang="tr">Hız Tuzağı</title></programme>
-<programme start="20240720193000 +0000" stop="20240720211000 +0000" channel="TRT1.tr"><title lang="tr">Pelin Çift İle Gündem...</title></programme>
+<programme start="20240720170000 +0000" stop="20240720201500 +0000" channel="TRT1.tr"><title lang="tr">Ben ve Babam - Vatan</title></programme>
+<programme start="20240720201500 +0000" stop="20240720211500 +0000" channel="TRT1.tr"><title lang="tr">Pelin Çift İle Gündem...</title></programme>
 <programme start="20240718200000 +0000" stop="20240718213000 +0000" channel="TRT2.tr"><title lang="tr">Pazar Konseri</title></programme>
 <programme start="20240718213000 +0000" stop="20240718220000 +0000" channel="TRT2.tr"><title lang="tr">Hayat Sanat</title></programme>
 <programme start="20240718220000 +0000" stop="20240718233000 +0000" channel="TRT2.tr"><title lang="tr">Elmalar</title></programme>
