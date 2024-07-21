@@ -57,9 +57,13 @@
 <programme start="20240722010000 +0000" stop="20240722020000 +0000" channel="360.tr"><title lang="tr">Şeflerin Mutfağı</title></programme>
 <programme start="20240722020000 +0000" stop="20240722031500 +0000" channel="360.tr"><title lang="tr">Ben Bilirim</title></programme>
 <programme start="20240722031500 +0000" stop="20240722043000 +0000" channel="360.tr"><title lang="tr">Bebek Gibi Maşallah</title></programme>
-<programme start="20240722043000 +0000" stop="20240722063000 +0000" channel="360.tr"><title lang="tr">Sağlık Olsun</title></programme>
-<programme start="20240722063000 +0000" stop="20240722123000 +0000" channel="360.tr"><title lang="tr">Seksenler</title></programme>
-<programme start="20240722123000 +0000" stop="20240722160000 +0000" channel="360.tr"><title lang="tr">Aileler Yarışıyor</title></programme>
+<programme start="20240722043000 +0000" stop="20240722044500 +0000" channel="360.tr"><title lang="tr">Sağlık Olsun</title></programme>
+<programme start="20240722044500 +0000" stop="20240722063000 +0000" channel="360.tr"><title lang="tr">Abuk Sabuk 1 Film</title></programme>
+<programme start="20240722063000 +0000" stop="20240722084500 +0000" channel="360.tr"><title lang="tr">Seksenler</title></programme>
+<programme start="20240722084500 +0000" stop="20240722104500 +0000" channel="360.tr"><title lang="tr">Bütün Anneler Melektir</title></programme>
+<programme start="20240722104500 +0000" stop="20240722123000 +0000" channel="360.tr"><title lang="tr">Alişan</title></programme>
+<programme start="20240722123000 +0000" stop="20240722143000 +0000" channel="360.tr"><title lang="tr">Aileler Yarışıyor</title></programme>
+<programme start="20240722143000 +0000" stop="20240722160000 +0000" channel="360.tr"><title lang="tr">Hasan Boğuldu</title></programme>
 <programme start="20240722160000 +0000" stop="20240722180000 +0000" channel="360.tr"><title lang="tr">Ben Bilirim</title></programme>
 <programme start="20240722180000 +0000" stop="20240722200000 +0000" channel="360.tr"><title lang="tr">Aileler Yarışıyor</title></programme>
 <programme start="20240722200000 +0000" stop="20240722220000 +0000" channel="360.tr"><title lang="tr">Seksenler</title></programme>
@@ -408,25 +412,25 @@
 <programme start="20240722170000 +0000" stop="20240723004500 +0000" channel="EuroD.tr"><title lang="tr">Yalan</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/200.225_genre_w1920.webp</image></programme>
 <programme start="20240720204500 +0000" stop="20240720223000 +0000" channel="Fox.tr"><title lang="tr">İlk Buluşma</title></programme>
 <programme start="20240720230000 +0000" stop="20240721013000 +0000" channel="Fox.tr"><title lang="tr">Mucize Doktor</title></programme>
-<programme start="20240721013000 +0000" stop="20240721030000 +0000" channel="Fox.tr"><title lang="tr">Son Yaz</title></programme>
+<programme start="20240721010000 +0000" stop="20240721030000 +0000" channel="Fox.tr"><title lang="tr">Son Yaz</title></programme>
 <programme start="20240721030000 +0000" stop="20240721053000 +0000" channel="Fox.tr"><title lang="tr">Her Yerde Sen</title></programme>
 <programme start="20240721053000 +0000" stop="20240721070000 +0000" channel="Fox.tr"><title lang="tr">Çalar Saat Hafta Sonu</title></programme>
 <programme start="20240721070000 +0000" stop="20240721100000 +0000" channel="Fox.tr"><title lang="tr">Şevkat Yerimdar</title></programme>
-<programme start="20240721100000 +0000" stop="20240721131500 +0000" channel="Fox.tr"><title lang="tr">Yasak Elma</title></programme>
-<programme start="20240721131500 +0000" stop="20240721160000 +0000" channel="Fox.tr"><title lang="tr">Hudutsuz Sevda</title></programme>
+<programme start="20240721100000 +0000" stop="20240721130000 +0000" channel="Fox.tr"><title lang="tr">Yasak Elma</title></programme>
+<programme start="20240721130000 +0000" stop="20240721160000 +0000" channel="Fox.tr"><title lang="tr">Hudutsuz Sevda</title></programme>
 <programme start="20240721160000 +0000" stop="20240721170000 +0000" channel="Fox.tr"><title lang="tr">NOW Ana Haber Hafta Sonu</title></programme>
 <programme start="20240721170000 +0000" stop="20240721194500 +0000" channel="Fox.tr"><title lang="tr">Logan Wolverine</title></programme>
 <programme start="20240721194500 +0000" stop="20240721223000 +0000" channel="Fox.tr"><title lang="tr">Logan Wolverine</title></programme>
 <programme start="20240721194500 +0000" stop="20240721223000 +0000" channel="Fox.tr"><title lang="tr">Logan Wolverine</title></programme>
-<programme start="20240721223000 +0000" stop="20240722003000 +0000" channel="Fox.tr"><title lang="tr">Kirli Sepeti</title></programme>
-<programme start="20240722003000 +0000" stop="20240722014500 +0000" channel="Fox.tr"><title lang="tr">Yasak Elma</title></programme>
-<programme start="20240722014500 +0000" stop="20240722030000 +0000" channel="Fox.tr"><title lang="tr">Son Yaz</title></programme>
-<programme start="20240722030000 +0000" stop="20240722053000 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin...</title></programme>
+<programme start="20240721223000 +0000" stop="20240722011500 +0000" channel="Fox.tr"><title lang="tr">Kirli Sepeti</title></programme>
+<programme start="20240722011500 +0000" stop="20240722023000 +0000" channel="Fox.tr"><title lang="tr">Yasak Elma</title></programme>
+<programme start="20240722023000 +0000" stop="20240722053000 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin...</title></programme>
 <programme start="20240722053000 +0000" stop="20240722070000 +0000" channel="Fox.tr"><title lang="tr">Çalar Saat</title></programme>
 <programme start="20240722070000 +0000" stop="20240722100000 +0000" channel="Fox.tr"><title lang="tr">Şevkat Yerimdar</title></programme>
-<programme start="20240722100000 +0000" stop="20240722133000 +0000" channel="Fox.tr"><title lang="tr">Kiraz Mevsimi</title></programme>
-<programme start="20240722133000 +0000" stop="20240722160000 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin...</title></programme>
-<programme start="20240722160000 +0000" stop="20240722220000 +0000" channel="Fox.tr"><title lang="tr">NOW Ana Haber</title></programme>
+<programme start="20240722100000 +0000" stop="20240722131500 +0000" channel="Fox.tr"><title lang="tr">Kiraz Mevsimi</title></programme>
+<programme start="20240722131500 +0000" stop="20240722160000 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin...</title></programme>
+<programme start="20240722160000 +0000" stop="20240722170000 +0000" channel="Fox.tr"><title lang="tr">NOW Ana Haber</title></programme>
+<programme start="20240722170000 +0000" stop="20240722194500 +0000" channel="Fox.tr"><title lang="tr">Recep İvedik 4</title></programme>
 <programme start="20240722194500 +0000" stop="20240722224500 +0000" channel="Fox.tr"><title lang="tr">Kızıl Goncalar</title></programme>
 <programme start="20240720210000 +0000" stop="20240720213000 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240720213000 +0000" stop="20240721000000 +0000" channel="HaberturkTV.tr"><title lang="tr">Gerçek Fikri Ne?</title></programme>
@@ -1296,14 +1300,14 @@
 <programme start="20240721224500 +0000" stop="20240722003000 +0000" channel="Teve2.tr"><title lang="tr">Geniş Aile</title></programme>
 <programme start="20240722003000 +0000" stop="20240722023000 +0000" channel="Teve2.tr"><title lang="tr">Çocuklar Duymasın</title></programme>
 <programme start="20240722023000 +0000" stop="20240722030000 +0000" channel="Teve2.tr"><title lang="tr">Müzik</title></programme>
-<programme start="20240722030000 +0000" stop="20240722040000 +0000" channel="Teve2.tr"><title lang="tr">Ihlamurlar Altında</title></programme>
+<programme start="20240722030000 +0000" stop="20240722040000 +0000" channel="Teve2.tr"><title lang="tr">Kavak Yelleri</title></programme>
 <programme start="20240722040000 +0000" stop="20240722063000 +0000" channel="Teve2.tr"><title lang="tr">Bir Bulut Olsam</title></programme>
 <programme start="20240722063000 +0000" stop="20240722083000 +0000" channel="Teve2.tr"><title lang="tr">Güllerin Savaşı</title></programme>
 <programme start="20240722083000 +0000" stop="20240722103000 +0000" channel="Teve2.tr"><title lang="tr">Hanımın Çiftliği</title></programme>
 <programme start="20240722103000 +0000" stop="20240722123000 +0000" channel="Teve2.tr"><title lang="tr">Bodrum Masalı</title></programme>
 <programme start="20240722123000 +0000" stop="20240722150000 +0000" channel="Teve2.tr"><title lang="tr">Arka Sokaklar</title></programme>
-<programme start="20240722150000 +0000" stop="20240722164500 +0000" channel="Teve2.tr"><title lang="tr">Akasya Durağı</title></programme>
-<programme start="20240722164500 +0000" stop="20240722181500 +0000" channel="Teve2.tr"><title lang="tr">Kelime Oyunu</title></programme>
+<programme start="20240722150000 +0000" stop="20240722170000 +0000" channel="Teve2.tr"><title lang="tr">Akasya Durağı</title></programme>
+<programme start="20240722170000 +0000" stop="20240722181500 +0000" channel="Teve2.tr"><title lang="tr">Kelime Oyunu</title></programme>
 <programme start="20240722181500 +0000" stop="20240722203000 +0000" channel="Teve2.tr"><title lang="tr">Yalan Dünya</title></programme>
 <programme start="20240722203000 +0000" stop="20240722221500 +0000" channel="Teve2.tr"><title lang="tr">Kanıt</title></programme>
 <programme start="20240720210000 +0000" stop="20240720213000 +0000" channel="TLC.tr"><title lang="tr">-</title></programme>
