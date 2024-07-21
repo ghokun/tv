@@ -304,15 +304,18 @@
 <programme start="20240722050000 +0000" stop="20240722060000 +0000" channel="CNNTurk.tr"><title lang="tr">A&apos;dan Z&apos;ye</title></programme>
 <programme start="20240722060000 +0000" stop="20240722070000 +0000" channel="CNNTurk.tr"><title lang="tr">Gündem</title></programme>
 <programme start="20240722070000 +0000" stop="20240722080000 +0000" channel="CNNTurk.tr"><title lang="tr">Gündem</title></programme>
-<programme start="20240722080000 +0000" stop="20240722090000 +0000" channel="CNNTurk.tr"><title lang="tr">Gündem</title></programme>
+<programme start="20240722080000 +0000" stop="20240722081500 +0000" channel="CNNTurk.tr"><title lang="tr">Gündem</title></programme>
+<programme start="20240722081500 +0000" stop="20240722090000 +0000" channel="CNNTurk.tr"><title lang="tr">Tercih Zamanı</title></programme>
 <programme start="20240722090000 +0000" stop="20240722100000 +0000" channel="CNNTurk.tr"><title lang="tr">Gün Ortası</title></programme>
 <programme start="20240722100000 +0000" stop="20240722110000 +0000" channel="CNNTurk.tr"><title lang="tr">Gün Ortası</title></programme>
 <programme start="20240722110000 +0000" stop="20240722120000 +0000" channel="CNNTurk.tr"><title lang="tr">Bugün</title></programme>
-<programme start="20240722120000 +0000" stop="20240722130000 +0000" channel="CNNTurk.tr"><title lang="tr">Bugün</title></programme>
+<programme start="20240722120000 +0000" stop="20240722121500 +0000" channel="CNNTurk.tr"><title lang="tr">Bugün</title></programme>
+<programme start="20240722121500 +0000" stop="20240722124500 +0000" channel="CNNTurk.tr"><title lang="tr">Tercih Zamanı</title></programme>
+<programme start="20240722124500 +0000" stop="20240722130000 +0000" channel="CNNTurk.tr"><title lang="tr">Bugün</title></programme>
 <programme start="20240722130000 +0000" stop="20240722140000 +0000" channel="CNNTurk.tr"><title lang="tr">Günlük</title></programme>
 <programme start="20240722140000 +0000" stop="20240722150000 +0000" channel="CNNTurk.tr"><title lang="tr">Günlük</title></programme>
-<programme start="20240722150000 +0000" stop="20240722173000 +0000" channel="CNNTurk.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240722173000 +0000" stop="20240722210000 +0000" channel="CNNTurk.tr"><title lang="tr">Tarafsız Bölge</title></programme>
+<programme start="20240722150000 +0000" stop="20240722174500 +0000" channel="CNNTurk.tr"><title lang="tr">Ana Haber</title></programme>
+<programme start="20240722174500 +0000" stop="20240722220000 +0000" channel="CNNTurk.tr"><title lang="tr">Akıl Çemberi</title></programme>
 <programme start="20240720210000 +0000" stop="20240720215500 +0000" channel="DMAX.tr"><title lang="tr">Takas Kralları</title></programme>
 <programme start="20240720215500 +0000" stop="20240720222200 +0000" channel="DMAX.tr"><title lang="tr">Depo Savaşları</title></programme>
 <programme start="20240720222200 +0000" stop="20240720225000 +0000" channel="DMAX.tr"><title lang="tr">Depo Savaşları</title></programme>
@@ -544,13 +547,14 @@
 <programme start="20240721234000 +0000" stop="20240722013000 +0000" channel="KanalD.tr"><title lang="tr">Güneşi Beklerken</title></programme>
 <programme start="20240722013000 +0000" stop="20240722020000 +0000" channel="KanalD.tr"><title lang="tr">5N 1K</title></programme>
 <programme start="20240722020000 +0000" stop="20240722040000 +0000" channel="KanalD.tr"><title lang="tr">Çatı Katı Aşk</title></programme>
-<programme start="20240722040000 +0000" stop="20240722060000 +0000" channel="KanalD.tr"><title lang="tr">Öyle Bir Geçer Zaman Ki</title></programme>
-<programme start="20240722060000 +0000" stop="20240722080000 +0000" channel="KanalD.tr"><title lang="tr">Neler Oluyor Hayatta</title></programme>
+<programme start="20240722040000 +0000" stop="20240722060000 +0000" channel="KanalD.tr"><title lang="tr">Yabancı Damat</title></programme>
+<programme start="20240722060000 +0000" stop="20240722080000 +0000" channel="KanalD.tr"><title lang="tr">Öyle Bir Geçer Zaman Ki</title></programme>
 <programme start="20240722080000 +0000" stop="20240722090000 +0000" channel="KanalD.tr"><title lang="tr">Magazin D Yaz</title></programme>
 <programme start="20240722090000 +0000" stop="20240722100000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Haber Gün Arası</title></programme>
 <programme start="20240722100000 +0000" stop="20240722130000 +0000" channel="KanalD.tr"><title lang="tr">İnci Taneleri</title></programme>
 <programme start="20240722130000 +0000" stop="20240722160000 +0000" channel="KanalD.tr"><title lang="tr">Ayazın Sonu Güneş</title></programme>
-<programme start="20240722160000 +0000" stop="20240723000000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
+<programme start="20240722160000 +0000" stop="20240722170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
+<programme start="20240722170000 +0000" stop="20240722230000 +0000" channel="KanalD.tr"><title lang="tr">Yalan</title></programme>
 <programme start="20240720210000 +0000" stop="20240720213000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Bi&apos; Adada Bi&apos; Arada</title></programme>
 <programme start="20240720213000 +0000" stop="20240720214500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kukuli</title></programme>
 <programme start="20240720214500 +0000" stop="20240720220000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kukuli</title></programme>
@@ -1861,6 +1865,8 @@
 <programme start="20240721120000 +0000" stop="20240721160000 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
 <programme start="20240721160000 +0000" stop="20240721211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240721160000 +0000" stop="20240721211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240721170000 +0000" stop="20240721211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240721170000 +0000" stop="20240721211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240721211500 +0000" stop="20240721234500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240721234500 +0000" stop="20240722014500 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
 <programme start="20240722014500 +0000" stop="20240722030000 +0000" channel="TV8.tr"><title lang="tr">Yabancı Sinema</title></programme>
