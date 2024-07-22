@@ -1005,9 +1005,8 @@
 <programme start="20240722020000 +0000" stop="20240722021500 +0000" channel="NTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240722021500 +0000" stop="20240722025500 +0000" channel="NTV.tr"><title lang="tr">Özgür Bolat İle Anne...</title></programme>
 <programme start="20240722025500 +0000" stop="20240722030000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20240722030000 +0000" stop="20240722034000 +0000" channel="NTV.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240722034000 +0000" stop="20240722034500 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
-<programme start="20240722034500 +0000" stop="20240722035000 +0000" channel="NTV.tr"><title lang="tr">Lifestyle</title></programme>
+<programme start="20240722030000 +0000" stop="20240722034500 +0000" channel="NTV.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240722034500 +0000" stop="20240722035000 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
 <programme start="20240722035000 +0000" stop="20240722035500 +0000" channel="NTV.tr"><title lang="tr">Laf Aramızda</title></programme>
 <programme start="20240722035500 +0000" stop="20240722040000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20240722040000 +0000" stop="20240722045000 +0000" channel="NTV.tr"><title lang="tr">Güne Başlarken</title></programme>
@@ -1264,12 +1263,13 @@
 <programme start="20240722023000 +0000" stop="20240722040000 +0000" channel="StarTV.tr"><title lang="tr">Erkenci Kuş</title></programme>
 <programme start="20240722040000 +0000" stop="20240722060000 +0000" channel="StarTV.tr"><title lang="tr">Ateşböceği</title></programme>
 <programme start="20240722060000 +0000" stop="20240722080000 +0000" channel="StarTV.tr"><title lang="tr">Ada Masalı</title></programme>
-<programme start="20240722080000 +0000" stop="20240722103000 +0000" channel="StarTV.tr"><title lang="tr">Dolunay</title></programme>
-<programme start="20240722103000 +0000" stop="20240722131500 +0000" channel="StarTV.tr"><title lang="tr">Yüksek Sosyete</title></programme>
+<programme start="20240722080000 +0000" stop="20240722103000 +0000" channel="StarTV.tr"><title lang="tr">Aramızda Kalsın</title></programme>
+<programme start="20240722103000 +0000" stop="20240722131500 +0000" channel="StarTV.tr"><title lang="tr">Kiralık Aşk</title></programme>
 <programme start="20240722131500 +0000" stop="20240722160000 +0000" channel="StarTV.tr"><title lang="tr">Erkenci Kuş</title></programme>
 <programme start="20240722160000 +0000" stop="20240722170000 +0000" channel="StarTV.tr"><title lang="tr">Star Haber</title></programme>
-<programme start="20240722170000 +0000" stop="20240722213000 +0000" channel="StarTV.tr"><title lang="tr">Dizi</title></programme>
-<programme start="20240722170000 +0000" stop="20240722213000 +0000" channel="StarTV.tr"><title lang="tr">Dizi</title></programme>
+<programme start="20240722170000 +0000" stop="20240722193000 +0000" channel="StarTV.tr"><title lang="tr">Düğün Dernek 2: Sünnet</title></programme>
+<programme start="20240722193000 +0000" stop="20240722213000 +0000" channel="StarTV.tr"><title lang="tr">Düğün Dernek 2: Sünnet</title></programme>
+<programme start="20240722193000 +0000" stop="20240722213000 +0000" channel="StarTV.tr"><title lang="tr">Düğün Dernek 2: Sünnet</title></programme>
 <programme start="20240722213000 +0000" stop="20240722230000 +0000" channel="StarTV.tr"><title lang="tr">İstanbullu Gelin</title></programme>
 <programme start="20240722230000 +0000" stop="20240723023000 +0000" channel="StarTV.tr"><title lang="tr">Yüksek Sosyete</title></programme>
 <programme start="20240723023000 +0000" stop="20240723040000 +0000" channel="StarTV.tr"><title lang="tr">Erkenci Kuş</title></programme>
