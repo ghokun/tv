@@ -488,6 +488,8 @@
 <programme start="20240722170000 +0000" stop="20240722180000 +0000" channel="HalkTV.tr"><title lang="tr">Sen Ne Dersin?</title></programme>
 <programme start="20240722180000 +0000" stop="20240722220000 +0000" channel="HalkTV.tr"><title lang="tr">Sözüm Var</title></programme>
 <programme start="20240722180000 +0000" stop="20240722220000 +0000" channel="HalkTV.tr"><title lang="tr">Sözüm Var</title></programme>
+<programme start="20240722200000 +0000" stop="20240722220000 +0000" channel="HalkTV.tr"><title lang="tr">Gündem Özel</title></programme>
+<programme start="20240722200000 +0000" stop="20240722220000 +0000" channel="HalkTV.tr"><title lang="tr">Gündem Özel</title></programme>
 <programme start="20240722220000 +0000" stop="20240723000000 +0000" channel="HalkTV.tr"><title lang="tr">Halk TV&apos;de Bugün</title></programme>
 <programme start="20240723000000 +0000" stop="20240723030000 +0000" channel="HalkTV.tr"><title lang="tr">Halk TV&apos;de Bugün</title></programme>
 <programme start="20240723030000 +0000" stop="20240723040000 +0000" channel="HalkTV.tr"><title lang="tr">Halk TV&apos;de Bugün</title></programme>
@@ -549,8 +551,8 @@
 <programme start="20240723100000 +0000" stop="20240723130000 +0000" channel="KanalD.tr"><title lang="tr">İnci Taneleri</title></programme>
 <programme start="20240723130000 +0000" stop="20240723160000 +0000" channel="KanalD.tr"><title lang="tr">Ayazın Sonu Güneş</title></programme>
 <programme start="20240723160000 +0000" stop="20240723170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
-<programme start="20240723170000 +0000" stop="20240723193000 +0000" channel="KanalD.tr"><title lang="tr">Son Sığınak</title></programme>
-<programme start="20240723193000 +0000" stop="20240723211500 +0000" channel="KanalD.tr"><title lang="tr">Yabancı Sinema</title></programme>
+<programme start="20240723170000 +0000" stop="20240723190000 +0000" channel="KanalD.tr"><title lang="tr">Taşıyıcı 3</title></programme>
+<programme start="20240723190000 +0000" stop="20240723210500 +0000" channel="KanalD.tr"><title lang="tr">Taşıyıcı 3</title></programme>
 <programme start="20240721210000 +0000" stop="20240721213000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Bi&apos; Adada Bi&apos; Arada</title></programme>
 <programme start="20240721213000 +0000" stop="20240721214500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kukuli</title></programme>
 <programme start="20240721214500 +0000" stop="20240721220000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kukuli</title></programme>
