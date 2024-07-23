@@ -1749,7 +1749,8 @@
 <programme start="20240723100000 +0000" stop="20240723105000 +0000" channel="TRTHaber.tr"><title lang="tr">Öğle Ana Haber</title></programme>
 <programme start="20240723105000 +0000" stop="20240723105500 +0000" channel="TRTHaber.tr"><title lang="tr">Piyasa Raporu</title></programme>
 <programme start="20240723105500 +0000" stop="20240723110000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20240723110000 +0000" stop="20240723120000 +0000" channel="TRTHaber.tr"><title lang="tr">Öğle Ana Haber</title></programme>
+<programme start="20240723110000 +0000" stop="20240723113000 +0000" channel="TRTHaber.tr"><title lang="tr">Öğle Ana Haber</title></programme>
+<programme start="20240723113000 +0000" stop="20240723120000 +0000" channel="TRTHaber.tr"><title lang="tr">Eğitim Editörü</title></programme>
 <programme start="20240723120000 +0000" stop="20240723135500 +0000" channel="TRTHaber.tr"><title lang="tr">Haber Ajandası</title></programme>
 <programme start="20240723135500 +0000" stop="20240723140000 +0000" channel="TRTHaber.tr"><title lang="tr">Milli Güç Güçlü Türkiye</title></programme>
 <programme start="20240723140000 +0000" stop="20240723150000 +0000" channel="TRTHaber.tr"><title lang="tr">Günün İçinden</title></programme>
@@ -1757,10 +1758,12 @@
 <programme start="20240723155500 +0000" stop="20240723160000 +0000" channel="TRTHaber.tr"><title lang="tr">Piyasa Raporu</title></programme>
 <programme start="20240723160000 +0000" stop="20240723165500 +0000" channel="TRTHaber.tr"><title lang="tr">Sıcak Haber</title></programme>
 <programme start="20240723165500 +0000" stop="20240723170000 +0000" channel="TRTHaber.tr"><title lang="tr">Ana Habere Doğru</title></programme>
-<programme start="20240723170000 +0000" stop="20240723180000 +0000" channel="TRTHaber.tr"><title lang="tr">Ana Haber 20</title></programme>
-<programme start="20240723180000 +0000" stop="20240723210000 +0000" channel="TRTHaber.tr"><title lang="tr">Birinci Sayfa</title></programme>
+<programme start="20240723170000 +0000" stop="20240723173000 +0000" channel="TRTHaber.tr"><title lang="tr">Ana Haber 20</title></programme>
+<programme start="20240723173000 +0000" stop="20240723183000 +0000" channel="TRTHaber.tr"><title lang="tr">Özel Röportaj</title></programme>
+<programme start="20240723183000 +0000" stop="20240723210000 +0000" channel="TRTHaber.tr"><title lang="tr">Birinci Sayfa</title></programme>
 <programme start="20240723210000 +0000" stop="20240723230000 +0000" channel="TRTHaber.tr"><title lang="tr">Gece Bakışı</title></programme>
-<programme start="20240723230000 +0000" stop="20240724005500 +0000" channel="TRTHaber.tr"><title lang="tr">Gün Sonu</title></programme>
+<programme start="20240723230000 +0000" stop="20240724000000 +0000" channel="TRTHaber.tr"><title lang="tr">Özel Röportaj</title></programme>
+<programme start="20240724000000 +0000" stop="20240724005500 +0000" channel="TRTHaber.tr"><title lang="tr">Gün Sonu</title></programme>
 <programme start="20240724005500 +0000" stop="20240724010000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20240724010000 +0000" stop="20240724020000 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 04</title></programme>
 <programme start="20240724020000 +0000" stop="20240724025500 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 05</title></programme>
