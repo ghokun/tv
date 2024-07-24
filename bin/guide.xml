@@ -536,14 +536,15 @@
 <programme start="20240724080000 +0000" stop="20240724090000 +0000" channel="KanalD.tr"><title lang="tr">Magazin D Yaz</title></programme>
 <programme start="20240724090000 +0000" stop="20240724100000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Haber Gün Arası</title></programme>
 <programme start="20240724100000 +0000" stop="20240724130000 +0000" channel="KanalD.tr"><title lang="tr">İnci Taneleri</title></programme>
-<programme start="20240724130000 +0000" stop="20240724160000 +0000" channel="KanalD.tr"><title lang="tr">Ayazın Sonu Güneş</title></programme>
+<programme start="20240724130000 +0000" stop="20240724133000 +0000" channel="KanalD.tr"><title lang="tr">İnci Taneleri</title></programme>
+<programme start="20240724133000 +0000" stop="20240724160000 +0000" channel="KanalD.tr"><title lang="tr">Ayazın Sonu Güneş</title></programme>
 <programme start="20240724160000 +0000" stop="20240724170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
-<programme start="20240724170000 +0000" stop="20240724203000 +0000" channel="KanalD.tr"><title lang="tr">Turnike</title></programme>
-<programme start="20240724203000 +0000" stop="20240724213000 +0000" channel="KanalD.tr"><title lang="tr">Ayazın Sonu Güneş</title></programme>
-<programme start="20240724203000 +0000" stop="20240724213000 +0000" channel="KanalD.tr"><title lang="tr">Ayazın Sonu Güneş</title></programme>
-<programme start="20240724213000 +0000" stop="20240724231500 +0000" channel="KanalD.tr"><title lang="tr">Ben Hur Adına</title></programme>
-<programme start="20240724231500 +0000" stop="20240725013000 +0000" channel="KanalD.tr"><title lang="tr">Güneşi Beklerken</title></programme>
-<programme start="20240725013000 +0000" stop="20240725040000 +0000" channel="KanalD.tr"><title lang="tr">Çatı Katı Aşk</title></programme>
+<programme start="20240724170000 +0000" stop="20240724211500 +0000" channel="KanalD.tr"><title lang="tr">Turnike</title></programme>
+<programme start="20240724170000 +0000" stop="20240724211500 +0000" channel="KanalD.tr"><title lang="tr">Turnike</title></programme>
+<programme start="20240724211500 +0000" stop="20240724221500 +0000" channel="KanalD.tr"><title lang="tr">Ayazın Sonu Güneş</title></programme>
+<programme start="20240724221500 +0000" stop="20240724234500 +0000" channel="KanalD.tr"><title lang="tr">Ben Hur Adına</title></programme>
+<programme start="20240724234500 +0000" stop="20240725014500 +0000" channel="KanalD.tr"><title lang="tr">Güneşi Beklerken</title></programme>
+<programme start="20240725014500 +0000" stop="20240725040000 +0000" channel="KanalD.tr"><title lang="tr">Çatı Katı Aşk</title></programme>
 <programme start="20240725040000 +0000" stop="20240725060000 +0000" channel="KanalD.tr"><title lang="tr">Yabancı Damat</title></programme>
 <programme start="20240725060000 +0000" stop="20240725080000 +0000" channel="KanalD.tr"><title lang="tr">Öyle Bir Geçer Zaman Ki</title></programme>
 <programme start="20240725080000 +0000" stop="20240725090000 +0000" channel="KanalD.tr"><title lang="tr">Magazin D Yaz</title></programme>
