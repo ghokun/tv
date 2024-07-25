@@ -1064,10 +1064,9 @@
 <programme start="20240725123000 +0000" stop="20240725124500 +0000" channel="NTV.tr"><title lang="tr">Doğru Tercih</title></programme>
 <programme start="20240725124500 +0000" stop="20240725125500 +0000" channel="NTV.tr"><title lang="tr">Spor</title></programme>
 <programme start="20240725125500 +0000" stop="20240725130000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20240725130000 +0000" stop="20240725133000 +0000" channel="NTV.tr"><title lang="tr">Günün İçinden</title></programme>
-<programme start="20240725133000 +0000" stop="20240725133500 +0000" channel="NTV.tr"><title lang="tr">Piyasalar</title></programme>
-<programme start="20240725133500 +0000" stop="20240725134500 +0000" channel="NTV.tr"><title lang="tr">Spor</title></programme>
-<programme start="20240725134500 +0000" stop="20240725135000 +0000" channel="NTV.tr"><title lang="tr">Sıra Dışı Gerçekler</title></programme>
+<programme start="20240725130000 +0000" stop="20240725131000 +0000" channel="NTV.tr"><title lang="tr">Günün İçinden</title></programme>
+<programme start="20240725131000 +0000" stop="20240725131500 +0000" channel="NTV.tr"><title lang="tr">Piyasalar</title></programme>
+<programme start="20240725131500 +0000" stop="20240725135000 +0000" channel="NTV.tr"><title lang="tr">Paris 2024 Özel</title></programme>
 <programme start="20240725135000 +0000" stop="20240725135500 +0000" channel="NTV.tr"><title lang="tr">Laf Aramızda</title></programme>
 <programme start="20240725135500 +0000" stop="20240725140000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20240725140000 +0000" stop="20240725143000 +0000" channel="NTV.tr"><title lang="tr">Günün İçinden</title></programme>
