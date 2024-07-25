@@ -1503,28 +1503,19 @@
 <programme start="20240726201500 +0000" stop="20240726214500 +0000" channel="TRT2.tr"><title lang="tr">Viyana Filarmoni...</title></programme>
 <programme start="20240724190000 +0000" stop="20240725030000 +0000" channel="TRT3.tr"><title lang="tr">TBMM-TV</title></programme>
 <programme start="20240725030000 +0000" stop="20240725110000 +0000" channel="TRT3.tr"><title lang="tr">TBMM-TV</title></programme>
-<programme start="20240725055500 +0000" stop="20240725060000 +0000" channel="TRT3.tr"><title lang="tr">Spor Takvimi</title></programme>
-<programme start="20240725060000 +0000" stop="20240725061500 +0000" channel="TRT3.tr"><title lang="tr">İşitme Engelliler Spor...</title></programme>
-<programme start="20240725061500 +0000" stop="20240725064500 +0000" channel="TRT3.tr"><title lang="tr">Olimpiyat Anıları</title></programme>
-<programme start="20240725064500 +0000" stop="20240725065500 +0000" channel="TRT3.tr"><title lang="tr">Icardi Goller</title></programme>
-<programme start="20240725065500 +0000" stop="20240725070000 +0000" channel="TRT3.tr"><title lang="tr">Spor Takvimi</title></programme>
-<programme start="20240725070000 +0000" stop="20240725080000 +0000" channel="TRT3.tr"><title lang="tr">Spor Bülteni</title></programme>
-<programme start="20240725080000 +0000" stop="20240725093000 +0000" channel="TRT3.tr"><title lang="tr">Spor Manşet</title></programme>
-<programme start="20240725093000 +0000" stop="20240725103000 +0000" channel="TRT3.tr"><title lang="tr">Gün Ortası</title></programme>
-<programme start="20240725103000 +0000" stop="20240725110000 +0000" channel="TRT3.tr"><title lang="tr">Trendyol Süper Lig En...</title></programme>
 <programme start="20240725110000 +0000" stop="20240725130000 +0000" channel="TRT3.tr"><title lang="tr">TBMM-TV</title></programme>
 <programme start="20240725130000 +0000" stop="20240725150000 +0000" channel="TRT3.tr"><title lang="tr">TBMM-TV</title></programme>
 <programme start="20240725150000 +0000" stop="20240725170000 +0000" channel="TRT3.tr"><title lang="tr">TBMM-TV</title></programme>
 <programme start="20240725170000 +0000" stop="20240725180000 +0000" channel="TRT3.tr"><title lang="tr">TBMM-TV</title></programme>
-<programme start="20240725180000 +0000" stop="20240725194500 +0000" channel="TRT3.tr"><title lang="tr">Başakşehir - La Fiorita</title></programme>
-<programme start="20240725194500 +0000" stop="20240725220000 +0000" channel="TRT3.tr"><title lang="tr">Aktüel Futbol Transfer</title></programme>
-<programme start="20240725194500 +0000" stop="20240725220000 +0000" channel="TRT3.tr"><title lang="tr">Aktüel Futbol Transfer</title></programme>
+<programme start="20240725180000 +0000" stop="20240725200000 +0000" channel="TRT3.tr"><title lang="tr">Fransa - Ukrayna</title></programme>
+<programme start="20240725200000 +0000" stop="20240725220000 +0000" channel="TRT3.tr"><title lang="tr">Aktüel Futbol Transfer</title></programme>
+<programme start="20240725200000 +0000" stop="20240725220000 +0000" channel="TRT3.tr"><title lang="tr">Aktüel Futbol Transfer</title></programme>
 <programme start="20240725220000 +0000" stop="20240725230000 +0000" channel="TRT3.tr"><title lang="tr">Spor Artı</title></programme>
 <programme start="20240725230000 +0000" stop="20240726004500 +0000" channel="TRT3.tr"><title lang="tr">Başakşehir - La Fiorita</title></programme>
-<programme start="20240726004500 +0000" stop="20240726010000 +0000" channel="TRT3.tr"><title lang="tr">Trendyol Süper Lig En...</title></programme>
-<programme start="20240726010000 +0000" stop="20240726030000 +0000" channel="TRT3.tr"><title lang="tr">Aktüel Futbol Transfer</title></programme>
-<programme start="20240726030000 +0000" stop="20240726033000 +0000" channel="TRT3.tr"><title lang="tr">UEFA Şampiyonlar Ligi...</title></programme>
-<programme start="20240726033000 +0000" stop="20240726035800 +0000" channel="TRT3.tr"><title lang="tr">Trendyol Süper Lig Öne...</title></programme>
+<programme start="20240726004500 +0000" stop="20240726023000 +0000" channel="TRT3.tr"><title lang="tr">Fransa - Ukrayna</title></programme>
+<programme start="20240726023000 +0000" stop="20240726030000 +0000" channel="TRT3.tr"><title lang="tr">Trendyol Süper Lig Öne...</title></programme>
+<programme start="20240726030000 +0000" stop="20240726033000 +0000" channel="TRT3.tr"><title lang="tr">Fenerbahçe Goller</title></programme>
+<programme start="20240726033000 +0000" stop="20240726035800 +0000" channel="TRT3.tr"><title lang="tr">Galatasaray Goller</title></programme>
 <programme start="20240726035800 +0000" stop="20240726040000 +0000" channel="TRT3.tr"><title lang="tr">İstiklal Marşı</title></programme>
 <programme start="20240726040000 +0000" stop="20240726050000 +0000" channel="TRT3.tr"><title lang="tr">İlk Baskı</title></programme>
 <programme start="20240726050000 +0000" stop="20240726055500 +0000" channel="TRT3.tr"><title lang="tr">Olimpiyat Günlüğü</title></programme>
