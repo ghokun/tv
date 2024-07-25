@@ -1513,13 +1513,10 @@
 <programme start="20240725093000 +0000" stop="20240725103000 +0000" channel="TRT3.tr"><title lang="tr">Gün Ortası</title></programme>
 <programme start="20240725103000 +0000" stop="20240725110000 +0000" channel="TRT3.tr"><title lang="tr">Trendyol Süper Lig En...</title></programme>
 <programme start="20240725110000 +0000" stop="20240725130000 +0000" channel="TRT3.tr"><title lang="tr">TBMM-TV</title></programme>
-<programme start="20240725130000 +0000" stop="20240725150000 +0000" channel="TRT3.tr"><title lang="tr">Gündem Futbol Transfer</title></programme>
-<programme start="20240725150000 +0000" stop="20240725153000 +0000" channel="TRT3.tr"><title lang="tr">Dünyadan Spor</title></programme>
-<programme start="20240725153000 +0000" stop="20240725173000 +0000" channel="TRT3.tr"><title lang="tr">Norveç - Türkiye</title></programme>
-<programme start="20240725173000 +0000" stop="20240725174500 +0000" channel="TRT3.tr"><title lang="tr">Aktüel Futbol Transfer</title></programme>
-<programme start="20240725174500 +0000" stop="20240725183000 +0000" channel="TRT3.tr"><title lang="tr">Başakşehir - La Fiorita</title></programme>
-<programme start="20240725183000 +0000" stop="20240725184500 +0000" channel="TRT3.tr"><title lang="tr">Aktüel Futbol Transfer</title></programme>
-<programme start="20240725184500 +0000" stop="20240725194500 +0000" channel="TRT3.tr"><title lang="tr">Başakşehir - La Fiorita</title></programme>
+<programme start="20240725130000 +0000" stop="20240725150000 +0000" channel="TRT3.tr"><title lang="tr">TBMM-TV</title></programme>
+<programme start="20240725150000 +0000" stop="20240725170000 +0000" channel="TRT3.tr"><title lang="tr">TBMM-TV</title></programme>
+<programme start="20240725170000 +0000" stop="20240725180000 +0000" channel="TRT3.tr"><title lang="tr">TBMM-TV</title></programme>
+<programme start="20240725180000 +0000" stop="20240725194500 +0000" channel="TRT3.tr"><title lang="tr">Başakşehir - La Fiorita</title></programme>
 <programme start="20240725194500 +0000" stop="20240725220000 +0000" channel="TRT3.tr"><title lang="tr">Aktüel Futbol Transfer</title></programme>
 <programme start="20240725194500 +0000" stop="20240725220000 +0000" channel="TRT3.tr"><title lang="tr">Aktüel Futbol Transfer</title></programme>
 <programme start="20240725220000 +0000" stop="20240725230000 +0000" channel="TRT3.tr"><title lang="tr">Spor Artı</title></programme>
@@ -1911,9 +1908,9 @@
 <programme start="20240725053000 +0000" stop="20240725064500 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
 <programme start="20240725064500 +0000" stop="20240725104500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240725104500 +0000" stop="20240725130000 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
-<programme start="20240725130000 +0000" stop="20240725170000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
-<programme start="20240725170000 +0000" stop="20240725211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
-<programme start="20240725170000 +0000" stop="20240725211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240725130000 +0000" stop="20240725160000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
+<programme start="20240725160000 +0000" stop="20240725211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240725160000 +0000" stop="20240725211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240725211500 +0000" stop="20240725233000 +0000" channel="TV8.tr"><title lang="tr">Emre Dorman İle...</title></programme>
 <programme start="20240725233000 +0000" stop="20240726013000 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
 <programme start="20240726013000 +0000" stop="20240726030000 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
