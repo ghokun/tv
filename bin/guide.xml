@@ -1494,14 +1494,11 @@
 <programme start="20240726130000 +0000" stop="20240726143000 +0000" channel="TRT3.tr"><title lang="tr">Gündem Futbol Transfer</title></programme>
 <programme start="20240726143000 +0000" stop="20240726150000 +0000" channel="TRT3.tr"><title lang="tr">Dünyadan Spor</title></programme>
 <programme start="20240726150000 +0000" stop="20240726170000 +0000" channel="TRT3.tr"><title lang="tr">Spor Merkezi</title></programme>
-<programme start="20240726170000 +0000" stop="20240726173000 +0000" channel="TRT3.tr"><title lang="tr">Olimpiyat Özel</title></programme>
-<programme start="20240726173000 +0000" stop="20240726193000 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
-<programme start="20240726193000 +0000" stop="20240726200000 +0000" channel="TRT3.tr"><title lang="tr">Spor Bülteni</title></programme>
-<programme start="20240726200000 +0000" stop="20240726220000 +0000" channel="TRT3.tr"><title lang="tr">Transfer Günlüğü</title></programme>
-<programme start="20240726200000 +0000" stop="20240726220000 +0000" channel="TRT3.tr"><title lang="tr">Transfer Günlüğü</title></programme>
-<programme start="20240726220000 +0000" stop="20240726230000 +0000" channel="TRT3.tr"><title lang="tr">Spor Artı</title></programme>
-<programme start="20240726230000 +0000" stop="20240727010000 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
-<programme start="20240727010000 +0000" stop="20240727030000 +0000" channel="TRT3.tr"><title lang="tr">Transfer Günlüğü</title></programme>
+<programme start="20240726170000 +0000" stop="20240726173000 +0000" channel="TRT3.tr"><title lang="tr">Olimpiyata Doğrı</title></programme>
+<programme start="20240726173000 +0000" stop="20240726213000 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240726173000 +0000" stop="20240726213000 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240726213000 +0000" stop="20240726230000 +0000" channel="TRT3.tr"><title lang="tr">Transfer Günlüğü</title></programme>
+<programme start="20240726230000 +0000" stop="20240727030000 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
 <programme start="20240727030000 +0000" stop="20240727033000 +0000" channel="TRT3.tr"><title lang="tr">Trabzonspor Goller</title></programme>
 <programme start="20240727033000 +0000" stop="20240727035800 +0000" channel="TRT3.tr"><title lang="tr">Beşiktaş Goller</title></programme>
 <programme start="20240727035800 +0000" stop="20240727040000 +0000" channel="TRT3.tr"><title lang="tr">İstiklal Marşı</title></programme>
