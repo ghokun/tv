@@ -1512,13 +1512,13 @@
 <programme start="20240727070000 +0000" stop="20240727073000 +0000" channel="TRT3.tr"><title lang="tr">Orhan Ayhan&apos;la</title></programme>
 <programme start="20240727073000 +0000" stop="20240727080000 +0000" channel="TRT3.tr"><title lang="tr">Olimpiyat Anıları</title></programme>
 <programme start="20240727080000 +0000" stop="20240727090000 +0000" channel="TRT3.tr"><title lang="tr">Yüz Yüze Futbol</title></programme>
-<programme start="20240727090000 +0000" stop="20240727110000 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240727090000 +0000" stop="20240727110000 +0000" channel="TRT3.tr"><title lang="tr">Avustralya - İspanya</title></programme>
 <programme start="20240727110000 +0000" stop="20240727130000 +0000" channel="TRT3.tr"><title lang="tr">Spor Haftasonu</title></programme>
-<programme start="20240727130000 +0000" stop="20240727150000 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240727130000 +0000" stop="20240727150000 +0000" channel="TRT3.tr"><title lang="tr">Dominik Cumhuriyeti - İspanya</title></programme>
 <programme start="20240727150000 +0000" stop="20240727151500 +0000" channel="TRT3.tr"><title lang="tr">Trendyol Süper Lig En...</title></programme>
-<programme start="20240727151500 +0000" stop="20240727171500 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240727151500 +0000" stop="20240727171500 +0000" channel="TRT3.tr"><title lang="tr">Fransa - Brezilya</title></programme>
 <programme start="20240727171500 +0000" stop="20240727190000 +0000" channel="TRT3.tr"><title lang="tr">Gündem Futbol Transfer</title></programme>
-<programme start="20240727190000 +0000" stop="20240727210000 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240727190000 +0000" stop="20240727210000 +0000" channel="TRT3.tr"><title lang="tr">Fransa - Gine</title></programme>
 <programme start="20240725202500 +0000" stop="20240725211500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Büyük Aile Çiftliği</title></programme>
 <programme start="20240725211500 +0000" stop="20240725215500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Yok Olmadan Keşfet</title></programme>
 <programme start="20240725215500 +0000" stop="20240725222500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Yiyeceğin Serüveni</title></programme>
@@ -1877,9 +1877,9 @@
 <programme start="20240726053000 +0000" stop="20240726064500 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
 <programme start="20240726064500 +0000" stop="20240726104500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240726104500 +0000" stop="20240726130000 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
-<programme start="20240726130000 +0000" stop="20240726170000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
-<programme start="20240726170000 +0000" stop="20240726211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
-<programme start="20240726170000 +0000" stop="20240726211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240726130000 +0000" stop="20240726160000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
+<programme start="20240726160000 +0000" stop="20240726211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240726160000 +0000" stop="20240726211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240726211500 +0000" stop="20240726233000 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240726233000 +0000" stop="20240727013000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
 <programme start="20240727013000 +0000" stop="20240727030000 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
