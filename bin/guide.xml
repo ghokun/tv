@@ -295,11 +295,12 @@
 <programme start="20240728030000 +0000" stop="20240728040000 +0000" channel="CNNTurk.tr"><title lang="tr">Haber</title></programme>
 <programme start="20240728040000 +0000" stop="20240728060000 +0000" channel="CNNTurk.tr"><title lang="tr">Güne Merhaba Hafta Sonu</title></programme>
 <programme start="20240728060000 +0000" stop="20240728070000 +0000" channel="CNNTurk.tr"><title lang="tr">Haber</title></programme>
-<programme start="20240728070000 +0000" stop="20240728073500 +0000" channel="CNNTurk.tr"><title lang="tr">Haber</title></programme>
-<programme start="20240728073500 +0000" stop="20240728080000 +0000" channel="CNNTurk.tr"><title lang="tr">Üretim Zamanı</title></programme>
+<programme start="20240728070000 +0000" stop="20240728071000 +0000" channel="CNNTurk.tr"><title lang="tr">Haber</title></programme>
+<programme start="20240728071000 +0000" stop="20240728074000 +0000" channel="CNNTurk.tr"><title lang="tr">Hafta Sonu</title></programme>
+<programme start="20240728074000 +0000" stop="20240728080000 +0000" channel="CNNTurk.tr"><title lang="tr">Üretim Zamanı</title></programme>
 <programme start="20240728080000 +0000" stop="20240728081500 +0000" channel="CNNTurk.tr"><title lang="tr">Haber</title></programme>
-<programme start="20240728081500 +0000" stop="20240728084500 +0000" channel="CNNTurk.tr"><title lang="tr">Tercih Zamanı</title></programme>
-<programme start="20240728084500 +0000" stop="20240728100000 +0000" channel="CNNTurk.tr"><title lang="tr">Haber</title></programme>
+<programme start="20240728081500 +0000" stop="20240728090000 +0000" channel="CNNTurk.tr"><title lang="tr">Tercih Zamanı</title></programme>
+<programme start="20240728090000 +0000" stop="20240728100000 +0000" channel="CNNTurk.tr"><title lang="tr">Haber</title></programme>
 <programme start="20240728100000 +0000" stop="20240728110000 +0000" channel="CNNTurk.tr"><title lang="tr">Haber</title></programme>
 <programme start="20240728110000 +0000" stop="20240728120000 +0000" channel="CNNTurk.tr"><title lang="tr">Haber</title></programme>
 <programme start="20240728120000 +0000" stop="20240728121500 +0000" channel="CNNTurk.tr"><title lang="tr">Haber</title></programme>
