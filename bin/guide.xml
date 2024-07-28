@@ -553,9 +553,10 @@
 <programme start="20240729060000 +0000" stop="20240729080000 +0000" channel="KanalD.tr"><title lang="tr">Öyle Bir Geçer Zaman Ki</title></programme>
 <programme start="20240729080000 +0000" stop="20240729090000 +0000" channel="KanalD.tr"><title lang="tr">Magazin D Yaz</title></programme>
 <programme start="20240729090000 +0000" stop="20240729100000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Haber Gün Arası</title></programme>
-<programme start="20240729100000 +0000" stop="20240729130000 +0000" channel="KanalD.tr"><title lang="tr">İnci Taneleri</title></programme>
-<programme start="20240729130000 +0000" stop="20240729160000 +0000" channel="KanalD.tr"><title lang="tr">Ayazın Sonu Güneş</title></programme>
-<programme start="20240729160000 +0000" stop="20240730000000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
+<programme start="20240729100000 +0000" stop="20240729133000 +0000" channel="KanalD.tr"><title lang="tr">İnci Taneleri</title></programme>
+<programme start="20240729133000 +0000" stop="20240729160000 +0000" channel="KanalD.tr"><title lang="tr">Ayazın Sonu Güneş</title></programme>
+<programme start="20240729160000 +0000" stop="20240729170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
+<programme start="20240729170000 +0000" stop="20240729211500 +0000" channel="KanalD.tr"><title lang="tr">Yalan</title></programme>
 <programme start="20240727210000 +0000" stop="20240727213000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Bi&apos; Adada Bi&apos; Arada</title></programme>
 <programme start="20240727213000 +0000" stop="20240727214500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kukuli</title></programme>
 <programme start="20240727214500 +0000" stop="20240727220000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kukuli</title></programme>
@@ -1852,6 +1853,8 @@
 <programme start="20240728120000 +0000" stop="20240728160000 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
 <programme start="20240728160000 +0000" stop="20240728211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240728160000 +0000" stop="20240728211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240728170000 +0000" stop="20240728211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240728170000 +0000" stop="20240728211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240728211500 +0000" stop="20240728234500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240728234500 +0000" stop="20240729014500 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
 <programme start="20240729014500 +0000" stop="20240729030000 +0000" channel="TV8.tr"><title lang="tr">Sinema</title></programme>
