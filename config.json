@@ -113,7 +113,7 @@
       "m3u": {
         "group_title": "Ulusal",
         "name": "NOW",
-        "tvg_logo": "http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png",
+        "tvg_logo": "https://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png",
         "url": "http://stream.tvcdn.net/ulusal/now-tv.m3u8"
       }
     },
@@ -385,7 +385,7 @@
       "m3u": {
         "group_title": "Spor",
         "name": "TRT Spor Yıldız",
-        "tvg_logo": "http://assets.tvcdn.net/27f74187-ef2a-4928-9515-77422081119c.png",
+        "tvg_logo": "https://assets.tvcdn.net/27f74187-ef2a-4928-9515-77422081119c.png",
         "url": "http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8"
       }
     },
