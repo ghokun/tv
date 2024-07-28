@@ -12,21 +12,31 @@
     },
     "AHaber.tr": {
       "epg": {
-        "channel": "A Haber HD",
+        "channel": "A Haber",
         "lang": "tr",
         "site": "digiturk.com.tr",
         "site_id": "32"
       },
-      "group": "Haber"
+      "m3u": {
+        "group_title": "Haber",
+        "name": "A Haber",
+        "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png",
+        "url": "http://stream.tvcdn.net/haber/a-haber.m3u8"
+      }
     },
     "ATVAvrupa.tr": {
       "epg": {
-        "channel": "ATV Avrupa",
+        "channel": "ATV",
         "lang": "tr",
-        "site": "ziggogo.tv",
-        "site_id": "NL_000163_019272"
+        "site": "digiturk.com.tr",
+        "site_id": "25"
       },
-      "group": "Ulusal"
+      "m3u": {
+        "group_title": "Ulusal",
+        "name": "ATV",
+        "tvg_logo": "https://i.imgur.com/0tm3tui.png",
+        "url": "http://stream.tvcdn.net/ulusal/atv.m3u8"
+      }
     },
     "BeyazTV.tr": {
       "epg": {
@@ -224,7 +234,12 @@
         "site": "turksatkablo.com.tr",
         "site_id": "3779"
       },
-      "group": "Haber"
+      "m3u": {
+        "group_title": "Haber",
+        "name": "Sozcu TV",
+        "tvg_logo": "https://i.imgur.com/BxpdvsG.png",
+        "url": "http://stream.tvcdn.net/haber/sozcu-tv.m3u8"
+      }
     },
     "SportsTV.tr": {
       "epg": {
@@ -293,7 +308,12 @@
         "site": "digiturk.com.tr",
         "site_id": "66"
       },
-      "group": "Ulusal"
+      "m3u": {
+        "group_title": "Ulusal",
+        "name": "TRT 2",
+        "tvg_logo": "https://i.imgur.com/iOCQdyD.png",
+        "url": "http://stream.tvcdn.net/eglence/trt-2.m3u8"
+      }
     },
     "TRT3.tr": {
       "epg": {
@@ -354,6 +374,20 @@
         "site_id": "33"
       },
       "group": "Haber"
+    },
+    "TRTSporYildiz.tr": {
+      "epg": {
+        "channel": "TRT Spor Yıldız",
+        "lang": "tr",
+        "site": "digiturk.com.tr",
+        "site_id": "87"
+      },
+      "m3u": {
+        "group_title": "Spor",
+        "name": "TRT Spor Yıldız",
+        "tvg_logo": "http://assets.tvcdn.net/27f74187-ef2a-4928-9515-77422081119c.png",
+        "url": "http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8"
+      }
     },
     "TRTTurk.tr": {
       "epg": {
