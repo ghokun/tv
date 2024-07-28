@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20240728">
 <channel id="360.tr"><display-name>360</display-name><url>https://digiturk.com.tr</url></channel>
 <channel id="AHaber.tr"><display-name>A Haber</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="ATVAvrupa.tr"><display-name>ATV Avrupa</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="ATV.tr"><display-name>ATV</display-name><url>https://digiturk.com.tr</url></channel>
 <channel id="BeyazTV.tr"><display-name>Beyaz TV</display-name><url>https://digiturk.com.tr</url></channel>
 <channel id="CartoonNetwork.tr"><display-name>Cartoon Network</display-name><url>https://digiturk.com.tr</url></channel>
 <channel id="CNNTurk.tr"><display-name>CNN Turk</display-name><url>https://digiturk.com.tr</url></channel>
@@ -15,8 +15,8 @@
 <channel id="MinikaCocuk.tr"><display-name>Minika Cocuk</display-name><url>https://turksatkablo.com.tr</url></channel>
 <channel id="MinikaGo.tr"><display-name>Minika Go</display-name><url>https://digiturk.com.tr</url></channel>
 <channel id="NTV.tr"><display-name>NTV</display-name><url>https://digiturk.com.tr</url></channel>
-<channel id="Number1TV.tr"><display-name>Number 1 TV</display-name><url>https://tvplus.com.tr</url></channel>
-<channel id="PowerTV.tr"><display-name>Power TV</display-name><url>https://tvplus.com.tr</url></channel>
+<channel id="Number1TV.tr"><display-name>Number 1 TV</display-name><url>https://digiturk.com.tr</url></channel>
+<channel id="PowerTV.tr"><display-name>Power TV</display-name><url>https://digiturk.com.tr</url></channel>
 <channel id="ShowTV.tr"><display-name>Show TV</display-name><url>https://digiturk.com.tr</url></channel>
 <channel id="SozcuTV.tr"><display-name>Sozcu TV</display-name><url>https://turksatkablo.com.tr</url></channel>
 <channel id="SportsTV.tr"><display-name>Sports TV</display-name><url>https://turksatkablo.com.tr</url></channel>
@@ -117,28 +117,28 @@
 <programme start="20240729170000 +0000" stop="20240729175000 +0000" channel="AHaber.tr"><title lang="tr">Akşam Ajansı</title></programme>
 <programme start="20240729175000 +0000" stop="20240729180000 +0000" channel="AHaber.tr"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20240729180000 +0000" stop="20240729210000 +0000" channel="AHaber.tr"><title lang="tr">Sebep Sonuç</title></programme>
-<programme start="20240727194000 +0000" stop="20240727215000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Siyah Giyen Adamlar 4:...</title></programme>
-<programme start="20240727215000 +0000" stop="20240728002000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Ateş Kuşları</title></programme>
-<programme start="20240728002000 +0000" stop="20240728022000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Kaçak</title></programme>
-<programme start="20240728022000 +0000" stop="20240728040000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Bir Küçük Gün Işığı</title></programme>
-<programme start="20240728040000 +0000" stop="20240728070000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Bahtiyar Ölmez</title></programme>
-<programme start="20240728070000 +0000" stop="20240728104000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Ankara&apos;nın Dikmeni</title></programme>
-<programme start="20240728104000 +0000" stop="20240728134000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Alan</title></programme>
-<programme start="20240728134000 +0000" stop="20240728160000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Pi&apos;nin Yaşamı</title></programme>
-<programme start="20240728160000 +0000" stop="20240728170000 +0000" channel="ATVAvrupa.tr"><title lang="tr">ATV Ana Haber</title></programme>
-<programme start="20240728170000 +0000" stop="20240728212000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Kim Milyoner Olmak İster?</title></programme>
-<programme start="20240728170000 +0000" stop="20240728212000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Kim Milyoner Olmak İster?</title></programme>
-<programme start="20240728212000 +0000" stop="20240729000000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Alan</title></programme>
-<programme start="20240729000000 +0000" stop="20240729024000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Ateş Kuşları</title></programme>
-<programme start="20240729024000 +0000" stop="20240729050000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Kaçak</title></programme>
-<programme start="20240729050000 +0000" stop="20240729070000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Kahvaltı Haberleri</title></programme>
-<programme start="20240729070000 +0000" stop="20240729100000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Sen Anlat Karadeniz</title></programme>
-<programme start="20240729100000 +0000" stop="20240729110000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Gün Ortası</title></programme>
-<programme start="20240729110000 +0000" stop="20240729130000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Yok Artık</title></programme>
-<programme start="20240729130000 +0000" stop="20240729160000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Kardeşlerim</title></programme>
-<programme start="20240729160000 +0000" stop="20240729170000 +0000" channel="ATVAvrupa.tr"><title lang="tr">ATV Ana Haber</title></programme>
-<programme start="20240729170000 +0000" stop="20240729193000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Godzilla vs. Kong</title></programme>
-<programme start="20240729193000 +0000" stop="20240729214000 +0000" channel="ATVAvrupa.tr"><title lang="tr">Hanna</title></programme>
+<programme start="20240727194000 +0000" stop="20240727215000 +0000" channel="ATV.tr"><title lang="tr">Siyah Giyen Adamlar 4:...</title></programme>
+<programme start="20240727215000 +0000" stop="20240728002000 +0000" channel="ATV.tr"><title lang="tr">Ateş Kuşları</title></programme>
+<programme start="20240728002000 +0000" stop="20240728022000 +0000" channel="ATV.tr"><title lang="tr">Kaçak</title></programme>
+<programme start="20240728022000 +0000" stop="20240728040000 +0000" channel="ATV.tr"><title lang="tr">Bir Küçük Gün Işığı</title></programme>
+<programme start="20240728040000 +0000" stop="20240728070000 +0000" channel="ATV.tr"><title lang="tr">Bahtiyar Ölmez</title></programme>
+<programme start="20240728070000 +0000" stop="20240728104000 +0000" channel="ATV.tr"><title lang="tr">Ankara&apos;nın Dikmeni</title></programme>
+<programme start="20240728104000 +0000" stop="20240728134000 +0000" channel="ATV.tr"><title lang="tr">Alan</title></programme>
+<programme start="20240728134000 +0000" stop="20240728160000 +0000" channel="ATV.tr"><title lang="tr">Pi&apos;nin Yaşamı</title></programme>
+<programme start="20240728160000 +0000" stop="20240728170000 +0000" channel="ATV.tr"><title lang="tr">ATV Ana Haber</title></programme>
+<programme start="20240728170000 +0000" stop="20240728212000 +0000" channel="ATV.tr"><title lang="tr">Kim Milyoner Olmak İster?</title></programme>
+<programme start="20240728170000 +0000" stop="20240728212000 +0000" channel="ATV.tr"><title lang="tr">Kim Milyoner Olmak İster?</title></programme>
+<programme start="20240728212000 +0000" stop="20240729000000 +0000" channel="ATV.tr"><title lang="tr">Alan</title></programme>
+<programme start="20240729000000 +0000" stop="20240729024000 +0000" channel="ATV.tr"><title lang="tr">Ateş Kuşları</title></programme>
+<programme start="20240729024000 +0000" stop="20240729050000 +0000" channel="ATV.tr"><title lang="tr">Kaçak</title></programme>
+<programme start="20240729050000 +0000" stop="20240729070000 +0000" channel="ATV.tr"><title lang="tr">Kahvaltı Haberleri</title></programme>
+<programme start="20240729070000 +0000" stop="20240729100000 +0000" channel="ATV.tr"><title lang="tr">Sen Anlat Karadeniz</title></programme>
+<programme start="20240729100000 +0000" stop="20240729110000 +0000" channel="ATV.tr"><title lang="tr">Gün Ortası</title></programme>
+<programme start="20240729110000 +0000" stop="20240729130000 +0000" channel="ATV.tr"><title lang="tr">Yok Artık</title></programme>
+<programme start="20240729130000 +0000" stop="20240729160000 +0000" channel="ATV.tr"><title lang="tr">Kardeşlerim</title></programme>
+<programme start="20240729160000 +0000" stop="20240729170000 +0000" channel="ATV.tr"><title lang="tr">ATV Ana Haber</title></programme>
+<programme start="20240729170000 +0000" stop="20240729193000 +0000" channel="ATV.tr"><title lang="tr">Godzilla vs. Kong</title></programme>
+<programme start="20240729193000 +0000" stop="20240729214000 +0000" channel="ATV.tr"><title lang="tr">Hanna</title></programme>
 <programme start="20240727204500 +0000" stop="20240727221500 +0000" channel="BeyazTV.tr"><title lang="tr">Kod Adı: U.N.C.L.E.</title></programme>
 <programme start="20240727221500 +0000" stop="20240728001500 +0000" channel="BeyazTV.tr"><title lang="tr">Büyük İntikam</title></programme>
 <programme start="20240728001500 +0000" stop="20240728010000 +0000" channel="BeyazTV.tr"><title lang="tr">Kod Adı: U.N.C.L.E.</title></programme>
