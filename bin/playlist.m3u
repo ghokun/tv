@@ -1,53 +1,53 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="360.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/360.tr.png" group-title="Ulusal",360 TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="360.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/360.tr.png" group-title="Ulusal",360
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/AHaber.tr.png" group-title="Haber",A Haber
 http://stream.tvcdn.net/haber/a-haber.m3u8
-#EXTINF:-1 tvg-id="ATVAvrupa.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/ATVAvrupa.tr.png" group-title="Ulusal",ATV
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/ATV.tr.png" group-title="Ulusal",ATV
 http://stream.tvcdn.net/ulusal/atv.m3u8
 #EXTINF:-1 tvg-id="BeyazTV.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/BeyazTV.tr.png" group-title="Ulusal",Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/CartoonNetwork.tr.png" group-title="Çocuk",Cartoon Network
 http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
-#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/CNNTurk.tr.png" group-title="Haber",CNN TÜRK
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/CNNTurk.tr.png" group-title="Haber",CNN Türk
 http://stream.tvcdn.net/haber/cnn-turk.m3u8
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/DMAX.tr.png" group-title="Eğlence",DMAX
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-#EXTINF:-1 tvg-id="EuroD.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/EuroD.tr.png" group-title="Ulusal",Euro D (720p)
+#EXTINF:-1 tvg-id="EuroD.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/EuroD.tr.png" group-title="Avrupa",Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/Fox.tr.png" group-title="Ulusal",NOW
 http://stream.tvcdn.net/ulusal/now-tv.m3u8
-#EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/HaberturkTV.tr.png" group-title="Haber",Habertürk TV (1080p)
+#EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/HaberturkTV.tr.png" group-title="Haber",Haber Türk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
-#EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/HalkTV.tr.png" group-title="Haber",Halk TV (720p)
+#EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/HalkTV.tr.png" group-title="Haber",Halk TV
 https://halktv.blutv.com/blutv_halktv_live/live.m3u8
-#EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/Kanal7.tr.png" group-title="Ulusal",Kanal 7 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/Kanal7.tr.png" group-title="Ulusal",Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/KanalD.tr.png" group-title="Ulusal",Kanal D (1080p)
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/KanalD.tr.png" group-title="Ulusal",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 #EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/MinikaCocuk.tr.png" group-title="Çocuk",Minika Çocuk
 http://stream.tvcdn.net/cocuk-egitim/minika-cocuk.m3u8
 #EXTINF:-1 tvg-id="MinikaGo.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/MinikaGo.tr.png" group-title="Çocuk",Minika GO
 http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8
-#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/NTV.tr.png" group-title="Ulusal",NTV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/NTV.tr.png" group-title="Ulusal",NTV
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 #EXTINF:-1 tvg-id="Number1TV.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/Number1TV.tr.png" group-title="Müzik",Number 1 TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
-#EXTINF:-1 tvg-id="PowerTV.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/PowerTV.tr.png" group-title="Müzik",Power TV (1080p)
+#EXTINF:-1 tvg-id="PowerTV.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/PowerTV.tr.png" group-title="Müzik",Power TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/ShowTV.tr.png" group-title="Ulusal",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
-#EXTINF:-1 tvg-id="SozcuTV.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/SozcuTV.tr.png" group-title="Haber",Sozcu TV
+#EXTINF:-1 tvg-id="SozcuTV.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/SozcuTV.tr.png" group-title="Haber",Sözcü TV
 http://stream.tvcdn.net/haber/sozcu-tv.m3u8
-#EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/SportsTV.tr.png" group-title="Spor",Sports TV (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/SportsTV.tr.png" group-title="Spor",Sports TV
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/StarTV.tr.png" group-title="Ulusal",Star TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/StarTV.tr.png" group-title="Ulusal",Star
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/Teve2.tr.png" group-title="Ulusal",Teve2
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1 tvg-id="TLC.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TLC.tr.png" group-title="Eğlence",TLC
 https://dogus-live.daioncdn.net/tlc/tlc.m3u8
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TRT1.tr.png" group-title="Haber",TRT 1
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TRT1.tr.png" group-title="Ulusal",TRT 1
 https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TRT2.tr.png" group-title="Ulusal",TRT 2
 http://stream.tvcdn.net/eglence/trt-2.m3u8
@@ -55,21 +55,21 @@ http://stream.tvcdn.net/eglence/trt-2.m3u8
 http://stream.tvcdn.net/spor/trt-3-spor.m3u8
 #EXTINF:-1 tvg-id="TRT4K.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TRT4K.tr.png" group-title="Belgesel",TRT 4K
 https://mn-nl.mncdn.com/blutv_trt4k/live.m3u8
-#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TRTBelgesel.tr.png" group-title="Belgesel",TRT Belgesel (720p)
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TRTBelgesel.tr.png" group-title="Belgesel",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TRTCocuk.tr.png" group-title="Çocuk",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TRTHaber.tr.png" group-title="Haber",TRT Haber (720p)
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TRTHaber.tr.png" group-title="Haber",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TRTSporYildiz.tr.png" group-title="Spor",TRT Spor Yıldız
 http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
-#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TRTTurk.tr.png" group-title="Haber",TRT Türk
+#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TRTTurk.tr.png" group-title="Belgesel",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TV8.tr.png" group-title="Eğlence",TV 8 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TV8.tr.png" group-title="Eğlence",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-#EXTINF:-1 tvg-id="TV85.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TV85.tr.png" group-title="Eğlence",TV 8.5 (720p)
+#EXTINF:-1 tvg-id="TV85.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TV85.tr.png" group-title="Eğlence",TV 8,5
 http://bozztv.com/gin-dvrfl05/gin-tv8_5/index.m3u8
-#EXTINF:-1 tvg-id="TV100.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TV100.tr.png" group-title="Haber",TV 100 (720p)
+#EXTINF:-1 tvg-id="TV100.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TV100.tr.png" group-title="Haber",TV 100
 https://tv100.blutv.com/blutv_tv100_live/live.m3u8
-#EXTINF:-1 tvg-id="UlusalKanal.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/UlusalKanal.tr.png" group-title="Haber",Ulusal Kanal (720p)
+#EXTINF:-1 tvg-id="UlusalKanal.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/UlusalKanal.tr.png" group-title="Haber",Ulusal Kanal
 https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8

@@ -3,23 +3,21 @@ import fs from 'node:fs';
 import { get } from 'https';
 import parser from 'iptv-playlist-parser';
 
-let download = (url, dest, cb) => {
-  console.log(url);
-  console.log(dest);
+let download = (url, dest) => {
   let file = fs.createWriteStream(dest);
   let request = get(url, (response) => {
     response.pipe(file);
     file.on('end', () => {
-      file.close(cb);
+      file.close();
     });
   }).on('error', (err) => {
     // Delete the file async if there is an error
     fs.unlink(dest);
-    if (cb) cb(err.message);
+    console.error(err);
   });
 
   request.on('error', (err) => {
-    console.log(err);
+    console.error(err);
   });
 };
 
@@ -42,28 +40,35 @@ get(config.playlist, (res) => {
       channelMap.set(item.tvg.id, item);
     });
 
-    for (const [key, value] of Object.entries(config.whitelisted)) {
-      // Append filtered channel link
-      if ('m3u' in value) {
-        download(`${value.m3u.tvg_logo}`, `bin/logo/${key}.png`);
-        m3u = m3u.concat(
-          `\n#EXTINF:-1 tvg-id="${key}" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/${key}.png" group-title="${value.m3u.group_title}",${value.m3u.name}\n${value.m3u.url}`
-        );
-      } else if (channelMap.has(key)) {
-        let item = channelMap.get(key);
-        download(`${item.tvg.logo}`, `bin/logo/${item.tvg.id}.png`);
-        m3u = m3u.concat(
-          `\n#EXTINF:-1 tvg-id="${item.tvg.id}" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/${item.tvg.id}.png" group-title="${value.group}",${item.name}\n${item.url}`
-        );
-      } else {
-        console.error(`Could not find m3u information for channel ${key}!`);
+    for (const [key, value] of Object.entries(config.channels)) {
+      // Append channel list
+      let item;
+      if (channelMap.has(key)) {
+        item = channelMap.get(key);
       }
+
+      let logo = 'logo' in value ? value.logo : item.tvg.logo;
+      download(logo, `bin/logo/${key}.png`);
+      let tvgLogo = `https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/${key}.png`;
+
+      let name = 'name' in value ? value.name : item.name;
+      let url = 'url' in value ? value.url : item.url;
+
+      if (item != undefined) {
+        if (value.url == item.url)
+          console.warn(`Remote contains same url for channel ${key}.`);
+        if (value.logo == item.tvg.logo)
+          console.warn(`Remote contains same logo for channel ${key}.`);
+      }
+
+      m3u = m3u.concat(
+        `\n#EXTINF:-1 tvg-id="${key}" tvg-logo="${tvgLogo}" group-title="${value.group_title}",${name}\n${url}`
+      );
+
       // Append EPG information
-      if ('epg' in value) {
-        channels = channels.concat(
-          `\n<channel site="${value.epg.site}" lang="${value.epg.lang}" xmltv_id="${key}" site_id="${value.epg.site_id}">${value.epg.channel}</channel>`
-        );
-      }
+      channels = channels.concat(
+        `\n<channel site="${value.epg_site}" lang="${value.lang}" xmltv_id="${key}" site_id="${value.epg_site_id}">${value.name}</channel>`
+      );
     }
 
     // Write playlist file
