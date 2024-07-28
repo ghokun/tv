@@ -1489,9 +1489,21 @@
 <programme start="20240728230000 +0000" stop="20240729010000 +0000" channel="TRT3.tr"><title lang="tr">Sırbistan - Amerika</title></programme>
 <programme start="20240729010000 +0000" stop="20240729030000 +0000" channel="TRT3.tr"><title lang="tr">19. Yaş Altı Avrupa...</title></programme>
 <programme start="20240729030000 +0000" stop="20240729033000 +0000" channel="TRT3.tr"><title lang="tr">Galatasaray Şampiyonlar...</title></programme>
-<programme start="20240729033000 +0000" stop="20240729113000 +0000" channel="TRT3.tr"><title lang="tr">Fenerbahçe Konferans Ligi...</title></programme>
-<programme start="20240729113000 +0000" stop="20240729193000 +0000" channel="TRT3.tr"><title lang="tr">Fenerbahçe Konferans Ligi...</title></programme>
-<programme start="20240729193000 +0000" stop="20240730033000 +0000" channel="TRT3.tr"><title lang="tr">Fenerbahçe Konferans Ligi...</title></programme>
+<programme start="20240729033000 +0000" stop="20240729035800 +0000" channel="TRT3.tr"><title lang="tr">Fenerbahçe Konferans Ligi...</title></programme>
+<programme start="20240729035800 +0000" stop="20240729040000 +0000" channel="TRT3.tr"><title lang="tr">İstiklal Marşı</title></programme>
+<programme start="20240729040000 +0000" stop="20240729050000 +0000" channel="TRT3.tr"><title lang="tr">İlk Baskı</title></programme>
+<programme start="20240729050000 +0000" stop="20240729060000 +0000" channel="TRT3.tr"><title lang="tr">Olimpiyat Günlüğü</title></programme>
+<programme start="20240729060000 +0000" stop="20240729062000 +0000" channel="TRT3.tr"><title lang="tr">İşitme Engelliler Spor...</title></programme>
+<programme start="20240729062000 +0000" stop="20240729070000 +0000" channel="TRT3.tr"><title lang="tr">Set Sayısı</title></programme>
+<programme start="20240729070000 +0000" stop="20240729083000 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240729083000 +0000" stop="20240729090000 +0000" channel="TRT3.tr"><title lang="tr">Set Sayısı</title></programme>
+<programme start="20240729090000 +0000" stop="20240729100000 +0000" channel="TRT3.tr"><title lang="tr">Spor Manşet</title></programme>
+<programme start="20240729100000 +0000" stop="20240729110000 +0000" channel="TRT3.tr"><title lang="tr">Gün Ortası</title></programme>
+<programme start="20240729110000 +0000" stop="20240729130000 +0000" channel="TRT3.tr"><title lang="tr">Spor Stüdyosu</title></programme>
+<programme start="20240729130000 +0000" stop="20240729154000 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240729154000 +0000" stop="20240729183000 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240729183000 +0000" stop="20240729203000 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240729203000 +0000" stop="20240729220000 +0000" channel="TRT3.tr"><title lang="tr">Aktüel Futbol Transfer</title></programme>
 <programme start="20240727203500 +0000" stop="20240727210500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Doğu&apos;nun Kayıp Silüetleri</title></programme>
 <programme start="20240727210500 +0000" stop="20240727213500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Karda Yaşam</title></programme>
 <programme start="20240727213500 +0000" stop="20240727220000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Hurdadan Hazineye</title></programme>
