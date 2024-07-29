@@ -34,6 +34,6 @@ code { font-family: sans-serif; }
 <p>Our servers are currently under maintenance or experiencing a technical issue</p>
 </div>
 </div>
-<div class="footer"><p>If you report this error to the Wikimedia System Administrators, please include the details below.</p><p class="text-muted"><code>Request from 20.55.213.179 via cp1101 cp1101, Varnish XID 498727655<br>Upstream caches: cp1101 int<br>Error: 403, Forbidden. Please comply with the User-Agent policy: https://meta.wikimedia.org/wiki/User-Agent_policy at Mon, 29 Jul 2024 20:15:55 GMT%</code></p>
+<div class="footer"><p>If you report this error to the Wikimedia System Administrators, please include the details below.</p><p class="text-muted"><code>Request from 52.234.38.74 via cp4049 cp4049, Varnish XID 273354475<br>Upstream caches: cp4049 int<br>Error: 403, Forbidden. Please comply with the User-Agent policy: https://meta.wikimedia.org/wiki/User-Agent_policy at Mon, 29 Jul 2024 21:16:21 GMT%</code></p>
 </div>
 </html>
