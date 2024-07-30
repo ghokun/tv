@@ -1525,8 +1525,7 @@
 <programme start="20240730070000 +0000" stop="20240730080000 +0000" channel="TRT3.tr"><title lang="tr">Spor Bülteni</title></programme>
 <programme start="20240730080000 +0000" stop="20240730110000 +0000" channel="TRT3.tr"><title lang="tr">Spor Manşet</title></programme>
 <programme start="20240730110000 +0000" stop="20240730133000 +0000" channel="TRT3.tr"><title lang="tr">TBMM-TV</title></programme>
-<programme start="20240730133000 +0000" stop="20240730150000 +0000" channel="TRT3.tr"><title lang="tr">Gündem Futbol Transfer</title></programme>
-<programme start="20240730150000 +0000" stop="20240730170000 +0000" channel="TRT3.tr"><title lang="tr">Ukrayna U23 - Arjantin U23</title></programme>
+<programme start="20240730130000 +0000" stop="20240730161000 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
 <programme start="20240730161000 +0000" stop="20240730161500 +0000" channel="TRT3.tr"><title lang="tr">Olimpiyat Dolguları</title></programme>
 <programme start="20240730161500 +0000" stop="20240730183000 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
 <programme start="20240730183000 +0000" stop="20240730203000 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
@@ -1936,7 +1935,7 @@
 <programme start="20240730053000 +0000" stop="20240730064500 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
 <programme start="20240730064500 +0000" stop="20240730104500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240730104500 +0000" stop="20240730130000 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
-<programme start="20240730130000 +0000" stop="20240730170000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
+<programme start="20240730130000 +0000" stop="20240730160000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
 <programme start="20240730160000 +0000" stop="20240730211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240730160000 +0000" stop="20240730211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240730211500 +0000" stop="20240730233000 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
