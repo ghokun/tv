@@ -159,14 +159,14 @@
 <programme start="20240730121500 +0000" stop="20240730132000 +0000" channel="BeyazTV.tr"><title lang="tr">Belma Belen&apos;le Geziyoruz</title></programme>
 <programme start="20240730132000 +0000" stop="20240730153000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
 <programme start="20240730153000 +0000" stop="20240730163000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Ana Haber</title></programme>
-<programme start="20240730163000 +0000" stop="20240730184500 +0000" channel="BeyazTV.tr"><title lang="tr">Şaşkın Hırsızlar</title></programme>
-<programme start="20240730184500 +0000" stop="20240730203000 +0000" channel="BeyazTV.tr"><title lang="tr">Hedefteki Adam</title></programme>
-<programme start="20240730203000 +0000" stop="20240730221500 +0000" channel="BeyazTV.tr"><title lang="tr">Şaşkın Hırsızlar</title></programme>
-<programme start="20240730203000 +0000" stop="20240730221500 +0000" channel="BeyazTV.tr"><title lang="tr">Şaşkın Hırsızlar</title></programme>
-<programme start="20240730221500 +0000" stop="20240731001500 +0000" channel="BeyazTV.tr"><title lang="tr">Hedefteki Adam</title></programme>
-<programme start="20240731001500 +0000" stop="20240731020000 +0000" channel="BeyazTV.tr"><title lang="tr">Şaşkın Hırsızlar</title></programme>
-<programme start="20240731020000 +0000" stop="20240731030000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
-<programme start="20240731030000 +0000" stop="20240731043000 +0000" channel="BeyazTV.tr"><title lang="tr">Hedefteki Adam</title></programme>
+<programme start="20240730163000 +0000" stop="20240730181500 +0000" channel="BeyazTV.tr"><title lang="tr">Los Angeles Savaşı</title></programme>
+<programme start="20240730181500 +0000" stop="20240730203000 +0000" channel="BeyazTV.tr"><title lang="tr">Sonsuz Kaçış</title></programme>
+<programme start="20240730203000 +0000" stop="20240730221500 +0000" channel="BeyazTV.tr"><title lang="tr">Los Angeles Savaşı</title></programme>
+<programme start="20240730203000 +0000" stop="20240730221500 +0000" channel="BeyazTV.tr"><title lang="tr">Los Angeles Savaşı</title></programme>
+<programme start="20240730221500 +0000" stop="20240731001500 +0000" channel="BeyazTV.tr"><title lang="tr">Sonsuz Kaçış</title></programme>
+<programme start="20240731001500 +0000" stop="20240731023000 +0000" channel="BeyazTV.tr"><title lang="tr">Los Angeles Savaşı</title></programme>
+<programme start="20240731023000 +0000" stop="20240731030000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
+<programme start="20240731030000 +0000" stop="20240731043000 +0000" channel="BeyazTV.tr"><title lang="tr">Sonsuz Kaçış</title></programme>
 <programme start="20240731043000 +0000" stop="20240731063000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
 <programme start="20240731063000 +0000" stop="20240731090000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Magazin</title></programme>
 <programme start="20240731090000 +0000" stop="20240731104500 +0000" channel="BeyazTV.tr"><title lang="tr">Nilüfer Zamanı</title></programme>
@@ -174,9 +174,9 @@
 <programme start="20240731121500 +0000" stop="20240731132000 +0000" channel="BeyazTV.tr"><title lang="tr">Belma Belen&apos;le Geziyoruz</title></programme>
 <programme start="20240731132000 +0000" stop="20240731153000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
 <programme start="20240731153000 +0000" stop="20240731163000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Ana Haber</title></programme>
-<programme start="20240731163000 +0000" stop="20240731183000 +0000" channel="BeyazTV.tr"><title lang="tr">Koruyucu</title></programme>
-<programme start="20240731183000 +0000" stop="20240731203000 +0000" channel="BeyazTV.tr"><title lang="tr">Belalı Tanık</title></programme>
-<programme start="20240731203000 +0000" stop="20240731221500 +0000" channel="BeyazTV.tr"><title lang="tr">Koruyucu</title></programme>
+<programme start="20240731163000 +0000" stop="20240731183000 +0000" channel="BeyazTV.tr"><title lang="tr">Entrika</title></programme>
+<programme start="20240731183000 +0000" stop="20240731203000 +0000" channel="BeyazTV.tr"><title lang="tr">Koruyucu</title></programme>
+<programme start="20240731203000 +0000" stop="20240731221500 +0000" channel="BeyazTV.tr"><title lang="tr">Entrika</title></programme>
 <programme start="20240729204500 +0000" stop="20240729211000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Sevimli Kahramanlar Hikayeler</title></programme>
 <programme start="20240729211000 +0000" stop="20240729213500 +0000" channel="CartoonNetwork.tr"><title lang="tr">Ben 10</title></programme>
 <programme start="20240729213500 +0000" stop="20240729220000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Ben 10</title></programme>
@@ -281,13 +281,11 @@
 <programme start="20240730050000 +0000" stop="20240730060000 +0000" channel="CNNTurk.tr"><title lang="tr">A&apos;dan Z&apos;ye</title></programme>
 <programme start="20240730060000 +0000" stop="20240730070000 +0000" channel="CNNTurk.tr"><title lang="tr">Gündem</title></programme>
 <programme start="20240730070000 +0000" stop="20240730080000 +0000" channel="CNNTurk.tr"><title lang="tr">Gündem</title></programme>
-<programme start="20240730080000 +0000" stop="20240730081500 +0000" channel="CNNTurk.tr"><title lang="tr">Gündem</title></programme>
-<programme start="20240730081500 +0000" stop="20240730090000 +0000" channel="CNNTurk.tr"><title lang="tr">Tercih Zamanı</title></programme>
+<programme start="20240730080000 +0000" stop="20240730090000 +0000" channel="CNNTurk.tr"><title lang="tr">Gündem</title></programme>
 <programme start="20240730090000 +0000" stop="20240730100000 +0000" channel="CNNTurk.tr"><title lang="tr">Gün Ortası</title></programme>
 <programme start="20240730100000 +0000" stop="20240730110000 +0000" channel="CNNTurk.tr"><title lang="tr">Gün Ortası</title></programme>
 <programme start="20240730110000 +0000" stop="20240730120000 +0000" channel="CNNTurk.tr"><title lang="tr">Bugün</title></programme>
-<programme start="20240730120000 +0000" stop="20240730121500 +0000" channel="CNNTurk.tr"><title lang="tr">Bugün</title></programme>
-<programme start="20240730121500 +0000" stop="20240730130000 +0000" channel="CNNTurk.tr"><title lang="tr">Tercih Zamanı</title></programme>
+<programme start="20240730120000 +0000" stop="20240730130000 +0000" channel="CNNTurk.tr"><title lang="tr">Bugün</title></programme>
 <programme start="20240730130000 +0000" stop="20240730140000 +0000" channel="CNNTurk.tr"><title lang="tr">Günlük</title></programme>
 <programme start="20240730140000 +0000" stop="20240730150000 +0000" channel="CNNTurk.tr"><title lang="tr">Günlük</title></programme>
 <programme start="20240730150000 +0000" stop="20240730174500 +0000" channel="CNNTurk.tr"><title lang="tr">Ana Haber</title></programme>
