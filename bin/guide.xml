@@ -534,14 +534,18 @@
 <programme start="20240802130000 +0000" stop="20240802160000 +0000" channel="KanalD.tr"><title lang="tr">Ayazın Sonu Güneş</title></programme>
 <programme start="20240802160000 +0000" stop="20240802170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
 <programme start="20240802170000 +0000" stop="20240802201500 +0000" channel="KanalD.tr"><title lang="tr">Password</title></programme>
-<programme start="20240802201500 +0000" stop="20240802234500 +0000" channel="KanalD.tr"><title lang="tr">Turnike</title></programme>
-<programme start="20240802201500 +0000" stop="20240802234500 +0000" channel="KanalD.tr"><title lang="tr">Turnike</title></programme>
-<programme start="20240802234500 +0000" stop="20240803040000 +0000" channel="KanalD.tr"><title lang="tr">Güneşin Kızları</title></programme>
-<programme start="20240803040000 +0000" stop="20240803053000 +0000" channel="KanalD.tr"><title lang="tr">Öyle Bir Geçer Zaman Ki</title></programme>
-<programme start="20240803053000 +0000" stop="20240803064500 +0000" channel="KanalD.tr"><title lang="tr">Konuştukça</title></programme>
-<programme start="20240803064500 +0000" stop="20240803144500 +0000" channel="KanalD.tr"><title lang="tr">Magazin D Cumartesi</title></programme>
-<programme start="20240803144500 +0000" stop="20240803160000 +0000" channel="KanalD.tr"><title lang="tr">Magazin D Cumartesi</title></programme>
-<programme start="20240803160000 +0000" stop="20240804000000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
+<programme start="20240802201500 +0000" stop="20240802223000 +0000" channel="KanalD.tr"><title lang="tr">Turnike</title></programme>
+<programme start="20240802201500 +0000" stop="20240802223000 +0000" channel="KanalD.tr"><title lang="tr">Turnike</title></programme>
+<programme start="20240802223000 +0000" stop="20240802233000 +0000" channel="KanalD.tr"><title lang="tr">Ayazın Sonu Güneş</title></programme>
+<programme start="20240802233000 +0000" stop="20240803013000 +0000" channel="KanalD.tr"><title lang="tr">Güneşi Beklerken</title></programme>
+<programme start="20240803013000 +0000" stop="20240803040000 +0000" channel="KanalD.tr"><title lang="tr">Ya Çok Seversen</title></programme>
+<programme start="20240803040000 +0000" stop="20240803064500 +0000" channel="KanalD.tr"><title lang="tr">Yabancı Damat</title></programme>
+<programme start="20240803064500 +0000" stop="20240803100000 +0000" channel="KanalD.tr"><title lang="tr">Magazin D Cumartesi</title></programme>
+<programme start="20240803100000 +0000" stop="20240803124500 +0000" channel="KanalD.tr"><title lang="tr">Password</title></programme>
+<programme start="20240803124500 +0000" stop="20240803160000 +0000" channel="KanalD.tr"><title lang="tr">Turnike</title></programme>
+<programme start="20240803160000 +0000" stop="20240803170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
+<programme start="20240803170000 +0000" stop="20240803193000 +0000" channel="KanalD.tr"><title lang="tr">Şeytan Marka Giyer</title></programme>
+<programme start="20240803193000 +0000" stop="20240803214500 +0000" channel="KanalD.tr"><title lang="tr">Çok Akustik</title></programme>
 <programme start="20240801210000 +0000" stop="20240801213000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Bi&apos; Adada Bi&apos; Arada</title></programme>
 <programme start="20240801213000 +0000" stop="20240801213500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kukuli</title></programme>
 <programme start="20240801213500 +0000" stop="20240801214000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kukuli</title></programme>
