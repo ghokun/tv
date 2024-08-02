@@ -1852,14 +1852,17 @@
 <programme start="20240802130000 +0000" stop="20240802160000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
 <programme start="20240802160000 +0000" stop="20240802211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240802160000 +0000" stop="20240802211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240802170000 +0000" stop="20240802211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240802170000 +0000" stop="20240802211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240802211500 +0000" stop="20240802233000 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240802233000 +0000" stop="20240803013000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
 <programme start="20240803013000 +0000" stop="20240803030000 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
 <programme start="20240803030000 +0000" stop="20240803033000 +0000" channel="TV8.tr"><title lang="tr">Dizi</title></programme>
 <programme start="20240803033000 +0000" stop="20240803044500 +0000" channel="TV8.tr"><title lang="tr">Tuzak</title></programme>
 <programme start="20240803044500 +0000" stop="20240803050000 +0000" channel="TV8.tr"><title lang="tr">Süper 1 Takım</title></programme>
-<programme start="20240803050000 +0000" stop="20240803111500 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
-<programme start="20240803111500 +0000" stop="20240803120000 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240803050000 +0000" stop="20240803070000 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
+<programme start="20240803070000 +0000" stop="20240803084500 +0000" channel="TV8.tr"><title lang="tr">Çöller Kasırgası</title></programme>
+<programme start="20240803084500 +0000" stop="20240803120000 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240803120000 +0000" stop="20240803170000 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
 <programme start="20240803170000 +0000" stop="20240803211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240801191500 +0000" stop="20240801213000 +0000" channel="TV85.tr"><title lang="tr">Büyük Rekabetler</title></programme>
@@ -1878,12 +1881,32 @@
 <programme start="20240802154000 +0000" stop="20240802174000 +0000" channel="TV85.tr"><title lang="tr">Fenerbahçe - Lugano</title></programme>
 <programme start="20240802174000 +0000" stop="20240802184500 +0000" channel="TV85.tr"><title lang="tr">Büyük Rekabetler</title></programme>
 <programme start="20240802184500 +0000" stop="20240802194500 +0000" channel="TV85.tr"><title lang="tr">Büyük Rekabetler</title></programme>
-<programme start="20240802194500 +0000" stop="20240802200000 +0000" channel="TV85.tr"><title lang="tr">Best Off</title></programme>
-<programme start="20240802200000 +0000" stop="20240802223000 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
-<programme start="20240802200000 +0000" stop="20240802223000 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
-<programme start="20240802223000 +0000" stop="20240803063000 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
-<programme start="20240803063000 +0000" stop="20240803143000 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
-<programme start="20240803143000 +0000" stop="20240803223000 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
+<programme start="20240802194500 +0000" stop="20240802204500 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
+<programme start="20240802204500 +0000" stop="20240802211500 +0000" channel="TV85.tr"><title lang="tr">Galatasaray ve Beşiktaş...</title></programme>
+<programme start="20240802204500 +0000" stop="20240802211500 +0000" channel="TV85.tr"><title lang="tr">Galatasaray ve Beşiktaş...</title></programme>
+<programme start="20240802211500 +0000" stop="20240802223000 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
+<programme start="20240802223000 +0000" stop="20240802233000 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
+<programme start="20240802233000 +0000" stop="20240803011500 +0000" channel="TV85.tr"><title lang="tr">Büyük Rekabetler</title></programme>
+<programme start="20240803011500 +0000" stop="20240803020000 +0000" channel="TV85.tr"><title lang="tr">Top 50 / Avrupa Ligi...</title></programme>
+<programme start="20240803020000 +0000" stop="20240803030000 +0000" channel="TV85.tr"><title lang="tr">Büyük Rekabetler</title></programme>
+<programme start="20240803030000 +0000" stop="20240803040000 +0000" channel="TV85.tr"><title lang="tr">Best Off</title></programme>
+<programme start="20240803040000 +0000" stop="20240803050000 +0000" channel="TV85.tr"><title lang="tr">Şampiyonlar Ligi...</title></programme>
+<programme start="20240803050000 +0000" stop="20240803060000 +0000" channel="TV85.tr"><title lang="tr">Şampiyonlar Ligi...</title></programme>
+<programme start="20240803060000 +0000" stop="20240803070000 +0000" channel="TV85.tr"><title lang="tr">Şampiyonlar Ligi...</title></programme>
+<programme start="20240803070000 +0000" stop="20240803083000 +0000" channel="TV85.tr"><title lang="tr">Şampiyonlar Ligi...</title></programme>
+<programme start="20240803083000 +0000" stop="20240803090000 +0000" channel="TV85.tr"><title lang="tr">Best Off</title></programme>
+<programme start="20240803090000 +0000" stop="20240803100000 +0000" channel="TV85.tr"><title lang="tr">Bir Zamanlar</title></programme>
+<programme start="20240803100000 +0000" stop="20240803110000 +0000" channel="TV85.tr"><title lang="tr">UEFA Konferans Ligi Magazin</title></programme>
+<programme start="20240803110000 +0000" stop="20240803120000 +0000" channel="TV85.tr"><title lang="tr">UEFA Avrupa Ligi Magazin</title></programme>
+<programme start="20240803120000 +0000" stop="20240803130000 +0000" channel="TV85.tr"><title lang="tr">UEFA Şampiyonlar Ligi Magazin</title></programme>
+<programme start="20240803130000 +0000" stop="20240803133000 +0000" channel="TV85.tr"><title lang="tr">Fenerbahçe - Lugano</title></programme>
+<programme start="20240803133000 +0000" stop="20240803141500 +0000" channel="TV85.tr"><title lang="tr">U. Craiova - Maribor</title></programme>
+<programme start="20240803141500 +0000" stop="20240803153000 +0000" channel="TV85.tr"><title lang="tr">Fokus</title></programme>
+<programme start="20240803153000 +0000" stop="20240803164500 +0000" channel="TV85.tr"><title lang="tr">Arjantin Copa America 2024...</title></programme>
+<programme start="20240803164500 +0000" stop="20240803180000 +0000" channel="TV85.tr"><title lang="tr">Fildişi Sahili Afrika...</title></programme>
+<programme start="20240803180000 +0000" stop="20240803190000 +0000" channel="TV85.tr"><title lang="tr">Bir Zamanlar</title></programme>
+<programme start="20240803190000 +0000" stop="20240803200000 +0000" channel="TV85.tr"><title lang="tr">Top 50 / Şampiyonlar Ligi...</title></programme>
+<programme start="20240803200000 +0000" stop="20240803220000 +0000" channel="TV85.tr"><title lang="tr">Top Bizde</title></programme>
 <programme start="20240801210000 +0000" stop="20240801220000 +0000" channel="TV100.tr"><title lang="tr">Gece Haberleri</title></programme>
 <programme start="20240801220000 +0000" stop="20240801231500 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
 <programme start="20240801231500 +0000" stop="20240802013000 +0000" channel="TV100.tr"><title lang="tr">Eşit Ağırlık</title></programme>
