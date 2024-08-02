@@ -483,8 +483,9 @@
 <programme start="20240802120000 +0000" stop="20240802130000 +0000" channel="HalkTV.tr"><title lang="tr">Halkın Haberi</title></programme>
 <programme start="20240802130000 +0000" stop="20240802150000 +0000" channel="HalkTV.tr"><title lang="tr">Gündem Özel</title></programme>
 <programme start="20240802150000 +0000" stop="20240802170000 +0000" channel="HalkTV.tr"><title lang="tr">Halk Ana Haber</title></programme>
-<programme start="20240802170000 +0000" stop="20240802220000 +0000" channel="HalkTV.tr"><title lang="tr">Dünyanın 1001 Hali</title></programme>
-<programme start="20240802170000 +0000" stop="20240802220000 +0000" channel="HalkTV.tr"><title lang="tr">Dünyanın 1001 Hali</title></programme>
+<programme start="20240802170000 +0000" stop="20240802180000 +0000" channel="HalkTV.tr"><title lang="tr">Dünyanın 1001 Hali</title></programme>
+<programme start="20240802180000 +0000" stop="20240802220000 +0000" channel="HalkTV.tr"><title lang="tr">Halk TV&apos;de Bugün</title></programme>
+<programme start="20240802180000 +0000" stop="20240802220000 +0000" channel="HalkTV.tr"><title lang="tr">Halk TV&apos;de Bugün</title></programme>
 <programme start="20240802220000 +0000" stop="20240803000000 +0000" channel="HalkTV.tr"><title lang="tr">Halk TV&apos;de Bugün</title></programme>
 <programme start="20240803000000 +0000" stop="20240803030000 +0000" channel="HalkTV.tr"><title lang="tr">Halk TV&apos;de Bugün</title></programme>
 <programme start="20240803030000 +0000" stop="20240803050000 +0000" channel="HalkTV.tr"><title lang="tr">Halk TV&apos;de Bugün</title></programme>
@@ -1738,9 +1739,9 @@
 <programme start="20240802053000 +0000" stop="20240802064500 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
 <programme start="20240802064500 +0000" stop="20240802104500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240802104500 +0000" stop="20240802130000 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
-<programme start="20240802130000 +0000" stop="20240802170000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
-<programme start="20240802170000 +0000" stop="20240802211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
-<programme start="20240802170000 +0000" stop="20240802211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240802130000 +0000" stop="20240802160000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
+<programme start="20240802160000 +0000" stop="20240802211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240802160000 +0000" stop="20240802211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240802211500 +0000" stop="20240802233000 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240802233000 +0000" stop="20240803013000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
 <programme start="20240803013000 +0000" stop="20240803030000 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
