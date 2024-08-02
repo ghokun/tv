@@ -137,7 +137,7 @@
 <programme start="20240803105000 +0000" stop="20240803130000 +0000" channel="ATV.tr"><title lang="tr">Gece ve Gündüz</title></programme>
 <programme start="20240803130000 +0000" stop="20240803160000 +0000" channel="ATV.tr"><title lang="tr">Alan</title></programme>
 <programme start="20240803160000 +0000" stop="20240803164500 +0000" channel="ATV.tr"><title lang="tr">ATV Ana Haber</title></programme>
-<programme start="20240803164500 +0000" stop="20240803174500 +0000" channel="ATV.tr"><title lang="tr">Finale Doğru</title></programme>
+<programme start="20240803164500 +0000" stop="20240803174500 +0000" channel="ATV.tr"><title lang="tr">Süper Kupaya Doğru</title></programme>
 <programme start="20240803174500 +0000" stop="20240803194500 +0000" channel="ATV.tr"><title lang="tr">Galatasaray - Beşiktaş</title></programme>
 <programme start="20240803194500 +0000" stop="20240803201500 +0000" channel="ATV.tr"><title lang="tr">Kupa Töreni</title></programme>
 <programme start="20240803201500 +0000" stop="20240803231500 +0000" channel="ATV.tr"><title lang="tr">Alan</title></programme>
@@ -1396,9 +1396,8 @@
 <programme start="20240802173000 +0000" stop="20240802180000 +0000" channel="TRT2.tr"><title lang="tr">Teknoloji ve Sanat</title></programme>
 <programme start="20240802180000 +0000" stop="20240802183000 +0000" channel="TRT2.tr"><title lang="tr">Anlatı</title></programme>
 <programme start="20240802183000 +0000" stop="20240802201500 +0000" channel="TRT2.tr"><title lang="tr">Hatıra Kutusu</title></programme>
-<programme start="20240802201500 +0000" stop="20240802213000 +0000" channel="TRT2.tr"><title lang="tr">Konser Zamanı</title></programme>
-<programme start="20240802201500 +0000" stop="20240802213000 +0000" channel="TRT2.tr"><title lang="tr">Konser Zamanı</title></programme>
-<programme start="20240802213000 +0000" stop="20240802220000 +0000" channel="TRT2.tr"><title lang="tr">Hayat Sanat</title></programme>
+<programme start="20240802201500 +0000" stop="20240802220000 +0000" channel="TRT2.tr"><title lang="tr">Farha</title></programme>
+<programme start="20240802201500 +0000" stop="20240802220000 +0000" channel="TRT2.tr"><title lang="tr">Farha</title></programme>
 <programme start="20240802220000 +0000" stop="20240802234500 +0000" channel="TRT2.tr"><title lang="tr">Hatıra Kutusu</title></programme>
 <programme start="20240802234500 +0000" stop="20240803000000 +0000" channel="TRT2.tr"><title lang="tr">Hüner</title></programme>
 <programme start="20240803000000 +0000" stop="20240803003000 +0000" channel="TRT2.tr"><title lang="tr">Tabii Dünyası</title></programme>
@@ -1417,18 +1416,23 @@
 <programme start="20240803063000 +0000" stop="20240803070000 +0000" channel="TRT2.tr"><title lang="tr">Anlatı</title></programme>
 <programme start="20240803070000 +0000" stop="20240803090000 +0000" channel="TRT2.tr"><title lang="tr">Bir Zamanlar Sinema</title></programme>
 <programme start="20240803090000 +0000" stop="20240803093000 +0000" channel="TRT2.tr"><title lang="tr">Espas</title></programme>
-<programme start="20240803093000 +0000" stop="20240803101500 +0000" channel="TRT2.tr"><title lang="tr">Aramızda Müzik Var</title></programme>
+<programme start="20240803093000 +0000" stop="20240803100000 +0000" channel="TRT2.tr"><title lang="tr">Edebi Sofralar</title></programme>
+<programme start="20240803100000 +0000" stop="20240803101500 +0000" channel="TRT2.tr"><title lang="tr">Geri Dönüşen Sanat</title></programme>
 <programme start="20240803101500 +0000" stop="20240803103000 +0000" channel="TRT2.tr"><title lang="tr">Sûret</title></programme>
-<programme start="20240803103000 +0000" stop="20240803110000 +0000" channel="TRT2.tr"><title lang="tr">Genç Sahne Arkası</title></programme>
-<programme start="20240803110000 +0000" stop="20240803131500 +0000" channel="TRT2.tr"><title lang="tr">Genç Sahne</title></programme>
-<programme start="20240803131500 +0000" stop="20240803150000 +0000" channel="TRT2.tr"><title lang="tr">Hatıra Kutusu</title></programme>
-<programme start="20240803150000 +0000" stop="20240803153000 +0000" channel="TRT2.tr"><title lang="tr">Sinema +</title></programme>
+<programme start="20240803103000 +0000" stop="20240803121500 +0000" channel="TRT2.tr"><title lang="tr">Farha</title></programme>
+<programme start="20240803121500 +0000" stop="20240803140000 +0000" channel="TRT2.tr"><title lang="tr">Hatıra Kutusu</title></programme>
+<programme start="20240803140000 +0000" stop="20240803143000 +0000" channel="TRT2.tr"><title lang="tr">Sinema +</title></programme>
+<programme start="20240803143000 +0000" stop="20240803150000 +0000" channel="TRT2.tr"><title lang="tr">Tanışma Hikayesi</title></programme>
+<programme start="20240803150000 +0000" stop="20240803153000 +0000" channel="TRT2.tr"><title lang="tr">Eve Dönen Miras</title></programme>
 <programme start="20240803153000 +0000" stop="20240803160000 +0000" channel="TRT2.tr"><title lang="tr">Teknoloji ve Sanat</title></programme>
 <programme start="20240803160000 +0000" stop="20240803163000 +0000" channel="TRT2.tr"><title lang="tr">İstisnai Renkler</title></programme>
 <programme start="20240803163000 +0000" stop="20240803164500 +0000" channel="TRT2.tr"><title lang="tr">Eskiz</title></programme>
-<programme start="20240803164500 +0000" stop="20240803183000 +0000" channel="TRT2.tr"><title lang="tr">Galaksi Senfoni</title></programme>
+<programme start="20240803164500 +0000" stop="20240803170000 +0000" channel="TRT2.tr"><title lang="tr">Fotoğraflar</title></programme>
+<programme start="20240803170000 +0000" stop="20240803173000 +0000" channel="TRT2.tr"><title lang="tr">Resme Yolculuk</title></programme>
+<programme start="20240803173000 +0000" stop="20240803174500 +0000" channel="TRT2.tr"><title lang="tr">Çalakalem</title></programme>
+<programme start="20240803174500 +0000" stop="20240803183000 +0000" channel="TRT2.tr"><title lang="tr">Ebru</title></programme>
 <programme start="20240803183000 +0000" stop="20240803200000 +0000" channel="TRT2.tr"><title lang="tr">Tek Çocuk</title></programme>
-<programme start="20240803200000 +0000" stop="20240803214500 +0000" channel="TRT2.tr"><title lang="tr">Galaksi Senfoni</title></programme>
+<programme start="20240803200000 +0000" stop="20240803220000 +0000" channel="TRT2.tr"><title lang="tr">Bu Denizin Tuzu</title></programme>
 <programme start="20240801204500 +0000" stop="20240801220000 +0000" channel="TRT3.tr"><title lang="tr">Aktüel Futbol Transfer</title></programme>
 <programme start="20240801220000 +0000" stop="20240801230000 +0000" channel="TRT3.tr"><title lang="tr">Spor Artı</title></programme>
 <programme start="20240801230000 +0000" stop="20240802003000 +0000" channel="TRT3.tr"><title lang="tr">Türkiye - Dominik Cumhuriyeti</title></programme>
@@ -1462,9 +1466,11 @@
 <programme start="20240803040000 +0000" stop="20240803043000 +0000" channel="TRT3.tr"><title lang="tr">Olimpiyat Anıları</title></programme>
 <programme start="20240803043000 +0000" stop="20240803053000 +0000" channel="TRT3.tr"><title lang="tr">Olimpiyat Dolguları</title></programme>
 <programme start="20240803053000 +0000" stop="20240803060000 +0000" channel="TRT3.tr"><title lang="tr">Orhan Ayhan&apos;la</title></programme>
-<programme start="20240803060000 +0000" stop="20240803083000 +0000" channel="TRT3.tr"><title lang="tr">Olimpiyat Günlüğü</title></programme>
+<programme start="20240803060000 +0000" stop="20240803070000 +0000" channel="TRT3.tr"><title lang="tr">Olimpiyat Günlüğü</title></programme>
+<programme start="20240803070000 +0000" stop="20240803083000 +0000" channel="TRT3.tr"><title lang="tr">Hollanda - Dominik C.</title></programme>
 <programme start="20240803083000 +0000" stop="20240803093000 +0000" channel="TRT3.tr"><title lang="tr">Yüz Yüze Futbol</title></programme>
-<programme start="20240803093000 +0000" stop="20240803150000 +0000" channel="TRT3.tr"><title lang="tr">Olimpiyat Anıları</title></programme>
+<programme start="20240803093000 +0000" stop="20240803100000 +0000" channel="TRT3.tr"><title lang="tr">Olimpiyat Anıları</title></programme>
+<programme start="20240803100000 +0000" stop="20240803150000 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
 <programme start="20240803150000 +0000" stop="20240803151500 +0000" channel="TRT3.tr"><title lang="tr">Spor Bülteni</title></programme>
 <programme start="20240803151500 +0000" stop="20240803171500 +0000" channel="TRT3.tr"><title lang="tr">Porto Riko - ABD</title></programme>
 <programme start="20240803171500 +0000" stop="20240803180000 +0000" channel="TRT3.tr"><title lang="tr">Aktüel Futbol Transfer</title></programme>
