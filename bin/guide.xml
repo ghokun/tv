@@ -1340,8 +1340,8 @@
 <programme start="20240802160000 +0000" stop="20240802165500 +0000" channel="TRT1.tr"><title lang="tr">Ana Haber</title></programme>
 <programme start="20240802165500 +0000" stop="20240802170000 +0000" channel="TRT1.tr"><title lang="tr">İddiaların Aksine</title></programme>
 <programme start="20240802170000 +0000" stop="20240802193000 +0000" channel="TRT1.tr"><title lang="tr">Akif</title></programme>
-<programme start="20240802190000 +0000" stop="20240802210000 +0000" channel="TRT1.tr"><title lang="tr">Akif</title></programme>
-<programme start="20240802210000 +0000" stop="20240802223000 +0000" channel="TRT1.tr"><title lang="tr">Mehmed: Fetihler Sultanı</title></programme>
+<programme start="20240802193000 +0000" stop="20240802223000 +0000" channel="TRT1.tr"><title lang="tr">Mehmed: Fetihler Sultanı</title></programme>
+<programme start="20240802193000 +0000" stop="20240802223000 +0000" channel="TRT1.tr"><title lang="tr">Mehmed: Fetihler Sultanı</title></programme>
 <programme start="20240802223000 +0000" stop="20240803005000 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
 <programme start="20240803005000 +0000" stop="20240803015500 +0000" channel="TRT1.tr"><title lang="tr">Seksenler</title></programme>
 <programme start="20240803015500 +0000" stop="20240803030000 +0000" channel="TRT1.tr"><title lang="tr">Lingo Türkiye</title></programme>
@@ -1750,6 +1750,12 @@
 <programme start="20240803025000 +0000" stop="20240803033000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
 <programme start="20240803033000 +0000" stop="20240803035500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
 <programme start="20240803035500 +0000" stop="20240803075500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Olimpiyat Hikayeleri</title></programme>
+<programme start="20240803060000 +0000" stop="20240803090000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240803090000 +0000" stop="20240803120000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240803120000 +0000" stop="20240803150000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240803150000 +0000" stop="20240803180000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240803180000 +0000" stop="20240803203000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240803203000 +0000" stop="20240803223000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Porto Riko - ABD</title></programme>
 <programme start="20240801203500 +0000" stop="20240801211500 +0000" channel="TRTTurk.tr"><title lang="tr">Leyla ile Mecnun</title></programme>
 <programme start="20240801211500 +0000" stop="20240801213000 +0000" channel="TRTTurk.tr"><title lang="tr">Kalbin İçindekiler</title></programme>
 <programme start="20240801213000 +0000" stop="20240801222000 +0000" channel="TRTTurk.tr"><title lang="tr">Say Bakalım</title></programme>
