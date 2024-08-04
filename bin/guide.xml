@@ -541,7 +541,8 @@
 <programme start="20240805090000 +0000" stop="20240805100000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Haber Gün Arası</title></programme>
 <programme start="20240805100000 +0000" stop="20240805130000 +0000" channel="KanalD.tr"><title lang="tr">Gelinim Mutfakta</title></programme>
 <programme start="20240805130000 +0000" stop="20240805160000 +0000" channel="KanalD.tr"><title lang="tr">Ayazın Sonu Güneş</title></programme>
-<programme start="20240805160000 +0000" stop="20240806000000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
+<programme start="20240805160000 +0000" stop="20240805170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
+<programme start="20240805170000 +0000" stop="20240805211500 +0000" channel="KanalD.tr"><title lang="tr">Yalan</title></programme>
 <programme start="20240803210000 +0000" stop="20240803213000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Bi&apos; Adada Bi&apos; Arada</title></programme>
 <programme start="20240803213000 +0000" stop="20240803213500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kukuli</title></programme>
 <programme start="20240803213500 +0000" stop="20240803214000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kukuli</title></programme>
