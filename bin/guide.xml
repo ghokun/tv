@@ -111,8 +111,7 @@
 <programme start="20240805125500 +0000" stop="20240805130000 +0000" channel="AHaber.tr"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20240805130000 +0000" stop="20240805140000 +0000" channel="AHaber.tr"><title lang="tr">Ajans Gün İçi</title></programme>
 <programme start="20240805140000 +0000" stop="20240805150000 +0000" channel="AHaber.tr"><title lang="tr">Ajans Akşama Doğru</title></programme>
-<programme start="20240805150000 +0000" stop="20240805160000 +0000" channel="AHaber.tr"><title lang="tr">Ajans Akşama Doğru</title></programme>
-<programme start="20240805160000 +0000" stop="20240805170000 +0000" channel="AHaber.tr"><title lang="tr">Akşam Ajansı</title></programme>
+<programme start="20240805150000 +0000" stop="20240805170000 +0000" channel="AHaber.tr"><title lang="tr">Akşam Ajansı</title></programme>
 <programme start="20240805170000 +0000" stop="20240805175000 +0000" channel="AHaber.tr"><title lang="tr">Akşam Ajansı</title></programme>
 <programme start="20240805175000 +0000" stop="20240805180000 +0000" channel="AHaber.tr"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20240805180000 +0000" stop="20240805210000 +0000" channel="AHaber.tr"><title lang="tr">Sebep Sonuç</title></programme>
@@ -132,11 +131,12 @@
 <programme start="20240805022000 +0000" stop="20240805050000 +0000" channel="ATV.tr"><title lang="tr">Kaçak</title></programme>
 <programme start="20240805050000 +0000" stop="20240805070000 +0000" channel="ATV.tr"><title lang="tr">Kahvaltı Haberleri</title></programme>
 <programme start="20240805070000 +0000" stop="20240805100000 +0000" channel="ATV.tr"><title lang="tr">Sen Anlat Karadeniz</title></programme>
-<programme start="20240805100000 +0000" stop="20240805130000 +0000" channel="ATV.tr"><title lang="tr">Gün Ortası</title></programme>
+<programme start="20240805100000 +0000" stop="20240805110000 +0000" channel="ATV.tr"><title lang="tr">Gün Ortası</title></programme>
+<programme start="20240805110000 +0000" stop="20240805130000 +0000" channel="ATV.tr"><title lang="tr">Sağ Salim 2: Sil Baştan</title></programme>
 <programme start="20240805130000 +0000" stop="20240805160000 +0000" channel="ATV.tr"><title lang="tr">Kardeşlerim</title></programme>
 <programme start="20240805160000 +0000" stop="20240805170000 +0000" channel="ATV.tr"><title lang="tr">ATV Ana Haber</title></programme>
 <programme start="20240805170000 +0000" stop="20240805192500 +0000" channel="ATV.tr"><title lang="tr">Belalı Tanık 2</title></programme>
-<programme start="20240805192500 +0000" stop="20240805222500 +0000" channel="ATV.tr"><title lang="tr">Non-Stop</title></programme>
+<programme start="20240805192500 +0000" stop="20240805213000 +0000" channel="ATV.tr"><title lang="tr">Non-Stop</title></programme>
 <programme start="20240803203000 +0000" stop="20240803221500 +0000" channel="BeyazTV.tr"><title lang="tr">Londra Bulvarı</title></programme>
 <programme start="20240803221500 +0000" stop="20240804001500 +0000" channel="BeyazTV.tr"><title lang="tr">Cehennem Silahı 2</title></programme>
 <programme start="20240804001500 +0000" stop="20240804020000 +0000" channel="BeyazTV.tr"><title lang="tr">Londra Bulvarı</title></programme>
