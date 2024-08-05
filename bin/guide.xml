@@ -1480,8 +1480,23 @@
 <programme start="20240805203000 +0000" stop="20240805220000 +0000" channel="TRT3.tr"><title lang="tr">Transfer Günlüğü</title></programme>
 <programme start="20240805220000 +0000" stop="20240805230000 +0000" channel="TRT3.tr"><title lang="tr">Spor Artı</title></programme>
 <programme start="20240805230000 +0000" stop="20240806003000 +0000" channel="TRT3.tr"><title lang="tr">Slovenya - Polonya</title></programme>
-<programme start="20240806003000 +0000" stop="20240806043000 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
-<programme start="20240806033000 +0000" stop="20240806073000 +0000" channel="TRT3.tr"><title lang="tr">Olimpiyat Anıları</title></programme>
+<programme start="20240806003000 +0000" stop="20240806040000 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240806040000 +0000" stop="20240806050000 +0000" channel="TRT3.tr"><title lang="tr">İlk Baskı</title></programme>
+<programme start="20240806050000 +0000" stop="20240806060000 +0000" channel="TRT3.tr"><title lang="tr">Olimpiyat Günlüğü</title></programme>
+<programme start="20240806060000 +0000" stop="20240806061500 +0000" channel="TRT3.tr"><title lang="tr">İşitme Engelliler Spor Bülteni</title></programme>
+<programme start="20240806061500 +0000" stop="20240806063000 +0000" channel="TRT3.tr"><title lang="tr">Trendyol Süper Lig En Güzel...</title></programme>
+<programme start="20240806063000 +0000" stop="20240806070000 +0000" channel="TRT3.tr"><title lang="tr">Set Sayısı</title></programme>
+<programme start="20240806070000 +0000" stop="20240806084500 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240806084500 +0000" stop="20240806110000 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240806110000 +0000" stop="20240806130000 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240806130000 +0000" stop="20240806140000 +0000" channel="TRT3.tr"><title lang="tr">TRT 3 / TRT Spor</title></programme>
+<programme start="20240806140000 +0000" stop="20240806150000 +0000" channel="TRT3.tr"><title lang="tr">TRT 3 / TRT Spor</title></programme>
+<programme start="20240806150000 +0000" stop="20240806160000 +0000" channel="TRT3.tr"><title lang="tr">TRT 3 / TRT Spor</title></programme>
+<programme start="20240806160000 +0000" stop="20240806170000 +0000" channel="TRT3.tr"><title lang="tr">TRT 3 / TRT Spor</title></programme>
+<programme start="20240806170000 +0000" stop="20240806180000 +0000" channel="TRT3.tr"><title lang="tr">TRT 3 / TRT Spor</title></programme>
+<programme start="20240806180000 +0000" stop="20240806190000 +0000" channel="TRT3.tr"><title lang="tr">TRT 3 / TRT Spor</title></programme>
+<programme start="20240806190000 +0000" stop="20240806200000 +0000" channel="TRT3.tr"><title lang="tr">TRT 3 / TRT Spor</title></programme>
+<programme start="20240806200000 +0000" stop="20240806210000 +0000" channel="TRT3.tr"><title lang="tr">TRT 3 / TRT Spor</title></programme>
 <programme start="20240804210000 +0000" stop="20240804215500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Büyük Şehrin Küçük...</title></programme>
 <programme start="20240804215500 +0000" stop="20240804225500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Türkiye&apos;nin Dev...</title></programme>
 <programme start="20240804225500 +0000" stop="20240804235000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Tehlikenin Kıyısında</title></programme>
