@@ -516,9 +516,9 @@
 <programme start="20240806130000 +0000" stop="20240806160000 +0000" channel="KanalD.tr"><title lang="tr">Ayazın Sonu Güneş</title></programme>
 <programme start="20240806160000 +0000" stop="20240806170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
 <programme start="20240806170000 +0000" stop="20240806204500 +0000" channel="KanalD.tr"><title lang="tr">Password</title></programme>
-<programme start="20240806204500 +0000" stop="20240806224500 +0000" channel="KanalD.tr"><title lang="tr">Yalan</title></programme>
-<programme start="20240806204500 +0000" stop="20240806224500 +0000" channel="KanalD.tr"><title lang="tr">Yalan</title></programme>
-<programme start="20240806224500 +0000" stop="20240807013000 +0000" channel="KanalD.tr"><title lang="tr">Güneşi Beklerken</title></programme>
+<programme start="20240806204500 +0000" stop="20240806231500 +0000" channel="KanalD.tr"><title lang="tr">Yalan</title></programme>
+<programme start="20240806204500 +0000" stop="20240806231500 +0000" channel="KanalD.tr"><title lang="tr">Yalan</title></programme>
+<programme start="20240806231500 +0000" stop="20240807013000 +0000" channel="KanalD.tr"><title lang="tr">Güneşi Beklerken</title></programme>
 <programme start="20240807013000 +0000" stop="20240807040000 +0000" channel="KanalD.tr"><title lang="tr">Ya Çok Seversen</title></programme>
 <programme start="20240807040000 +0000" stop="20240807060000 +0000" channel="KanalD.tr"><title lang="tr">Yabancı Damat</title></programme>
 <programme start="20240807060000 +0000" stop="20240807080000 +0000" channel="KanalD.tr"><title lang="tr">Öyle Bir Geçer Zaman Ki</title></programme>
@@ -1456,14 +1456,20 @@
 <programme start="20240806070000 +0000" stop="20240806084500 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
 <programme start="20240806084500 +0000" stop="20240806110000 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
 <programme start="20240806110000 +0000" stop="20240806130000 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
-<programme start="20240806130000 +0000" stop="20240806140000 +0000" channel="TRT3.tr"><title lang="tr">TRT 3 / TRT Spor</title></programme>
-<programme start="20240806140000 +0000" stop="20240806150000 +0000" channel="TRT3.tr"><title lang="tr">TRT 3 / TRT Spor</title></programme>
-<programme start="20240806150000 +0000" stop="20240806160000 +0000" channel="TRT3.tr"><title lang="tr">TRT 3 / TRT Spor</title></programme>
-<programme start="20240806160000 +0000" stop="20240806170000 +0000" channel="TRT3.tr"><title lang="tr">TRT 3 / TRT Spor</title></programme>
-<programme start="20240806170000 +0000" stop="20240806180000 +0000" channel="TRT3.tr"><title lang="tr">TRT 3 / TRT Spor</title></programme>
-<programme start="20240806180000 +0000" stop="20240806190000 +0000" channel="TRT3.tr"><title lang="tr">TRT 3 / TRT Spor</title></programme>
-<programme start="20240806190000 +0000" stop="20240806200000 +0000" channel="TRT3.tr"><title lang="tr">TRT 3 / TRT Spor</title></programme>
-<programme start="20240806200000 +0000" stop="20240806210000 +0000" channel="TRT3.tr"><title lang="tr">TRT 3 / TRT Spor</title></programme>
+<programme start="20240806130000 +0000" stop="20240806133000 +0000" channel="TRT3.tr"><title lang="tr">Spor Bülteni</title></programme>
+<programme start="20240806133000 +0000" stop="20240806143000 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240806143000 +0000" stop="20240806150000 +0000" channel="TRT3.tr"><title lang="tr">Spor Bülteni</title></programme>
+<programme start="20240806150000 +0000" stop="20240806154500 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240806154500 +0000" stop="20240806160000 +0000" channel="TRT3.tr"><title lang="tr">Günün Olimpiyat Özeti</title></programme>
+<programme start="20240806160000 +0000" stop="20240806180000 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240806180000 +0000" stop="20240806183500 +0000" channel="TRT3.tr"><title lang="tr">Aktüel Futbol Transfer</title></programme>
+<programme start="20240806183500 +0000" stop="20240806193000 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240806193000 +0000" stop="20240806213000 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240806193000 +0000" stop="20240806213000 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240806213000 +0000" stop="20240806230000 +0000" channel="TRT3.tr"><title lang="tr">Aktüel Futbol Transfer</title></programme>
+<programme start="20240806230000 +0000" stop="20240807004500 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240807004500 +0000" stop="20240807023000 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240807023000 +0000" stop="20240807063000 +0000" channel="TRT3.tr"><title lang="tr">Aktüel Futbol Transfer</title></programme>
 <programme start="20240805204000 +0000" stop="20240805210500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Avustralyalı Yılan...</title></programme>
 <programme start="20240805210500 +0000" stop="20240805220500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Türkiye&apos;nin Enerjisi</title></programme>
 <programme start="20240805220500 +0000" stop="20240805225000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Su Savaşları Memleket</title></programme>
@@ -1740,8 +1746,13 @@
 <programme start="20240806080000 +0000" stop="20240806110000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
 <programme start="20240806110000 +0000" stop="20240806140000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
 <programme start="20240806140000 +0000" stop="20240806190000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
-<programme start="20240806190000 +0000" stop="20240806220000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
-<programme start="20240806190000 +0000" stop="20240806220000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240806190000 +0000" stop="20240806213000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240806190000 +0000" stop="20240806213000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240806213000 +0000" stop="20240806233000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Çin - Türkiye</title></programme>
+<programme start="20240806233000 +0000" stop="20240807000000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240807000000 +0000" stop="20240807003000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240807003000 +0000" stop="20240807033000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240807033000 +0000" stop="20240807073000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Olimpiyat Anıları</title></programme>
 <programme start="20240805202500 +0000" stop="20240805211000 +0000" channel="TRTTurk.tr"><title lang="tr">Leyla ile Mecnun</title></programme>
 <programme start="20240805211000 +0000" stop="20240805212500 +0000" channel="TRTTurk.tr"><title lang="tr">Kalbin İçindekiler</title></programme>
 <programme start="20240805212500 +0000" stop="20240805222000 +0000" channel="TRTTurk.tr"><title lang="tr">Almanak</title></programme>
