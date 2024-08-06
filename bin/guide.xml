@@ -494,17 +494,16 @@
 <programme start="20240806201500 +0000" stop="20240806225000 +0000" channel="Kanal7.tr"><title lang="tr">Diriliş Ertuğrul</title></programme>
 <programme start="20240806225000 +0000" stop="20240807001000 +0000" channel="Kanal7.tr"><title lang="tr">Masum</title></programme>
 <programme start="20240807001000 +0000" stop="20240807033000 +0000" channel="Kanal7.tr"><title lang="tr">Seninle Yeniden</title></programme>
-<programme start="20240807033000 +0000" stop="20240807051500 +0000" channel="Kanal7.tr"><title lang="tr">Kanal 7&apos;de Sabah</title></programme>
-<programme start="20240807051500 +0000" stop="20240807061500 +0000" channel="Kanal7.tr"><title lang="tr">Sağlıkla Yaşam</title></programme>
-<programme start="20240807061500 +0000" stop="20240807080000 +0000" channel="Kanal7.tr"><title lang="tr">Yemin</title></programme>
+<programme start="20240807033000 +0000" stop="20240807044500 +0000" channel="Kanal7.tr"><title lang="tr">Kanal 7&apos;de Sabah</title></programme>
+<programme start="20240807044500 +0000" stop="20240807080000 +0000" channel="Kanal7.tr"><title lang="tr">Yemin</title></programme>
 <programme start="20240807080000 +0000" stop="20240807095000 +0000" channel="Kanal7.tr"><title lang="tr">TV Filmi</title></programme>
-<programme start="20240807095000 +0000" stop="20240807111500 +0000" channel="Kanal7.tr"><title lang="tr">Senin İçin</title></programme>
-<programme start="20240807111500 +0000" stop="20240807130000 +0000" channel="Kanal7.tr"><title lang="tr">Nefes</title></programme>
+<programme start="20240807095000 +0000" stop="20240807112000 +0000" channel="Kanal7.tr"><title lang="tr">Senin İçin</title></programme>
+<programme start="20240807112000 +0000" stop="20240807130000 +0000" channel="Kanal7.tr"><title lang="tr">Nefes</title></programme>
 <programme start="20240807130000 +0000" stop="20240807150000 +0000" channel="Kanal7.tr"><title lang="tr">Her Halimle Sev</title></programme>
 <programme start="20240807150000 +0000" stop="20240807160000 +0000" channel="Kanal7.tr"><title lang="tr">Kanal 7 Haber Saati</title></programme>
-<programme start="20240807160000 +0000" stop="20240807180000 +0000" channel="Kanal7.tr"><title lang="tr">Emanet</title></programme>
-<programme start="20240807180000 +0000" stop="20240807201500 +0000" channel="Kanal7.tr"><title lang="tr">Senindir Sol Yanım</title></programme>
-<programme start="20240807201500 +0000" stop="20240807210000 +0000" channel="Kanal7.tr"><title lang="tr">Diriliş Ertuğrul</title></programme>
+<programme start="20240807160000 +0000" stop="20240807182000 +0000" channel="Kanal7.tr"><title lang="tr">Emanet</title></programme>
+<programme start="20240807182000 +0000" stop="20240807201500 +0000" channel="Kanal7.tr"><title lang="tr">Senindir Sol Yanım</title></programme>
+<programme start="20240807201500 +0000" stop="20240807225000 +0000" channel="Kanal7.tr"><title lang="tr">Diriliş Ertuğrul</title></programme>
 <programme start="20240805170000 +0000" stop="20240805211500 +0000" channel="KanalD.tr"><title lang="tr">Yalan</title></programme>
 <programme start="20240805211500 +0000" stop="20240805230000 +0000" channel="KanalD.tr"><title lang="tr">Çember: Ölüm Bizi...</title></programme>
 <programme start="20240805230000 +0000" stop="20240806013000 +0000" channel="KanalD.tr"><title lang="tr">Güneşi Beklerken</title></programme>
