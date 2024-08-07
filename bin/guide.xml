@@ -161,8 +161,19 @@
 <programme start="20240807203000 +0000" stop="20240807221500 +0000" channel="BeyazTV.tr"><title lang="tr">Hepsini Cehenneme Gönder</title></programme>
 <programme start="20240807203000 +0000" stop="20240807221500 +0000" channel="BeyazTV.tr"><title lang="tr">Hepsini Cehenneme Gönder</title></programme>
 <programme start="20240807221500 +0000" stop="20240808001500 +0000" channel="BeyazTV.tr"><title lang="tr">Ölümcül Tırmanış</title></programme>
-<programme start="20240808001500 +0000" stop="20240808030000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
-<programme start="20240808030000 +0000" stop="20240808070000 +0000" channel="BeyazTV.tr"><title lang="tr">Ölümcül Tırmanış</title></programme>
+<programme start="20240808001500 +0000" stop="20240808023000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
+<programme start="20240808023000 +0000" stop="20240808030000 +0000" channel="BeyazTV.tr"><title lang="tr">Ölümcül Tırmanış</title></programme>
+<programme start="20240808030000 +0000" stop="20240808043000 +0000" channel="BeyazTV.tr"><title lang="tr">Hepsini Cehenneme Gönder</title></programme>
+<programme start="20240808043000 +0000" stop="20240808063000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
+<programme start="20240808063000 +0000" stop="20240808090000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Magazin</title></programme>
+<programme start="20240808090000 +0000" stop="20240808104500 +0000" channel="BeyazTV.tr"><title lang="tr">Nilüfer Zamanı</title></programme>
+<programme start="20240808104500 +0000" stop="20240808121500 +0000" channel="BeyazTV.tr"><title lang="tr">Nermin&apos;in Enfes Mutfağı</title></programme>
+<programme start="20240808121500 +0000" stop="20240808132000 +0000" channel="BeyazTV.tr"><title lang="tr">Belma Belen&apos;le Geziyoruz</title></programme>
+<programme start="20240808132000 +0000" stop="20240808153000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
+<programme start="20240808153000 +0000" stop="20240808163000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Ana Haber</title></programme>
+<programme start="20240808163000 +0000" stop="20240808183000 +0000" channel="BeyazTV.tr"><title lang="tr">Sülün Katilleri</title></programme>
+<programme start="20240808183000 +0000" stop="20240808203000 +0000" channel="BeyazTV.tr"><title lang="tr">Kung Fu Jungle</title></programme>
+<programme start="20240808203000 +0000" stop="20240808221500 +0000" channel="BeyazTV.tr"><title lang="tr">Gündemin İzinde</title></programme>
 <programme start="20240806204500 +0000" stop="20240806211000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Sevimli Kahramanlar Hikayeler</title></programme>
 <programme start="20240806211000 +0000" stop="20240806213500 +0000" channel="CartoonNetwork.tr"><title lang="tr">Ben 10</title></programme>
 <programme start="20240806213500 +0000" stop="20240806220000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Ben 10</title></programme>
@@ -1457,6 +1468,13 @@
 <programme start="20240807170000 +0000" stop="20240807183000 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
 <programme start="20240807183000 +0000" stop="20240807190000 +0000" channel="TRT3.tr"><title lang="tr">Spor Merkezi</title></programme>
 <programme start="20240807190000 +0000" stop="20240807210000 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240807203000 +0000" stop="20240807220000 +0000" channel="TRT3.tr"><title lang="tr">Transfer Günlüğü</title></programme>
+<programme start="20240807203000 +0000" stop="20240807220000 +0000" channel="TRT3.tr"><title lang="tr">Transfer Günlüğü</title></programme>
+<programme start="20240807220000 +0000" stop="20240807230000 +0000" channel="TRT3.tr"><title lang="tr">Spor Artı</title></programme>
+<programme start="20240807230000 +0000" stop="20240808010000 +0000" channel="TRT3.tr"><title lang="tr">Polonya - ABD</title></programme>
+<programme start="20240808010000 +0000" stop="20240808023000 +0000" channel="TRT3.tr"><title lang="tr">Transfer Günlüğü</title></programme>
+<programme start="20240808023000 +0000" stop="20240808030000 +0000" channel="TRT3.tr"><title lang="tr">Almanya - Fransa</title></programme>
+<programme start="20240808030000 +0000" stop="20240808070000 +0000" channel="TRT3.tr"><title lang="tr">Günün Olimpiyat Özeti</title></programme>
 <programme start="20240806201500 +0000" stop="20240806210500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Anadolu&apos;da Yaşam</title></programme>
 <programme start="20240806210500 +0000" stop="20240806215500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Üstün Makineler</title></programme>
 <programme start="20240806215500 +0000" stop="20240806224500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Tarihin Efsaneleri</title></programme>
@@ -1737,7 +1755,13 @@
 <programme start="20240807070000 +0000" stop="20240807100000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
 <programme start="20240807100000 +0000" stop="20240807140000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
 <programme start="20240807140000 +0000" stop="20240807190000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
-<programme start="20240807190000 +0000" stop="20240807210000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240807190000 +0000" stop="20240807213000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240807190000 +0000" stop="20240807213000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240807213000 +0000" stop="20240807233000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Almanya - Fransa</title></programme>
+<programme start="20240807233000 +0000" stop="20240808000000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240808000000 +0000" stop="20240808003000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240808003000 +0000" stop="20240808030000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240808030000 +0000" stop="20240808070000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
 <programme start="20240806203000 +0000" stop="20240806211500 +0000" channel="TRTTurk.tr"><title lang="tr">Leyla ile Mecnun</title></programme>
 <programme start="20240806211500 +0000" stop="20240806213000 +0000" channel="TRTTurk.tr"><title lang="tr">Kalbin İçindekiler</title></programme>
 <programme start="20240806213000 +0000" stop="20240806220500 +0000" channel="TRTTurk.tr"><title lang="tr">Bir Lokma Bir Ömür</title></programme>
@@ -1845,9 +1869,9 @@
 <programme start="20240807053000 +0000" stop="20240807064500 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
 <programme start="20240807064500 +0000" stop="20240807104500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240807104500 +0000" stop="20240807130000 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
-<programme start="20240807130000 +0000" stop="20240807170000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
-<programme start="20240807170000 +0000" stop="20240807211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
-<programme start="20240807170000 +0000" stop="20240807211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240807130000 +0000" stop="20240807160000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
+<programme start="20240807160000 +0000" stop="20240807211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240807160000 +0000" stop="20240807211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240807211500 +0000" stop="20240807233000 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240807233000 +0000" stop="20240808013000 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
 <programme start="20240808013000 +0000" stop="20240808030000 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
