@@ -134,7 +134,8 @@
 <programme start="20240807170000 +0000" stop="20240807194000 +0000" channel="ATV.tr"><title lang="tr">Hamburg-İstanbul Hattı</title></programme>
 <programme start="20240807194000 +0000" stop="20240807213000 +0000" channel="ATV.tr"><title lang="tr">Tuzak</title></programme>
 <programme start="20240807194000 +0000" stop="20240807213000 +0000" channel="ATV.tr"><title lang="tr">Tuzak</title></programme>
-<programme start="20240807213000 +0000" stop="20240808020000 +0000" channel="ATV.tr"><title lang="tr">Arabulucu</title></programme>
+<programme start="20240807213000 +0000" stop="20240807233000 +0000" channel="ATV.tr"><title lang="tr">Arabulucu</title></programme>
+<programme start="20240807233000 +0000" stop="20240808020000 +0000" channel="ATV.tr"><title lang="tr">Ateş Kuşları</title></programme>
 <programme start="20240808020000 +0000" stop="20240808040000 +0000" channel="ATV.tr"><title lang="tr">Kaçak</title></programme>
 <programme start="20240808040000 +0000" stop="20240808050000 +0000" channel="ATV.tr"><title lang="tr">Bir Küçük Gün Işığı</title></programme>
 <programme start="20240808050000 +0000" stop="20240808070000 +0000" channel="ATV.tr"><title lang="tr">Kahvaltı Haberleri</title></programme>
@@ -531,7 +532,10 @@
 <programme start="20240808090000 +0000" stop="20240808100000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Haber Gün Arası</title></programme>
 <programme start="20240808100000 +0000" stop="20240808130000 +0000" channel="KanalD.tr"><title lang="tr">Gelinim Mutfakta</title></programme>
 <programme start="20240808130000 +0000" stop="20240808160000 +0000" channel="KanalD.tr"><title lang="tr">Ayazın Sonu Güneş</title></programme>
-<programme start="20240808160000 +0000" stop="20240809000000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
+<programme start="20240808160000 +0000" stop="20240808170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
+<programme start="20240808170000 +0000" stop="20240808184500 +0000" channel="KanalD.tr"><title lang="tr">Aşk-ı Memnu</title></programme>
+<programme start="20240808184500 +0000" stop="20240808203000 +0000" channel="KanalD.tr"><title lang="tr">Aşk-ı Memnu</title></programme>
+<programme start="20240808203000 +0000" stop="20240808224500 +0000" channel="KanalD.tr"><title lang="tr">İntikam</title></programme>
 <programme start="20240806210000 +0000" stop="20240806213000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Robot Trains</title></programme>
 <programme start="20240806213000 +0000" stop="20240806214000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Turbozours</title></programme>
 <programme start="20240806214000 +0000" stop="20240806215000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Turbozours</title></programme>
@@ -1356,10 +1360,10 @@
 <programme start="20240807160000 +0000" stop="20240807165500 +0000" channel="TRT1.tr"><title lang="tr">Ana Haber</title></programme>
 <programme start="20240807165500 +0000" stop="20240807170000 +0000" channel="TRT1.tr"><title lang="tr">İddiaların Aksine</title></programme>
 <programme start="20240807170000 +0000" stop="20240807194500 +0000" channel="TRT1.tr"><title lang="tr">Aşk Tarifi</title></programme>
-<programme start="20240807194500 +0000" stop="20240807230000 +0000" channel="TRT1.tr"><title lang="tr">Mehmed: Fetihler Sultanı</title></programme>
-<programme start="20240807194500 +0000" stop="20240807230000 +0000" channel="TRT1.tr"><title lang="tr">Mehmed: Fetihler Sultanı</title></programme>
-<programme start="20240807230000 +0000" stop="20240808000000 +0000" channel="TRT1.tr"><title lang="tr">Seksenler</title></programme>
-<programme start="20240808000000 +0000" stop="20240808022000 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
+<programme start="20240807194500 +0000" stop="20240807222000 +0000" channel="TRT1.tr"><title lang="tr">Mehmed: Fetihler Sultanı</title></programme>
+<programme start="20240807194500 +0000" stop="20240807222000 +0000" channel="TRT1.tr"><title lang="tr">Mehmed: Fetihler Sultanı</title></programme>
+<programme start="20240807222000 +0000" stop="20240808002000 +0000" channel="TRT1.tr"><title lang="tr">Aşk Tarifi</title></programme>
+<programme start="20240808002000 +0000" stop="20240808022000 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
 <programme start="20240808022000 +0000" stop="20240808031500 +0000" channel="TRT1.tr"><title lang="tr">Şehirden Uzakta</title></programme>
 <programme start="20240808031500 +0000" stop="20240808063000 +0000" channel="TRT1.tr"><title lang="tr">Kalk Gidelim</title></programme>
 <programme start="20240808063000 +0000" stop="20240808094000 +0000" channel="TRT1.tr"><title lang="tr">Kara Ağaç Destanı</title></programme>
@@ -1460,11 +1464,9 @@
 <programme start="20240807111000 +0000" stop="20240807113000 +0000" channel="TRT3.tr"><title lang="tr">Spor Bülteni</title></programme>
 <programme start="20240807113000 +0000" stop="20240807133000 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
 <programme start="20240807133000 +0000" stop="20240807150000 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
-<programme start="20240807150000 +0000" stop="20240807163000 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
-<programme start="20240807163000 +0000" stop="20240807170000 +0000" channel="TRT3.tr"><title lang="tr">Spor Bülteni</title></programme>
-<programme start="20240807170000 +0000" stop="20240807183000 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
-<programme start="20240807183000 +0000" stop="20240807190000 +0000" channel="TRT3.tr"><title lang="tr">Spor Merkezi</title></programme>
-<programme start="20240807190000 +0000" stop="20240807210000 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240807140000 +0000" stop="20240807160000 +0000" channel="TRT3.tr"><title lang="tr">Polonya - ABD</title></programme>
+<programme start="20240807160000 +0000" stop="20240807170000 +0000" channel="TRT3.tr"><title lang="tr">Spor Merkezi</title></programme>
+<programme start="20240807170000 +0000" stop="20240807203000 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
 <programme start="20240807203000 +0000" stop="20240807220000 +0000" channel="TRT3.tr"><title lang="tr">Transfer Günlüğü</title></programme>
 <programme start="20240807203000 +0000" stop="20240807220000 +0000" channel="TRT3.tr"><title lang="tr">Transfer Günlüğü</title></programme>
 <programme start="20240807220000 +0000" stop="20240807230000 +0000" channel="TRT3.tr"><title lang="tr">Spor Artı</title></programme>
