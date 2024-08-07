@@ -162,8 +162,7 @@
 <programme start="20240807203000 +0000" stop="20240807221500 +0000" channel="BeyazTV.tr"><title lang="tr">Hepsini Cehenneme Gönder</title></programme>
 <programme start="20240807221500 +0000" stop="20240808001500 +0000" channel="BeyazTV.tr"><title lang="tr">Ölümcül Tırmanış</title></programme>
 <programme start="20240808001500 +0000" stop="20240808030000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
-<programme start="20240808030000 +0000" stop="20240808043000 +0000" channel="BeyazTV.tr"><title lang="tr">Hepsini Cehenneme Gönder</title></programme>
-<programme start="20240808043000 +0000" stop="20240808063000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
+<programme start="20240808030000 +0000" stop="20240808070000 +0000" channel="BeyazTV.tr"><title lang="tr">Ölümcül Tırmanış</title></programme>
 <programme start="20240808063000 +0000" stop="20240808090000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Magazin</title></programme>
 <programme start="20240808090000 +0000" stop="20240808104500 +0000" channel="BeyazTV.tr"><title lang="tr">Nilüfer Zamanı</title></programme>
 <programme start="20240808104500 +0000" stop="20240808121500 +0000" channel="BeyazTV.tr"><title lang="tr">Nermin&apos;in Enfes Mutfağı</title></programme>
@@ -531,10 +530,7 @@
 <programme start="20240808090000 +0000" stop="20240808100000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Haber Gün Arası</title></programme>
 <programme start="20240808100000 +0000" stop="20240808130000 +0000" channel="KanalD.tr"><title lang="tr">Gelinim Mutfakta</title></programme>
 <programme start="20240808130000 +0000" stop="20240808160000 +0000" channel="KanalD.tr"><title lang="tr">Ayazın Sonu Güneş</title></programme>
-<programme start="20240808160000 +0000" stop="20240808170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
-<programme start="20240808170000 +0000" stop="20240808184500 +0000" channel="KanalD.tr"><title lang="tr">Aşk-ı Memnu</title></programme>
-<programme start="20240808184500 +0000" stop="20240808203000 +0000" channel="KanalD.tr"><title lang="tr">Aşk-ı Memnu</title></programme>
-<programme start="20240808203000 +0000" stop="20240808224500 +0000" channel="KanalD.tr"><title lang="tr">İntikam</title></programme>
+<programme start="20240808160000 +0000" stop="20240809000000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
 <programme start="20240806210000 +0000" stop="20240806213000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Robot Trains</title></programme>
 <programme start="20240806213000 +0000" stop="20240806214000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Turbozours</title></programme>
 <programme start="20240806214000 +0000" stop="20240806215000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Turbozours</title></programme>
@@ -1894,9 +1890,9 @@
 <programme start="20240807053000 +0000" stop="20240807064500 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
 <programme start="20240807064500 +0000" stop="20240807104500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240807104500 +0000" stop="20240807130000 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
-<programme start="20240807130000 +0000" stop="20240807160000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
-<programme start="20240807160000 +0000" stop="20240807211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
-<programme start="20240807160000 +0000" stop="20240807211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240807130000 +0000" stop="20240807170000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
+<programme start="20240807170000 +0000" stop="20240807211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240807170000 +0000" stop="20240807211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240807211500 +0000" stop="20240807233000 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240807233000 +0000" stop="20240808013000 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
 <programme start="20240808013000 +0000" stop="20240808030000 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
