@@ -133,10 +133,10 @@
 <programme start="20240808160000 +0000" stop="20240808170000 +0000" channel="ATV.tr"><title lang="tr">ATV Ana Haber</title></programme>
 <programme start="20240808170000 +0000" stop="20240808212000 +0000" channel="ATV.tr"><title lang="tr">Alan</title></programme>
 <programme start="20240808170000 +0000" stop="20240808212000 +0000" channel="ATV.tr"><title lang="tr">Alan</title></programme>
-<programme start="20240808212000 +0000" stop="20240808233000 +0000" channel="ATV.tr"><title lang="tr">Anlaşma</title></programme>
-<programme start="20240808233000 +0000" stop="20240809020000 +0000" channel="ATV.tr"><title lang="tr">Ateş Kuşları</title></programme>
-<programme start="20240809020000 +0000" stop="20240809040000 +0000" channel="ATV.tr"><title lang="tr">Kaçak</title></programme>
-<programme start="20240809040000 +0000" stop="20240809050000 +0000" channel="ATV.tr"><title lang="tr">Bir Küçük Gün Işığı</title></programme>
+<programme start="20240808212000 +0000" stop="20240808231500 +0000" channel="ATV.tr"><title lang="tr">Anlaşma</title></programme>
+<programme start="20240808231500 +0000" stop="20240809013000 +0000" channel="ATV.tr"><title lang="tr">Ateş Kuşları</title></programme>
+<programme start="20240809013000 +0000" stop="20240809033000 +0000" channel="ATV.tr"><title lang="tr">Kaçak</title></programme>
+<programme start="20240809033000 +0000" stop="20240809050000 +0000" channel="ATV.tr"><title lang="tr">Bir Küçük Gün Işığı</title></programme>
 <programme start="20240809050000 +0000" stop="20240809070000 +0000" channel="ATV.tr"><title lang="tr">Kahvaltı Haberleri</title></programme>
 <programme start="20240809070000 +0000" stop="20240809100000 +0000" channel="ATV.tr"><title lang="tr">Sen Anlat Karadeniz</title></programme>
 <programme start="20240809100000 +0000" stop="20240809110000 +0000" channel="ATV.tr"><title lang="tr">Gün Ortası</title></programme>
@@ -1109,7 +1109,8 @@
 <programme start="20240809084000 +0000" stop="20240809084500 +0000" channel="NTV.tr"><title lang="tr">Laf Aramızda</title></programme>
 <programme start="20240809084500 +0000" stop="20240809085500 +0000" channel="NTV.tr"><title lang="tr">Spor</title></programme>
 <programme start="20240809085500 +0000" stop="20240809090000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20240809090000 +0000" stop="20240809093500 +0000" channel="NTV.tr"><title lang="tr">Haber Merkezi</title></programme>
+<programme start="20240809090000 +0000" stop="20240809091500 +0000" channel="NTV.tr"><title lang="tr">Haber Merkezi</title></programme>
+<programme start="20240809091500 +0000" stop="20240809093500 +0000" channel="NTV.tr"><title lang="tr">Yeşil Ekran</title></programme>
 <programme start="20240809093500 +0000" stop="20240809095000 +0000" channel="NTV.tr"><title lang="tr">Piyasa Ekranı</title></programme>
 <programme start="20240809095000 +0000" stop="20240809095500 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
 <programme start="20240809095500 +0000" stop="20240809100000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
@@ -1125,7 +1126,8 @@
 <programme start="20240809122000 +0000" stop="20240809123000 +0000" channel="NTV.tr"><title lang="tr">Spor</title></programme>
 <programme start="20240809123000 +0000" stop="20240809125500 +0000" channel="NTV.tr"><title lang="tr">Çevrimiçi Dünya</title></programme>
 <programme start="20240809125500 +0000" stop="20240809130000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20240809130000 +0000" stop="20240809133000 +0000" channel="NTV.tr"><title lang="tr">Günün İçinden</title></programme>
+<programme start="20240809130000 +0000" stop="20240809131500 +0000" channel="NTV.tr"><title lang="tr">Günün İçinden</title></programme>
+<programme start="20240809131500 +0000" stop="20240809133000 +0000" channel="NTV.tr"><title lang="tr">Süper Lig Başlıyor</title></programme>
 <programme start="20240809133000 +0000" stop="20240809133500 +0000" channel="NTV.tr"><title lang="tr">Piyasalar</title></programme>
 <programme start="20240809133500 +0000" stop="20240809135000 +0000" channel="NTV.tr"><title lang="tr">Yeşil Ekran</title></programme>
 <programme start="20240809135000 +0000" stop="20240809135500 +0000" channel="NTV.tr"><title lang="tr">Laf Aramızda</title></programme>
@@ -1134,7 +1136,8 @@
 <programme start="20240809143000 +0000" stop="20240809143500 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
 <programme start="20240809143500 +0000" stop="20240809145500 +0000" channel="NTV.tr"><title lang="tr">Gece Gündüz</title></programme>
 <programme start="20240809145500 +0000" stop="20240809150000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20240809150000 +0000" stop="20240809153500 +0000" channel="NTV.tr"><title lang="tr">Günün İçinden</title></programme>
+<programme start="20240809150000 +0000" stop="20240809151500 +0000" channel="NTV.tr"><title lang="tr">Günün İçinden</title></programme>
+<programme start="20240809151500 +0000" stop="20240809153500 +0000" channel="NTV.tr"><title lang="tr">Özel Röportaj:...</title></programme>
 <programme start="20240809153500 +0000" stop="20240809154000 +0000" channel="NTV.tr"><title lang="tr">Piyasalar</title></programme>
 <programme start="20240809154000 +0000" stop="20240809154500 +0000" channel="NTV.tr"><title lang="tr">Uzman Bakışı</title></programme>
 <programme start="20240809154500 +0000" stop="20240809155500 +0000" channel="NTV.tr"><title lang="tr">Spor</title></programme>
@@ -1772,7 +1775,16 @@
 <programme start="20240808223000 +0000" stop="20240808230000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
 <programme start="20240808230000 +0000" stop="20240808233000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
 <programme start="20240808233000 +0000" stop="20240809013000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Türkiye - İtalya</title></programme>
-<programme start="20240809013000 +0000" stop="20240809053000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240809013000 +0000" stop="20240809035800 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240809035800 +0000" stop="20240809040000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">İstiklal Marşı</title></programme>
+<programme start="20240809040000 +0000" stop="20240809043000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240809043000 +0000" stop="20240809050000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240809050000 +0000" stop="20240809053000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Olimpiyat Günlüğü</title></programme>
+<programme start="20240809053000 +0000" stop="20240809080000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240809080000 +0000" stop="20240809110000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240809110000 +0000" stop="20240809140000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240809140000 +0000" stop="20240809180000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240809180000 +0000" stop="20240809210000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
 <programme start="20240807203000 +0000" stop="20240807211000 +0000" channel="TRTTurk.tr"><title lang="tr">Leyla ile Mecnun</title></programme>
 <programme start="20240807211000 +0000" stop="20240807212500 +0000" channel="TRTTurk.tr"><title lang="tr">Kalbin İçindekiler</title></programme>
 <programme start="20240807212500 +0000" stop="20240807221000 +0000" channel="TRTTurk.tr"><title lang="tr">Dünyadaki Türkiye</title></programme>
@@ -1907,10 +1919,29 @@
 <programme start="20240808164500 +0000" stop="20240808171500 +0000" channel="TV85.tr"><title lang="tr">Lille - Fenerbahçe</title></programme>
 <programme start="20240808171500 +0000" stop="20240808181500 +0000" channel="TV85.tr"><title lang="tr">U. Craiova - Maribor</title></programme>
 <programme start="20240808181500 +0000" stop="20240808201500 +0000" channel="TV85.tr"><title lang="tr">Maribor -Vojvodina</title></programme>
-<programme start="20240808201500 +0000" stop="20240808211500 +0000" channel="TV85.tr"><title lang="tr">Cristiano Ronaldo 2023-24...</title></programme>
-<programme start="20240808201500 +0000" stop="20240808211500 +0000" channel="TV85.tr"><title lang="tr">Cristiano Ronaldo 2023-24...</title></programme>
-<programme start="20240808211500 +0000" stop="20240808220000 +0000" channel="TV85.tr"><title lang="tr">Lille - Fenerbahçe</title></programme>
-<programme start="20240808220000 +0000" stop="20240809001000 +0000" channel="TV85.tr"><title lang="tr">Maribor -Vojvodina</title></programme>
+<programme start="20240808201500 +0000" stop="20240808210000 +0000" channel="TV85.tr"><title lang="tr">Cristiano Ronaldo 2023-24...</title></programme>
+<programme start="20240808210000 +0000" stop="20240808214500 +0000" channel="TV85.tr"><title lang="tr">Maribor -Vojvodina</title></programme>
+<programme start="20240808214500 +0000" stop="20240808230000 +0000" channel="TV85.tr"><title lang="tr">Hollanda Eredivisie...</title></programme>
+<programme start="20240808230000 +0000" stop="20240809004500 +0000" channel="TV85.tr"><title lang="tr">Maribor -Vojvodina</title></programme>
+<programme start="20240809004500 +0000" stop="20240809022500 +0000" channel="TV85.tr"><title lang="tr">PSV - Feyenoord</title></programme>
+<programme start="20240809022500 +0000" stop="20240809025000 +0000" channel="TV85.tr"><title lang="tr">Gol Kralı Luuk De Jong...</title></programme>
+<programme start="20240809025000 +0000" stop="20240809031000 +0000" channel="TV85.tr"><title lang="tr">Gol Kralı Vangelis...</title></programme>
+<programme start="20240809031000 +0000" stop="20240809034000 +0000" channel="TV85.tr"><title lang="tr">Bir Zamanlar</title></programme>
+<programme start="20240809034000 +0000" stop="20240809040000 +0000" channel="TV85.tr"><title lang="tr">Bir Zamanlar</title></programme>
+<programme start="20240809040000 +0000" stop="20240809060000 +0000" channel="TV85.tr"><title lang="tr">Maribor -Vojvodina</title></programme>
+<programme start="20240809060000 +0000" stop="20240809083000 +0000" channel="TV85.tr"><title lang="tr">Futbol Nostalji</title></programme>
+<programme start="20240809083000 +0000" stop="20240809091500 +0000" channel="TV85.tr"><title lang="tr">Maribor -Vojvodina</title></programme>
+<programme start="20240809091500 +0000" stop="20240809100000 +0000" channel="TV85.tr"><title lang="tr">Arjantin - Kolombiya</title></programme>
+<programme start="20240809100000 +0000" stop="20240809120000 +0000" channel="TV85.tr"><title lang="tr">Maribor -Vojvodina</title></programme>
+<programme start="20240809120000 +0000" stop="20240809123000 +0000" channel="TV85.tr"><title lang="tr">Nijerya - Fildişi Sahili</title></programme>
+<programme start="20240809123000 +0000" stop="20240809131500 +0000" channel="TV85.tr"><title lang="tr">Cristiano Ronaldo 2023-24...</title></programme>
+<programme start="20240809131500 +0000" stop="20240809141500 +0000" channel="TV85.tr"><title lang="tr">Bir Zamanlar</title></programme>
+<programme start="20240809141500 +0000" stop="20240809151500 +0000" channel="TV85.tr"><title lang="tr">Bir Zamanlar</title></programme>
+<programme start="20240809151500 +0000" stop="20240809160000 +0000" channel="TV85.tr"><title lang="tr">Maribor -Vojvodina</title></programme>
+<programme start="20240809160000 +0000" stop="20240809171500 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
+<programme start="20240809171500 +0000" stop="20240809180000 +0000" channel="TV85.tr"><title lang="tr">Cristiano Ronaldo 2023-24...</title></programme>
+<programme start="20240809180000 +0000" stop="20240809200000 +0000" channel="TV85.tr"><title lang="tr">Groningen - NAC Breda</title></programme>
+<programme start="20240809200000 +0000" stop="20240809210000 +0000" channel="TV85.tr"><title lang="tr">Son Karar</title></programme>
 <programme start="20240807174500 +0000" stop="20240807213000 +0000" channel="TV100.tr"><title lang="tr">Taksim Meydanı</title></programme>
 <programme start="20240807213000 +0000" stop="20240807223000 +0000" channel="TV100.tr"><title lang="tr">Gece Haberleri</title></programme>
 <programme start="20240807223000 +0000" stop="20240807233000 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
