@@ -928,7 +928,7 @@
 <programme start="20240809071600 +0000" stop="20240809072400 +0000" channel="MinikaGo.tr"><title lang="tr">Koyun Shaun</title></programme>
 <programme start="20240809072400 +0000" stop="20240809073000 +0000" channel="MinikaGo.tr"><title lang="tr">Koyun Shaun</title></programme>
 <programme start="20240809073000 +0000" stop="20240809080000 +0000" channel="MinikaGo.tr"><title lang="tr">Dört Dörtlük Dedektif</title></programme>
-<programme start="20240809080000 +0000" stop="20240809083000 +0000" channel="MinikaGo.tr"><title lang="tr">Dronix</title></programme>
+<programme start="20240809080000 +0000" stop="20240809083000 +0000" channel="MinikaGo.tr"><title lang="tr">Team Dronix</title></programme>
 <programme start="20240809083000 +0000" stop="20240809090000 +0000" channel="MinikaGo.tr"><title lang="tr">Akıncı</title></programme>
 <programme start="20240809090000 +0000" stop="20240809091500 +0000" channel="MinikaGo.tr"><title lang="tr">Sonic Boom</title></programme>
 <programme start="20240809091500 +0000" stop="20240809093000 +0000" channel="MinikaGo.tr"><title lang="tr">Sonic Boom</title></programme>
@@ -957,7 +957,7 @@
 <programme start="20240809143800 +0000" stop="20240809144600 +0000" channel="MinikaGo.tr"><title lang="tr">Oscar Çöllerde</title></programme>
 <programme start="20240809144600 +0000" stop="20240809145400 +0000" channel="MinikaGo.tr"><title lang="tr">Oscar Çöllerde</title></programme>
 <programme start="20240809145400 +0000" stop="20240809150000 +0000" channel="MinikaGo.tr"><title lang="tr">Oscar Çöllerde</title></programme>
-<programme start="20240809150000 +0000" stop="20240809153000 +0000" channel="MinikaGo.tr"><title lang="tr">Dronix</title></programme>
+<programme start="20240809150000 +0000" stop="20240809153000 +0000" channel="MinikaGo.tr"><title lang="tr">Team Dronix</title></programme>
 <programme start="20240809153000 +0000" stop="20240809154500 +0000" channel="MinikaGo.tr"><title lang="tr">Sonic Boom</title></programme>
 <programme start="20240809154500 +0000" stop="20240809160000 +0000" channel="MinikaGo.tr"><title lang="tr">Sonic Boom</title></programme>
 <programme start="20240809160000 +0000" stop="20240809163000 +0000" channel="MinikaGo.tr"><title lang="tr">Akıncı</title></programme>
@@ -1489,6 +1489,20 @@
 <programme start="20240808230000 +0000" stop="20240809004500 +0000" channel="TRT3.tr"><title lang="tr">Iberia - Başakşehir</title></programme>
 <programme start="20240809004500 +0000" stop="20240809030000 +0000" channel="TRT3.tr"><title lang="tr">Türkiye - İtalya</title></programme>
 <programme start="20240809030000 +0000" stop="20240809070000 +0000" channel="TRT3.tr"><title lang="tr">Günün Olimpiyat Özeti</title></programme>
+<programme start="20240809070000 +0000" stop="20240809080000 +0000" channel="TRT3.tr"><title lang="tr">TRT 3 / TRT Spor</title></programme>
+<programme start="20240809080000 +0000" stop="20240809090000 +0000" channel="TRT3.tr"><title lang="tr">TRT 3 / TRT Spor</title></programme>
+<programme start="20240809090000 +0000" stop="20240809100000 +0000" channel="TRT3.tr"><title lang="tr">TRT 3 / TRT Spor</title></programme>
+<programme start="20240809100000 +0000" stop="20240809110000 +0000" channel="TRT3.tr"><title lang="tr">TRT 3 / TRT Spor</title></programme>
+<programme start="20240809110000 +0000" stop="20240809120000 +0000" channel="TRT3.tr"><title lang="tr">TRT 3 / TRT Spor</title></programme>
+<programme start="20240809120000 +0000" stop="20240809130000 +0000" channel="TRT3.tr"><title lang="tr">TRT 3 / TRT Spor</title></programme>
+<programme start="20240809130000 +0000" stop="20240809140000 +0000" channel="TRT3.tr"><title lang="tr">TRT 3 / TRT Spor</title></programme>
+<programme start="20240809140000 +0000" stop="20240809150000 +0000" channel="TRT3.tr"><title lang="tr">TRT 3 / TRT Spor</title></programme>
+<programme start="20240809150000 +0000" stop="20240809160000 +0000" channel="TRT3.tr"><title lang="tr">TRT 3 / TRT Spor</title></programme>
+<programme start="20240809160000 +0000" stop="20240809170000 +0000" channel="TRT3.tr"><title lang="tr">TRT 3 / TRT Spor</title></programme>
+<programme start="20240809170000 +0000" stop="20240809180000 +0000" channel="TRT3.tr"><title lang="tr">TRT 3 / TRT Spor</title></programme>
+<programme start="20240809180000 +0000" stop="20240809190000 +0000" channel="TRT3.tr"><title lang="tr">TRT 3 / TRT Spor</title></programme>
+<programme start="20240809190000 +0000" stop="20240809200000 +0000" channel="TRT3.tr"><title lang="tr">TRT 3 / TRT Spor</title></programme>
+<programme start="20240809200000 +0000" stop="20240809210000 +0000" channel="TRT3.tr"><title lang="tr">TRT 3 / TRT Spor</title></programme>
 <programme start="20240807203500 +0000" stop="20240807212500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Anadolu&apos;da Yaşam</title></programme>
 <programme start="20240807212500 +0000" stop="20240807221500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Büyük Aile Çiftliği</title></programme>
 <programme start="20240807221500 +0000" stop="20240807230000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Ekmeğin Öyküsü</title></programme>
