@@ -1811,9 +1811,21 @@
 <programme start="20240809230000 +0000" stop="20240810004500 +0000" channel="TV85.tr"><title lang="tr">Groningen - NAC Breda</title></programme>
 <programme start="20240810004500 +0000" stop="20240810013000 +0000" channel="TV85.tr"><title lang="tr">Son Karar</title></programme>
 <programme start="20240810013000 +0000" stop="20240810030000 +0000" channel="TV85.tr"><title lang="tr">Top Bizde</title></programme>
-<programme start="20240810030000 +0000" stop="20240810110000 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
-<programme start="20240810110000 +0000" stop="20240810190000 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
-<programme start="20240810190000 +0000" stop="20240811030000 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
+<programme start="20240810030000 +0000" stop="20240810040000 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
+<programme start="20240810040000 +0000" stop="20240810051500 +0000" channel="TV85.tr"><title lang="tr">Hollanda Eredivisie...</title></programme>
+<programme start="20240810051500 +0000" stop="20240810060000 +0000" channel="TV85.tr"><title lang="tr">Cristiano Ronaldo 2023-24...</title></programme>
+<programme start="20240810060000 +0000" stop="20240810080000 +0000" channel="TV85.tr"><title lang="tr">Groningen - NAC Breda</title></programme>
+<programme start="20240810080000 +0000" stop="20240810090000 +0000" channel="TV85.tr"><title lang="tr">Son Karar</title></programme>
+<programme start="20240810090000 +0000" stop="20240810110000 +0000" channel="TV85.tr"><title lang="tr">Top Bizde</title></programme>
+<programme start="20240810110000 +0000" stop="20240810113000 +0000" channel="TV85.tr"><title lang="tr">Maribor -Vojvodina</title></programme>
+<programme start="20240810113000 +0000" stop="20240810121500 +0000" channel="TV85.tr"><title lang="tr">Cristiano Ronaldo 2023-24...</title></programme>
+<programme start="20240810121500 +0000" stop="20240810130000 +0000" channel="TV85.tr"><title lang="tr">Groningen - NAC Breda</title></programme>
+<programme start="20240810130000 +0000" stop="20240810143000 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
+<programme start="20240810143000 +0000" stop="20240810160000 +0000" channel="TV85.tr"><title lang="tr">Feyenoord - Willem II</title></programme>
+<programme start="20240810160000 +0000" stop="20240810170000 +0000" channel="TV85.tr"><title lang="tr">Nijerya - Fildişi Sahili</title></programme>
+<programme start="20240810170000 +0000" stop="20240810181500 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
+<programme start="20240810181500 +0000" stop="20240810190000 +0000" channel="TV85.tr"><title lang="tr">Bir Zamanlar</title></programme>
+<programme start="20240810190000 +0000" stop="20240810210000 +0000" channel="TV85.tr"><title lang="tr">PSV - Waalwijk</title></programme>
 <programme start="20240808174500 +0000" stop="20240808213000 +0000" channel="TV100.tr"><title lang="tr">Eşit Ağırlık</title></programme>
 <programme start="20240808213000 +0000" stop="20240808223000 +0000" channel="TV100.tr"><title lang="tr">Gece Haberleri</title></programme>
 <programme start="20240808223000 +0000" stop="20240808233000 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
