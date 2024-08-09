@@ -460,7 +460,7 @@
 <programme start="20240810150000 +0000" stop="20240810151500 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240810151500 +0000" stop="20240810160000 +0000" channel="HaberturkTV.tr"><title lang="tr">Yolların Hikayesi</title></programme>
 <programme start="20240810160000 +0000" stop="20240810180000 +0000" channel="HaberturkTV.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240810180000 +0000" stop="20240810220000 +0000" channel="HaberturkTV.tr"><title lang="tr">Gerçek Fikri Ne?</title></programme>
+<programme start="20240810180000 +0000" stop="20240810210000 +0000" channel="HaberturkTV.tr"><title lang="tr">Gerçek Fikri Ne?</title></programme>
 <programme start="20240808190000 +0000" stop="20240808220000 +0000" channel="HalkTV.tr"><title lang="tr">Sansürsüz</title></programme>
 <programme start="20240808220000 +0000" stop="20240809000000 +0000" channel="HalkTV.tr"><title lang="tr">Halk TV&apos;de Bugün</title></programme>
 <programme start="20240809000000 +0000" stop="20240809030000 +0000" channel="HalkTV.tr"><title lang="tr">Halk TV&apos;de Bugün</title></programme>
@@ -1753,7 +1753,14 @@
 <programme start="20240810000000 +0000" stop="20240810003000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
 <programme start="20240810003000 +0000" stop="20240810011500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
 <programme start="20240810011500 +0000" stop="20240810034500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
-<programme start="20240810034500 +0000" stop="20240810074500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Olimpiyat Yıldızları</title></programme>
+<programme start="20240810034500 +0000" stop="20240810035800 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Olimpiyat Yıldızları</title></programme>
+<programme start="20240810035800 +0000" stop="20240810040000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">İstiklal Marşı</title></programme>
+<programme start="20240810040000 +0000" stop="20240810043000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240810043000 +0000" stop="20240810050000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240810050000 +0000" stop="20240810060000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Olimpiyat Günlüğü</title></programme>
+<programme start="20240810060000 +0000" stop="20240810073000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240810073000 +0000" stop="20240810153000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240810153000 +0000" stop="20240810213000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
 <programme start="20240808203500 +0000" stop="20240808211500 +0000" channel="TRTTurk.tr"><title lang="tr">Leyla ile Mecnun</title></programme>
 <programme start="20240808211500 +0000" stop="20240808213000 +0000" channel="TRTTurk.tr"><title lang="tr">Kalbin İçindekiler</title></programme>
 <programme start="20240808213000 +0000" stop="20240808222500 +0000" channel="TRTTurk.tr"><title lang="tr">Divan - ı Hikmet Sohbetleri</title></programme>
@@ -1859,8 +1866,8 @@
 <programme start="20240810030000 +0000" stop="20240810033000 +0000" channel="TV8.tr"><title lang="tr">Dizi</title></programme>
 <programme start="20240810033000 +0000" stop="20240810044500 +0000" channel="TV8.tr"><title lang="tr">Tuzak</title></programme>
 <programme start="20240810044500 +0000" stop="20240810050000 +0000" channel="TV8.tr"><title lang="tr">Süper 1 Takım</title></programme>
-<programme start="20240810050000 +0000" stop="20240810111500 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
-<programme start="20240810111500 +0000" stop="20240810120000 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240810050000 +0000" stop="20240810084500 +0000" channel="TV8.tr"><title lang="tr">Bir Zamanlar Batıda</title></programme>
+<programme start="20240810084500 +0000" stop="20240810120000 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240810120000 +0000" stop="20240810170000 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
 <programme start="20240810170000 +0000" stop="20240810211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240808210000 +0000" stop="20240808214500 +0000" channel="TV85.tr"><title lang="tr">Maribor -Vojvodina</title></programme>
@@ -1933,14 +1940,13 @@
 <programme start="20240810090000 +0000" stop="20240810100000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240810100000 +0000" stop="20240810110000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240810110000 +0000" stop="20240810120000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240810120000 +0000" stop="20240810123000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240810123000 +0000" stop="20240810130000 +0000" channel="TV100.tr"><title lang="tr">Devrim Tosunoğlu ile...</title></programme>
+<programme start="20240810120000 +0000" stop="20240810130000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240810130000 +0000" stop="20240810140000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240810140000 +0000" stop="20240810150000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240810150000 +0000" stop="20240810160000 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
 <programme start="20240810160000 +0000" stop="20240810173000 +0000" channel="TV100.tr"><title lang="tr">Hafta Sonu Ana Haber Bülteni</title></programme>
 <programme start="20240810173000 +0000" stop="20240810203000 +0000" channel="TV100.tr"><title lang="tr">Gündem Özel</title></programme>
-<programme start="20240810203000 +0000" stop="20240810213000 +0000" channel="TV100.tr"><title lang="tr">Ersin Düzen&apos;le...</title></programme>
+<programme start="20240810203000 +0000" stop="20240810220000 +0000" channel="TV100.tr"><title lang="tr">Ersin Düzen ile Futbol&apos;un...</title></programme>
 <programme start="20240808210000 +0000" stop="20240808213000 +0000" channel="UlusalKanal.tr"><title lang="tr">-</title></programme>
 <programme start="20240808213000 +0000" stop="20240809050000 +0000" channel="UlusalKanal.tr"><title lang="tr">Tekrar Yayın</title></programme>
 <programme start="20240809050000 +0000" stop="20240809080000 +0000" channel="UlusalKanal.tr"><title lang="tr">Günaydın Türkiye</title></programme>
