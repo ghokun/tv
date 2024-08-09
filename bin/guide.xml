@@ -1070,12 +1070,12 @@
 <programme start="20240809090000 +0000" stop="20240809120000 +0000" channel="ShowTV.tr"><title lang="tr">Sandık Kokusu</title></programme>
 <programme start="20240809120000 +0000" stop="20240809153000 +0000" channel="ShowTV.tr"><title lang="tr">Bahar</title></programme>
 <programme start="20240809153000 +0000" stop="20240809170000 +0000" channel="ShowTV.tr"><title lang="tr">Show Ana Haber</title></programme>
-<programme start="20240809170000 +0000" stop="20240809193000 +0000" channel="ShowTV.tr"><title lang="tr">Seçkin Tetikçiler</title></programme>
-<programme start="20240809193000 +0000" stop="20240809211500 +0000" channel="ShowTV.tr"><title lang="tr">Kirli Oyun</title></programme>
-<programme start="20240809193000 +0000" stop="20240809211500 +0000" channel="ShowTV.tr"><title lang="tr">Kirli Oyun</title></programme>
-<programme start="20240809211500 +0000" stop="20240809231500 +0000" channel="ShowTV.tr"><title lang="tr">Seçkin Tetikçiler</title></programme>
-<programme start="20240809231500 +0000" stop="20240810004500 +0000" channel="ShowTV.tr"><title lang="tr">Kirli Oyun</title></programme>
-<programme start="20240810004500 +0000" stop="20240810030000 +0000" channel="ShowTV.tr"><title lang="tr">Aziz</title></programme>
+<programme start="20240809170000 +0000" stop="20240809190000 +0000" channel="ShowTV.tr"><title lang="tr">Seçkin Tetikçiler</title></programme>
+<programme start="20240809190000 +0000" stop="20240809204500 +0000" channel="ShowTV.tr"><title lang="tr">Kirli Oyun</title></programme>
+<programme start="20240809204500 +0000" stop="20240809224500 +0000" channel="ShowTV.tr"><title lang="tr">Seçkin Tetikçiler</title></programme>
+<programme start="20240809204500 +0000" stop="20240809224500 +0000" channel="ShowTV.tr"><title lang="tr">Seçkin Tetikçiler</title></programme>
+<programme start="20240809224500 +0000" stop="20240810001500 +0000" channel="ShowTV.tr"><title lang="tr">Kirli Oyun</title></programme>
+<programme start="20240810001500 +0000" stop="20240810030000 +0000" channel="ShowTV.tr"><title lang="tr">Aziz</title></programme>
 <programme start="20240810030000 +0000" stop="20240810051500 +0000" channel="ShowTV.tr"><title lang="tr">Güzel Günler</title></programme>
 <programme start="20240810051500 +0000" stop="20240810070000 +0000" channel="ShowTV.tr"><title lang="tr">Deliler Koğuşu</title></programme>
 <programme start="20240810070000 +0000" stop="20240810100000 +0000" channel="ShowTV.tr"><title lang="tr">Cumartesi Sürprizi</title></programme>
@@ -1083,7 +1083,7 @@
 <programme start="20240810124500 +0000" stop="20240810152500 +0000" channel="ShowTV.tr"><title lang="tr">Aile</title></programme>
 <programme start="20240810152500 +0000" stop="20240810170000 +0000" channel="ShowTV.tr"><title lang="tr">Show Ana Haber</title></programme>
 <programme start="20240810170000 +0000" stop="20240810204500 +0000" channel="ShowTV.tr"><title lang="tr">Güldür Güldür Show</title></programme>
-<programme start="20240810204500 +0000" stop="20240810231500 +0000" channel="ShowTV.tr"><title lang="tr">Haydut</title></programme>
+<programme start="20240810204500 +0000" stop="20240810224500 +0000" channel="ShowTV.tr"><title lang="tr">Haydut</title></programme>
 <programme start="20240808210000 +0000" stop="20240808213000 +0000" channel="SozcuTV.tr"><title lang="tr">-</title></programme>
 <programme start="20240808213000 +0000" stop="20240808223000 +0000" channel="SozcuTV.tr"><title lang="tr">İyilik Sağlık</title></programme>
 <programme start="20240808223000 +0000" stop="20240809030000 +0000" channel="SozcuTV.tr"><title lang="tr">Nokta Atışı</title></programme>
@@ -1279,6 +1279,7 @@
 <programme start="20240809170000 +0000" stop="20240809191500 +0000" channel="TRT1.tr"><title lang="tr">Mumya</title></programme>
 <programme start="20240809191500 +0000" stop="20240809214000 +0000" channel="TRT1.tr"><title lang="tr">Mehmed: Fetihler Sultanı</title></programme>
 <programme start="20240809191500 +0000" stop="20240809214000 +0000" channel="TRT1.tr"><title lang="tr">Mehmed: Fetihler Sultanı</title></programme>
+<programme start="20240809214000 +0000" stop="20240809233500 +0000" channel="TRT1.tr"><title lang="tr">Mumya</title></programme>
 <programme start="20240809233500 +0000" stop="20240810004500 +0000" channel="TRT1.tr"><title lang="tr">Seksenler</title></programme>
 <programme start="20240810004500 +0000" stop="20240810032500 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
 <programme start="20240810032500 +0000" stop="20240810053500 +0000" channel="TRT1.tr"><title lang="tr">Beni Böyle Sev</title></programme>
@@ -1289,7 +1290,9 @@
 <programme start="20240810094000 +0000" stop="20240810104500 +0000" channel="TRT1.tr"><title lang="tr">Turgay Başyayla ile...</title></programme>
 <programme start="20240810104500 +0000" stop="20240810123500 +0000" channel="TRT1.tr"><title lang="tr">Seksenler</title></programme>
 <programme start="20240810123500 +0000" stop="20240810160000 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
+<programme start="20240810160000 +0000" stop="20240810170000 +0000" channel="TRT1.tr"><title lang="tr">Ana Haber</title></programme>
 <programme start="20240810170000 +0000" stop="20240810193000 +0000" channel="TRT1.tr"><title lang="tr">Yeşil Deniz Milenyum</title></programme>
+<programme start="20240810193000 +0000" stop="20240810213000 +0000" channel="TRT1.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
 <programme start="20240808201500 +0000" stop="20240808220000 +0000" channel="TRT2.tr"><title lang="tr">Pazar Konseri</title></programme>
 <programme start="20240808220000 +0000" stop="20240808231500 +0000" channel="TRT2.tr"><title lang="tr">Yaşama Hevesi</title></programme>
 <programme start="20240808231500 +0000" stop="20240809010000 +0000" channel="TRT2.tr"><title lang="tr">Komşuluk Halleri</title></programme>
