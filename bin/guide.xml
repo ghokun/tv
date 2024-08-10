@@ -91,12 +91,22 @@
 <programme start="20240810175000 +0000" stop="20240810180000 +0000" channel="AHaber.tr"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20240810180000 +0000" stop="20240810210000 +0000" channel="AHaber.tr"><title lang="tr">Satır Arası</title></programme>
 <programme start="20240810210000 +0000" stop="20240811003000 +0000" channel="AHaber.tr"><title lang="tr">Gece Ajansı</title></programme>
+<programme start="20240811003000 +0000" stop="20240811030000 +0000" channel="AHaber.tr"><title lang="tr">Satır Arası</title></programme>
+<programme start="20240811030000 +0000" stop="20240811040000 +0000" channel="AHaber.tr"><title lang="tr">Ajans Hafta Sonu</title></programme>
+<programme start="20240811040000 +0000" stop="20240811050000 +0000" channel="AHaber.tr"><title lang="tr">Ajans Hafta Sonu</title></programme>
+<programme start="20240811050000 +0000" stop="20240811060000 +0000" channel="AHaber.tr"><title lang="tr">Ajans Hafta Sonu</title></programme>
+<programme start="20240811060000 +0000" stop="20240811070000 +0000" channel="AHaber.tr"><title lang="tr">Ajans Hafta Sonu</title></programme>
+<programme start="20240811070000 +0000" stop="20240811080000 +0000" channel="AHaber.tr"><title lang="tr">Ajans Hafta Sonu</title></programme>
 <programme start="20240811080000 +0000" stop="20240811090000 +0000" channel="AHaber.tr"><title lang="tr">Ajans Hafta Sonu</title></programme>
+<programme start="20240811090000 +0000" stop="20240811100000 +0000" channel="AHaber.tr"><title lang="tr">Ajans Hafta Sonu</title></programme>
+<programme start="20240811100000 +0000" stop="20240811110000 +0000" channel="AHaber.tr"><title lang="tr">Ajans Hafta Sonu</title></programme>
 <programme start="20240811110000 +0000" stop="20240811120000 +0000" channel="AHaber.tr"><title lang="tr">Ajans Hafta Sonu</title></programme>
 <programme start="20240811120000 +0000" stop="20240811130000 +0000" channel="AHaber.tr"><title lang="tr">Ajans Hafta Sonu</title></programme>
 <programme start="20240811130000 +0000" stop="20240811140000 +0000" channel="AHaber.tr"><title lang="tr">Ajans Hafta Sonu</title></programme>
 <programme start="20240811140000 +0000" stop="20240811150000 +0000" channel="AHaber.tr"><title lang="tr">Akşam Ajansı</title></programme>
 <programme start="20240811150000 +0000" stop="20240811170000 +0000" channel="AHaber.tr"><title lang="tr">Akşam Ajansı</title></programme>
+<programme start="20240811170000 +0000" stop="20240811175000 +0000" channel="AHaber.tr"><title lang="tr">Akşam Ajansı</title></programme>
+<programme start="20240811175000 +0000" stop="20240811180000 +0000" channel="AHaber.tr"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20240811180000 +0000" stop="20240811210000 +0000" channel="AHaber.tr"><title lang="tr">Canan Barlas ile Gündem</title></programme>
 <programme start="20240809185500 +0000" stop="20240809211500 +0000" channel="ATV.tr"><title lang="tr">Kim Milyoner Olmak İster?</title></programme>
 <programme start="20240809211500 +0000" stop="20240809233000 +0000" channel="ATV.tr"><title lang="tr">Kesişen Dünyalar</title></programme>
@@ -1439,8 +1449,6 @@
 <programme start="20240810194500 +0000" stop="20240810200000 +0000" channel="TRT3.tr"><title lang="tr">Günün Olimpiyat Özeti</title></programme>
 <programme start="20240810200000 +0000" stop="20240810215500 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
 <programme start="20240810200000 +0000" stop="20240810215500 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
-<programme start="20240810204500 +0000" stop="20240810215500 +0000" channel="TRT3.tr"><title lang="tr">Stadyum</title></programme>
-<programme start="20240810204500 +0000" stop="20240810215500 +0000" channel="TRT3.tr"><title lang="tr">Stadyum</title></programme>
 <programme start="20240810215500 +0000" stop="20240810231500 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
 <programme start="20240810231500 +0000" stop="20240811011500 +0000" channel="TRT3.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
 <programme start="20240811011500 +0000" stop="20240811034500 +0000" channel="TRT3.tr"><title lang="tr">Aktüel Futbol Transfer</title></programme>
