@@ -1473,6 +1473,11 @@
 <programme start="20240811184500 +0000" stop="20240811204500 +0000" channel="TRT3.tr"><title lang="tr">Ankaragücü - Şanlıurfaspor</title></programme>
 <programme start="20240811204500 +0000" stop="20240811220000 +0000" channel="TRT3.tr"><title lang="tr">Stadyum</title></programme>
 <programme start="20240811204500 +0000" stop="20240811220000 +0000" channel="TRT3.tr"><title lang="tr">Stadyum</title></programme>
+<programme start="20240811220000 +0000" stop="20240811230000 +0000" channel="TRT3.tr"><title lang="tr">Teknik Analiz</title></programme>
+<programme start="20240811230000 +0000" stop="20240812004500 +0000" channel="TRT3.tr"><title lang="tr">Trendyol 1. Lig Futbol...</title></programme>
+<programme start="20240812004500 +0000" stop="20240812023000 +0000" channel="TRT3.tr"><title lang="tr">Trendyol 1. Lig Futbol...</title></programme>
+<programme start="20240812023000 +0000" stop="20240812034500 +0000" channel="TRT3.tr"><title lang="tr">Stadyum</title></programme>
+<programme start="20240812034500 +0000" stop="20240812074500 +0000" channel="TRT3.tr"><title lang="tr">Trendyol Süper Lig Özetler</title></programme>
 <programme start="20240810202500 +0000" stop="20240810211500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Bir Kış Masalı</title></programme>
 <programme start="20240810211500 +0000" stop="20240810221000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Bir Ayı Masalı</title></programme>
 <programme start="20240810221000 +0000" stop="20240810230500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Yurtsuz Kraliçe</title></programme>
@@ -1756,6 +1761,11 @@
 <programme start="20240811165500 +0000" stop="20240811190000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Olimpiyat Özel</title></programme>
 <programme start="20240811190000 +0000" stop="20240811220000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
 <programme start="20240811190000 +0000" stop="20240811220000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240811220000 +0000" stop="20240811223000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240811223000 +0000" stop="20240811230000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240811230000 +0000" stop="20240812004000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Brezilya - Türkiye</title></programme>
+<programme start="20240812004000 +0000" stop="20240812022000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Fransa - ABD</title></programme>
+<programme start="20240812022000 +0000" stop="20240812062000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Norveç- Danimarka</title></programme>
 <programme start="20240810204500 +0000" stop="20240810213000 +0000" channel="TRTTurk.tr"><title lang="tr">Zengin Kız Fakir Oğlan</title></programme>
 <programme start="20240810213000 +0000" stop="20240810223000 +0000" channel="TRTTurk.tr"><title lang="tr">Haberdar</title></programme>
 <programme start="20240810223000 +0000" stop="20240811000000 +0000" channel="TRTTurk.tr"><title lang="tr">Tutunamayanlar</title></programme>
