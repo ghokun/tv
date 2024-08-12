@@ -88,7 +88,8 @@
 <programme start="20240812110000 +0000" stop="20240812120000 +0000" channel="AHaber.tr"><title lang="tr">Ajans</title></programme>
 <programme start="20240812120000 +0000" stop="20240812125500 +0000" channel="AHaber.tr"><title lang="tr">Ajans Gün İçi</title></programme>
 <programme start="20240812125500 +0000" stop="20240812130000 +0000" channel="AHaber.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20240812130000 +0000" stop="20240812150000 +0000" channel="AHaber.tr"><title lang="tr">Ajans Gün İçi</title></programme>
+<programme start="20240812130000 +0000" stop="20240812140000 +0000" channel="AHaber.tr"><title lang="tr">Ajans Gün İçi</title></programme>
+<programme start="20240812140000 +0000" stop="20240812150000 +0000" channel="AHaber.tr"><title lang="tr">Ajans Akşama Doğru</title></programme>
 <programme start="20240812150000 +0000" stop="20240812160000 +0000" channel="AHaber.tr"><title lang="tr">Akşam Ajansı</title></programme>
 <programme start="20240812160000 +0000" stop="20240812170000 +0000" channel="AHaber.tr"><title lang="tr">Akşam Ajansı</title></programme>
 <programme start="20240812170000 +0000" stop="20240812175000 +0000" channel="AHaber.tr"><title lang="tr">Akşam Ajansı</title></programme>
@@ -120,7 +121,7 @@
 <programme start="20240813160000 +0000" stop="20240813170000 +0000" channel="AHaber.tr"><title lang="tr">Akşam Ajansı</title></programme>
 <programme start="20240813170000 +0000" stop="20240813175000 +0000" channel="AHaber.tr"><title lang="tr">Akşam Ajansı</title></programme>
 <programme start="20240813175000 +0000" stop="20240813180000 +0000" channel="AHaber.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20240813180000 +0000" stop="20240813210000 +0000" channel="AHaber.tr"><title lang="tr">Memleket Meselesi</title></programme>
+<programme start="20240813180000 +0000" stop="20240813210000 +0000" channel="AHaber.tr"><title lang="tr">Arka Plan</title></programme>
 <programme start="20240811170000 +0000" stop="20240811212000 +0000" channel="ATV.tr"><title lang="tr">Kim Milyoner Olmak İster?</title></programme>
 <programme start="20240811212000 +0000" stop="20240811234000 +0000" channel="ATV.tr"><title lang="tr">Uçuş Ekibi</title></programme>
 <programme start="20240811234000 +0000" stop="20240812022000 +0000" channel="ATV.tr"><title lang="tr">Ateş Kuşları</title></programme>
@@ -1381,10 +1382,11 @@
 <programme start="20240812123000 +0000" stop="20240812160000 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
 <programme start="20240812160000 +0000" stop="20240812165500 +0000" channel="TRT1.tr"><title lang="tr">Ana Haber</title></programme>
 <programme start="20240812165500 +0000" stop="20240812170000 +0000" channel="TRT1.tr"><title lang="tr">İddiaların Aksine</title></programme>
-<programme start="20240812170000 +0000" stop="20240812211500 +0000" channel="TRT1.tr"><title lang="tr">King Kong</title></programme>
-<programme start="20240812170000 +0000" stop="20240812211500 +0000" channel="TRT1.tr"><title lang="tr">King Kong</title></programme>
-<programme start="20240812211500 +0000" stop="20240812235500 +0000" channel="TRT1.tr"><title lang="tr">Mehmed: Fetihler Sultanı</title></programme>
-<programme start="20240812235500 +0000" stop="20240813020500 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
+<programme start="20240812170000 +0000" stop="20240812200000 +0000" channel="TRT1.tr"><title lang="tr">King Kong</title></programme>
+<programme start="20240812200000 +0000" stop="20240812224500 +0000" channel="TRT1.tr"><title lang="tr">Mehmed: Fetihler Sultanı</title></programme>
+<programme start="20240812200000 +0000" stop="20240812224500 +0000" channel="TRT1.tr"><title lang="tr">Mehmed: Fetihler Sultanı</title></programme>
+<programme start="20240812224500 +0000" stop="20240812234500 +0000" channel="TRT1.tr"><title lang="tr">Seksenler</title></programme>
+<programme start="20240812234500 +0000" stop="20240813020500 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
 <programme start="20240813020500 +0000" stop="20240813030000 +0000" channel="TRT1.tr"><title lang="tr">Şehirden Uzakta</title></programme>
 <programme start="20240813030000 +0000" stop="20240813062000 +0000" channel="TRT1.tr"><title lang="tr">Kalk Gidelim</title></programme>
 <programme start="20240813062000 +0000" stop="20240813093500 +0000" channel="TRT1.tr"><title lang="tr">Kara Ağaç Destanı</title></programme>
@@ -1484,6 +1486,12 @@
 <programme start="20240812180000 +0000" stop="20240812200000 +0000" channel="TRT3.tr"><title lang="tr">Ümraniyespor - Çorum Fk.</title></programme>
 <programme start="20240812200000 +0000" stop="20240812220000 +0000" channel="TRT3.tr"><title lang="tr">Aktüel Futbol Transfer</title></programme>
 <programme start="20240812200000 +0000" stop="20240812220000 +0000" channel="TRT3.tr"><title lang="tr">Aktüel Futbol Transfer</title></programme>
+<programme start="20240812220000 +0000" stop="20240812230000 +0000" channel="TRT3.tr"><title lang="tr">Spor Artı</title></programme>
+<programme start="20240812230000 +0000" stop="20240813004500 +0000" channel="TRT3.tr"><title lang="tr">İtalya Kupası Futbol...</title></programme>
+<programme start="20240813004500 +0000" stop="20240813023000 +0000" channel="TRT3.tr"><title lang="tr">İtalya Kupası Futbol...</title></programme>
+<programme start="20240813023000 +0000" stop="20240813030000 +0000" channel="TRT3.tr"><title lang="tr">Trendyol 1. Lig Özetler</title></programme>
+<programme start="20240813030000 +0000" stop="20240813033000 +0000" channel="TRT3.tr"><title lang="tr">Trendyol Süper Lig Özetler</title></programme>
+<programme start="20240813033000 +0000" stop="20240813073000 +0000" channel="TRT3.tr"><title lang="tr">İtalya Kupası Futbol...</title></programme>
 <programme start="20240811203000 +0000" stop="20240811212500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Türkiye&apos;nin Dev...</title></programme>
 <programme start="20240811212500 +0000" stop="20240811223500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Amadaı Yolculuğu</title></programme>
 <programme start="20240811223500 +0000" stop="20240811234000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Ailenin Yeni Üyesi</title></programme>
@@ -1727,6 +1735,13 @@
 <programme start="20240812182000 +0000" stop="20240812183000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Rekortmen</title></programme>
 <programme start="20240812183000 +0000" stop="20240812213000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
 <programme start="20240812183000 +0000" stop="20240812213000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240812213000 +0000" stop="20240812214500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240812214500 +0000" stop="20240812233500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240812233500 +0000" stop="20240812235000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Yapabilir Misin?</title></programme>
+<programme start="20240812235000 +0000" stop="20240813022000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240813022000 +0000" stop="20240813024000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Sormazsam Olmaz</title></programme>
+<programme start="20240813024000 +0000" stop="20240813035500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240813035500 +0000" stop="20240813075500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Kadraj</title></programme>
 <programme start="20240811193000 +0000" stop="20240811211000 +0000" channel="TRTTurk.tr"><title lang="tr">Kesişme: İyi ki Varsın Eren</title></programme>
 <programme start="20240811211000 +0000" stop="20240811212500 +0000" channel="TRTTurk.tr"><title lang="tr">Ezcümle</title></programme>
 <programme start="20240811212500 +0000" stop="20240811222500 +0000" channel="TRTTurk.tr"><title lang="tr">Haberdar</title></programme>
