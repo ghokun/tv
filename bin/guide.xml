@@ -96,8 +96,8 @@
 <programme start="20240812175000 +0000" stop="20240812180000 +0000" channel="AHaber.tr"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20240812180000 +0000" stop="20240812210000 +0000" channel="AHaber.tr"><title lang="tr">Sebep Sonuç</title></programme>
 <programme start="20240812210000 +0000" stop="20240812230000 +0000" channel="AHaber.tr"><title lang="tr">Gece Ajansı</title></programme>
-<programme start="20240812230000 +0000" stop="20240813003000 +0000" channel="AHaber.tr"><title lang="tr">A Haber Gece</title></programme>
-<programme start="20240813003000 +0000" stop="20240813020000 +0000" channel="AHaber.tr"><title lang="tr">Sebep Sonuç</title></programme>
+<programme start="20240812230000 +0000" stop="20240813000000 +0000" channel="AHaber.tr"><title lang="tr">A Haber Gece</title></programme>
+<programme start="20240813000000 +0000" stop="20240813020000 +0000" channel="AHaber.tr"><title lang="tr">Sebep Sonuç</title></programme>
 <programme start="20240813020000 +0000" stop="20240813030000 +0000" channel="AHaber.tr"><title lang="tr">Ajans Yeni Gün</title></programme>
 <programme start="20240813030000 +0000" stop="20240813035500 +0000" channel="AHaber.tr"><title lang="tr">Sabah Ajansı</title></programme>
 <programme start="20240813035500 +0000" stop="20240813040000 +0000" channel="AHaber.tr"><title lang="tr">Hava Durumu</title></programme>
@@ -144,8 +144,8 @@
 <programme start="20240813110000 +0000" stop="20240813130000 +0000" channel="ATV.tr"><title lang="tr">Benim Adım Feridun</title></programme>
 <programme start="20240813130000 +0000" stop="20240813160000 +0000" channel="ATV.tr"><title lang="tr">Kardeşlerim</title></programme>
 <programme start="20240813160000 +0000" stop="20240813170000 +0000" channel="ATV.tr"><title lang="tr">ATV Ana Haber</title></programme>
-<programme start="20240813170000 +0000" stop="20240813192000 +0000" channel="ATV.tr"><title lang="tr">Rambo: Son Kan</title></programme>
-<programme start="20240813192000 +0000" stop="20240813214000 +0000" channel="ATV.tr"><title lang="tr">Godzilla</title></programme>
+<programme start="20240813170000 +0000" stop="20240813195000 +0000" channel="ATV.tr"><title lang="tr">Diriliş</title></programme>
+<programme start="20240813195000 +0000" stop="20240813222000 +0000" channel="ATV.tr"><title lang="tr">Alan</title></programme>
 <programme start="20240811203000 +0000" stop="20240811221500 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Futbol</title></programme>
 <programme start="20240811221500 +0000" stop="20240812001500 +0000" channel="BeyazTV.tr"><title lang="tr">Cehennem Silahı 3</title></programme>
 <programme start="20240812001500 +0000" stop="20240812020000 +0000" channel="BeyazTV.tr"><title lang="tr">Belma Belen&apos;le Geziyoruz</title></programme>
@@ -1492,7 +1492,13 @@
 <programme start="20240813004500 +0000" stop="20240813023000 +0000" channel="TRT3.tr"><title lang="tr">İtalya Kupası Futbol...</title></programme>
 <programme start="20240813023000 +0000" stop="20240813030000 +0000" channel="TRT3.tr"><title lang="tr">Trendyol 1. Lig Özetler</title></programme>
 <programme start="20240813030000 +0000" stop="20240813033000 +0000" channel="TRT3.tr"><title lang="tr">Trendyol Süper Lig Özetler</title></programme>
-<programme start="20240813033000 +0000" stop="20240813073000 +0000" channel="TRT3.tr"><title lang="tr">İtalya Kupası Futbol...</title></programme>
+<programme start="20240813033000 +0000" stop="20240813035800 +0000" channel="TRT3.tr"><title lang="tr">İtalya Kupası Futbol...</title></programme>
+<programme start="20240813035800 +0000" stop="20240813040000 +0000" channel="TRT3.tr"><title lang="tr">İstiklal Marşı</title></programme>
+<programme start="20240813040000 +0000" stop="20240813055500 +0000" channel="TRT3.tr"><title lang="tr">İlk Baskı</title></programme>
+<programme start="20240813055500 +0000" stop="20240813060000 +0000" channel="TRT3.tr"><title lang="tr">Spor Takvimi</title></programme>
+<programme start="20240813060000 +0000" stop="20240813061500 +0000" channel="TRT3.tr"><title lang="tr">İşitme Engelliler Spor...</title></programme>
+<programme start="20240813061500 +0000" stop="20240813064500 +0000" channel="TRT3.tr"><title lang="tr">Trendyol 1. Lig Özetler</title></programme>
+<programme start="20240813064500 +0000" stop="20240813070000 +0000" channel="TRT3.tr"><title lang="tr">Trendyol Süper Lig Özetler</title></programme>
 <programme start="20240813070000 +0000" stop="20240813080000 +0000" channel="TRT3.tr"><title lang="tr">Spor Bülteni</title></programme>
 <programme start="20240813080000 +0000" stop="20240813090000 +0000" channel="TRT3.tr"><title lang="tr">Spor Manşet</title></programme>
 <programme start="20240813090000 +0000" stop="20240813100000 +0000" channel="TRT3.tr"><title lang="tr">Gün Ortası</title></programme>
@@ -1802,7 +1808,15 @@
 <programme start="20240812235000 +0000" stop="20240813022000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
 <programme start="20240813022000 +0000" stop="20240813024000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Sormazsam Olmaz</title></programme>
 <programme start="20240813024000 +0000" stop="20240813035500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
-<programme start="20240813035500 +0000" stop="20240813075500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Kadraj</title></programme>
+<programme start="20240813035500 +0000" stop="20240813035800 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Kadraj</title></programme>
+<programme start="20240813035800 +0000" stop="20240813040000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">İstiklal Marşı</title></programme>
+<programme start="20240813040000 +0000" stop="20240813041500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240813041500 +0000" stop="20240813053000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240813053000 +0000" stop="20240813055500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Spor Üniversitede</title></programme>
+<programme start="20240813055500 +0000" stop="20240813060000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Nedir, Nasıl Oynanır?</title></programme>
+<programme start="20240813060000 +0000" stop="20240813061500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240813061500 +0000" stop="20240813062000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Spor Takvimi</title></programme>
+<programme start="20240813062000 +0000" stop="20240813074000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
 <programme start="20240813074000 +0000" stop="20240813080000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">İşte O An</title></programme>
 <programme start="20240813080000 +0000" stop="20240813100500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
 <programme start="20240813100500 +0000" stop="20240813102000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Olimpiyatın Gözü: Mine...</title></programme>
