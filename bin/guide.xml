@@ -96,8 +96,8 @@
 <programme start="20240812175000 +0000" stop="20240812180000 +0000" channel="AHaber.tr"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20240812180000 +0000" stop="20240812210000 +0000" channel="AHaber.tr"><title lang="tr">Sebep Sonuç</title></programme>
 <programme start="20240812210000 +0000" stop="20240812230000 +0000" channel="AHaber.tr"><title lang="tr">Gece Ajansı</title></programme>
-<programme start="20240812230000 +0000" stop="20240813003000 +0000" channel="AHaber.tr"><title lang="tr">A Haber Gece</title></programme>
-<programme start="20240813003000 +0000" stop="20240813020000 +0000" channel="AHaber.tr"><title lang="tr">Sebep Sonuç</title></programme>
+<programme start="20240812230000 +0000" stop="20240813000000 +0000" channel="AHaber.tr"><title lang="tr">A Haber Gece</title></programme>
+<programme start="20240813000000 +0000" stop="20240813020000 +0000" channel="AHaber.tr"><title lang="tr">Sebep Sonuç</title></programme>
 <programme start="20240813020000 +0000" stop="20240813030000 +0000" channel="AHaber.tr"><title lang="tr">Ajans Yeni Gün</title></programme>
 <programme start="20240813030000 +0000" stop="20240813035500 +0000" channel="AHaber.tr"><title lang="tr">Sabah Ajansı</title></programme>
 <programme start="20240813035500 +0000" stop="20240813040000 +0000" channel="AHaber.tr"><title lang="tr">Hava Durumu</title></programme>
@@ -1156,8 +1156,8 @@
 <programme start="20240813180000 +0000" stop="20240813181500 +0000" channel="NTV.tr"><title lang="tr">Haber</title></programme>
 <programme start="20240813181500 +0000" stop="20240813185500 +0000" channel="NTV.tr"><title lang="tr">Ayrıcalıklı Rotalar</title></programme>
 <programme start="20240813185500 +0000" stop="20240813190000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20240813190000 +0000" stop="20240813195000 +0000" channel="NTV.tr"><title lang="tr">Haber</title></programme>
-<programme start="20240813195000 +0000" stop="20240813195500 +0000" channel="NTV.tr"><title lang="tr">Laf Aramızda</title></programme>
+<programme start="20240813190000 +0000" stop="20240813191500 +0000" channel="NTV.tr"><title lang="tr">Haber</title></programme>
+<programme start="20240813191500 +0000" stop="20240813195500 +0000" channel="NTV.tr"><title lang="tr">Sen De Farket</title></programme>
 <programme start="20240813195500 +0000" stop="20240813200000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20240813200000 +0000" stop="20240813205000 +0000" channel="NTV.tr"><title lang="tr">Bugün Yarın</title></programme>
 <programme start="20240813205000 +0000" stop="20240813205500 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
@@ -1260,11 +1260,11 @@
 <programme start="20240812130000 +0000" stop="20240812160000 +0000" channel="StarTV.tr"><title lang="tr">Kiralık Aşk</title></programme>
 <programme start="20240812160000 +0000" stop="20240812170000 +0000" channel="StarTV.tr"><title lang="tr">Star Haber</title></programme>
 <programme start="20240812170000 +0000" stop="20240812190000 +0000" channel="StarTV.tr"><title lang="tr">Bizim Aile</title></programme>
-<programme start="20240812190000 +0000" stop="20240812213000 +0000" channel="StarTV.tr"><title lang="tr">Niyazi Gül Dört Nala</title></programme>
-<programme start="20240812190000 +0000" stop="20240812213000 +0000" channel="StarTV.tr"><title lang="tr">Niyazi Gül Dört Nala</title></programme>
-<programme start="20240812213000 +0000" stop="20240813000000 +0000" channel="StarTV.tr"><title lang="tr">Niyazi Gül Dört Nala</title></programme>
-<programme start="20240813000000 +0000" stop="20240813020000 +0000" channel="StarTV.tr"><title lang="tr">Kiralık Aşk</title></programme>
-<programme start="20240813020000 +0000" stop="20240813040000 +0000" channel="StarTV.tr"><title lang="tr">Aramızda Kalsın</title></programme>
+<programme start="20240812190000 +0000" stop="20240812210000 +0000" channel="StarTV.tr"><title lang="tr">Niyazi Gül Dört Nala</title></programme>
+<programme start="20240812210000 +0000" stop="20240812223000 +0000" channel="StarTV.tr"><title lang="tr">Niyazi Gül Dört Nala</title></programme>
+<programme start="20240812223000 +0000" stop="20240813010000 +0000" channel="StarTV.tr"><title lang="tr">Yalı Çapkını</title></programme>
+<programme start="20240813010000 +0000" stop="20240813023000 +0000" channel="StarTV.tr"><title lang="tr">İstanbullu Gelin</title></programme>
+<programme start="20240813023000 +0000" stop="20240813040000 +0000" channel="StarTV.tr"><title lang="tr">Kiralık Aşk</title></programme>
 <programme start="20240813040000 +0000" stop="20240813063000 +0000" channel="StarTV.tr"><title lang="tr">İki Aile</title></programme>
 <programme start="20240813063000 +0000" stop="20240813100000 +0000" channel="StarTV.tr"><title lang="tr">Sefirin Kızı</title></programme>
 <programme start="20240813100000 +0000" stop="20240813130000 +0000" channel="StarTV.tr"><title lang="tr">Aramızda Kalsın</title></programme>
@@ -1742,6 +1742,25 @@
 <programme start="20240813022000 +0000" stop="20240813024000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Sormazsam Olmaz</title></programme>
 <programme start="20240813024000 +0000" stop="20240813035500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
 <programme start="20240813035500 +0000" stop="20240813075500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Kadraj</title></programme>
+<programme start="20240813074000 +0000" stop="20240813080000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">İşte O An</title></programme>
+<programme start="20240813080000 +0000" stop="20240813100500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240813100500 +0000" stop="20240813102000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Olimpiyatın Gözü: Mine...</title></programme>
+<programme start="20240813102000 +0000" stop="20240813102500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Çare Spor</title></programme>
+<programme start="20240813102500 +0000" stop="20240813103000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Spor Takvimi</title></programme>
+<programme start="20240813103000 +0000" stop="20240813104500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240813104500 +0000" stop="20240813124500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240813124500 +0000" stop="20240813125500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Olimpiyat Yıldızları</title></programme>
+<programme start="20240813125500 +0000" stop="20240813131500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">İşte O An</title></programme>
+<programme start="20240813131500 +0000" stop="20240813151000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240813151000 +0000" stop="20240813153000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Sormazsam Olmaz</title></programme>
+<programme start="20240813153000 +0000" stop="20240813161500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240813161500 +0000" stop="20240813163000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Olimpiyat Yıldızları</title></programme>
+<programme start="20240813163000 +0000" stop="20240813164500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240813164500 +0000" stop="20240813170000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Yapabilir Misin?</title></programme>
+<programme start="20240813170000 +0000" stop="20240813191500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Çin - Türkiye</title></programme>
+<programme start="20240813191500 +0000" stop="20240813193500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">İşte O An</title></programme>
+<programme start="20240813193500 +0000" stop="20240813205500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">ABD - İtalya</title></programme>
+<programme start="20240813205500 +0000" stop="20240813210000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Spor Takvimi</title></programme>
 <programme start="20240811193000 +0000" stop="20240811211000 +0000" channel="TRTTurk.tr"><title lang="tr">Kesişme: İyi ki Varsın Eren</title></programme>
 <programme start="20240811211000 +0000" stop="20240811212500 +0000" channel="TRTTurk.tr"><title lang="tr">Ezcümle</title></programme>
 <programme start="20240811212500 +0000" stop="20240811222500 +0000" channel="TRTTurk.tr"><title lang="tr">Haberdar</title></programme>
@@ -1899,9 +1918,9 @@
 <programme start="20240812150000 +0000" stop="20240812164500 +0000" channel="TV100.tr"><title lang="tr">Ana Haber Bülteni</title></programme>
 <programme start="20240812164500 +0000" stop="20240812174500 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
 <programme start="20240812174500 +0000" stop="20240812203000 +0000" channel="TV100.tr"><title lang="tr">Taksim Meydanı</title></programme>
-<programme start="20240812203000 +0000" stop="20240812220000 +0000" channel="TV100.tr"><title lang="tr">Ersin Düzen ile Futbol&apos;un...</title></programme>
-<programme start="20240812203000 +0000" stop="20240812220000 +0000" channel="TV100.tr"><title lang="tr">Ersin Düzen ile Futbol&apos;un...</title></programme>
-<programme start="20240812220000 +0000" stop="20240812233000 +0000" channel="TV100.tr"><title lang="tr">Ersin Düzen ile Futbol&apos;un...</title></programme>
+<programme start="20240812203000 +0000" stop="20240812220000 +0000" channel="TV100.tr"><title lang="tr">Ersin Düzen ile Futbolun...</title></programme>
+<programme start="20240812203000 +0000" stop="20240812220000 +0000" channel="TV100.tr"><title lang="tr">Ersin Düzen ile Futbolun...</title></programme>
+<programme start="20240812220000 +0000" stop="20240812233000 +0000" channel="TV100.tr"><title lang="tr">Ersin Düzen ile Futbolun...</title></programme>
 <programme start="20240812233000 +0000" stop="20240813013000 +0000" channel="TV100.tr"><title lang="tr">Taksim Meydanı</title></programme>
 <programme start="20240813013000 +0000" stop="20240813020000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240813020000 +0000" stop="20240813030000 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
