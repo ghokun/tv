@@ -1631,7 +1631,7 @@
 <programme start="20240813173000 +0000" stop="20240813175500 +0000" channel="TRTCocuk.tr"><title lang="tr">Köstebekgiller</title></programme>
 <programme start="20240813175500 +0000" stop="20240813182000 +0000" channel="TRTCocuk.tr"><title lang="tr">Vikingler</title></programme>
 <programme start="20240813182000 +0000" stop="20240813183000 +0000" channel="TRTCocuk.tr"><title lang="tr">Kaf Dağı Masalları</title></programme>
-<programme start="20240813183000 +0000" stop="20240813184500 +0000" channel="TRTCocuk.tr"><title lang="tr">Dijital Tayfa</title></programme>
+<programme start="20240813183000 +0000" stop="20240813184500 +0000" channel="TRTCocuk.tr"><title lang="tr">Trafik Tayfa</title></programme>
 <programme start="20240813184500 +0000" stop="20240813191000 +0000" channel="TRTCocuk.tr"><title lang="tr">Heidi</title></programme>
 <programme start="20240813191000 +0000" stop="20240813193500 +0000" channel="TRTCocuk.tr"><title lang="tr">Babamın Gölgesi 1915</title></programme>
 <programme start="20240813193500 +0000" stop="20240813200000 +0000" channel="TRTCocuk.tr"><title lang="tr">Rafadan Tayfa</title></programme>
@@ -1672,7 +1672,7 @@
 <programme start="20240814080500 +0000" stop="20240814081500 +0000" channel="TRTCocuk.tr"><title lang="tr">Elif ve Arkadaşları</title></programme>
 <programme start="20240814081500 +0000" stop="20240814083000 +0000" channel="TRTCocuk.tr"><title lang="tr">Dedektif Reptır</title></programme>
 <programme start="20240814083000 +0000" stop="20240814084500 +0000" channel="TRTCocuk.tr"><title lang="tr">Katuri</title></programme>
-<programme start="20240814084500 +0000" stop="20240814085500 +0000" channel="TRTCocuk.tr"><title lang="tr">Dijital Tayfa</title></programme>
+<programme start="20240814084500 +0000" stop="20240814085500 +0000" channel="TRTCocuk.tr"><title lang="tr">Trafik Tayfa</title></programme>
 <programme start="20240814085500 +0000" stop="20240814092000 +0000" channel="TRTCocuk.tr"><title lang="tr">Maysa ve Bulut</title></programme>
 <programme start="20240814092000 +0000" stop="20240814094500 +0000" channel="TRTCocuk.tr"><title lang="tr">Heidi</title></programme>
 <programme start="20240814094500 +0000" stop="20240814101000 +0000" channel="TRTCocuk.tr"><title lang="tr">İbi</title></programme>
@@ -1698,7 +1698,7 @@
 <programme start="20240814173000 +0000" stop="20240814175500 +0000" channel="TRTCocuk.tr"><title lang="tr">Köstebekgiller</title></programme>
 <programme start="20240814175500 +0000" stop="20240814182000 +0000" channel="TRTCocuk.tr"><title lang="tr">Vikingler</title></programme>
 <programme start="20240814182000 +0000" stop="20240814183000 +0000" channel="TRTCocuk.tr"><title lang="tr">Kaf Dağı Masalları</title></programme>
-<programme start="20240814183000 +0000" stop="20240814184500 +0000" channel="TRTCocuk.tr"><title lang="tr">Dijital Tayfa</title></programme>
+<programme start="20240814183000 +0000" stop="20240814184500 +0000" channel="TRTCocuk.tr"><title lang="tr">Trafik Tayfa</title></programme>
 <programme start="20240814184500 +0000" stop="20240814191000 +0000" channel="TRTCocuk.tr"><title lang="tr">Heidi</title></programme>
 <programme start="20240814191000 +0000" stop="20240814193500 +0000" channel="TRTCocuk.tr"><title lang="tr">Babamın Gölgesi 1915</title></programme>
 <programme start="20240814193500 +0000" stop="20240814200000 +0000" channel="TRTCocuk.tr"><title lang="tr">Rafadan Tayfa</title></programme>
@@ -1728,13 +1728,11 @@
 <programme start="20240813160000 +0000" stop="20240813165500 +0000" channel="TRTHaber.tr"><title lang="tr">Sıcak Haber</title></programme>
 <programme start="20240813165500 +0000" stop="20240813170000 +0000" channel="TRTHaber.tr"><title lang="tr">Ana Habere Doğru</title></programme>
 <programme start="20240813170000 +0000" stop="20240813180000 +0000" channel="TRTHaber.tr"><title lang="tr">Ana Haber 20</title></programme>
-<programme start="20240813180000 +0000" stop="20240813183000 +0000" channel="TRTHaber.tr"><title lang="tr">Özel Röportaj</title></programme>
-<programme start="20240813183000 +0000" stop="20240813210000 +0000" channel="TRTHaber.tr"><title lang="tr">Birinci Sayfa</title></programme>
+<programme start="20240813180000 +0000" stop="20240813210000 +0000" channel="TRTHaber.tr"><title lang="tr">Birinci Sayfa</title></programme>
 <programme start="20240813210000 +0000" stop="20240813230000 +0000" channel="TRTHaber.tr"><title lang="tr">Gece Bakışı</title></programme>
 <programme start="20240813230000 +0000" stop="20240814005500 +0000" channel="TRTHaber.tr"><title lang="tr">Gün Sonu</title></programme>
 <programme start="20240814005500 +0000" stop="20240814010000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20240814010000 +0000" stop="20240814015000 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 04</title></programme>
-<programme start="20240814015000 +0000" stop="20240814020000 +0000" channel="TRTHaber.tr"><title lang="tr">İmece</title></programme>
+<programme start="20240814010000 +0000" stop="20240814020000 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 04</title></programme>
 <programme start="20240814020000 +0000" stop="20240814025500 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 05</title></programme>
 <programme start="20240814025500 +0000" stop="20240814030000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20240814030000 +0000" stop="20240814040000 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 06</title></programme>
