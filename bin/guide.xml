@@ -146,9 +146,9 @@
 <programme start="20240815160000 +0000" stop="20240815170000 +0000" channel="ATV.tr"><title lang="tr">ATV Ana Haber</title></programme>
 <programme start="20240815170000 +0000" stop="20240815212000 +0000" channel="ATV.tr"><title lang="tr">Alan</title></programme>
 <programme start="20240813201500 +0000" stop="20240813221500 +0000" channel="BeyazTV.tr"><title lang="tr">Kutsal Silahın Peşinde</title></programme>
-<programme start="20240813220000 +0000" stop="20240813233000 +0000" channel="BeyazTV.tr"><title lang="tr">Takiptekiler</title></programme>
-<programme start="20240813233000 +0000" stop="20240814010000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
-<programme start="20240814010000 +0000" stop="20240814030000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Magazin</title></programme>
+<programme start="20240813221500 +0000" stop="20240814001500 +0000" channel="BeyazTV.tr"><title lang="tr">Takiptekiler</title></programme>
+<programme start="20240814001500 +0000" stop="20240814020000 +0000" channel="BeyazTV.tr"><title lang="tr">Kutsal Silahın Peşinde</title></programme>
+<programme start="20240814020000 +0000" stop="20240814030000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
 <programme start="20240814030000 +0000" stop="20240814043000 +0000" channel="BeyazTV.tr"><title lang="tr">Takiptekiler</title></programme>
 <programme start="20240814043000 +0000" stop="20240814063500 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
 <programme start="20240814063500 +0000" stop="20240814090000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Magazin</title></programme>
@@ -527,7 +527,8 @@
 <programme start="20240814130000 +0000" stop="20240814141500 +0000" channel="KanalD.tr"><title lang="tr">Ayazın Sonu Güneş</title></programme>
 <programme start="20240814141500 +0000" stop="20240814160000 +0000" channel="KanalD.tr"><title lang="tr">Ayazın Sonu Güneş</title></programme>
 <programme start="20240814160000 +0000" stop="20240814170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
-<programme start="20240814170000 +0000" stop="20240814204500 +0000" channel="KanalD.tr"><title lang="tr">Turnike</title></programme>
+<programme start="20240814170000 +0000" stop="20240814230000 +0000" channel="KanalD.tr"><title lang="tr">Turnike</title></programme>
+<programme start="20240814170000 +0000" stop="20240814230000 +0000" channel="KanalD.tr"><title lang="tr">Turnike</title></programme>
 <programme start="20240814204500 +0000" stop="20240814231500 +0000" channel="KanalD.tr"><title lang="tr">Yalan</title></programme>
 <programme start="20240814204500 +0000" stop="20240814231500 +0000" channel="KanalD.tr"><title lang="tr">Yalan</title></programme>
 <programme start="20240814231500 +0000" stop="20240815013000 +0000" channel="KanalD.tr"><title lang="tr">Gelinim Mutfakta</title></programme>
@@ -2021,9 +2022,10 @@
 <programme start="20240815171500 +0000" stop="20240815180000 +0000" channel="TV85.tr"><title lang="tr">Maribor -Vojvodina</title></programme>
 <programme start="20240815180000 +0000" stop="20240815200000 +0000" channel="TV85.tr"><title lang="tr">Vojvodina - Maribor</title></programme>
 <programme start="20240815200000 +0000" stop="20240815210000 +0000" channel="TV85.tr"><title lang="tr">Teknik Bakış</title></programme>
-<programme start="20240813204500 +0000" stop="20240813230000 +0000" channel="TV100.tr"><title lang="tr">Cansu Canan Özgen ile...</title></programme>
-<programme start="20240813224500 +0000" stop="20240813234500 +0000" channel="TV100.tr"><title lang="tr">Gece Haberleri</title></programme>
-<programme start="20240813234500 +0000" stop="20240814013000 +0000" channel="TV100.tr"><title lang="tr">Başak Şengül ile Doğru...</title></programme>
+<programme start="20240813203000 +0000" stop="20240813230000 +0000" channel="TV100.tr"><title lang="tr">Cansu Canan Özgen ile...</title></programme>
+<programme start="20240813213000 +0000" stop="20240813223000 +0000" channel="TV100.tr"><title lang="tr">Gece Haberleri</title></programme>
+<programme start="20240813223000 +0000" stop="20240813233000 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
+<programme start="20240813233000 +0000" stop="20240814013000 +0000" channel="TV100.tr"><title lang="tr">Özgür İfade</title></programme>
 <programme start="20240814013000 +0000" stop="20240814020000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240814020000 +0000" stop="20240814030000 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
 <programme start="20240814030000 +0000" stop="20240814060000 +0000" channel="TV100.tr"><title lang="tr">Gün Uyanıyor</title></programme>
