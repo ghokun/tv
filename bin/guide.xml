@@ -535,9 +535,10 @@
 <programme start="20240815170000 +0000" stop="20240815193000 +0000" channel="KanalD.tr"><title lang="tr">Doğu Ekspresinde Cinayet</title></programme>
 <programme start="20240815193000 +0000" stop="20240815214500 +0000" channel="KanalD.tr"><title lang="tr">Doğu Ekspresinde Cinayet</title></programme>
 <programme start="20240815193000 +0000" stop="20240815214500 +0000" channel="KanalD.tr"><title lang="tr">Doğu Ekspresinde Cinayet</title></programme>
-<programme start="20240815214500 +0000" stop="20240815231500 +0000" channel="KanalD.tr"><title lang="tr">Top Gunner: Tehlike Bölgesi</title></programme>
-<programme start="20240815231500 +0000" stop="20240816013000 +0000" channel="KanalD.tr"><title lang="tr">Gelinim Mutfakta</title></programme>
-<programme start="20240816013000 +0000" stop="20240816040000 +0000" channel="KanalD.tr"><title lang="tr">Dönence</title></programme>
+<programme start="20240815214500 +0000" stop="20240815224500 +0000" channel="KanalD.tr"><title lang="tr">Top Gunner: Tehlike Bölgesi</title></programme>
+<programme start="20240815224500 +0000" stop="20240816001500 +0000" channel="KanalD.tr"><title lang="tr">Top Gunner: Tehlike Bölgesi</title></programme>
+<programme start="20240816001500 +0000" stop="20240816023000 +0000" channel="KanalD.tr"><title lang="tr">Gelinim Mutfakta</title></programme>
+<programme start="20240816023000 +0000" stop="20240816040000 +0000" channel="KanalD.tr"><title lang="tr">Dönence</title></programme>
 <programme start="20240816040000 +0000" stop="20240816060000 +0000" channel="KanalD.tr"><title lang="tr">Yabancı Damat</title></programme>
 <programme start="20240816060000 +0000" stop="20240816080000 +0000" channel="KanalD.tr"><title lang="tr">Öyle Bir Geçer Zaman Ki</title></programme>
 <programme start="20240816080000 +0000" stop="20240816090000 +0000" channel="KanalD.tr"><title lang="tr">Magazin D Yaz</title></programme>
@@ -1402,8 +1403,8 @@
 <programme start="20240816123500 +0000" stop="20240816160000 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
 <programme start="20240816160000 +0000" stop="20240816165500 +0000" channel="TRT1.tr"><title lang="tr">Ana Haber</title></programme>
 <programme start="20240816165500 +0000" stop="20240816170000 +0000" channel="TRT1.tr"><title lang="tr">İddiaların Aksine</title></programme>
-<programme start="20240816170000 +0000" stop="20240816195000 +0000" channel="TRT1.tr"><title lang="tr">Mumya Geri Dönüyor</title></programme>
-<programme start="20240816195000 +0000" stop="20240816215500 +0000" channel="TRT1.tr"><title lang="tr">Mehmed: Fetihler Sultanı</title></programme>
+<programme start="20240816170000 +0000" stop="20240816191500 +0000" channel="TRT1.tr"><title lang="tr">Mumya Geri Dönüyor</title></programme>
+<programme start="20240816191500 +0000" stop="20240816215500 +0000" channel="TRT1.tr"><title lang="tr">Mehmed: Fetihler Sultanı</title></programme>
 <programme start="20240814203000 +0000" stop="20240814213000 +0000" channel="TRT2.tr"><title lang="tr">Pazar Konseri</title></programme>
 <programme start="20240814213000 +0000" stop="20240814220000 +0000" channel="TRT2.tr"><title lang="tr">Hayat Sanat</title></programme>
 <programme start="20240814220000 +0000" stop="20240815000000 +0000" channel="TRT2.tr"><title lang="tr">Eski Şehir</title></programme>
@@ -1501,22 +1502,29 @@
 <programme start="20240815103000 +0000" stop="20240815110000 +0000" channel="TRT3.tr"><title lang="tr">UEFA Süper Kupa Özetler</title></programme>
 <programme start="20240815110000 +0000" stop="20240815130000 +0000" channel="TRT3.tr"><title lang="tr">Spor Stüdyosu</title></programme>
 <programme start="20240815130000 +0000" stop="20240815143000 +0000" channel="TRT3.tr"><title lang="tr">Gündem Futbol Transfer</title></programme>
-<programme start="20240815143000 +0000" stop="20240815150000 +0000" channel="TRT3.tr"><title lang="tr">Dünyadan Spor</title></programme>
-<programme start="20240815150000 +0000" stop="20240815160000 +0000" channel="TRT3.tr"><title lang="tr">Spor Merkezi</title></programme>
-<programme start="20240815160000 +0000" stop="20240815174500 +0000" channel="TRT3.tr"><title lang="tr">Aktüel Futbol</title></programme>
-<programme start="20240815174500 +0000" stop="20240815194500 +0000" channel="TRT3.tr"><title lang="tr">Başakşehir - Iberia</title></programme>
+<programme start="20240815143000 +0000" stop="20240815160000 +0000" channel="TRT3.tr"><title lang="tr">TBMM</title></programme>
+<programme start="20240815160000 +0000" stop="20240815180000 +0000" channel="TRT3.tr"><title lang="tr">TBMM</title></programme>
+<programme start="20240815180000 +0000" stop="20240815194500 +0000" channel="TRT3.tr"><title lang="tr">Başakşehir - Iberia</title></programme>
 <programme start="20240815194500 +0000" stop="20240815220000 +0000" channel="TRT3.tr"><title lang="tr">Aktüel Futbol</title></programme>
 <programme start="20240815194500 +0000" stop="20240815220000 +0000" channel="TRT3.tr"><title lang="tr">Aktüel Futbol</title></programme>
 <programme start="20240815220000 +0000" stop="20240815230000 +0000" channel="TRT3.tr"><title lang="tr">Spor Artı</title></programme>
 <programme start="20240815230000 +0000" stop="20240816004500 +0000" channel="TRT3.tr"><title lang="tr">Başakşehir - Iberia</title></programme>
 <programme start="20240816004500 +0000" stop="20240816030000 +0000" channel="TRT3.tr"><title lang="tr">Aktüel Futbol</title></programme>
 <programme start="20240816030000 +0000" stop="20240816033000 +0000" channel="TRT3.tr"><title lang="tr">Trendyol Süper Lig Özetler</title></programme>
-<programme start="20240816033000 +0000" stop="20240816073000 +0000" channel="TRT3.tr"><title lang="tr">UEFA Süper Kupa Özetler</title></programme>
+<programme start="20240816033000 +0000" stop="20240816035800 +0000" channel="TRT3.tr"><title lang="tr">UEFA Süper Kupa Özetler</title></programme>
+<programme start="20240816035800 +0000" stop="20240816040000 +0000" channel="TRT3.tr"><title lang="tr">İstiklal Marşı</title></programme>
+<programme start="20240816040000 +0000" stop="20240816055500 +0000" channel="TRT3.tr"><title lang="tr">İlk Baskı</title></programme>
+<programme start="20240816055500 +0000" stop="20240816060000 +0000" channel="TRT3.tr"><title lang="tr">Spor Takvimi</title></programme>
+<programme start="20240816060000 +0000" stop="20240816061500 +0000" channel="TRT3.tr"><title lang="tr">İşitme Engelliler Spor...</title></programme>
+<programme start="20240816061500 +0000" stop="20240816063000 +0000" channel="TRT3.tr"><title lang="tr">UEFA Süper Kupa Özetler</title></programme>
+<programme start="20240816063000 +0000" stop="20240816064500 +0000" channel="TRT3.tr"><title lang="tr">UEFA Avrupa Konferans Ligi...</title></programme>
+<programme start="20240816064500 +0000" stop="20240816065500 +0000" channel="TRT3.tr"><title lang="tr">Trendyol Süper Lig Goller</title></programme>
+<programme start="20240816065500 +0000" stop="20240816070000 +0000" channel="TRT3.tr"><title lang="tr">Spor Takvimi</title></programme>
 <programme start="20240816070000 +0000" stop="20240816080000 +0000" channel="TRT3.tr"><title lang="tr">Spor Bülteni</title></programme>
 <programme start="20240816080000 +0000" stop="20240816090000 +0000" channel="TRT3.tr"><title lang="tr">Spor Manşet</title></programme>
 <programme start="20240816090000 +0000" stop="20240816100000 +0000" channel="TRT3.tr"><title lang="tr">Gün Ortası</title></programme>
 <programme start="20240816100000 +0000" stop="20240816110000 +0000" channel="TRT3.tr"><title lang="tr">Haber Merkezi</title></programme>
-<programme start="20240816110000 +0000" stop="20240816130000 +0000" channel="TRT3.tr"><title lang="tr">Spor Stüdyosu</title></programme>
+<programme start="20240816110000 +0000" stop="20240816130000 +0000" channel="TRT3.tr"><title lang="tr">TBMM-TV</title></programme>
 <programme start="20240816130000 +0000" stop="20240816143000 +0000" channel="TRT3.tr"><title lang="tr">Gündem Futbol Transfer</title></programme>
 <programme start="20240816143000 +0000" stop="20240816150000 +0000" channel="TRT3.tr"><title lang="tr">Dünyadan Spor</title></programme>
 <programme start="20240816150000 +0000" stop="20240816170000 +0000" channel="TRT3.tr"><title lang="tr">Spor Merkezi</title></programme>
@@ -1821,7 +1829,13 @@
 <programme start="20240815214500 +0000" stop="20240815231000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">663. Tarihi Kırkpınar...</title></programme>
 <programme start="20240815231000 +0000" stop="20240816015500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Türkiye - Hollanda</title></programme>
 <programme start="20240816015500 +0000" stop="20240816035500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">ABD - Sırbistan</title></programme>
-<programme start="20240816035500 +0000" stop="20240816075500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Kadraj</title></programme>
+<programme start="20240816035500 +0000" stop="20240816035800 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Kadraj</title></programme>
+<programme start="20240816035800 +0000" stop="20240816040000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">İstiklal Marşı</title></programme>
+<programme start="20240816040000 +0000" stop="20240816041500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240816041500 +0000" stop="20240816055500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">663. Tarihi Kırkpınar...</title></programme>
+<programme start="20240816055500 +0000" stop="20240816060000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Spor Takvimi</title></programme>
+<programme start="20240816060000 +0000" stop="20240816061500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240816061500 +0000" stop="20240816075000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Almanya - Fransa</title></programme>
 <programme start="20240816075000 +0000" stop="20240816080000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Rekortmen</title></programme>
 <programme start="20240816080000 +0000" stop="20240816095000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Almanya - Fransa</title></programme>
 <programme start="20240816095000 +0000" stop="20240816100000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Sporcu Günlüğü</title></programme>
@@ -1897,14 +1911,15 @@
 <programme start="20240816014500 +0000" stop="20240816024500 +0000" channel="TRTTurk.tr"><title lang="tr">Seksenler</title></programme>
 <programme start="20240816024500 +0000" stop="20240816030000 +0000" channel="TRTTurk.tr"><title lang="tr">Kalbin İçindekiler</title></programme>
 <programme start="20240816030000 +0000" stop="20240816035000 +0000" channel="TRTTurk.tr"><title lang="tr">En Son Babalar Duyar</title></programme>
-<programme start="20240816035000 +0000" stop="20240816040000 +0000" channel="TRTTurk.tr"><title lang="tr">Mikrofon Senin Rouen</title></programme>
-<programme start="20240816040000 +0000" stop="20240816060000 +0000" channel="TRTTurk.tr"><title lang="tr">..........</title></programme>
+<programme start="20240816035000 +0000" stop="20240816035800 +0000" channel="TRTTurk.tr"><title lang="tr">Mikrofon Senin Rouen</title></programme>
+<programme start="20240816035800 +0000" stop="20240816040000 +0000" channel="TRTTurk.tr"><title lang="tr">İstiklal Marşı Çocuk</title></programme>
+<programme start="20240816040000 +0000" stop="20240816060000 +0000" channel="TRTTurk.tr"><title lang="tr">Trt Haber&apos;de Dün Bugün</title></programme>
 <programme start="20240816060000 +0000" stop="20240816063500 +0000" channel="TRTTurk.tr"><title lang="tr">Canım Kardeşim</title></programme>
 <programme start="20240816063500 +0000" stop="20240816065000 +0000" channel="TRTTurk.tr"><title lang="tr">Rafadan Tayfa</title></programme>
 <programme start="20240816065000 +0000" stop="20240816082000 +0000" channel="TRTTurk.tr"><title lang="tr">Tozkoparan</title></programme>
 <programme start="20240816082000 +0000" stop="20240816082500 +0000" channel="TRTTurk.tr"><title lang="tr">Günaydın Hayat Moda</title></programme>
 <programme start="20240816082500 +0000" stop="20240816085000 +0000" channel="TRTTurk.tr"><title lang="tr">Şef Olacak Çocuk</title></programme>
-<programme start="20240816085000 +0000" stop="20240816090500 +0000" channel="TRTTurk.tr"><title lang="tr">Kedi Dostu</title></programme>
+<programme start="20240816085000 +0000" stop="20240816090500 +0000" channel="TRTTurk.tr"><title lang="tr">Mikrofon Senin Köln</title></programme>
 <programme start="20240816090500 +0000" stop="20240816091500 +0000" channel="TRTTurk.tr"><title lang="tr">Memleket Hasreti</title></programme>
 <programme start="20240816091500 +0000" stop="20240816093000 +0000" channel="TRTTurk.tr"><title lang="tr">Üzüldüğün Şeye Bak</title></programme>
 <programme start="20240816093000 +0000" stop="20240816100000 +0000" channel="TRTTurk.tr"><title lang="tr">Bebeğimle Yeni Hayat</title></programme>
@@ -1982,7 +1997,29 @@
 <programme start="20240815180000 +0000" stop="20240815200000 +0000" channel="TV85.tr"><title lang="tr">Vojvodina - Maribor</title></programme>
 <programme start="20240815200000 +0000" stop="20240815210000 +0000" channel="TV85.tr"><title lang="tr">Teknik Bakış</title></programme>
 <programme start="20240815210000 +0000" stop="20240815215000 +0000" channel="TV85.tr"><title lang="tr">Belçika Pro Lig 3. Hafta...</title></programme>
-<programme start="20240815215000 +0000" stop="20240815230000 +0000" channel="TV85.tr"><title lang="tr">Vojvodina - Maribor</title></programme>
+<programme start="20240815215000 +0000" stop="20240815233000 +0000" channel="TV85.tr"><title lang="tr">Vojvodina - Maribor</title></programme>
+<programme start="20240815233000 +0000" stop="20240816000000 +0000" channel="TV85.tr"><title lang="tr">Fenerbahçe - Lille</title></programme>
+<programme start="20240816000000 +0000" stop="20240816004500 +0000" channel="TV85.tr"><title lang="tr">Teknik Bakış</title></programme>
+<programme start="20240816004500 +0000" stop="20240816014000 +0000" channel="TV85.tr"><title lang="tr">Hollanda Eredivisie 1....</title></programme>
+<programme start="20240816014000 +0000" stop="20240816023000 +0000" channel="TV85.tr"><title lang="tr">Belçika Pro Lig 3. Hafta...</title></programme>
+<programme start="20240816023000 +0000" stop="20240816030000 +0000" channel="TV85.tr"><title lang="tr">Futbol Nostalji</title></programme>
+<programme start="20240816030000 +0000" stop="20240816043000 +0000" channel="TV85.tr"><title lang="tr">Arjantin Copa America 2024...</title></programme>
+<programme start="20240816043000 +0000" stop="20240816060000 +0000" channel="TV85.tr"><title lang="tr">Fildişi Sahili Afrika...</title></programme>
+<programme start="20240816060000 +0000" stop="20240816070000 +0000" channel="TV85.tr"><title lang="tr">Bir Zamanlar</title></programme>
+<programme start="20240816070000 +0000" stop="20240816091500 +0000" channel="TV85.tr"><title lang="tr">Vojvodina - Maribor</title></programme>
+<programme start="20240816091500 +0000" stop="20240816100000 +0000" channel="TV85.tr"><title lang="tr">Fenerbahçe - Lille</title></programme>
+<programme start="20240816100000 +0000" stop="20240816112000 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
+<programme start="20240816112000 +0000" stop="20240816123000 +0000" channel="TV85.tr"><title lang="tr">Fokus</title></programme>
+<programme start="20240816123000 +0000" stop="20240816130000 +0000" channel="TV85.tr"><title lang="tr">Efsaneler / Ronaldinho</title></programme>
+<programme start="20240816130000 +0000" stop="20240816140000 +0000" channel="TV85.tr"><title lang="tr">Teknik Bakış</title></programme>
+<programme start="20240816140000 +0000" stop="20240816151500 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
+<programme start="20240816151500 +0000" stop="20240816160000 +0000" channel="TV85.tr"><title lang="tr">Genk - Club Brugge</title></programme>
+<programme start="20240816160000 +0000" stop="20240816163000 +0000" channel="TV85.tr"><title lang="tr">Bir Zamanlar</title></programme>
+<programme start="20240816163000 +0000" stop="20240816170000 +0000" channel="TV85.tr"><title lang="tr">Efsaneler / Ronaldo</title></programme>
+<programme start="20240816170000 +0000" stop="20240816180500 +0000" channel="TV85.tr"><title lang="tr">Belçika Pro Lig 3. Hafta...</title></programme>
+<programme start="20240816180500 +0000" stop="20240816191500 +0000" channel="TV85.tr"><title lang="tr">Hollanda Eredivisie 1....</title></programme>
+<programme start="20240816191500 +0000" stop="20240816200000 +0000" channel="TV85.tr"><title lang="tr">Vojvodina - Maribor</title></programme>
+<programme start="20240816200000 +0000" stop="20240816210000 +0000" channel="TV85.tr"><title lang="tr">Son Karar</title></programme>
 <programme start="20240814174500 +0000" stop="20240814213000 +0000" channel="TV100.tr"><title lang="tr">Taksim Meydanı</title></programme>
 <programme start="20240814213000 +0000" stop="20240814223000 +0000" channel="TV100.tr"><title lang="tr">Gece Haberleri</title></programme>
 <programme start="20240814223000 +0000" stop="20240815013000 +0000" channel="TV100.tr"><title lang="tr">Taksim Meydanı</title></programme>
