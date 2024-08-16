@@ -287,8 +287,7 @@
 <programme start="20240816231500 +0000" stop="20240817030000 +0000" channel="CNNTurk.tr"><title lang="tr">Akıl Çemberi</title></programme>
 <programme start="20240817030000 +0000" stop="20240817040000 +0000" channel="CNNTurk.tr"><title lang="tr">Haber</title></programme>
 <programme start="20240817040000 +0000" stop="20240817060000 +0000" channel="CNNTurk.tr"><title lang="tr">Güne Merhaba Hafta Sonu</title></programme>
-<programme start="20240817060000 +0000" stop="20240817070000 +0000" channel="CNNTurk.tr"><title lang="tr">Haber</title></programme>
-<programme start="20240817070000 +0000" stop="20240817080000 +0000" channel="CNNTurk.tr"><title lang="tr">Hafta Sonu</title></programme>
+<programme start="20240817060000 +0000" stop="20240817080000 +0000" channel="CNNTurk.tr"><title lang="tr">Haber</title></programme>
 <programme start="20240817080000 +0000" stop="20240817083000 +0000" channel="CNNTurk.tr"><title lang="tr">Haber</title></programme>
 <programme start="20240817083000 +0000" stop="20240817090000 +0000" channel="CNNTurk.tr"><title lang="tr">Yeşil Doğa</title></programme>
 <programme start="20240817090000 +0000" stop="20240817100000 +0000" channel="CNNTurk.tr"><title lang="tr">Haber</title></programme>
@@ -537,10 +536,15 @@
 <programme start="20240816194500 +0000" stop="20240816220000 +0000" channel="KanalD.tr"><title lang="tr">Password</title></programme>
 <programme start="20240816220000 +0000" stop="20240817000000 +0000" channel="KanalD.tr"><title lang="tr">Ambulans</title></programme>
 <programme start="20240817000000 +0000" stop="20240817021500 +0000" channel="KanalD.tr"><title lang="tr">Gelinim Mutfakta</title></programme>
-<programme start="20240817021500 +0000" stop="20240817064500 +0000" channel="KanalD.tr"><title lang="tr">Dönence</title></programme>
-<programme start="20240817064500 +0000" stop="20240817144500 +0000" channel="KanalD.tr"><title lang="tr">Magazin D Cumartesi</title></programme>
-<programme start="20240817144500 +0000" stop="20240817160000 +0000" channel="KanalD.tr"><title lang="tr">Magazin D Cumartesi</title></programme>
-<programme start="20240817160000 +0000" stop="20240818000000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
+<programme start="20240817021500 +0000" stop="20240817040000 +0000" channel="KanalD.tr"><title lang="tr">Dönence</title></programme>
+<programme start="20240817040000 +0000" stop="20240817053000 +0000" channel="KanalD.tr"><title lang="tr">Yabancı Damat</title></programme>
+<programme start="20240817053000 +0000" stop="20240817064500 +0000" channel="KanalD.tr"><title lang="tr">Konuştukça</title></programme>
+<programme start="20240817064500 +0000" stop="20240817100000 +0000" channel="KanalD.tr"><title lang="tr">Magazin D Cumartesi</title></programme>
+<programme start="20240817100000 +0000" stop="20240817114500 +0000" channel="KanalD.tr"><title lang="tr">Yumurcak</title></programme>
+<programme start="20240817114500 +0000" stop="20240817160000 +0000" channel="KanalD.tr"><title lang="tr">Yalan</title></programme>
+<programme start="20240817160000 +0000" stop="20240817170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
+<programme start="20240817170000 +0000" stop="20240817194500 +0000" channel="KanalD.tr"><title lang="tr">Turnike</title></programme>
+<programme start="20240817194500 +0000" stop="20240817213000 +0000" channel="KanalD.tr"><title lang="tr">Çok Akustik</title></programme>
 <programme start="20240815210000 +0000" stop="20240815213000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Robot Trains</title></programme>
 <programme start="20240815213000 +0000" stop="20240815214000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Turbozours</title></programme>
 <programme start="20240815214000 +0000" stop="20240815215000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Turbozours</title></programme>
