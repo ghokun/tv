@@ -159,7 +159,7 @@
 <programme start="20240818203000 +0000" stop="20240818221500 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Futbol</title></programme>
 <programme start="20240818221500 +0000" stop="20240819001500 +0000" channel="BeyazTV.tr"><title lang="tr">Cehennem Silahı 4</title></programme>
 <programme start="20240819001500 +0000" stop="20240819020000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
-<programme start="20240819020000 +0000" stop="20240819043000 +0000" channel="BeyazTV.tr"><title lang="tr">Belma Belen&apos;le Geziyoruz</title></programme>
+<programme start="20240819020000 +0000" stop="20240819060000 +0000" channel="BeyazTV.tr"><title lang="tr">Belma Belen&apos;le Geziyoruz</title></programme>
 <programme start="20240819043000 +0000" stop="20240819063500 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
 <programme start="20240819063500 +0000" stop="20240819090000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Magazin</title></programme>
 <programme start="20240819090000 +0000" stop="20240819104500 +0000" channel="BeyazTV.tr"><title lang="tr">Nilüfer Zamanı</title></programme>
@@ -424,9 +424,9 @@
 <programme start="20240819023000 +0000" stop="20240819053000 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin...</title></programme>
 <programme start="20240819053000 +0000" stop="20240819070000 +0000" channel="Fox.tr"><title lang="tr">Çalar Saat</title></programme>
 <programme start="20240819070000 +0000" stop="20240819090000 +0000" channel="Fox.tr"><title lang="tr">Çağla ile Yeni Bir Gün</title></programme>
-<programme start="20240819090000 +0000" stop="20240819103000 +0000" channel="Fox.tr"><title lang="tr">Aşk Mantık İntikam</title></programme>
-<programme start="20240819103000 +0000" stop="20240819133000 +0000" channel="Fox.tr"><title lang="tr">En Hamarat Benim</title></programme>
-<programme start="20240819133000 +0000" stop="20240819160000 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin...</title></programme>
+<programme start="20240819090000 +0000" stop="20240819103000 +0000" channel="Fox.tr"><title lang="tr">Kiraz Mevsimi</title></programme>
+<programme start="20240819103000 +0000" stop="20240819131500 +0000" channel="Fox.tr"><title lang="tr">En Hamarat Benim</title></programme>
+<programme start="20240819131500 +0000" stop="20240819160000 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin...</title></programme>
 <programme start="20240819160000 +0000" stop="20240819170000 +0000" channel="Fox.tr"><title lang="tr">NOW Ana Haber</title></programme>
 <programme start="20240819170000 +0000" stop="20240819190000 +0000" channel="Fox.tr"><title lang="tr">Recep İvedik 3</title></programme>
 <programme start="20240819190000 +0000" stop="20240819210000 +0000" channel="Fox.tr"><title lang="tr">Çağla ile Bu Yaz</title></programme>
@@ -1161,8 +1161,8 @@
 <programme start="20240818121500 +0000" stop="20240818152500 +0000" channel="ShowTV.tr"><title lang="tr">Aile</title></programme>
 <programme start="20240818152500 +0000" stop="20240818170000 +0000" channel="ShowTV.tr"><title lang="tr">Show Ana Haber</title></programme>
 <programme start="20240818170000 +0000" stop="20240818193000 +0000" channel="ShowTV.tr"><title lang="tr">Nasipse Olur</title></programme>
-<programme start="20240818193000 +0000" stop="20240818213000 +0000" channel="ShowTV.tr"><title lang="tr">Türkler Çıldırmış Olmalı</title></programme>
-<programme start="20240818193000 +0000" stop="20240818213000 +0000" channel="ShowTV.tr"><title lang="tr">Türkler Çıldırmış Olmalı</title></programme>
+<programme start="20240818193000 +0000" stop="20240818213000 +0000" channel="ShowTV.tr"><title lang="tr">Türkler Çıldırmış...</title></programme>
+<programme start="20240818193000 +0000" stop="20240818213000 +0000" channel="ShowTV.tr"><title lang="tr">Türkler Çıldırmış...</title></programme>
 <programme start="20240818213000 +0000" stop="20240818233000 +0000" channel="ShowTV.tr"><title lang="tr">Nasipse Olur</title></programme>
 <programme start="20240818233000 +0000" stop="20240819010000 +0000" channel="ShowTV.tr"><title lang="tr">Türkler Çıldırmış...</title></programme>
 <programme start="20240819010000 +0000" stop="20240819030000 +0000" channel="ShowTV.tr"><title lang="tr">Hayat Bayram Olsa</title></programme>
@@ -1914,8 +1914,8 @@
 <programme start="20240818070000 +0000" stop="20240818101500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240818101500 +0000" stop="20240818134500 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
 <programme start="20240818134500 +0000" stop="20240818170000 +0000" channel="TV8.tr"><title lang="tr">Parola Parola</title></programme>
-<programme start="20240818160000 +0000" stop="20240818211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
-<programme start="20240818160000 +0000" stop="20240818211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240818170000 +0000" stop="20240818211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240818170000 +0000" stop="20240818211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240818211500 +0000" stop="20240818234500 +0000" channel="TV8.tr"><title lang="tr">Parola Parola</title></programme>
 <programme start="20240818234500 +0000" stop="20240819020000 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
 <programme start="20240819020000 +0000" stop="20240819030000 +0000" channel="TV8.tr"><title lang="tr">Gençlik Rüzgarı</title></programme>
