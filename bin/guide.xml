@@ -1161,8 +1161,8 @@
 <programme start="20240818121500 +0000" stop="20240818152500 +0000" channel="ShowTV.tr"><title lang="tr">Aile</title></programme>
 <programme start="20240818152500 +0000" stop="20240818170000 +0000" channel="ShowTV.tr"><title lang="tr">Show Ana Haber</title></programme>
 <programme start="20240818170000 +0000" stop="20240818193000 +0000" channel="ShowTV.tr"><title lang="tr">Nasipse Olur</title></programme>
-<programme start="20240818193000 +0000" stop="20240818213000 +0000" channel="ShowTV.tr"><title lang="tr">Türkler Çıldırmış...</title></programme>
-<programme start="20240818193000 +0000" stop="20240818213000 +0000" channel="ShowTV.tr"><title lang="tr">Türkler Çıldırmış...</title></programme>
+<programme start="20240818193000 +0000" stop="20240818213000 +0000" channel="ShowTV.tr"><title lang="tr">Türkler Çıldırmış Olmalı</title></programme>
+<programme start="20240818193000 +0000" stop="20240818213000 +0000" channel="ShowTV.tr"><title lang="tr">Türkler Çıldırmış Olmalı</title></programme>
 <programme start="20240818213000 +0000" stop="20240818233000 +0000" channel="ShowTV.tr"><title lang="tr">Nasipse Olur</title></programme>
 <programme start="20240818233000 +0000" stop="20240819010000 +0000" channel="ShowTV.tr"><title lang="tr">Türkler Çıldırmış...</title></programme>
 <programme start="20240819010000 +0000" stop="20240819030000 +0000" channel="ShowTV.tr"><title lang="tr">Hayat Bayram Olsa</title></programme>
@@ -1914,8 +1914,8 @@
 <programme start="20240818070000 +0000" stop="20240818101500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240818101500 +0000" stop="20240818134500 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
 <programme start="20240818134500 +0000" stop="20240818170000 +0000" channel="TV8.tr"><title lang="tr">Parola Parola</title></programme>
-<programme start="20240818170000 +0000" stop="20240818211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
-<programme start="20240818170000 +0000" stop="20240818211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240818160000 +0000" stop="20240818211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240818160000 +0000" stop="20240818211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240818211500 +0000" stop="20240818234500 +0000" channel="TV8.tr"><title lang="tr">Parola Parola</title></programme>
 <programme start="20240818234500 +0000" stop="20240819020000 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
 <programme start="20240819020000 +0000" stop="20240819030000 +0000" channel="TV8.tr"><title lang="tr">Gençlik Rüzgarı</title></programme>
