@@ -532,10 +532,10 @@
 <programme start="20240819130000 +0000" stop="20240819141500 +0000" channel="KanalD.tr"><title lang="tr">Ayazın Sonu Güneş</title></programme>
 <programme start="20240819141500 +0000" stop="20240819160000 +0000" channel="KanalD.tr"><title lang="tr">Evrim Akın İle Ev Gezmesi</title></programme>
 <programme start="20240819160000 +0000" stop="20240819170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
-<programme start="20240819170000 +0000" stop="20240819210000 +0000" channel="KanalD.tr"><title lang="tr">Yalan</title></programme>
-<programme start="20240819210000 +0000" stop="20240819223000 +0000" channel="KanalD.tr"><title lang="tr">Sıfırlar ve Birler</title></programme>
-<programme start="20240819223000 +0000" stop="20240819233000 +0000" channel="KanalD.tr"><title lang="tr">Sıfırlar ve Birler</title></programme>
-<programme start="20240819233000 +0000" stop="20240820013000 +0000" channel="KanalD.tr"><title lang="tr">Gelinim Mutfakta</title></programme>
+<programme start="20240819170000 +0000" stop="20240819211500 +0000" channel="KanalD.tr"><title lang="tr">Yalan</title></programme>
+<programme start="20240819170000 +0000" stop="20240819211500 +0000" channel="KanalD.tr"><title lang="tr">Yalan</title></programme>
+<programme start="20240819211500 +0000" stop="20240819230000 +0000" channel="KanalD.tr"><title lang="tr">Sıfırlar ve Birler</title></programme>
+<programme start="20240819230000 +0000" stop="20240820013000 +0000" channel="KanalD.tr"><title lang="tr">Gelinim Mutfakta</title></programme>
 <programme start="20240820013000 +0000" stop="20240820040000 +0000" channel="KanalD.tr"><title lang="tr">Dönence</title></programme>
 <programme start="20240820040000 +0000" stop="20240820060000 +0000" channel="KanalD.tr"><title lang="tr">Yabancı Damat</title></programme>
 <programme start="20240820060000 +0000" stop="20240820080000 +0000" channel="KanalD.tr"><title lang="tr">Öyle Bir Geçer Zaman Ki</title></programme>
@@ -545,8 +545,7 @@
 <programme start="20240820130000 +0000" stop="20240820141500 +0000" channel="KanalD.tr"><title lang="tr">Ayazın Sonu Güneş</title></programme>
 <programme start="20240820141500 +0000" stop="20240820160000 +0000" channel="KanalD.tr"><title lang="tr">Evrim Akın İle Ev Gezmesi</title></programme>
 <programme start="20240820160000 +0000" stop="20240820170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
-<programme start="20240820170000 +0000" stop="20240820203000 +0000" channel="KanalD.tr"><title lang="tr">Password</title></programme>
-<programme start="20240820203000 +0000" stop="20240820224500 +0000" channel="KanalD.tr"><title lang="tr">Kara İblis</title></programme>
+<programme start="20240820170000 +0000" stop="20240820230000 +0000" channel="KanalD.tr"><title lang="tr">Password</title></programme>
 <programme start="20240818210000 +0000" stop="20240818213000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Robot Trains</title></programme>
 <programme start="20240818213000 +0000" stop="20240818214000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Turbozours</title></programme>
 <programme start="20240818214000 +0000" stop="20240818215000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Turbozours</title></programme>
