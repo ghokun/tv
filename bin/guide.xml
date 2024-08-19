@@ -537,8 +537,9 @@
 <programme start="20240819160000 +0000" stop="20240819170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
 <programme start="20240819170000 +0000" stop="20240819211500 +0000" channel="KanalD.tr"><title lang="tr">Yalan</title></programme>
 <programme start="20240819170000 +0000" stop="20240819211500 +0000" channel="KanalD.tr"><title lang="tr">Yalan</title></programme>
-<programme start="20240819211500 +0000" stop="20240819230000 +0000" channel="KanalD.tr"><title lang="tr">Sıfırlar ve Birler</title></programme>
-<programme start="20240819230000 +0000" stop="20240820013000 +0000" channel="KanalD.tr"><title lang="tr">Gelinim Mutfakta</title></programme>
+<programme start="20240819210000 +0000" stop="20240819223000 +0000" channel="KanalD.tr"><title lang="tr">Sıfırlar ve Birler</title></programme>
+<programme start="20240819223000 +0000" stop="20240819233000 +0000" channel="KanalD.tr"><title lang="tr">Sıfırlar ve Birler</title></programme>
+<programme start="20240819233000 +0000" stop="20240820013000 +0000" channel="KanalD.tr"><title lang="tr">Gelinim Mutfakta</title></programme>
 <programme start="20240820013000 +0000" stop="20240820040000 +0000" channel="KanalD.tr"><title lang="tr">Dönence</title></programme>
 <programme start="20240820040000 +0000" stop="20240820060000 +0000" channel="KanalD.tr"><title lang="tr">Yabancı Damat</title></programme>
 <programme start="20240820060000 +0000" stop="20240820080000 +0000" channel="KanalD.tr"><title lang="tr">Öyle Bir Geçer Zaman Ki</title></programme>
@@ -548,7 +549,8 @@
 <programme start="20240820130000 +0000" stop="20240820141500 +0000" channel="KanalD.tr"><title lang="tr">Ayazın Sonu Güneş</title></programme>
 <programme start="20240820141500 +0000" stop="20240820160000 +0000" channel="KanalD.tr"><title lang="tr">Evrim Akın İle Ev Gezmesi</title></programme>
 <programme start="20240820160000 +0000" stop="20240820170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
-<programme start="20240820170000 +0000" stop="20240820230000 +0000" channel="KanalD.tr"><title lang="tr">Password</title></programme>
+<programme start="20240820170000 +0000" stop="20240820203000 +0000" channel="KanalD.tr"><title lang="tr">Password</title></programme>
+<programme start="20240820203000 +0000" stop="20240820224500 +0000" channel="KanalD.tr"><title lang="tr">Kara İblis</title></programme>
 <programme start="20240818210000 +0000" stop="20240818213000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Robot Trains</title></programme>
 <programme start="20240818213000 +0000" stop="20240818214000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Turbozours</title></programme>
 <programme start="20240818214000 +0000" stop="20240818215000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Turbozours</title></programme>
@@ -1534,9 +1536,7 @@
 <programme start="20240819182500 +0000" stop="20240819192500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Demir Atlı Yörükler</title></programme>
 <programme start="20240819192500 +0000" stop="20240819202000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Son Kabileler</title></programme>
 <programme start="20240819202000 +0000" stop="20240819205000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Kelebek Etkisi</title></programme>
-<programme start="20240819205000 +0000" stop="20240819211500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Avustralyalı Yılan...</title></programme>
 <programme start="20240819205000 +0000" stop="20240819214000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Büyük Aile Çiftliği</title></programme>
-<programme start="20240819205000 +0000" stop="20240819211500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Avustralyalı Yılan...</title></programme>
 <programme start="20240819205000 +0000" stop="20240819214000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Büyük Aile Çiftliği</title></programme>
 <programme start="20240819214000 +0000" stop="20240819223000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Anadolu&apos;da Yaşam</title></programme>
 <programme start="20240819223000 +0000" stop="20240819233000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Ailenin Yeni Üyesi</title></programme>
@@ -1639,8 +1639,15 @@
 <programme start="20240819193500 +0000" stop="20240819200000 +0000" channel="TRTCocuk.tr"><title lang="tr">Rafadan Tayfa</title></programme>
 <programme start="20240819200000 +0000" stop="20240819202500 +0000" channel="TRTCocuk.tr"><title lang="tr">İbi</title></programme>
 <programme start="20240819202500 +0000" stop="20240819205000 +0000" channel="TRTCocuk.tr"><title lang="tr">Nasreddin Hoca Zaman Yolcusu</title></programme>
-<programme start="20240819205000 +0000" stop="20240820001000 +0000" channel="TRTCocuk.tr"><title lang="tr">Variloto</title></programme>
-<programme start="20240819205000 +0000" stop="20240820001000 +0000" channel="TRTCocuk.tr"><title lang="tr">Variloto</title></programme>
+<programme start="20240819205000 +0000" stop="20240819211500 +0000" channel="TRTCocuk.tr"><title lang="tr">Variloto</title></programme>
+<programme start="20240819205000 +0000" stop="20240819211500 +0000" channel="TRTCocuk.tr"><title lang="tr">Variloto</title></programme>
+<programme start="20240819211500 +0000" stop="20240819213500 +0000" channel="TRTCocuk.tr"><title lang="tr">Maysa ve Bulut</title></programme>
+<programme start="20240819213500 +0000" stop="20240819220000 +0000" channel="TRTCocuk.tr"><title lang="tr">Aslan</title></programme>
+<programme start="20240819220000 +0000" stop="20240819222500 +0000" channel="TRTCocuk.tr"><title lang="tr">Elif ve Arkadaşları</title></programme>
+<programme start="20240819222500 +0000" stop="20240819225000 +0000" channel="TRTCocuk.tr"><title lang="tr">Yılkı Atı - Doru</title></programme>
+<programme start="20240819225000 +0000" stop="20240819230500 +0000" channel="TRTCocuk.tr"><title lang="tr">Kaptan Pengu Ve Arkadaşları</title></programme>
+<programme start="20240819230500 +0000" stop="20240819233000 +0000" channel="TRTCocuk.tr"><title lang="tr">Ege ile Gaga</title></programme>
+<programme start="20240819233000 +0000" stop="20240819235500 +0000" channel="TRTCocuk.tr"><title lang="tr">Bulmaca Kulesi</title></programme>
 <programme start="20240819235500 +0000" stop="20240820002000 +0000" channel="TRTCocuk.tr"><title lang="tr">Erdem</title></programme>
 <programme start="20240820002000 +0000" stop="20240820004500 +0000" channel="TRTCocuk.tr"><title lang="tr">Aslan</title></programme>
 <programme start="20240820004500 +0000" stop="20240820011000 +0000" channel="TRTCocuk.tr"><title lang="tr">Doru</title></programme>
