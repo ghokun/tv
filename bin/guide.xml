@@ -130,9 +130,8 @@
 <programme start="20240822110000 +0000" stop="20240822130000 +0000" channel="ATV.tr"><title lang="tr">Sümela&apos;nın Şifresi 3:...</title></programme>
 <programme start="20240822130000 +0000" stop="20240822160000 +0000" channel="ATV.tr"><title lang="tr">Kardeşlerim</title></programme>
 <programme start="20240822160000 +0000" stop="20240822170000 +0000" channel="ATV.tr"><title lang="tr">ATV Ana Haber</title></programme>
-<programme start="20240822170000 +0000" stop="20240822190000 +0000" channel="ATV.tr"><title lang="tr">Alan</title></programme>
-<programme start="20240822190000 +0000" stop="20240822211500 +0000" channel="ATV.tr"><title lang="tr">St. Gallen - Trabzonspor</title></programme>
-<programme start="20240822190000 +0000" stop="20240822211500 +0000" channel="ATV.tr"><title lang="tr">St. Gallen - Trabzonspor</title></programme>
+<programme start="20240822170000 +0000" stop="20240822212000 +0000" channel="ATV.tr"><title lang="tr">Alan</title></programme>
+<programme start="20240822170000 +0000" stop="20240822212000 +0000" channel="ATV.tr"><title lang="tr">Alan</title></programme>
 <programme start="20240822211500 +0000" stop="20240822233500 +0000" channel="ATV.tr"><title lang="tr">Öncü Kuvvet</title></programme>
 <programme start="20240822233500 +0000" stop="20240823021500 +0000" channel="ATV.tr"><title lang="tr">Ateş Kuşları</title></programme>
 <programme start="20240823021500 +0000" stop="20240823034000 +0000" channel="ATV.tr"><title lang="tr">Kaçak</title></programme>
@@ -531,12 +530,10 @@
 <programme start="20240822100000 +0000" stop="20240822130000 +0000" channel="KanalD.tr"><title lang="tr">Gelinim Mutfakta</title></programme>
 <programme start="20240822130000 +0000" stop="20240822141500 +0000" channel="KanalD.tr"><title lang="tr">Ayazın Sonu Güneş</title></programme>
 <programme start="20240822141500 +0000" stop="20240822160000 +0000" channel="KanalD.tr"><title lang="tr">Evrim Akın İle Ev Gezmesi</title></programme>
-<programme start="20240822160000 +0000" stop="20240822170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
-<programme start="20240822170000 +0000" stop="20240822201500 +0000" channel="KanalD.tr"><title lang="tr">Yalan</title></programme>
-<programme start="20240822201500 +0000" stop="20240822220000 +0000" channel="KanalD.tr"><title lang="tr">Yüce Thor</title></programme>
-<programme start="20240822201500 +0000" stop="20240822220000 +0000" channel="KanalD.tr"><title lang="tr">Yüce Thor</title></programme>
-<programme start="20240822220000 +0000" stop="20240822233000 +0000" channel="KanalD.tr"><title lang="tr">Yüce Thor</title></programme>
+<programme start="20240822160000 +0000" stop="20240823000000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
+<programme start="20240822160000 +0000" stop="20240823000000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
 <programme start="20240822233000 +0000" stop="20240823020000 +0000" channel="KanalD.tr"><title lang="tr">Gelinim Mutfakta</title></programme>
+<programme start="20240823000000 +0000" stop="20240823014000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
 <programme start="20240823020000 +0000" stop="20240823040000 +0000" channel="KanalD.tr"><title lang="tr">Dönence</title></programme>
 <programme start="20240823040000 +0000" stop="20240823060000 +0000" channel="KanalD.tr"><title lang="tr">Yabancı Damat</title></programme>
 <programme start="20240823060000 +0000" stop="20240823080000 +0000" channel="KanalD.tr"><title lang="tr">Öyle Bir Geçer Zaman Ki</title></programme>
@@ -1250,8 +1247,7 @@
 <programme start="20240822040000 +0000" stop="20240822064500 +0000" channel="StarTV.tr"><title lang="tr">Güne Başlarken</title></programme>
 <programme start="20240822064500 +0000" stop="20240822100000 +0000" channel="StarTV.tr"><title lang="tr">Sana Değer</title></programme>
 <programme start="20240822100000 +0000" stop="20240822130000 +0000" channel="StarTV.tr"><title lang="tr">Zahide Yetiş ile Yeniden...</title></programme>
-<programme start="20240822130000 +0000" stop="20240822131500 +0000" channel="StarTV.tr"><title lang="tr">Kiralık Aşk</title></programme>
-<programme start="20240822131500 +0000" stop="20240822160000 +0000" channel="StarTV.tr"><title lang="tr">Kiralık Aşk</title></programme>
+<programme start="20240822130000 +0000" stop="20240822160000 +0000" channel="StarTV.tr"><title lang="tr">Kiralık Aşk</title></programme>
 <programme start="20240822160000 +0000" stop="20240822170000 +0000" channel="StarTV.tr"><title lang="tr">Star Haber</title></programme>
 <programme start="20240822170000 +0000" stop="20240822192500 +0000" channel="StarTV.tr"><title lang="tr">Servet Operasyonu</title></programme>
 <programme start="20240822192500 +0000" stop="20240822213000 +0000" channel="StarTV.tr"><title lang="tr">Servet Operasyonu</title></programme>
@@ -1366,7 +1362,8 @@
 <programme start="20240822121500 +0000" stop="20240822160000 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
 <programme start="20240822160000 +0000" stop="20240822165500 +0000" channel="TRT1.tr"><title lang="tr">Ana Haber</title></programme>
 <programme start="20240822165500 +0000" stop="20240822170000 +0000" channel="TRT1.tr"><title lang="tr">İddiaların Aksine</title></programme>
-<programme start="20240822170000 +0000" stop="20240822205500 +0000" channel="TRT1.tr"><title lang="tr">Sen Türkülerini Söyle</title></programme>
+<programme start="20240822170000 +0000" stop="20240822211500 +0000" channel="TRT1.tr"><title lang="tr">Sen Türkülerini Söyle</title></programme>
+<programme start="20240822170000 +0000" stop="20240822211500 +0000" channel="TRT1.tr"><title lang="tr">Sen Türkülerini Söyle</title></programme>
 <programme start="20240822205500 +0000" stop="20240822220500 +0000" channel="TRT1.tr"><title lang="tr">3&apos;te 3</title></programme>
 <programme start="20240822205500 +0000" stop="20240822220500 +0000" channel="TRT1.tr"><title lang="tr">3&apos;te 3</title></programme>
 <programme start="20240822220500 +0000" stop="20240822233500 +0000" channel="TRT1.tr"><title lang="tr">Muallim</title></programme>
@@ -1406,7 +1403,7 @@
 <programme start="20240822100000 +0000" stop="20240822103000 +0000" channel="TRT2.tr"><title lang="tr">Misal</title></programme>
 <programme start="20240822103000 +0000" stop="20240822114500 +0000" channel="TRT2.tr"><title lang="tr">Pazar Konseri</title></programme>
 <programme start="20240822114500 +0000" stop="20240822120000 +0000" channel="TRT2.tr"><title lang="tr">Geri Dönüşen Sanat</title></programme>
-<programme start="20240822120000 +0000" stop="20240822133000 +0000" channel="TRT2.tr"><title lang="tr">Akasyalar</title></programme>
+<programme start="20240822120000 +0000" stop="20240822133000 +0000" channel="TRT2.tr"><title lang="tr">Yabancı Sinema: Akasyalar...</title></programme>
 <programme start="20240822133000 +0000" stop="20240822140000 +0000" channel="TRT2.tr"><title lang="tr">Bir Resim Bir Hikaye</title></programme>
 <programme start="20240822140000 +0000" stop="20240822144500 +0000" channel="TRT2.tr"><title lang="tr">Aramızda Müzik Var</title></programme>
 <programme start="20240822144500 +0000" stop="20240822150000 +0000" channel="TRT2.tr"><title lang="tr">Eskiz</title></programme>
@@ -1417,7 +1414,7 @@
 <programme start="20240822170000 +0000" stop="20240822173000 +0000" channel="TRT2.tr"><title lang="tr">Espas</title></programme>
 <programme start="20240822173000 +0000" stop="20240822180000 +0000" channel="TRT2.tr"><title lang="tr">Eve Dönen Miras</title></programme>
 <programme start="20240822180000 +0000" stop="20240822183000 +0000" channel="TRT2.tr"><title lang="tr">Edebi Sofralar</title></programme>
-<programme start="20240822183000 +0000" stop="20240822200000 +0000" channel="TRT2.tr"><title lang="tr">Olli Maki&apos;nin En Mutlu Günü</title></programme>
+<programme start="20240822183000 +0000" stop="20240822200000 +0000" channel="TRT2.tr"><title lang="tr">Yabancı Sinema: Olli...</title></programme>
 <programme start="20240822200000 +0000" stop="20240822214500 +0000" channel="TRT2.tr"><title lang="tr">Konser Zamanı</title></programme>
 <programme start="20240822200000 +0000" stop="20240822214500 +0000" channel="TRT2.tr"><title lang="tr">Konser Zamanı</title></programme>
 <programme start="20240822214500 +0000" stop="20240822220000 +0000" channel="TRT2.tr"><title lang="tr">Keşif</title></programme>
@@ -1864,7 +1861,7 @@
 <programme start="20240822151500 +0000" stop="20240822153000 +0000" channel="TRTTurk.tr"><title lang="tr">Memleket Hasreti</title></programme>
 <programme start="20240822153000 +0000" stop="20240822153500 +0000" channel="TRTTurk.tr"><title lang="tr">Günaydın Hayat Bitki</title></programme>
 <programme start="20240822153500 +0000" stop="20240822155000 +0000" channel="TRTTurk.tr"><title lang="tr">Üzüldüğün Şeye Bak</title></programme>
-<programme start="20240822155000 +0000" stop="20240822160000 +0000" channel="TRTTurk.tr"><title lang="tr">Mikrofon Senin Anadolu</title></programme>
+<programme start="20240822155000 +0000" stop="20240822160000 +0000" channel="TRTTurk.tr"><title lang="tr">Mikrofon Senin Rouen</title></programme>
 <programme start="20240822160000 +0000" stop="20240822164500 +0000" channel="TRTTurk.tr"><title lang="tr">Sıcak Haber</title></programme>
 <programme start="20240822164500 +0000" stop="20240822170000 +0000" channel="TRTTurk.tr"><title lang="tr">Kalbin İçindekiler</title></programme>
 <programme start="20240822170000 +0000" stop="20240822174500 +0000" channel="TRTTurk.tr"><title lang="tr">Gönül Dağı</title></programme>
@@ -1932,9 +1929,9 @@
 <programme start="20240822053000 +0000" stop="20240822064500 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
 <programme start="20240822064500 +0000" stop="20240822104500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240822104500 +0000" stop="20240822130000 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
-<programme start="20240822130000 +0000" stop="20240822160000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
-<programme start="20240822160000 +0000" stop="20240822211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
-<programme start="20240822160000 +0000" stop="20240822211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240822130000 +0000" stop="20240822170000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
+<programme start="20240822170000 +0000" stop="20240822211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240822170000 +0000" stop="20240822211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240822211500 +0000" stop="20240822233000 +0000" channel="TV8.tr"><title lang="tr">Emre Dorman İle...</title></programme>
 <programme start="20240822233000 +0000" stop="20240823013000 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
 <programme start="20240823013000 +0000" stop="20240823030000 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
