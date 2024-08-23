@@ -290,9 +290,8 @@
 <programme start="20240824030000 +0000" stop="20240824040000 +0000" channel="CNNTurk.tr"><title lang="tr">Haber</title></programme>
 <programme start="20240824040000 +0000" stop="20240824060000 +0000" channel="CNNTurk.tr"><title lang="tr">Güne Merhaba Hafta Sonu</title></programme>
 <programme start="20240824060000 +0000" stop="20240824070000 +0000" channel="CNNTurk.tr"><title lang="tr">Haber</title></programme>
-<programme start="20240824070000 +0000" stop="20240824080000 +0000" channel="CNNTurk.tr"><title lang="tr">Hafta Sonu</title></programme>
-<programme start="20240824080000 +0000" stop="20240824083000 +0000" channel="CNNTurk.tr"><title lang="tr">Haber</title></programme>
-<programme start="20240824083000 +0000" stop="20240824090000 +0000" channel="CNNTurk.tr"><title lang="tr">Yeşil Doğa</title></programme>
+<programme start="20240824070000 +0000" stop="20240824081500 +0000" channel="CNNTurk.tr"><title lang="tr">Hafta Sonu</title></programme>
+<programme start="20240824081500 +0000" stop="20240824090000 +0000" channel="CNNTurk.tr"><title lang="tr">Haber</title></programme>
 <programme start="20240824090000 +0000" stop="20240824100000 +0000" channel="CNNTurk.tr"><title lang="tr">Haber</title></programme>
 <programme start="20240824100000 +0000" stop="20240824110000 +0000" channel="CNNTurk.tr"><title lang="tr">Haber</title></programme>
 <programme start="20240824110000 +0000" stop="20240824120000 +0000" channel="CNNTurk.tr"><title lang="tr">Haber</title></programme>
@@ -1066,8 +1065,9 @@
 <programme start="20240823190000 +0000" stop="20240823191500 +0000" channel="NTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240823191500 +0000" stop="20240823195500 +0000" channel="NTV.tr"><title lang="tr">Zaman Yolcusu Kore</title></programme>
 <programme start="20240823195500 +0000" stop="20240823200000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20240823200000 +0000" stop="20240823205000 +0000" channel="NTV.tr"><title lang="tr">Bugün Yarın</title></programme>
-<programme start="20240823205000 +0000" stop="20240823205500 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
+<programme start="20240823200000 +0000" stop="20240823204500 +0000" channel="NTV.tr"><title lang="tr">Bugün Yarın</title></programme>
+<programme start="20240823204500 +0000" stop="20240823205000 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
+<programme start="20240823205000 +0000" stop="20240823205500 +0000" channel="NTV.tr"><title lang="tr">Sıra Dışı Gerçekler</title></programme>
 <programme start="20240823205500 +0000" stop="20240823210000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20240823210000 +0000" stop="20240823215000 +0000" channel="NTV.tr"><title lang="tr">Bugün Yarın</title></programme>
 <programme start="20240823215000 +0000" stop="20240823215500 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
@@ -1938,11 +1938,11 @@
 <programme start="20240823233000 +0000" stop="20240824013000 +0000" channel="TV8.tr"><title lang="tr">Çarkıfelek</title></programme>
 <programme start="20240824013000 +0000" stop="20240824030000 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
 <programme start="20240824030000 +0000" stop="20240824033000 +0000" channel="TV8.tr"><title lang="tr">Dizi</title></programme>
-<programme start="20240824033000 +0000" stop="20240824044500 +0000" channel="TV8.tr"><title lang="tr">Tuzak</title></programme>
-<programme start="20240824044500 +0000" stop="20240824050000 +0000" channel="TV8.tr"><title lang="tr">Süper 1 Takım</title></programme>
-<programme start="20240824050000 +0000" stop="20240824111500 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
-<programme start="20240824111500 +0000" stop="20240824120000 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
-<programme start="20240824120000 +0000" stop="20240824134500 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
+<programme start="20240824033000 +0000" stop="20240824041500 +0000" channel="TV8.tr"><title lang="tr">Tuzak</title></programme>
+<programme start="20240824041500 +0000" stop="20240824043000 +0000" channel="TV8.tr"><title lang="tr">Süper 1 Takım</title></programme>
+<programme start="20240824043000 +0000" stop="20240824070000 +0000" channel="TV8.tr"><title lang="tr">Büyük Mücadele</title></programme>
+<programme start="20240824070000 +0000" stop="20240824101500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240824101500 +0000" stop="20240824134500 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
 <programme start="20240824134500 +0000" stop="20240824170000 +0000" channel="TV8.tr"><title lang="tr">Parola Parola</title></programme>
 <programme start="20240824170000 +0000" stop="20240824211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240822193000 +0000" stop="20240822213000 +0000" channel="TV85.tr"><title lang="tr">Braga - Rapid Wien</title></programme>
@@ -1962,12 +1962,28 @@
 <programme start="20240823150000 +0000" stop="20240823160000 +0000" channel="TV85.tr"><title lang="tr">Belçika Pro Lig 4. Hafta...</title></programme>
 <programme start="20240823160000 +0000" stop="20240823171000 +0000" channel="TV85.tr"><title lang="tr">Hollanda Eredivisie 2....</title></programme>
 <programme start="20240823171000 +0000" stop="20240823183000 +0000" channel="TV85.tr"><title lang="tr">Arjantin Copa America 2024...</title></programme>
-<programme start="20240823183000 +0000" stop="20240823200000 +0000" channel="TV85.tr"><title lang="tr">Fildişi Sahili Afrika...</title></programme>
-<programme start="20240823200000 +0000" stop="20240823210500 +0000" channel="TV85.tr"><title lang="tr">Fokus</title></programme>
-<programme start="20240823200000 +0000" stop="20240823210500 +0000" channel="TV85.tr"><title lang="tr">Fokus</title></programme>
+<programme start="20240823183000 +0000" stop="20240823190000 +0000" channel="TV85.tr"><title lang="tr">Fildişi Sahili Afrika...</title></programme>
+<programme start="20240823190000 +0000" stop="20240823210500 +0000" channel="TV85.tr"><title lang="tr">S. Wednesday - Leeds United</title></programme>
+<programme start="20240823190000 +0000" stop="20240823210500 +0000" channel="TV85.tr"><title lang="tr">S. Wednesday - Leeds United</title></programme>
 <programme start="20240823210500 +0000" stop="20240823211500 +0000" channel="TV85.tr"><title lang="tr">Djurgarden - Maribor Özet</title></programme>
 <programme start="20240823211500 +0000" stop="20240823212500 +0000" channel="TV85.tr"><title lang="tr">Braga - Rapid Wien Özet</title></programme>
-<programme start="20240823212500 +0000" stop="20240823230500 +0000" channel="TV85.tr"><title lang="tr">Cristiano Ronaldo 2023-24...</title></programme>
+<programme start="20240823212500 +0000" stop="20240823220000 +0000" channel="TV85.tr"><title lang="tr">Cristiano Ronaldo 2023-24...</title></programme>
+<programme start="20240823220000 +0000" stop="20240823230000 +0000" channel="TV85.tr"><title lang="tr">Belçika Pro Lig 4. Hafta...</title></programme>
+<programme start="20240823230000 +0000" stop="20240823235000 +0000" channel="TV85.tr"><title lang="tr">Hollanda Eredivisie 2....</title></programme>
+<programme start="20240823235000 +0000" stop="20240824002000 +0000" channel="TV85.tr"><title lang="tr">Yunanistan Süper Ligi 1....</title></programme>
+<programme start="20240824002000 +0000" stop="20240824020000 +0000" channel="TV85.tr"><title lang="tr">Braga - Rapid Wien Özet</title></programme>
+<programme start="20240824020000 +0000" stop="20240824040000 +0000" channel="TV85.tr"><title lang="tr">Djurgarden - Maribor Özet</title></programme>
+<programme start="20240824040000 +0000" stop="20240824063000 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
+<programme start="20240824063000 +0000" stop="20240824080000 +0000" channel="TV85.tr"><title lang="tr">Arjantin Copa America 2024...</title></programme>
+<programme start="20240824080000 +0000" stop="20240824100000 +0000" channel="TV85.tr"><title lang="tr">S. Wednesday - Leeds United</title></programme>
+<programme start="20240824100000 +0000" stop="20240824103000 +0000" channel="TV85.tr"><title lang="tr">Fokus</title></programme>
+<programme start="20240824103000 +0000" stop="20240824113000 +0000" channel="TV85.tr"><title lang="tr">Yunanistan Süper Ligi 1....</title></programme>
+<programme start="20240824113000 +0000" stop="20240824133000 +0000" channel="TV85.tr"><title lang="tr">Q. Park Rangers - Plymouth A.</title></programme>
+<programme start="20240824133000 +0000" stop="20240824140000 +0000" channel="TV85.tr"><title lang="tr">Belçika Pro Lig 4. Hafta...</title></programme>
+<programme start="20240824140000 +0000" stop="20240824161500 +0000" channel="TV85.tr"><title lang="tr">Sunderland - Burnley</title></programme>
+<programme start="20240824161500 +0000" stop="20240824180000 +0000" channel="TV85.tr"><title lang="tr">Westerlo - Leuven</title></programme>
+<programme start="20240824180000 +0000" stop="20240824200000 +0000" channel="TV85.tr"><title lang="tr">Almere - PSV Eindhoven</title></programme>
+<programme start="20240824200000 +0000" stop="20240824220000 +0000" channel="TV85.tr"><title lang="tr">Top Bizde</title></programme>
 <programme start="20240822174500 +0000" stop="20240822213000 +0000" channel="TV100.tr"><title lang="tr">Şimdi Konuşalım</title></programme>
 <programme start="20240822213000 +0000" stop="20240822223000 +0000" channel="TV100.tr"><title lang="tr">Gece Haberleri</title></programme>
 <programme start="20240822223000 +0000" stop="20240822230000 +0000" channel="TV100.tr"><title lang="tr">Devrim Tosunoğlu ile...</title></programme>
