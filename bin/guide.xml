@@ -1065,9 +1065,8 @@
 <programme start="20240823190000 +0000" stop="20240823191500 +0000" channel="NTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240823191500 +0000" stop="20240823195500 +0000" channel="NTV.tr"><title lang="tr">Zaman Yolcusu Kore</title></programme>
 <programme start="20240823195500 +0000" stop="20240823200000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20240823200000 +0000" stop="20240823204500 +0000" channel="NTV.tr"><title lang="tr">Bugün Yarın</title></programme>
-<programme start="20240823204500 +0000" stop="20240823205000 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
-<programme start="20240823205000 +0000" stop="20240823205500 +0000" channel="NTV.tr"><title lang="tr">Sıra Dışı Gerçekler</title></programme>
+<programme start="20240823200000 +0000" stop="20240823205000 +0000" channel="NTV.tr"><title lang="tr">Bugün Yarın</title></programme>
+<programme start="20240823205000 +0000" stop="20240823205500 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
 <programme start="20240823205500 +0000" stop="20240823210000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20240823210000 +0000" stop="20240823215000 +0000" channel="NTV.tr"><title lang="tr">Bugün Yarın</title></programme>
 <programme start="20240823215000 +0000" stop="20240823215500 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
