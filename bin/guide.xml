@@ -1916,15 +1916,16 @@
 <programme start="20240824070000 +0000" stop="20240824101500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240824101500 +0000" stop="20240824134500 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
 <programme start="20240824134500 +0000" stop="20240824170000 +0000" channel="TV8.tr"><title lang="tr">Parola Parola</title></programme>
-<programme start="20240824170000 +0000" stop="20240824211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
-<programme start="20240824170000 +0000" stop="20240824211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240824160000 +0000" stop="20240824211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240824160000 +0000" stop="20240824211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240824211500 +0000" stop="20240824234500 +0000" channel="TV8.tr"><title lang="tr">Parola Parola</title></programme>
-<programme start="20240824234500 +0000" stop="20240825020000 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
-<programme start="20240825020000 +0000" stop="20240825033000 +0000" channel="TV8.tr"><title lang="tr">Dizi</title></programme>
-<programme start="20240825033000 +0000" stop="20240825050000 +0000" channel="TV8.tr"><title lang="tr">Tuzak</title></programme>
-<programme start="20240825050000 +0000" stop="20240825111500 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
-<programme start="20240825111500 +0000" stop="20240825120000 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
-<programme start="20240825120000 +0000" stop="20240825134500 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
+<programme start="20240824234500 +0000" stop="20240825014500 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
+<programme start="20240825014500 +0000" stop="20240825030000 +0000" channel="TV8.tr"><title lang="tr">Sinema</title></programme>
+<programme start="20240825030000 +0000" stop="20240825040000 +0000" channel="TV8.tr"><title lang="tr">Dizi</title></programme>
+<programme start="20240825040000 +0000" stop="20240825060000 +0000" channel="TV8.tr"><title lang="tr">Prangalı Mahkum</title></programme>
+<programme start="20240825060000 +0000" stop="20240825070000 +0000" channel="TV8.tr"><title lang="tr">Gençlik Rüzgarı</title></programme>
+<programme start="20240825070000 +0000" stop="20240825101500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240825101500 +0000" stop="20240825134500 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
 <programme start="20240825134500 +0000" stop="20240825170000 +0000" channel="TV8.tr"><title lang="tr">Parola Parola</title></programme>
 <programme start="20240825170000 +0000" stop="20240825211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240823190000 +0000" stop="20240823210500 +0000" channel="TV85.tr"><title lang="tr">S. Wednesday - Leeds United</title></programme>
@@ -1948,7 +1949,16 @@
 <programme start="20240824180000 +0000" stop="20240824200000 +0000" channel="TV85.tr"><title lang="tr">Almere - PSV Eindhoven</title></programme>
 <programme start="20240824200000 +0000" stop="20240824220000 +0000" channel="TV85.tr"><title lang="tr">Top Bizde</title></programme>
 <programme start="20240824200000 +0000" stop="20240824220000 +0000" channel="TV85.tr"><title lang="tr">Top Bizde</title></programme>
-<programme start="20240825090000 +0000" stop="20240825130000 +0000" channel="TV85.tr"><title lang="tr">Balık Dedektifi</title></programme>
+<programme start="20240824220000 +0000" stop="20240824224500 +0000" channel="TV85.tr"><title lang="tr">Cumartesi Günü Özetleri</title></programme>
+<programme start="20240824224500 +0000" stop="20240825001500 +0000" channel="TV85.tr"><title lang="tr">Top Bizde</title></programme>
+<programme start="20240825001500 +0000" stop="20240825020000 +0000" channel="TV85.tr"><title lang="tr">Westerlo - Leuven</title></programme>
+<programme start="20240825020000 +0000" stop="20240825040000 +0000" channel="TV85.tr"><title lang="tr">Almere - PSV Eindhoven</title></programme>
+<programme start="20240825040000 +0000" stop="20240825043000 +0000" channel="TV85.tr"><title lang="tr">Cumartesi Günü Özetleri</title></programme>
+<programme start="20240825043000 +0000" stop="20240825063000 +0000" channel="TV85.tr"><title lang="tr">Bir Zamanlar</title></programme>
+<programme start="20240825063000 +0000" stop="20240825070000 +0000" channel="TV85.tr"><title lang="tr">Cumartesi Günü Özetleri</title></programme>
+<programme start="20240825070000 +0000" stop="20240825090000 +0000" channel="TV85.tr"><title lang="tr">Top Bizde</title></programme>
+<programme start="20240825090000 +0000" stop="20240825101500 +0000" channel="TV85.tr"><title lang="tr">Balık Dedektifi</title></programme>
+<programme start="20240825101500 +0000" stop="20240825123000 +0000" channel="TV85.tr"><title lang="tr">Groningen - AZ Alkmaar</title></programme>
 <programme start="20240825123000 +0000" stop="20240825143000 +0000" channel="TV85.tr"><title lang="tr">Sparta Rotterdam - Feyenoord</title></programme>
 <programme start="20240825143000 +0000" stop="20240825150000 +0000" channel="TV85.tr"><title lang="tr">Dender - Club Brugge</title></programme>
 <programme start="20240825150000 +0000" stop="20240825160000 +0000" channel="TV85.tr"><title lang="tr">Sint-Truiden - Union Saint G.</title></programme>
@@ -1982,11 +1992,11 @@
 <programme start="20240824141500 +0000" stop="20240824160000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240824160000 +0000" stop="20240824173000 +0000" channel="TV100.tr"><title lang="tr">Hafta Sonu Ana Haber Bülteni</title></programme>
 <programme start="20240824173000 +0000" stop="20240824203000 +0000" channel="TV100.tr"><title lang="tr">Gündem Özel</title></programme>
-<programme start="20240824203000 +0000" stop="20240824220000 +0000" channel="TV100.tr"><title lang="tr">Ersin Düzen ile Futbolun...</title></programme>
-<programme start="20240824203000 +0000" stop="20240824220000 +0000" channel="TV100.tr"><title lang="tr">Ersin Düzen ile Futbolun...</title></programme>
-<programme start="20240824220000 +0000" stop="20240824233000 +0000" channel="TV100.tr"><title lang="tr">Ersin Düzen ile Futbolun...</title></programme>
-<programme start="20240824233000 +0000" stop="20240825013000 +0000" channel="TV100.tr"><title lang="tr">Gündem Özel</title></programme>
-<programme start="20240825013000 +0000" stop="20240825020000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240824203000 +0000" stop="20240824223000 +0000" channel="TV100.tr"><title lang="tr">Ersin Düzen ile Futbolun...</title></programme>
+<programme start="20240824203000 +0000" stop="20240824223000 +0000" channel="TV100.tr"><title lang="tr">Ersin Düzen ile Futbolun...</title></programme>
+<programme start="20240824223000 +0000" stop="20240824231500 +0000" channel="TV100.tr"><title lang="tr">Eurogol</title></programme>
+<programme start="20240824231500 +0000" stop="20240825011500 +0000" channel="TV100.tr"><title lang="tr">Ersin Düzen ile Futbolun...</title></programme>
+<programme start="20240825011500 +0000" stop="20240825020000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240825020000 +0000" stop="20240825033000 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
 <programme start="20240825033000 +0000" stop="20240825040000 +0000" channel="TV100.tr"><title lang="tr">Gün&apos;den Kalan</title></programme>
 <programme start="20240825040000 +0000" stop="20240825060000 +0000" channel="TV100.tr"><title lang="tr">Hafta Sonu Gün Uyanıyor</title></programme>
@@ -2000,7 +2010,8 @@
 <programme start="20240825121500 +0000" stop="20240825130000 +0000" channel="TV100.tr"><title lang="tr">Ebru Doğdu ile Eğitim...</title></programme>
 <programme start="20240825130000 +0000" stop="20240825131500 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240825131500 +0000" stop="20240825141500 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
-<programme start="20240825141500 +0000" stop="20240825160000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240825141500 +0000" stop="20240825150000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240825150000 +0000" stop="20240825160000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240825160000 +0000" stop="20240825173000 +0000" channel="TV100.tr"><title lang="tr">Hafta Sonu Ana Haber Bülteni</title></programme>
 <programme start="20240825173000 +0000" stop="20240825203000 +0000" channel="TV100.tr"><title lang="tr">Başak Şengül ile Doğru...</title></programme>
 <programme start="20240825203000 +0000" stop="20240825220000 +0000" channel="TV100.tr"><title lang="tr">Ersin Düzen ile Futbolun...</title></programme>
