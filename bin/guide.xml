@@ -134,12 +134,9 @@
 <programme start="20240826021000 +0000" stop="20240826050000 +0000" channel="ATV.tr"><title lang="tr">Bir Küçük Gün Işığı</title></programme>
 <programme start="20240826050000 +0000" stop="20240826070000 +0000" channel="ATV.tr"><title lang="tr">Kahvaltı Haberleri</title></programme>
 <programme start="20240826070000 +0000" stop="20240826100000 +0000" channel="ATV.tr"><title lang="tr">Sen Anlat Karadeniz</title></programme>
-<programme start="20240826100000 +0000" stop="20240826110000 +0000" channel="ATV.tr"><title lang="tr">Gün Ortası</title></programme>
-<programme start="20240826110000 +0000" stop="20240826130000 +0000" channel="ATV.tr"><title lang="tr">4n1k</title></programme>
-<programme start="20240826130000 +0000" stop="20240826160000 +0000" channel="ATV.tr"><title lang="tr">Alan</title></programme>
-<programme start="20240826160000 +0000" stop="20240826170000 +0000" channel="ATV.tr"><title lang="tr">ATV Ana Haber</title></programme>
-<programme start="20240826170000 +0000" stop="20240826194000 +0000" channel="ATV.tr"><title lang="tr">Dayı: Bir Adamın Hikayesi</title></programme>
-<programme start="20240826194000 +0000" stop="20240826215000 +0000" channel="ATV.tr"><title lang="tr">Siyah Giyen Adamlar 4:...</title></programme>
+<programme start="20240826100000 +0000" stop="20240826130000 +0000" channel="ATV.tr"><title lang="tr">Gün Ortası</title></programme>
+<programme start="20240826130000 +0000" stop="20240826160000 +0000" channel="ATV.tr"><title lang="tr">Kardeşlerim</title></programme>
+<programme start="20240826160000 +0000" stop="20240826222500 +0000" channel="ATV.tr"><title lang="tr">ATV Ana Haber</title></programme>
 <programme start="20240824203000 +0000" stop="20240824220000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Futbol</title></programme>
 <programme start="20240824220000 +0000" stop="20240825000000 +0000" channel="BeyazTV.tr"><title lang="tr">Orijinal Cinayetler</title></programme>
 <programme start="20240825000000 +0000" stop="20240825020000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
@@ -463,11 +460,14 @@
 <programme start="20240826084500 +0000" stop="20240826090000 +0000" channel="HaberturkTV.tr"><title lang="tr">Spor Bülteni</title></programme>
 <programme start="20240826090000 +0000" stop="20240826104500 +0000" channel="HaberturkTV.tr"><title lang="tr">Gün Ortası</title></programme>
 <programme start="20240826104500 +0000" stop="20240826110000 +0000" channel="HaberturkTV.tr"><title lang="tr">Spor Bülteni</title></programme>
-<programme start="20240826110000 +0000" stop="20240826124500 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Hattı</title></programme>
+<programme start="20240826110000 +0000" stop="20240826120000 +0000" channel="HaberturkTV.tr"><title lang="tr">Gün Ortası</title></programme>
+<programme start="20240826120000 +0000" stop="20240826124500 +0000" channel="HaberturkTV.tr"><title lang="tr">HT 360</title></programme>
 <programme start="20240826124500 +0000" stop="20240826130000 +0000" channel="HaberturkTV.tr"><title lang="tr">Spor Bülteni</title></programme>
 <programme start="20240826130000 +0000" stop="20240826150000 +0000" channel="HaberturkTV.tr"><title lang="tr">HT 360</title></programme>
 <programme start="20240826150000 +0000" stop="20240826170000 +0000" channel="HaberturkTV.tr"><title lang="tr">Ana Haber Bülteni</title></programme>
-<programme start="20240826170000 +0000" stop="20240826210000 +0000" channel="HaberturkTV.tr"><title lang="tr">Açık ve Net</title></programme>
+<programme start="20240826170000 +0000" stop="20240826173000 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240826173000 +0000" stop="20240826200000 +0000" channel="HaberturkTV.tr"><title lang="tr">Açık ve Net</title></programme>
+<programme start="20240826200000 +0000" stop="20240826220000 +0000" channel="HaberturkTV.tr"><title lang="tr">Mesut Yar ile Gece Hattı</title></programme>
 <programme start="20240824170000 +0000" stop="20240824220000 +0000" channel="HalkTV.tr"><title lang="tr">Nasıl Olacak?</title></programme>
 <programme start="20240824220000 +0000" stop="20240825000000 +0000" channel="HalkTV.tr"><title lang="tr">Halk TV&apos;de Bugün</title></programme>
 <programme start="20240825000000 +0000" stop="20240825030000 +0000" channel="HalkTV.tr"><title lang="tr">Halk TV&apos;de Bugün</title></programme>
@@ -1112,9 +1112,9 @@
 <programme start="20240826100000 +0000" stop="20240826105000 +0000" channel="NTV.tr"><title lang="tr">Öğle Bülteni</title></programme>
 <programme start="20240826105000 +0000" stop="20240826105500 +0000" channel="NTV.tr"><title lang="tr">Piyasalar</title></programme>
 <programme start="20240826105500 +0000" stop="20240826110000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20240826110000 +0000" stop="20240826110500 +0000" channel="NTV.tr"><title lang="tr">Öğle Bülteni</title></programme>
-<programme start="20240826110500 +0000" stop="20240826113500 +0000" channel="NTV.tr"><title lang="tr">Özel Röportaj: KKTC...</title></programme>
-<programme start="20240826113500 +0000" stop="20240826115000 +0000" channel="NTV.tr"><title lang="tr">Finans Kafe</title></programme>
+<programme start="20240826110000 +0000" stop="20240826112500 +0000" channel="NTV.tr"><title lang="tr">Öğle Bülteni</title></programme>
+<programme start="20240826112500 +0000" stop="20240826113000 +0000" channel="NTV.tr"><title lang="tr">Piyasalar</title></programme>
+<programme start="20240826113000 +0000" stop="20240826115000 +0000" channel="NTV.tr"><title lang="tr">Finans Kafe</title></programme>
 <programme start="20240826115000 +0000" stop="20240826115500 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
 <programme start="20240826115500 +0000" stop="20240826120000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20240826120000 +0000" stop="20240826124000 +0000" channel="NTV.tr"><title lang="tr">Öğle Bülteni</title></programme>
@@ -1901,14 +1901,14 @@
 <programme start="20240826124500 +0000" stop="20240826130000 +0000" channel="TRTTurk.tr"><title lang="tr">Allah Başka Dert Vermesin</title></programme>
 <programme start="20240826130000 +0000" stop="20240826134500 +0000" channel="TRTTurk.tr"><title lang="tr">Böyle Bitmesin</title></programme>
 <programme start="20240826134500 +0000" stop="20240826140000 +0000" channel="TRTTurk.tr"><title lang="tr">Şef Olacak Çocuk</title></programme>
-<programme start="20240826140000 +0000" stop="20240826154500 +0000" channel="TRTTurk.tr"><title lang="tr">Tozkoparan İskender: 1071</title></programme>
+<programme start="20240826140000 +0000" stop="20240826154500 +0000" channel="TRTTurk.tr"><title lang="tr">Türk Sineması Tozkoparan...</title></programme>
 <programme start="20240826154500 +0000" stop="20240826160000 +0000" channel="TRTTurk.tr"><title lang="tr">Mikrofon Senin Anadolu</title></programme>
 <programme start="20240826160000 +0000" stop="20240826164500 +0000" channel="TRTTurk.tr"><title lang="tr">Sıcak Haber</title></programme>
 <programme start="20240826164500 +0000" stop="20240826170000 +0000" channel="TRTTurk.tr"><title lang="tr">Kalbin İçindekiler</title></programme>
 <programme start="20240826170000 +0000" stop="20240826174500 +0000" channel="TRTTurk.tr"><title lang="tr">Gönül Dağı</title></programme>
 <programme start="20240826174500 +0000" stop="20240826183000 +0000" channel="TRTTurk.tr"><title lang="tr">Diriliş Ertuğrul</title></programme>
 <programme start="20240826183000 +0000" stop="20240826193000 +0000" channel="TRTTurk.tr"><title lang="tr">Seksenler</title></programme>
-<programme start="20240826193000 +0000" stop="20240826213500 +0000" channel="TRTTurk.tr"><title lang="tr">Malazgirt 1071: Bizans&apos;ın...</title></programme>
+<programme start="20240826193000 +0000" stop="20240826213500 +0000" channel="TRTTurk.tr"><title lang="tr">Türk Sineması Malazgirt...</title></programme>
 <programme start="20240824160000 +0000" stop="20240824211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240824211500 +0000" stop="20240824234500 +0000" channel="TV8.tr"><title lang="tr">Parola Parola</title></programme>
 <programme start="20240824234500 +0000" stop="20240825014500 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
