@@ -1403,11 +1403,31 @@
 <programme start="20240826200000 +0000" stop="20240826220000 +0000" channel="TRT3.tr"><title lang="tr">Stadyum</title></programme>
 <programme start="20240826200000 +0000" stop="20240826220000 +0000" channel="TRT3.tr"><title lang="tr">Stadyum</title></programme>
 <programme start="20240826220000 +0000" stop="20240826230000 +0000" channel="TRT3.tr"><title lang="tr">Teknik Analiz</title></programme>
-<programme start="20240826230000 +0000" stop="20240826233000 +0000" channel="TRT3.tr"><title lang="tr">Trendyol Süper Lig Özetler</title></programme>
-<programme start="20240826233000 +0000" stop="20240827000000 +0000" channel="TRT3.tr"><title lang="tr">Trendyol 1. Lig Özetler</title></programme>
+<programme start="20240826230000 +0000" stop="20240826232000 +0000" channel="TRT3.tr"><title lang="tr">Trendyol Süper Lig Özetler</title></programme>
+<programme start="20240826232000 +0000" stop="20240826235000 +0000" channel="TRT3.tr"><title lang="tr">Trendyol 1. Lig Özetler</title></programme>
+<programme start="20240826235000 +0000" stop="20240827000000 +0000" channel="TRT3.tr"><title lang="tr">İskoçya Premiership Özetler</title></programme>
 <programme start="20240827000000 +0000" stop="20240827020000 +0000" channel="TRT3.tr"><title lang="tr">Stadyum</title></programme>
 <programme start="20240827020000 +0000" stop="20240827034500 +0000" channel="TRT3.tr"><title lang="tr">İstanbulspor-Şanlıurfaspor</title></programme>
-<programme start="20240827034500 +0000" stop="20240827074500 +0000" channel="TRT3.tr"><title lang="tr">Trendyol 1. Lig Özetler</title></programme>
+<programme start="20240827034500 +0000" stop="20240827035800 +0000" channel="TRT3.tr"><title lang="tr">Trendyol Süper Lig Özetler</title></programme>
+<programme start="20240827035800 +0000" stop="20240827040000 +0000" channel="TRT3.tr"><title lang="tr">İstiklal Marşı</title></programme>
+<programme start="20240827040000 +0000" stop="20240827055500 +0000" channel="TRT3.tr"><title lang="tr">İlk Baskı</title></programme>
+<programme start="20240827055500 +0000" stop="20240827060000 +0000" channel="TRT3.tr"><title lang="tr">Spor Takvimi</title></programme>
+<programme start="20240827060000 +0000" stop="20240827061500 +0000" channel="TRT3.tr"><title lang="tr">İşitme Engelliler Spor...</title></programme>
+<programme start="20240827061500 +0000" stop="20240827064000 +0000" channel="TRT3.tr"><title lang="tr">Trendyol 1. Lig Özetler</title></programme>
+<programme start="20240827064000 +0000" stop="20240827070000 +0000" channel="TRT3.tr"><title lang="tr">Trendyol Süper Lig Özetler</title></programme>
+<programme start="20240827070000 +0000" stop="20240827080000 +0000" channel="TRT3.tr"><title lang="tr">Spor Bülteni</title></programme>
+<programme start="20240827080000 +0000" stop="20240827090000 +0000" channel="TRT3.tr"><title lang="tr">Spor Manşet</title></programme>
+<programme start="20240827090000 +0000" stop="20240827100000 +0000" channel="TRT3.tr"><title lang="tr">Gün Ortası</title></programme>
+<programme start="20240827100000 +0000" stop="20240827110000 +0000" channel="TRT3.tr"><title lang="tr">Haber Merkezi</title></programme>
+<programme start="20240827110000 +0000" stop="20240827130000 +0000" channel="TRT3.tr"><title lang="tr">Spor Stüdyosu</title></programme>
+<programme start="20240827130000 +0000" stop="20240827143000 +0000" channel="TRT3.tr"><title lang="tr">Hedef Süper Lig</title></programme>
+<programme start="20240827143000 +0000" stop="20240827150000 +0000" channel="TRT3.tr"><title lang="tr">Dünyadan Spor</title></programme>
+<programme start="20240827150000 +0000" stop="20240827160000 +0000" channel="TRT3.tr"><title lang="tr">Spor Merkezi</title></programme>
+<programme start="20240827160000 +0000" stop="20240827190000 +0000" channel="TRT3.tr"><title lang="tr">Maç Özel</title></programme>
+<programme start="20240827190000 +0000" stop="20240827193500 +0000" channel="TRT3.tr"><title lang="tr">İtalya Seri A Özetler</title></programme>
+<programme start="20240827193500 +0000" stop="20240827194500 +0000" channel="TRT3.tr"><title lang="tr">Hollanda Eredivisie Goller</title></programme>
+<programme start="20240827194500 +0000" stop="20240827200000 +0000" channel="TRT3.tr"><title lang="tr">Maç Özel</title></programme>
+<programme start="20240827200000 +0000" stop="20240827210000 +0000" channel="TRT3.tr"><title lang="tr">Spor Akşamı</title></programme>
 <programme start="20240825202000 +0000" stop="20240825211500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Guguk Kuşu - Yuvamdaki...</title></programme>
 <programme start="20240825211500 +0000" stop="20240825221000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Geleneği Yaşatmak</title></programme>
 <programme start="20240825221000 +0000" stop="20240825224000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Yiyeceğin Serüveni</title></programme>
@@ -1645,15 +1665,15 @@
 <programme start="20240826195500 +0000" stop="20240826200000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Spor Takvimi</title></programme>
 <programme start="20240826200000 +0000" stop="20240826223000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
 <programme start="20240826200000 +0000" stop="20240826223000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
-<programme start="20240826223000 +0000" stop="20240826224500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240826224500 +0000" stop="20240827002500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">ABD - Fransa</title></programme>
-<programme start="20240827002500 +0000" stop="20240827015500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Almanya - Danimarka</title></programme>
-<programme start="20240827015500 +0000" stop="20240827031000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">663. Tarihi Kırkpınar...</title></programme>
-<programme start="20240827031000 +0000" stop="20240827034000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Adım Adım</title></programme>
-<programme start="20240827034000 +0000" stop="20240827035500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Yapabilir Misin?</title></programme>
-<programme start="20240827035500 +0000" stop="20240827115500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Olimpiyat Hikayeleri</title></programme>
-<programme start="20240827115500 +0000" stop="20240827195500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Olimpiyat Hikayeleri</title></programme>
-<programme start="20240827195500 +0000" stop="20240828035500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Olimpiyat Hikayeleri</title></programme>
+<programme start="20240826221000 +0000" stop="20240827012000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">7. Açık Balkan Wushu...</title></programme>
+<programme start="20240827012000 +0000" stop="20240827013500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240827013500 +0000" stop="20240827025000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240827025000 +0000" stop="20240827030500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Olimpiyatın Gözü: Mine...</title></programme>
+<programme start="20240827030500 +0000" stop="20240827032500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Başaranlar</title></programme>
+<programme start="20240827032500 +0000" stop="20240827035500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240827035500 +0000" stop="20240827115500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Kadraj</title></programme>
+<programme start="20240827115500 +0000" stop="20240827195500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Kadraj</title></programme>
+<programme start="20240827195500 +0000" stop="20240828035500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Kadraj</title></programme>
 <programme start="20240825204500 +0000" stop="20240825213000 +0000" channel="TRTTurk.tr"><title lang="tr">Uyanış: Büyük Selçuklu</title></programme>
 <programme start="20240825213000 +0000" stop="20240825223000 +0000" channel="TRTTurk.tr"><title lang="tr">Haberdar</title></programme>
 <programme start="20240825223000 +0000" stop="20240825234500 +0000" channel="TRTTurk.tr"><title lang="tr">Tutunamayanlar</title></programme>
