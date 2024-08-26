@@ -97,8 +97,8 @@
 <programme start="20240826175000 +0000" stop="20240826180000 +0000" channel="AHaber.tr"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20240826180000 +0000" stop="20240826210000 +0000" channel="AHaber.tr"><title lang="tr">Sebep Sonuç</title></programme>
 <programme start="20240826210000 +0000" stop="20240826230000 +0000" channel="AHaber.tr"><title lang="tr">Gece Ajansı</title></programme>
-<programme start="20240826230000 +0000" stop="20240827003000 +0000" channel="AHaber.tr"><title lang="tr">A Haber Gece</title></programme>
-<programme start="20240827003000 +0000" stop="20240827020000 +0000" channel="AHaber.tr"><title lang="tr">Sebep Sonuç</title></programme>
+<programme start="20240826230000 +0000" stop="20240827000000 +0000" channel="AHaber.tr"><title lang="tr">A Haber Gece</title></programme>
+<programme start="20240827000000 +0000" stop="20240827020000 +0000" channel="AHaber.tr"><title lang="tr">Sebep Sonuç</title></programme>
 <programme start="20240827020000 +0000" stop="20240827030000 +0000" channel="AHaber.tr"><title lang="tr">Ajans Yeni Gün</title></programme>
 <programme start="20240827030000 +0000" stop="20240827035500 +0000" channel="AHaber.tr"><title lang="tr">Sabah Ajansı</title></programme>
 <programme start="20240827035500 +0000" stop="20240827040000 +0000" channel="AHaber.tr"><title lang="tr">Hava Durumu</title></programme>
