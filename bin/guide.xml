@@ -301,7 +301,7 @@
 <programme start="20240827130000 +0000" stop="20240827140000 +0000" channel="CNNTurk.tr"><title lang="tr">Günlük</title></programme>
 <programme start="20240827140000 +0000" stop="20240827150000 +0000" channel="CNNTurk.tr"><title lang="tr">Günlük</title></programme>
 <programme start="20240827150000 +0000" stop="20240827174500 +0000" channel="CNNTurk.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240827174500 +0000" stop="20240827220000 +0000" channel="CNNTurk.tr"><title lang="tr">Gece Görüşü</title></programme>
+<programme start="20240827174500 +0000" stop="20240827220000 +0000" channel="CNNTurk.tr"><title lang="tr">Ne Oluyor?</title></programme>
 <programme start="20240825234000 +0000" stop="20240826005500 +0000" channel="EuroD.tr"><title lang="tr">Güneşi Beklerken</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p15270797ih10aa_Iconic_w1920.webp</image></programme>
 <programme start="20240826005500 +0000" stop="20240826025000 +0000" channel="EuroD.tr"><title lang="tr">5N1K</title><desc lang="tr">Gündemin öne çikan konulari önemli konuklar ve özel haber dosyalari ile farkli bir acidan ele aliniyor. Kimi zaman sahadan kimi zaman stüdyodan bildiriliyor.</desc><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/700.701_genre_w1920.webp</image></programme>
 <programme start="20240826025000 +0000" stop="20240826040000 +0000" channel="EuroD.tr"><title lang="tr">Dönence</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p25033992ih8ab_Iconic_w1920.webp</image></programme>
@@ -382,8 +382,7 @@
 <programme start="20240827124500 +0000" stop="20240827130000 +0000" channel="HaberturkTV.tr"><title lang="tr">Spor Bülteni</title></programme>
 <programme start="20240827130000 +0000" stop="20240827150000 +0000" channel="HaberturkTV.tr"><title lang="tr">HT 360</title></programme>
 <programme start="20240827150000 +0000" stop="20240827170000 +0000" channel="HaberturkTV.tr"><title lang="tr">Ana Haber Bülteni</title></programme>
-<programme start="20240827170000 +0000" stop="20240827200000 +0000" channel="HaberturkTV.tr"><title lang="tr">Olaylar ve Görüşler</title></programme>
-<programme start="20240827200000 +0000" stop="20240827220000 +0000" channel="HaberturkTV.tr"><title lang="tr">Mesut Yar ile Gece Hattı</title></programme>
+<programme start="20240827170000 +0000" stop="20240827210000 +0000" channel="HaberturkTV.tr"><title lang="tr">Olaylar ve Görüşler</title></programme>
 <programme start="20240825180000 +0000" stop="20240825220000 +0000" channel="HalkTV.tr"><title lang="tr">Sansürsüz</title></programme>
 <programme start="20240825220000 +0000" stop="20240826000000 +0000" channel="HalkTV.tr"><title lang="tr">Halk TV&apos;de Bugün</title></programme>
 <programme start="20240826000000 +0000" stop="20240826030000 +0000" channel="HalkTV.tr"><title lang="tr">Halk TV&apos;de Bugün</title></programme>
@@ -605,7 +604,88 @@
 <programme start="20240827013000 +0000" stop="20240827020000 +0000" channel="MinikaGo.tr"><title lang="tr">Kratt Kardeşler</title></programme>
 <programme start="20240827020000 +0000" stop="20240827021500 +0000" channel="MinikaGo.tr"><title lang="tr">Mondoyan</title></programme>
 <programme start="20240827021500 +0000" stop="20240827023000 +0000" channel="MinikaGo.tr"><title lang="tr">Mondoyan</title></programme>
-<programme start="20240827023000 +0000" stop="20240827063000 +0000" channel="MinikaGo.tr"><title lang="tr">Peter Pan</title></programme>
+<programme start="20240827023000 +0000" stop="20240827030000 +0000" channel="MinikaGo.tr"><title lang="tr">Peter Pan</title></programme>
+<programme start="20240827030000 +0000" stop="20240827031500 +0000" channel="MinikaGo.tr"><title lang="tr">Berry Bees</title></programme>
+<programme start="20240827031500 +0000" stop="20240827033000 +0000" channel="MinikaGo.tr"><title lang="tr">Berry Bees</title></programme>
+<programme start="20240827033000 +0000" stop="20240827034500 +0000" channel="MinikaGo.tr"><title lang="tr">Alpman</title></programme>
+<programme start="20240827034500 +0000" stop="20240827040000 +0000" channel="MinikaGo.tr"><title lang="tr">Alpman</title></programme>
+<programme start="20240827040000 +0000" stop="20240827041000 +0000" channel="MinikaGo.tr"><title lang="tr">Hızlı Ayaklar</title></programme>
+<programme start="20240827041000 +0000" stop="20240827042000 +0000" channel="MinikaGo.tr"><title lang="tr">Hızlı Ayaklar</title></programme>
+<programme start="20240827042000 +0000" stop="20240827043000 +0000" channel="MinikaGo.tr"><title lang="tr">Hızlı Ayaklar</title></programme>
+<programme start="20240827043000 +0000" stop="20240827044500 +0000" channel="MinikaGo.tr"><title lang="tr">Efsane Spark</title></programme>
+<programme start="20240827044500 +0000" stop="20240827050000 +0000" channel="MinikaGo.tr"><title lang="tr">Efsane Spark</title></programme>
+<programme start="20240827050000 +0000" stop="20240827051500 +0000" channel="MinikaGo.tr"><title lang="tr">Petronix</title></programme>
+<programme start="20240827051500 +0000" stop="20240827053000 +0000" channel="MinikaGo.tr"><title lang="tr">Petronix</title></programme>
+<programme start="20240827053000 +0000" stop="20240827053500 +0000" channel="MinikaGo.tr"><title lang="tr">Maceracı Yüzgeçler</title></programme>
+<programme start="20240827053500 +0000" stop="20240827054000 +0000" channel="MinikaGo.tr"><title lang="tr">Maceracı Yüzgeçler</title></programme>
+<programme start="20240827054000 +0000" stop="20240827054500 +0000" channel="MinikaGo.tr"><title lang="tr">Maceracı Yüzgeçler</title></programme>
+<programme start="20240827054500 +0000" stop="20240827060000 +0000" channel="MinikaGo.tr"><title lang="tr">Maceracı Yüzgeçler</title></programme>
+<programme start="20240827060000 +0000" stop="20240827061000 +0000" channel="MinikaGo.tr"><title lang="tr">Neşeli Dünyam</title></programme>
+<programme start="20240827061000 +0000" stop="20240827062000 +0000" channel="MinikaGo.tr"><title lang="tr">Neşeli Dünyam</title></programme>
+<programme start="20240827062000 +0000" stop="20240827063000 +0000" channel="MinikaGo.tr"><title lang="tr">Neşeli Dünyam</title></programme>
+<programme start="20240827063000 +0000" stop="20240827064500 +0000" channel="MinikaGo.tr"><title lang="tr">İstanbul Muhafızları</title></programme>
+<programme start="20240827064500 +0000" stop="20240827070000 +0000" channel="MinikaGo.tr"><title lang="tr">İstanbul Muhafızları</title></programme>
+<programme start="20240827070000 +0000" stop="20240827070800 +0000" channel="MinikaGo.tr"><title lang="tr">Koyun Shaun</title></programme>
+<programme start="20240827070800 +0000" stop="20240827071600 +0000" channel="MinikaGo.tr"><title lang="tr">Koyun Shaun</title></programme>
+<programme start="20240827071600 +0000" stop="20240827072400 +0000" channel="MinikaGo.tr"><title lang="tr">Koyun Shaun</title></programme>
+<programme start="20240827072400 +0000" stop="20240827073000 +0000" channel="MinikaGo.tr"><title lang="tr">Koyun Shaun</title></programme>
+<programme start="20240827073000 +0000" stop="20240827080000 +0000" channel="MinikaGo.tr"><title lang="tr">Dört Dörtlük Dedektif</title></programme>
+<programme start="20240827080000 +0000" stop="20240827083000 +0000" channel="MinikaGo.tr"><title lang="tr">Team Dronix</title></programme>
+<programme start="20240827083000 +0000" stop="20240827090000 +0000" channel="MinikaGo.tr"><title lang="tr">Akıncı</title></programme>
+<programme start="20240827090000 +0000" stop="20240827091500 +0000" channel="MinikaGo.tr"><title lang="tr">Sonic Boom</title></programme>
+<programme start="20240827091500 +0000" stop="20240827093000 +0000" channel="MinikaGo.tr"><title lang="tr">Sonic Boom</title></programme>
+<programme start="20240827093000 +0000" stop="20240827093800 +0000" channel="MinikaGo.tr"><title lang="tr">Oscar Çöllerde</title></programme>
+<programme start="20240827093800 +0000" stop="20240827094600 +0000" channel="MinikaGo.tr"><title lang="tr">Oscar Çöllerde</title></programme>
+<programme start="20240827094600 +0000" stop="20240827095400 +0000" channel="MinikaGo.tr"><title lang="tr">Oscar Çöllerde</title></programme>
+<programme start="20240827095400 +0000" stop="20240827100000 +0000" channel="MinikaGo.tr"><title lang="tr">Oscar Çöllerde</title></programme>
+<programme start="20240827100000 +0000" stop="20240827103000 +0000" channel="MinikaGo.tr"><title lang="tr">Peter Pan</title></programme>
+<programme start="20240827103000 +0000" stop="20240827104500 +0000" channel="MinikaGo.tr"><title lang="tr">Efsane Spark</title></programme>
+<programme start="20240827104500 +0000" stop="20240827110000 +0000" channel="MinikaGo.tr"><title lang="tr">Efsane Spark</title></programme>
+<programme start="20240827110000 +0000" stop="20240827111500 +0000" channel="MinikaGo.tr"><title lang="tr">Xavier ve Gizli Müze</title></programme>
+<programme start="20240827111500 +0000" stop="20240827113000 +0000" channel="MinikaGo.tr"><title lang="tr">Xavier ve Gizli Müze</title></programme>
+<programme start="20240827113000 +0000" stop="20240827114500 +0000" channel="MinikaGo.tr"><title lang="tr">Bizim Joey</title></programme>
+<programme start="20240827114500 +0000" stop="20240827120000 +0000" channel="MinikaGo.tr"><title lang="tr">Bizim Joey</title></programme>
+<programme start="20240827120000 +0000" stop="20240827121500 +0000" channel="MinikaGo.tr"><title lang="tr">Petronix</title></programme>
+<programme start="20240827121500 +0000" stop="20240827123000 +0000" channel="MinikaGo.tr"><title lang="tr">Petronix</title></programme>
+<programme start="20240827123000 +0000" stop="20240827130000 +0000" channel="MinikaGo.tr"><title lang="tr">Kratt Kardeşler</title></programme>
+<programme start="20240827130000 +0000" stop="20240827130800 +0000" channel="MinikaGo.tr"><title lang="tr">Koyun Shaun</title></programme>
+<programme start="20240827130800 +0000" stop="20240827131600 +0000" channel="MinikaGo.tr"><title lang="tr">Koyun Shaun</title></programme>
+<programme start="20240827131600 +0000" stop="20240827132400 +0000" channel="MinikaGo.tr"><title lang="tr">Koyun Shaun</title></programme>
+<programme start="20240827132400 +0000" stop="20240827133000 +0000" channel="MinikaGo.tr"><title lang="tr">Koyun Shaun</title></programme>
+<programme start="20240827133000 +0000" stop="20240827134500 +0000" channel="MinikaGo.tr"><title lang="tr">İstanbul Muhafızları</title></programme>
+<programme start="20240827134500 +0000" stop="20240827140000 +0000" channel="MinikaGo.tr"><title lang="tr">İstanbul Muhafızları</title></programme>
+<programme start="20240827140000 +0000" stop="20240827143000 +0000" channel="MinikaGo.tr"><title lang="tr">Dört Dörtlük Dedektif</title></programme>
+<programme start="20240827143000 +0000" stop="20240827143800 +0000" channel="MinikaGo.tr"><title lang="tr">Oscar Çöllerde</title></programme>
+<programme start="20240827143800 +0000" stop="20240827144600 +0000" channel="MinikaGo.tr"><title lang="tr">Oscar Çöllerde</title></programme>
+<programme start="20240827144600 +0000" stop="20240827145400 +0000" channel="MinikaGo.tr"><title lang="tr">Oscar Çöllerde</title></programme>
+<programme start="20240827145400 +0000" stop="20240827150000 +0000" channel="MinikaGo.tr"><title lang="tr">Oscar Çöllerde</title></programme>
+<programme start="20240827150000 +0000" stop="20240827153000 +0000" channel="MinikaGo.tr"><title lang="tr">Team Dronix</title></programme>
+<programme start="20240827153000 +0000" stop="20240827154500 +0000" channel="MinikaGo.tr"><title lang="tr">Sonic Boom</title></programme>
+<programme start="20240827154500 +0000" stop="20240827160000 +0000" channel="MinikaGo.tr"><title lang="tr">Sonic Boom</title></programme>
+<programme start="20240827160000 +0000" stop="20240827163000 +0000" channel="MinikaGo.tr"><title lang="tr">Akıncı</title></programme>
+<programme start="20240827163000 +0000" stop="20240827170000 +0000" channel="MinikaGo.tr"><title lang="tr">Mechamato</title></programme>
+<programme start="20240827170000 +0000" stop="20240827170800 +0000" channel="MinikaGo.tr"><title lang="tr">Koyun Shaun</title></programme>
+<programme start="20240827170800 +0000" stop="20240827171600 +0000" channel="MinikaGo.tr"><title lang="tr">Koyun Shaun</title></programme>
+<programme start="20240827171600 +0000" stop="20240827172400 +0000" channel="MinikaGo.tr"><title lang="tr">Koyun Shaun</title></programme>
+<programme start="20240827172400 +0000" stop="20240827173000 +0000" channel="MinikaGo.tr"><title lang="tr">Koyun Shaun</title></programme>
+<programme start="20240827173000 +0000" stop="20240827180000 +0000" channel="MinikaGo.tr"><title lang="tr">GGO Futbol</title></programme>
+<programme start="20240827180000 +0000" stop="20240827181500 +0000" channel="MinikaGo.tr"><title lang="tr">Mondoyan</title></programme>
+<programme start="20240827181500 +0000" stop="20240827183000 +0000" channel="MinikaGo.tr"><title lang="tr">Mondoyan</title></programme>
+<programme start="20240827183000 +0000" stop="20240827183800 +0000" channel="MinikaGo.tr"><title lang="tr">Oscar Çöllerde</title></programme>
+<programme start="20240827183800 +0000" stop="20240827184600 +0000" channel="MinikaGo.tr"><title lang="tr">Oscar Çöllerde</title></programme>
+<programme start="20240827184600 +0000" stop="20240827185400 +0000" channel="MinikaGo.tr"><title lang="tr">Oscar Çöllerde</title></programme>
+<programme start="20240827185400 +0000" stop="20240827190000 +0000" channel="MinikaGo.tr"><title lang="tr">Oscar Çöllerde</title></programme>
+<programme start="20240827190000 +0000" stop="20240827191500 +0000" channel="MinikaGo.tr"><title lang="tr">İstanbul Muhafızları</title></programme>
+<programme start="20240827191500 +0000" stop="20240827193000 +0000" channel="MinikaGo.tr"><title lang="tr">İstanbul Muhafızları</title></programme>
+<programme start="20240827193000 +0000" stop="20240827193800 +0000" channel="MinikaGo.tr"><title lang="tr">Neşeli Dünyam</title></programme>
+<programme start="20240827193800 +0000" stop="20240827194600 +0000" channel="MinikaGo.tr"><title lang="tr">Neşeli Dünyam</title></programme>
+<programme start="20240827194600 +0000" stop="20240827195400 +0000" channel="MinikaGo.tr"><title lang="tr">Neşeli Dünyam</title></programme>
+<programme start="20240827195400 +0000" stop="20240827200000 +0000" channel="MinikaGo.tr"><title lang="tr">Neşeli Dünyam</title></programme>
+<programme start="20240827200000 +0000" stop="20240827200800 +0000" channel="MinikaGo.tr"><title lang="tr">Maceracı Yüzgeçler</title></programme>
+<programme start="20240827200800 +0000" stop="20240827201600 +0000" channel="MinikaGo.tr"><title lang="tr">Maceracı Yüzgeçler</title></programme>
+<programme start="20240827201600 +0000" stop="20240827202400 +0000" channel="MinikaGo.tr"><title lang="tr">Maceracı Yüzgeçler</title></programme>
+<programme start="20240827202400 +0000" stop="20240827203000 +0000" channel="MinikaGo.tr"><title lang="tr">Maceracı Yüzgeçler</title></programme>
+<programme start="20240827203000 +0000" stop="20240827210000 +0000" channel="MinikaGo.tr"><title lang="tr">Akıncı</title></programme>
 <programme start="20240825210000 +0000" stop="20240825213000 +0000" channel="NTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240825213000 +0000" stop="20240825215500 +0000" channel="NTV.tr"><title lang="tr">0--100</title></programme>
 <programme start="20240825215500 +0000" stop="20240825220000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
@@ -813,7 +893,7 @@
 <programme start="20240826203000 +0000" stop="20240826221500 +0000" channel="StarTV.tr"><title lang="tr">Sen Kimsin</title></programme>
 <programme start="20240826203000 +0000" stop="20240826221500 +0000" channel="StarTV.tr"><title lang="tr">Sen Kimsin</title></programme>
 <programme start="20240826221500 +0000" stop="20240827003000 +0000" channel="StarTV.tr"><title lang="tr">Yalı Çapkını</title></programme>
-<programme start="20240827003000 +0000" stop="20240827023000 +0000" channel="StarTV.tr"><title lang="tr">Dizi</title></programme>
+<programme start="20240827003000 +0000" stop="20240827023000 +0000" channel="StarTV.tr"><title lang="tr">Dürüye&apos;nin Güğümleri</title></programme>
 <programme start="20240827023000 +0000" stop="20240827040000 +0000" channel="StarTV.tr"><title lang="tr">Kiralık Aşk</title></programme>
 <programme start="20240827040000 +0000" stop="20240827064500 +0000" channel="StarTV.tr"><title lang="tr">Güne Başlarken</title></programme>
 <programme start="20240827064500 +0000" stop="20240827100000 +0000" channel="StarTV.tr"><title lang="tr">Sana Değer</title></programme>
@@ -1241,9 +1321,32 @@
 <programme start="20240827025000 +0000" stop="20240827030500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Olimpiyatın Gözü: Mine...</title></programme>
 <programme start="20240827030500 +0000" stop="20240827032500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Başaranlar</title></programme>
 <programme start="20240827032500 +0000" stop="20240827035500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
-<programme start="20240827035500 +0000" stop="20240827115500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Kadraj</title></programme>
-<programme start="20240827115500 +0000" stop="20240827195500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Kadraj</title></programme>
-<programme start="20240827195500 +0000" stop="20240828035500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Kadraj</title></programme>
+<programme start="20240827035500 +0000" stop="20240827035800 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Kadraj</title></programme>
+<programme start="20240827035800 +0000" stop="20240827040000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">İstiklal Marşı</title></programme>
+<programme start="20240827040000 +0000" stop="20240827041500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240827041500 +0000" stop="20240827060000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Beşiktaş - Spor Toto</title></programme>
+<programme start="20240827060000 +0000" stop="20240827061500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240827061500 +0000" stop="20240827062000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Spor Takvimi</title></programme>
+<programme start="20240827062000 +0000" stop="20240827064000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">İşte O An</title></programme>
+<programme start="20240827064000 +0000" stop="20240827065500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Olimpiyat Yıldızları</title></programme>
+<programme start="20240827065500 +0000" stop="20240827070500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Çare Spor</title></programme>
+<programme start="20240827070500 +0000" stop="20240827090000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Elmas Lig Lozan</title></programme>
+<programme start="20240827090000 +0000" stop="20240827092000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Engelsiz Spor</title></programme>
+<programme start="20240827092000 +0000" stop="20240827100500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Kusursuz Bir Gösteri...</title></programme>
+<programme start="20240827100500 +0000" stop="20240827102000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Yapabilir Misin?</title></programme>
+<programme start="20240827102000 +0000" stop="20240827103000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Rekortmen</title></programme>
+<programme start="20240827103000 +0000" stop="20240827104500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240827104500 +0000" stop="20240827124500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">36. Samsung Boğaziçi...</title></programme>
+<programme start="20240827124500 +0000" stop="20240827131000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Bir Seçenek Daha Var</title></programme>
+<programme start="20240827131000 +0000" stop="20240827151000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Elmas Lig Silesia</title></programme>
+<programme start="20240827151000 +0000" stop="20240827155500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Kusursuz Bir Gösteri...</title></programme>
+<programme start="20240827155500 +0000" stop="20240827175000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Yalıkavak SK-Yenimahalle Bld.</title></programme>
+<programme start="20240827175000 +0000" stop="20240827180500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Yapabilir Misin?</title></programme>
+<programme start="20240827180500 +0000" stop="20240827194500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Fransa - ABD</title></programme>
+<programme start="20240827194500 +0000" stop="20240827195500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Sporcu Günlüğü</title></programme>
+<programme start="20240827195500 +0000" stop="20240827200000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Nedir, Nasıl Oynanır?</title></programme>
+<programme start="20240827200000 +0000" stop="20240827201500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240827201500 +0000" stop="20240827230500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">7. Açık Balkan Wushu...</title></programme>
 <programme start="20240825204500 +0000" stop="20240825213000 +0000" channel="TRTTurk.tr"><title lang="tr">Uyanış: Büyük Selçuklu</title></programme>
 <programme start="20240825213000 +0000" stop="20240825223000 +0000" channel="TRTTurk.tr"><title lang="tr">Haberdar</title></programme>
 <programme start="20240825223000 +0000" stop="20240825234500 +0000" channel="TRTTurk.tr"><title lang="tr">Tutunamayanlar</title></programme>
@@ -1376,7 +1479,32 @@
 <programme start="20240826200000 +0000" stop="20240826204500 +0000" channel="TV85.tr"><title lang="tr">Galatasaray Basın...</title></programme>
 <programme start="20240826204500 +0000" stop="20240826220000 +0000" channel="TV85.tr"><title lang="tr">Top Bizde</title></programme>
 <programme start="20240826204500 +0000" stop="20240826220000 +0000" channel="TV85.tr"><title lang="tr">Top Bizde</title></programme>
-<programme start="20240826220000 +0000" stop="20240827001000 +0000" channel="TV85.tr"><title lang="tr">Hollanda Eredivisie 3....</title></programme>
+<programme start="20240826220000 +0000" stop="20240826234500 +0000" channel="TV85.tr"><title lang="tr">Hollanda Eredivisie 3....</title></programme>
+<programme start="20240826234500 +0000" stop="20240827001500 +0000" channel="TV85.tr"><title lang="tr">Teknik Bakış</title></programme>
+<programme start="20240827001500 +0000" stop="20240827011500 +0000" channel="TV85.tr"><title lang="tr">Top Bizde</title></programme>
+<programme start="20240827011500 +0000" stop="20240827014500 +0000" channel="TV85.tr"><title lang="tr">Galatasaray Basın...</title></programme>
+<programme start="20240827014500 +0000" stop="20240827022500 +0000" channel="TV85.tr"><title lang="tr">İngiltere Championship 3....</title></programme>
+<programme start="20240827022500 +0000" stop="20240827030000 +0000" channel="TV85.tr"><title lang="tr">Yunanistan Süper Ligi 2....</title></programme>
+<programme start="20240827030000 +0000" stop="20240827033000 +0000" channel="TV85.tr"><title lang="tr">Dender - Club Brugge</title></programme>
+<programme start="20240827033000 +0000" stop="20240827040000 +0000" channel="TV85.tr"><title lang="tr">Bir Zamanlar</title></programme>
+<programme start="20240827040000 +0000" stop="20240827051500 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
+<programme start="20240827051500 +0000" stop="20240827060000 +0000" channel="TV85.tr"><title lang="tr">Yunanistan Süper Ligi 2....</title></programme>
+<programme start="20240827060000 +0000" stop="20240827065000 +0000" channel="TV85.tr"><title lang="tr">İngiltere Championship 3....</title></programme>
+<programme start="20240827065000 +0000" stop="20240827072000 +0000" channel="TV85.tr"><title lang="tr">Teknik Bakış</title></programme>
+<programme start="20240827072000 +0000" stop="20240827085000 +0000" channel="TV85.tr"><title lang="tr">Top Bizde</title></programme>
+<programme start="20240827085000 +0000" stop="20240827090000 +0000" channel="TV85.tr"><title lang="tr">Efsaneler / Ronaldo</title></programme>
+<programme start="20240827090000 +0000" stop="20240827093000 +0000" channel="TV85.tr"><title lang="tr">Galatasaray Basın...</title></programme>
+<programme start="20240827093000 +0000" stop="20240827105500 +0000" channel="TV85.tr"><title lang="tr">Hollanda Eredivisie 3....</title></programme>
+<programme start="20240827105500 +0000" stop="20240827121500 +0000" channel="TV85.tr"><title lang="tr">Kick Off</title></programme>
+<programme start="20240827121500 +0000" stop="20240827130000 +0000" channel="TV85.tr"><title lang="tr">İngiltere Championship 3....</title></programme>
+<programme start="20240827130000 +0000" stop="20240827134500 +0000" channel="TV85.tr"><title lang="tr">Yunanistan Süper Ligi 2....</title></programme>
+<programme start="20240827134500 +0000" stop="20240827141000 +0000" channel="TV85.tr"><title lang="tr">Fokus</title></programme>
+<programme start="20240827141000 +0000" stop="20240827153500 +0000" channel="TV85.tr"><title lang="tr">Hollanda Eredivisie 3....</title></programme>
+<programme start="20240827153500 +0000" stop="20240827160500 +0000" channel="TV85.tr"><title lang="tr">Teknik Bakış</title></programme>
+<programme start="20240827160500 +0000" stop="20240827170000 +0000" channel="TV85.tr"><title lang="tr">Belçika Pro Lig 5. Hafta...</title></programme>
+<programme start="20240827170000 +0000" stop="20240827180000 +0000" channel="TV85.tr"><title lang="tr">İngiltere Championship 3....</title></programme>
+<programme start="20240827180000 +0000" stop="20240827190000 +0000" channel="TV85.tr"><title lang="tr">Top Bizde [Maç Başlıyor]</title></programme>
+<programme start="20240827190000 +0000" stop="20240827210000 +0000" channel="TV85.tr"><title lang="tr">Maç</title></programme>
 <programme start="20240825203000 +0000" stop="20240825220000 +0000" channel="TV100.tr"><title lang="tr">Ersin Düzen ile Futbolun...</title></programme>
 <programme start="20240825220000 +0000" stop="20240825233000 +0000" channel="TV100.tr"><title lang="tr">Ersin Düzen ile Futbolun...</title></programme>
 <programme start="20240825233000 +0000" stop="20240826013000 +0000" channel="TV100.tr"><title lang="tr">Başak Şengül ile Doğru...</title></programme>
