@@ -331,12 +331,12 @@
 <programme start="20240827103000 +0000" stop="20240827131500 +0000" channel="Fox.tr"><title lang="tr">En Hamarat Benim</title></programme>
 <programme start="20240827131500 +0000" stop="20240827160000 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin...</title></programme>
 <programme start="20240827160000 +0000" stop="20240827170000 +0000" channel="Fox.tr"><title lang="tr">NOW Ana Haber</title></programme>
-<programme start="20240827170000 +0000" stop="20240827190000 +0000" channel="Fox.tr"><title lang="tr">Tolgshow Filtresiz</title></programme>
-<programme start="20240827190000 +0000" stop="20240827210000 +0000" channel="Fox.tr"><title lang="tr">Tolgshow Filtresiz</title></programme>
-<programme start="20240827210000 +0000" stop="20240827231500 +0000" channel="Fox.tr"><title lang="tr">İlk Buluşma</title></programme>
-<programme start="20240827231500 +0000" stop="20240828013000 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin...</title></programme>
-<programme start="20240828013000 +0000" stop="20240828030000 +0000" channel="Fox.tr"><title lang="tr">Yasak Elma</title></programme>
-<programme start="20240828030000 +0000" stop="20240828053000 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin...</title></programme>
+<programme start="20240827170000 +0000" stop="20240827193000 +0000" channel="Fox.tr"><title lang="tr">Hava Muhalefeti</title></programme>
+<programme start="20240827193000 +0000" stop="20240827210000 +0000" channel="Fox.tr"><title lang="tr">Tolgshow Filtresiz</title></programme>
+<programme start="20240827210000 +0000" stop="20240827224500 +0000" channel="Fox.tr"><title lang="tr">İlk Buluşma</title></programme>
+<programme start="20240827224500 +0000" stop="20240828010000 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin...</title></programme>
+<programme start="20240828010000 +0000" stop="20240828024500 +0000" channel="Fox.tr"><title lang="tr">Yasak Elma</title></programme>
+<programme start="20240828024500 +0000" stop="20240828053000 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin...</title></programme>
 <programme start="20240828053000 +0000" stop="20240828070000 +0000" channel="Fox.tr"><title lang="tr">Çalar Saat</title></programme>
 <programme start="20240828070000 +0000" stop="20240828090000 +0000" channel="Fox.tr"><title lang="tr">Çağla ile Yeni Bir Gün</title></programme>
 <programme start="20240828090000 +0000" stop="20240828103000 +0000" channel="Fox.tr"><title lang="tr">Aşk Mantık İntikam</title></programme>
@@ -450,7 +450,9 @@
 <programme start="20240828130000 +0000" stop="20240828141500 +0000" channel="KanalD.tr"><title lang="tr">Ayazın Sonu Güneş</title></programme>
 <programme start="20240828141500 +0000" stop="20240828160000 +0000" channel="KanalD.tr"><title lang="tr">Evrim Akın İle Ev Gezmesi</title></programme>
 <programme start="20240828160000 +0000" stop="20240828170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
-<programme start="20240828170000 +0000" stop="20240828230000 +0000" channel="KanalD.tr"><title lang="tr">Turnike</title></programme>
+<programme start="20240828170000 +0000" stop="20240828183000 +0000" channel="KanalD.tr"><title lang="tr">Shrek 2</title></programme>
+<programme start="20240828183000 +0000" stop="20240828203000 +0000" channel="KanalD.tr"><title lang="tr">Shrek 2</title></programme>
+<programme start="20240828203000 +0000" stop="20240828230000 +0000" channel="KanalD.tr"><title lang="tr">Yalan</title></programme>
 <programme start="20240826210000 +0000" stop="20240826213000 +0000" channel="MinikaGo.tr"><title lang="tr">Peter Pan</title></programme>
 <programme start="20240826213000 +0000" stop="20240826214500 +0000" channel="MinikaGo.tr"><title lang="tr">Berry Bees</title></programme>
 <programme start="20240826214500 +0000" stop="20240826220000 +0000" channel="MinikaGo.tr"><title lang="tr">Berry Bees</title></programme>
@@ -1368,6 +1370,15 @@
 <programme start="20240828034500 +0000" stop="20240828035000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Sağlıklı Spor</title></programme>
 <programme start="20240828035000 +0000" stop="20240828061500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">6. Adam</title></programme>
 <programme start="20240828061500 +0000" stop="20240828101500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240828094000 +0000" stop="20240828112500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Beşiktaş - Spor Toto</title></programme>
+<programme start="20240828112500 +0000" stop="20240828113000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Nedir, Nasıl Oynanır?</title></programme>
+<programme start="20240828113000 +0000" stop="20240828114500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240828114500 +0000" stop="20240828143000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240828143000 +0000" stop="20240828144500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240828144500 +0000" stop="20240828171000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
+<programme start="20240828171000 +0000" stop="20240828172500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Yapabilir Misin?</title></programme>
+<programme start="20240828172500 +0000" stop="20240828180000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Spor Takvimi</title></programme>
+<programme start="20240828180000 +0000" stop="20240828210000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">2024 Paris Paralimpik...</title></programme>
 <programme start="20240826193000 +0000" stop="20240826213500 +0000" channel="TRTTurk.tr"><title lang="tr">Türk Sineması Malazgirt...</title></programme>
 <programme start="20240826213500 +0000" stop="20240826223500 +0000" channel="TRTTurk.tr"><title lang="tr">Almanak</title></programme>
 <programme start="20240826223500 +0000" stop="20240826225000 +0000" channel="TRTTurk.tr"><title lang="tr">Memleket Hasreti</title></programme>
