@@ -163,7 +163,16 @@
 <programme start="20240827223000 +0000" stop="20240828003000 +0000" channel="BeyazTV.tr"><title lang="tr">İkiz Vampir Avcıları</title></programme>
 <programme start="20240828003000 +0000" stop="20240828023000 +0000" channel="BeyazTV.tr"><title lang="tr">Aile Babası</title></programme>
 <programme start="20240828023000 +0000" stop="20240828031500 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
-<programme start="20240828031500 +0000" stop="20240828071500 +0000" channel="BeyazTV.tr"><title lang="tr">Aile Babası</title></programme>
+<programme start="20240828031500 +0000" stop="20240828043000 +0000" channel="BeyazTV.tr"><title lang="tr">Aile Babası</title></programme>
+<programme start="20240828043000 +0000" stop="20240828063500 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
+<programme start="20240828063500 +0000" stop="20240828090000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Magazin</title></programme>
+<programme start="20240828090000 +0000" stop="20240828104500 +0000" channel="BeyazTV.tr"><title lang="tr">Nilüfer Zamanı</title></programme>
+<programme start="20240828104500 +0000" stop="20240828132000 +0000" channel="BeyazTV.tr"><title lang="tr">Esra Ezmeci ile Yeni Baştan</title></programme>
+<programme start="20240828132000 +0000" stop="20240828153000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
+<programme start="20240828153000 +0000" stop="20240828163000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Ana Haber</title></programme>
+<programme start="20240828163000 +0000" stop="20240828183000 +0000" channel="BeyazTV.tr"><title lang="tr">Transit</title></programme>
+<programme start="20240828183000 +0000" stop="20240828203000 +0000" channel="BeyazTV.tr"><title lang="tr">Dönüm Noktası</title></programme>
+<programme start="20240828203000 +0000" stop="20240828223000 +0000" channel="BeyazTV.tr"><title lang="tr">Transit</title></programme>
 <programme start="20240826204500 +0000" stop="20240826211000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Sevimli Kahramanlar Hikayeler</title></programme>
 <programme start="20240826211000 +0000" stop="20240826213500 +0000" channel="CartoonNetwork.tr"><title lang="tr">Ben 10</title></programme>
 <programme start="20240826213500 +0000" stop="20240826220000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Ben 10</title></programme>
@@ -1992,11 +2001,10 @@
 <programme start="20240827143000 +0000" stop="20240827150000 +0000" channel="TV100.tr"><title lang="tr">Eurogol</title></programme>
 <programme start="20240827150000 +0000" stop="20240827164500 +0000" channel="TV100.tr"><title lang="tr">Osman Kenan Çapoğlu ile...</title></programme>
 <programme start="20240827164500 +0000" stop="20240827174500 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
-<programme start="20240827174500 +0000" stop="20240827204500 +0000" channel="TV100.tr"><title lang="tr">Başak Şengül ile Doğru...</title></programme>
-<programme start="20240827204500 +0000" stop="20240827220000 +0000" channel="TV100.tr"><title lang="tr">Cansu Canan Özgen ile...</title></programme>
-<programme start="20240827204500 +0000" stop="20240827220000 +0000" channel="TV100.tr"><title lang="tr">Cansu Canan Özgen ile...</title></programme>
-<programme start="20240827220000 +0000" stop="20240827230000 +0000" channel="TV100.tr"><title lang="tr">Gece Haberleri</title></programme>
-<programme start="20240827230000 +0000" stop="20240828013000 +0000" channel="TV100.tr"><title lang="tr">Başak Şengül ile Doğru...</title></programme>
+<programme start="20240827174500 +0000" stop="20240827213000 +0000" channel="TV100.tr"><title lang="tr">Başak Şengül ile Doğru...</title></programme>
+<programme start="20240827174500 +0000" stop="20240827213000 +0000" channel="TV100.tr"><title lang="tr">Başak Şengül ile Doğru...</title></programme>
+<programme start="20240827213000 +0000" stop="20240827223000 +0000" channel="TV100.tr"><title lang="tr">Gece Haberleri</title></programme>
+<programme start="20240827223000 +0000" stop="20240828013000 +0000" channel="TV100.tr"><title lang="tr">Başak Şengül ile Doğru...</title></programme>
 <programme start="20240828013000 +0000" stop="20240828020000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240828020000 +0000" stop="20240828030000 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
 <programme start="20240828030000 +0000" stop="20240828060000 +0000" channel="TV100.tr"><title lang="tr">Gün Uyanıyor</title></programme>
