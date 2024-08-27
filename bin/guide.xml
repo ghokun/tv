@@ -725,8 +725,9 @@
 <programme start="20240827124000 +0000" stop="20240827124500 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
 <programme start="20240827124500 +0000" stop="20240827125500 +0000" channel="NTV.tr"><title lang="tr">Spor</title></programme>
 <programme start="20240827125500 +0000" stop="20240827130000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20240827130000 +0000" stop="20240827134500 +0000" channel="NTV.tr"><title lang="tr">Günün İçinden</title></programme>
-<programme start="20240827134500 +0000" stop="20240827135000 +0000" channel="NTV.tr"><title lang="tr">Piyasalar</title></programme>
+<programme start="20240827130000 +0000" stop="20240827133500 +0000" channel="NTV.tr"><title lang="tr">Günün İçinden</title></programme>
+<programme start="20240827133500 +0000" stop="20240827134000 +0000" channel="NTV.tr"><title lang="tr">Piyasalar</title></programme>
+<programme start="20240827134000 +0000" stop="20240827135000 +0000" channel="NTV.tr"><title lang="tr">Spor</title></programme>
 <programme start="20240827135000 +0000" stop="20240827135500 +0000" channel="NTV.tr"><title lang="tr">Laf Aramızda</title></programme>
 <programme start="20240827135500 +0000" stop="20240827140000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20240827140000 +0000" stop="20240827143000 +0000" channel="NTV.tr"><title lang="tr">Günün İçinden</title></programme>
@@ -810,8 +811,9 @@
 <programme start="20240828124000 +0000" stop="20240828124500 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
 <programme start="20240828124500 +0000" stop="20240828125500 +0000" channel="NTV.tr"><title lang="tr">Spor</title></programme>
 <programme start="20240828125500 +0000" stop="20240828130000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20240828130000 +0000" stop="20240828134500 +0000" channel="NTV.tr"><title lang="tr">Günün İçinden</title></programme>
-<programme start="20240828134500 +0000" stop="20240828135000 +0000" channel="NTV.tr"><title lang="tr">Piyasalar</title></programme>
+<programme start="20240828130000 +0000" stop="20240828133500 +0000" channel="NTV.tr"><title lang="tr">Günün İçinden</title></programme>
+<programme start="20240828133500 +0000" stop="20240828134000 +0000" channel="NTV.tr"><title lang="tr">Piyasalar</title></programme>
+<programme start="20240828134000 +0000" stop="20240828135000 +0000" channel="NTV.tr"><title lang="tr">Spor</title></programme>
 <programme start="20240828135000 +0000" stop="20240828135500 +0000" channel="NTV.tr"><title lang="tr">Laf Aramızda</title></programme>
 <programme start="20240828135500 +0000" stop="20240828140000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20240828140000 +0000" stop="20240828143000 +0000" channel="NTV.tr"><title lang="tr">Günün İçinden</title></programme>
