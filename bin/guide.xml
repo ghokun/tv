@@ -535,7 +535,10 @@
 <programme start="20240829100000 +0000" stop="20240829130000 +0000" channel="KanalD.tr"><title lang="tr">Gelinim Mutfakta</title></programme>
 <programme start="20240829130000 +0000" stop="20240829141500 +0000" channel="KanalD.tr"><title lang="tr">Ayazın Sonu Güneş</title></programme>
 <programme start="20240829141500 +0000" stop="20240829160000 +0000" channel="KanalD.tr"><title lang="tr">Evrim Akın İle Ev Gezmesi</title></programme>
-<programme start="20240829160000 +0000" stop="20240830000000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
+<programme start="20240829160000 +0000" stop="20240829170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
+<programme start="20240829170000 +0000" stop="20240829184500 +0000" channel="KanalD.tr"><title lang="tr">Tek Atış</title></programme>
+<programme start="20240829184500 +0000" stop="20240829204500 +0000" channel="KanalD.tr"><title lang="tr">Tek Atış</title></programme>
+<programme start="20240829204500 +0000" stop="20240829220000 +0000" channel="KanalD.tr"><title lang="tr">Mezar İstilacısı</title></programme>
 <programme start="20240827210000 +0000" stop="20240827213000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Robot Trains</title></programme>
 <programme start="20240827213000 +0000" stop="20240827214000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Turbozours</title></programme>
 <programme start="20240827214000 +0000" stop="20240827215000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Turbozours</title></programme>
@@ -1791,7 +1794,15 @@
 <programme start="20240828211500 +0000" stop="20240828223000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
 <programme start="20240828223000 +0000" stop="20240829011000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">7. Açık Balkan Wushu...</title></programme>
 <programme start="20240829011000 +0000" stop="20240829034000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Yaz Olimpiyat...</title></programme>
-<programme start="20240829034000 +0000" stop="20240829074000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Sormazsam Olmaz</title></programme>
+<programme start="20240829034000 +0000" stop="20240829035800 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Sormazsam Olmaz</title></programme>
+<programme start="20240829035800 +0000" stop="20240829040000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">İstiklal Marşı</title></programme>
+<programme start="20240829040000 +0000" stop="20240829053000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Polonya - Fransa</title></programme>
+<programme start="20240829053000 +0000" stop="20240829061500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Kusursuz Bir Gösteri...</title></programme>
+<programme start="20240829061500 +0000" stop="20240829062000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Olimpiyat Hikayeleri</title></programme>
+<programme start="20240829062000 +0000" stop="20240829080000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Danimarka - Türkiye</title></programme>
+<programme start="20240829080000 +0000" stop="20240829150000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Paralimpik...</title></programme>
+<programme start="20240829150000 +0000" stop="20240829164000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Türkiye - Macaristan</title></programme>
+<programme start="20240829164000 +0000" stop="20240829213000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Paralimpik...</title></programme>
 <programme start="20240827202500 +0000" stop="20240827210500 +0000" channel="TRTTurk.tr"><title lang="tr">Leyla ile Mecnun</title></programme>
 <programme start="20240827210500 +0000" stop="20240827212000 +0000" channel="TRTTurk.tr"><title lang="tr">Kalbin İçindekiler</title></programme>
 <programme start="20240827212000 +0000" stop="20240827215500 +0000" channel="TRTTurk.tr"><title lang="tr">Bir Lokma Bir Ömür</title></programme>
