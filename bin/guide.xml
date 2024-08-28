@@ -159,6 +159,19 @@
 <programme start="20240828183000 +0000" stop="20240828203000 +0000" channel="BeyazTV.tr"><title lang="tr">Dönüm Noktası</title></programme>
 <programme start="20240828203000 +0000" stop="20240828223000 +0000" channel="BeyazTV.tr"><title lang="tr">Transit</title></programme>
 <programme start="20240828203000 +0000" stop="20240828223000 +0000" channel="BeyazTV.tr"><title lang="tr">Transit</title></programme>
+<programme start="20240828223000 +0000" stop="20240829003000 +0000" channel="BeyazTV.tr"><title lang="tr">Dönüm Noktası</title></programme>
+<programme start="20240829003000 +0000" stop="20240829023000 +0000" channel="BeyazTV.tr"><title lang="tr">Transit</title></programme>
+<programme start="20240829023000 +0000" stop="20240829031500 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
+<programme start="20240829031500 +0000" stop="20240829043000 +0000" channel="BeyazTV.tr"><title lang="tr">Dönüm Noktası</title></programme>
+<programme start="20240829043000 +0000" stop="20240829063500 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
+<programme start="20240829063500 +0000" stop="20240829090000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Magazin</title></programme>
+<programme start="20240829090000 +0000" stop="20240829104500 +0000" channel="BeyazTV.tr"><title lang="tr">Nilüfer Zamanı</title></programme>
+<programme start="20240829104500 +0000" stop="20240829132000 +0000" channel="BeyazTV.tr"><title lang="tr">Esra Ezmeci ile Yeni Baştan</title></programme>
+<programme start="20240829132000 +0000" stop="20240829153000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
+<programme start="20240829153000 +0000" stop="20240829163000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Ana Haber</title></programme>
+<programme start="20240829163000 +0000" stop="20240829181500 +0000" channel="BeyazTV.tr"><title lang="tr">Batman Başlıyor</title></programme>
+<programme start="20240829181500 +0000" stop="20240829203000 +0000" channel="BeyazTV.tr"><title lang="tr">Ölüm Hattı</title></programme>
+<programme start="20240829203000 +0000" stop="20240829221500 +0000" channel="BeyazTV.tr"><title lang="tr">Gündemin İzinde</title></programme>
 <programme start="20240827204500 +0000" stop="20240827211000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Sevimli Kahramanlar Hikayeler</title></programme>
 <programme start="20240827211000 +0000" stop="20240827213500 +0000" channel="CartoonNetwork.tr"><title lang="tr">Ben 10</title></programme>
 <programme start="20240827213500 +0000" stop="20240827220000 +0000" channel="CartoonNetwork.tr"><title lang="tr">Ben 10</title></programme>
@@ -426,9 +439,12 @@
 <programme start="20240828124500 +0000" stop="20240828130000 +0000" channel="HaberturkTV.tr"><title lang="tr">Spor Bülteni</title></programme>
 <programme start="20240828130000 +0000" stop="20240828150000 +0000" channel="HaberturkTV.tr"><title lang="tr">HT 360</title></programme>
 <programme start="20240828150000 +0000" stop="20240828170000 +0000" channel="HaberturkTV.tr"><title lang="tr">Ana Haber Bülteni</title></programme>
-<programme start="20240828170000 +0000" stop="20240828210000 +0000" channel="HaberturkTV.tr"><title lang="tr">Nedir Ne Değildir?</title></programme>
-<programme start="20240828210000 +0000" stop="20240828221500 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20240828221500 +0000" stop="20240829010000 +0000" channel="HaberturkTV.tr"><title lang="tr">Nedir Ne Değildir?</title></programme>
+<programme start="20240828170000 +0000" stop="20240828180000 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240828180000 +0000" stop="20240828200000 +0000" channel="HaberturkTV.tr"><title lang="tr">Özel Röportaj</title></programme>
+<programme start="20240828200000 +0000" stop="20240828211500 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240828200000 +0000" stop="20240828211500 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20240828211500 +0000" stop="20240828230000 +0000" channel="HaberturkTV.tr"><title lang="tr">Özel Röportaj</title></programme>
+<programme start="20240828230000 +0000" stop="20240829010000 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240829010000 +0000" stop="20240829030000 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240829030000 +0000" stop="20240829060000 +0000" channel="HaberturkTV.tr"><title lang="tr">Gün Başlıyor</title></programme>
 <programme start="20240829060000 +0000" stop="20240829084500 +0000" channel="HaberturkTV.tr"><title lang="tr">Para Gündem</title></programme>
