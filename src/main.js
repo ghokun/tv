@@ -4,16 +4,15 @@ import { get } from 'https';
 import parser from 'iptv-playlist-parser';
 
 let downloadImage = (url, dest) => {
-  let file = fs.createWriteStream(dest);
   let request = get(url, (response) => {
     if (response.headers['content-type'].startsWith('image')) {
+      let file = fs.createWriteStream(dest);
       response.pipe(file);
       file.on('end', () => {
         file.close();
       });
     } else {
       console.warn(`${url} does not contain an image.`);
-      file.close();
     }
   }).on('error', (err) => {
     // Delete the file async if there is an error
