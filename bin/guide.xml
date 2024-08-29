@@ -419,19 +419,19 @@
 <programme start="20240829131500 +0000" stop="20240829160000 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin...</title></programme>
 <programme start="20240829160000 +0000" stop="20240829170000 +0000" channel="Fox.tr"><title lang="tr">NOW Ana Haber</title></programme>
 <programme start="20240829170000 +0000" stop="20240829193000 +0000" channel="Fox.tr"><title lang="tr">Ne Olacak Halim</title></programme>
-<programme start="20240829193000 +0000" stop="20240829221500 +0000" channel="Fox.tr"><title lang="tr">Hudutsuz Sevda</title></programme>
-<programme start="20240829193000 +0000" stop="20240829221500 +0000" channel="Fox.tr"><title lang="tr">Hudutsuz Sevda</title></programme>
-<programme start="20240829221500 +0000" stop="20240830004500 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin...</title></programme>
-<programme start="20240830004500 +0000" stop="20240830030000 +0000" channel="Fox.tr"><title lang="tr">Yasak Elma</title></programme>
-<programme start="20240830030000 +0000" stop="20240830053000 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin...</title></programme>
+<programme start="20240829193000 +0000" stop="20240829223000 +0000" channel="Fox.tr"><title lang="tr">Hudutsuz Sevda</title></programme>
+<programme start="20240829193000 +0000" stop="20240829223000 +0000" channel="Fox.tr"><title lang="tr">Hudutsuz Sevda</title></programme>
+<programme start="20240829223000 +0000" stop="20240830010000 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin...</title></programme>
+<programme start="20240830010000 +0000" stop="20240830024500 +0000" channel="Fox.tr"><title lang="tr">Yasak Elma</title></programme>
+<programme start="20240830024500 +0000" stop="20240830053000 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin...</title></programme>
 <programme start="20240830053000 +0000" stop="20240830070000 +0000" channel="Fox.tr"><title lang="tr">Çalar Saat</title></programme>
 <programme start="20240830070000 +0000" stop="20240830090000 +0000" channel="Fox.tr"><title lang="tr">Çağla ile Yeni Bir Gün</title></programme>
-<programme start="20240830090000 +0000" stop="20240830103000 +0000" channel="Fox.tr"><title lang="tr">Aşk Mantık İntikam</title></programme>
-<programme start="20240830103000 +0000" stop="20240830131500 +0000" channel="Fox.tr"><title lang="tr">En Hamarat Benim</title></programme>
-<programme start="20240830131500 +0000" stop="20240830160000 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin...</title></programme>
+<programme start="20240830090000 +0000" stop="20240830104500 +0000" channel="Fox.tr"><title lang="tr">Aşk Mantık İntikam</title></programme>
+<programme start="20240830104500 +0000" stop="20240830133000 +0000" channel="Fox.tr"><title lang="tr">En Hamarat Benim</title></programme>
+<programme start="20240830133000 +0000" stop="20240830160000 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin...</title></programme>
 <programme start="20240830160000 +0000" stop="20240830170000 +0000" channel="Fox.tr"><title lang="tr">NOW Ana Haber</title></programme>
-<programme start="20240830170000 +0000" stop="20240830190000 +0000" channel="Fox.tr"><title lang="tr">Öğretmen</title></programme>
-<programme start="20240830190000 +0000" stop="20240830210000 +0000" channel="Fox.tr"><title lang="tr">Çağla ile Bu Yaz</title></programme>
+<programme start="20240830170000 +0000" stop="20240830191500 +0000" channel="Fox.tr"><title lang="tr">Kırk Yalan</title></programme>
+<programme start="20240830191500 +0000" stop="20240830211500 +0000" channel="Fox.tr"><title lang="tr">Çağla ile Bu Yaz</title></programme>
 <programme start="20240828200000 +0000" stop="20240828211500 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20240828211500 +0000" stop="20240828230000 +0000" channel="HaberturkTV.tr"><title lang="tr">Özel Röportaj</title></programme>
 <programme start="20240828230000 +0000" stop="20240829010000 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
@@ -1930,7 +1930,8 @@
 <programme start="20240829181500 +0000" stop="20240829201500 +0000" channel="TV85.tr"><title lang="tr">Maribor - Djurgarden</title></programme>
 <programme start="20240829201500 +0000" stop="20240829220000 +0000" channel="TV85.tr"><title lang="tr">Maçın Ardından</title></programme>
 <programme start="20240829201500 +0000" stop="20240829220000 +0000" channel="TV85.tr"><title lang="tr">Maçın Ardından</title></programme>
-<programme start="20240829220000 +0000" stop="20240830001000 +0000" channel="TV85.tr"><title lang="tr">Beşiktaş - Lugano</title></programme>
+<programme start="20240829220000 +0000" stop="20240829235000 +0000" channel="TV85.tr"><title lang="tr">Beşiktaş - Lugano</title></programme>
+<programme start="20240829235000 +0000" stop="20240830000000 +0000" channel="TV85.tr"><title lang="tr">Maribor - Djurgarden</title></programme>
 <programme start="20240830000000 +0000" stop="20240830011500 +0000" channel="TV85.tr"><title lang="tr">İngiltere Lig Kupası 2....</title></programme>
 <programme start="20240830011500 +0000" stop="20240830030000 +0000" channel="TV85.tr"><title lang="tr">Beşiktaş - Lugano</title></programme>
 <programme start="20240830030000 +0000" stop="20240830050000 +0000" channel="TV85.tr"><title lang="tr">Maçın Ardından</title></programme>
