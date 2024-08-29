@@ -13,6 +13,7 @@ let downloadImage = (url, dest) => {
       });
     } else {
       console.warn(`${url} does not contain an image.`);
+      file.close();
     }
   }).on('error', (err) => {
     // Delete the file async if there is an error
