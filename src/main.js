@@ -3,19 +3,22 @@ import fs from 'node:fs';
 import { get } from 'https';
 import parser from 'iptv-playlist-parser';
 
-let download = (url, dest) => {
+let downloadImage = (url, dest) => {
   let file = fs.createWriteStream(dest);
   let request = get(url, (response) => {
-    response.pipe(file);
-    file.on('end', () => {
-      file.close();
-    });
+    if (response.headers['content-type'].startsWith('image')) {
+      response.pipe(file);
+      file.on('end', () => {
+        file.close();
+      });
+    } else {
+      console.warn(`${url} does not contain an image.`);
+    }
   }).on('error', (err) => {
     // Delete the file async if there is an error
     fs.unlink(dest);
     console.error(err);
   });
-
   request.on('error', (err) => {
     console.error(err);
   });
@@ -48,7 +51,7 @@ get(config.playlist, (res) => {
       }
 
       let logo = 'logo' in value ? value.logo : item.tvg.logo;
-      download(logo, `bin/logo/${key}.png`);
+      downloadImage(logo, `bin/logo/${key}.png`);
       let tvgLogo = `https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/${key}.png`;
 
       let name = 'name' in value ? value.name : item.name;
