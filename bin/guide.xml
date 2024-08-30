@@ -1539,6 +1539,9 @@
 <programme start="20240831021500 +0000" stop="20240831025000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Hedef Sıfır Atık</title></programme>
 <programme start="20240831025000 +0000" stop="20240831032000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Kronovizör</title></programme>
 <programme start="20240831032000 +0000" stop="20240831035500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Yiyeceğin Serüveni</title></programme>
+<programme start="20240831035500 +0000" stop="20240831115500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Tanıtım</title></programme>
+<programme start="20240831115500 +0000" stop="20240831195500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Tanıtım</title></programme>
+<programme start="20240831195500 +0000" stop="20240901035500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Tanıtım</title></programme>
 <programme start="20240829205000 +0000" stop="20240829211500 +0000" channel="TRTCocuk.tr"><title lang="tr">Variloto</title></programme>
 <programme start="20240829211500 +0000" stop="20240829213500 +0000" channel="TRTCocuk.tr"><title lang="tr">Maysa ve Bulut</title></programme>
 <programme start="20240829213500 +0000" stop="20240829220000 +0000" channel="TRTCocuk.tr"><title lang="tr">Aslan</title></programme>
@@ -1856,8 +1859,8 @@
 <programme start="20240831043000 +0000" stop="20240831070000 +0000" channel="TV8.tr"><title lang="tr">Büyük Mücadele</title></programme>
 <programme start="20240831070000 +0000" stop="20240831101500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240831101500 +0000" stop="20240831134500 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
-<programme start="20240831134500 +0000" stop="20240831160000 +0000" channel="TV8.tr"><title lang="tr">Parola Parola</title></programme>
-<programme start="20240831160000 +0000" stop="20240831211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240831134500 +0000" stop="20240831170000 +0000" channel="TV8.tr"><title lang="tr">Parola Parola</title></programme>
+<programme start="20240831170000 +0000" stop="20240831211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240829201500 +0000" stop="20240829220000 +0000" channel="TV85.tr"><title lang="tr">Maçın Ardından</title></programme>
 <programme start="20240829220000 +0000" stop="20240829235000 +0000" channel="TV85.tr"><title lang="tr">Beşiktaş - Lugano</title></programme>
 <programme start="20240829235000 +0000" stop="20240830000000 +0000" channel="TV85.tr"><title lang="tr">Maribor - Djurgarden</title></programme>
