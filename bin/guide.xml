@@ -151,7 +151,7 @@
 <programme start="20240831183000 +0000" stop="20240831203000 +0000" channel="BeyazTV.tr"><title lang="tr">Enigma</title></programme>
 <programme start="20240831203000 +0000" stop="20240831220000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Futbol</title></programme>
 <programme start="20240831203000 +0000" stop="20240831220000 +0000" channel="BeyazTV.tr"><title lang="tr">Beyaz Futbol</title></programme>
-<programme start="20240831220000 +0000" stop="20240901000000 +0000" channel="BeyazTV.tr"><title lang="tr">Bitirim İkili 3</title></programme>
+<programme start="20240831220000 +0000" stop="20240901000000 +0000" channel="BeyazTV.tr"><title lang="tr">300 Spartalı</title></programme>
 <programme start="20240901000000 +0000" stop="20240901020000 +0000" channel="BeyazTV.tr"><title lang="tr">Seksenler</title></programme>
 <programme start="20240901020000 +0000" stop="20240901031500 +0000" channel="BeyazTV.tr"><title lang="tr">Belma Belen&apos;le Geziyoruz</title></programme>
 <programme start="20240901031500 +0000" stop="20240901050000 +0000" channel="BeyazTV.tr"><title lang="tr">Enigma</title></programme>
@@ -302,8 +302,7 @@
 <programme start="20240901110000 +0000" stop="20240901120000 +0000" channel="CNNTurk.tr"><title lang="tr">Haber</title></programme>
 <programme start="20240901120000 +0000" stop="20240901130000 +0000" channel="CNNTurk.tr"><title lang="tr">Haber</title></programme>
 <programme start="20240901130000 +0000" stop="20240901140000 +0000" channel="CNNTurk.tr"><title lang="tr">Haber</title></programme>
-<programme start="20240901140000 +0000" stop="20240901143000 +0000" channel="CNNTurk.tr"><title lang="tr">Haber</title></programme>
-<programme start="20240901143000 +0000" stop="20240901150000 +0000" channel="CNNTurk.tr"><title lang="tr">5N1K</title></programme>
+<programme start="20240901140000 +0000" stop="20240901150000 +0000" channel="CNNTurk.tr"><title lang="tr">Haber</title></programme>
 <programme start="20240901150000 +0000" stop="20240901174500 +0000" channel="CNNTurk.tr"><title lang="tr">Ana Haber</title></programme>
 <programme start="20240901174500 +0000" stop="20240901220000 +0000" channel="CNNTurk.tr"><title lang="tr">Ne Oluyor?</title></programme>
 <programme start="20240830210000 +0000" stop="20240830215500 +0000" channel="DMAX.tr"><title lang="tr">Uyarmak Bizden</title></programme>
