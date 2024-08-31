@@ -1511,7 +1511,7 @@
 <programme start="20240831013000 +0000" stop="20240831021500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Şefin Özel Konuğu</title></programme>
 <programme start="20240831021500 +0000" stop="20240831025000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Hedef Sıfır Atık</title></programme>
 <programme start="20240831025000 +0000" stop="20240831032000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Kronovizör</title></programme>
-<programme start="20240831032000 +0000" stop="20240831035500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Yiyeceğin Serüveni</title></programme>
+<programme start="20240831032000 +0000" stop="20240831035500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Hedef Sıfır Atık</title></programme>
 <programme start="20240831035500 +0000" stop="20240831035800 +0000" channel="TRTBelgesel.tr"><title lang="tr">Tanıtım</title></programme>
 <programme start="20240831035800 +0000" stop="20240831040000 +0000" channel="TRTBelgesel.tr"><title lang="tr">İstiklal Marşı</title></programme>
 <programme start="20240831040000 +0000" stop="20240831045500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Su Savaşları</title></programme>
@@ -1756,8 +1756,12 @@
 <programme start="20240831001500 +0000" stop="20240831004500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Paralimpik...</title></programme>
 <programme start="20240831004500 +0000" stop="20240831011500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Paralimpik...</title></programme>
 <programme start="20240831011500 +0000" stop="20240831051500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Paralimpik...</title></programme>
-<programme start="20240831051500 +0000" stop="20240831052500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Kuralına Göre Oyna</title></programme>
-<programme start="20240831052500 +0000" stop="20240831092500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Olimpiyat Hikayeleri</title></programme>
+<programme start="20240831035800 +0000" stop="20240831040000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">İstiklal Marşı</title></programme>
+<programme start="20240831040000 +0000" stop="20240831054000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Türkiye - Macaristan</title></programme>
+<programme start="20240831054000 +0000" stop="20240831063500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Türkiye - Çin</title></programme>
+<programme start="20240831063500 +0000" stop="20240831072000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Kusursuz Bir Gösteri...</title></programme>
+<programme start="20240831072000 +0000" stop="20240831073500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Olimpiyat Yıldızları</title></programme>
+<programme start="20240831073500 +0000" stop="20240831074000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Olimpiyat Hikayeleri</title></programme>
 <programme start="20240831074000 +0000" stop="20240831101000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Paralimpik...</title></programme>
 <programme start="20240831101000 +0000" stop="20240831103500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Olimpiyat Anıları</title></programme>
 <programme start="20240831103500 +0000" stop="20240831105500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Özel Röportaj</title></programme>
