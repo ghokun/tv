@@ -1437,6 +1437,7 @@
 <programme start="20240902023000 +0000" stop="20240902030000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Yiyeceğin Serüveni</title></programme>
 <programme start="20240902030000 +0000" stop="20240902035500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Khoor Moosa&apos;da Hayat</title></programme>
 <programme start="20240902035500 +0000" stop="20240902075500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Tanıtım</title></programme>
+<programme start="20240902065500 +0000" stop="20240902075000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Bitmeyen Mücadele</title></programme>
 <programme start="20240902075000 +0000" stop="20240902082000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Yiyeceğin Serüveni</title></programme>
 <programme start="20240902082000 +0000" stop="20240902085000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Yenilmez Savaşçılar</title></programme>
 <programme start="20240902085000 +0000" stop="20240902094000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Maskelerin Ardında Siber...</title></programme>
@@ -1606,18 +1607,15 @@
 <programme start="20240902160000 +0000" stop="20240902165500 +0000" channel="TRTHaber.tr"><title lang="tr">Sıcak Haber</title></programme>
 <programme start="20240902165500 +0000" stop="20240902170000 +0000" channel="TRTHaber.tr"><title lang="tr">Ana Habere Doğru</title></programme>
 <programme start="20240902170000 +0000" stop="20240902180000 +0000" channel="TRTHaber.tr"><title lang="tr">Ana Haber 20</title></programme>
-<programme start="20240902180000 +0000" stop="20240902190000 +0000" channel="TRTHaber.tr"><title lang="tr">Özel Röportaj</title></programme>
-<programme start="20240902190000 +0000" stop="20240902220000 +0000" channel="TRTHaber.tr"><title lang="tr">Birinci Sayfa</title></programme>
-<programme start="20240902190000 +0000" stop="20240902220000 +0000" channel="TRTHaber.tr"><title lang="tr">Birinci Sayfa</title></programme>
-<programme start="20240902220000 +0000" stop="20240903000000 +0000" channel="TRTHaber.tr"><title lang="tr">Gece Bakışı</title></programme>
-<programme start="20240903000000 +0000" stop="20240903005500 +0000" channel="TRTHaber.tr"><title lang="tr">Özel Röportaj</title></programme>
+<programme start="20240902180000 +0000" stop="20240902210000 +0000" channel="TRTHaber.tr"><title lang="tr">Birinci Sayfa</title></programme>
+<programme start="20240902210000 +0000" stop="20240902230000 +0000" channel="TRTHaber.tr"><title lang="tr">Gece Bakışı</title></programme>
+<programme start="20240902230000 +0000" stop="20240903005500 +0000" channel="TRTHaber.tr"><title lang="tr">Gün Sonu</title></programme>
 <programme start="20240903005500 +0000" stop="20240903010000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20240903010000 +0000" stop="20240903025500 +0000" channel="TRTHaber.tr"><title lang="tr">Gün Sonu</title></programme>
+<programme start="20240903010000 +0000" stop="20240903020000 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 04</title></programme>
+<programme start="20240903020000 +0000" stop="20240903025500 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 05</title></programme>
 <programme start="20240903025500 +0000" stop="20240903030000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20240903030000 +0000" stop="20240903035000 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 06</title></programme>
-<programme start="20240903035000 +0000" stop="20240903040000 +0000" channel="TRTHaber.tr"><title lang="tr">İmece</title></programme>
-<programme start="20240903040000 +0000" stop="20240903063000 +0000" channel="TRTHaber.tr"><title lang="tr">TRT HABER&apos;de Dün Bugün</title></programme>
-<programme start="20240903063000 +0000" stop="20240903070000 +0000" channel="TRTHaber.tr"><title lang="tr">Ekonomi 7/24</title></programme>
+<programme start="20240903030000 +0000" stop="20240903040000 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 06</title></programme>
+<programme start="20240903040000 +0000" stop="20240903070000 +0000" channel="TRTHaber.tr"><title lang="tr">TRT HABER&apos;de Dün Bugün</title></programme>
 <programme start="20240903070000 +0000" stop="20240903090000 +0000" channel="TRTHaber.tr"><title lang="tr">Satır Başı</title></programme>
 <programme start="20240903090000 +0000" stop="20240903100000 +0000" channel="TRTHaber.tr"><title lang="tr">Satır Başı</title></programme>
 <programme start="20240903100000 +0000" stop="20240903105000 +0000" channel="TRTHaber.tr"><title lang="tr">Öğle Ana Haber</title></programme>
