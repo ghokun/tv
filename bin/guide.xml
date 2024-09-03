@@ -1762,7 +1762,8 @@
 <programme start="20240903210000 +0000" stop="20240903230000 +0000" channel="TRTHaber.tr"><title lang="tr">Gece Bakışı</title></programme>
 <programme start="20240903230000 +0000" stop="20240904005500 +0000" channel="TRTHaber.tr"><title lang="tr">Gün Sonu</title></programme>
 <programme start="20240904005500 +0000" stop="20240904010000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20240904010000 +0000" stop="20240904020000 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 04</title></programme>
+<programme start="20240904010000 +0000" stop="20240904015000 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 04</title></programme>
+<programme start="20240904015000 +0000" stop="20240904020000 +0000" channel="TRTHaber.tr"><title lang="tr">İmece</title></programme>
 <programme start="20240904020000 +0000" stop="20240904025500 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 05</title></programme>
 <programme start="20240904025500 +0000" stop="20240904030000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20240904030000 +0000" stop="20240904040000 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 06</title></programme>
@@ -1908,9 +1909,9 @@
 <programme start="20240903053000 +0000" stop="20240903064500 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
 <programme start="20240903064500 +0000" stop="20240903104500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240903104500 +0000" stop="20240903130000 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
-<programme start="20240903130000 +0000" stop="20240903170000 +0000" channel="TV8.tr"><title lang="tr">Zuhal Topal&apos;la Yemekteyiz</title></programme>
-<programme start="20240903170000 +0000" stop="20240903211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
-<programme start="20240903170000 +0000" stop="20240903211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240903130000 +0000" stop="20240903160000 +0000" channel="TV8.tr"><title lang="tr">Zuhal Topal&apos;la Yemekteyiz</title></programme>
+<programme start="20240903160000 +0000" stop="20240903211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20240903160000 +0000" stop="20240903211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20240903211500 +0000" stop="20240903234500 +0000" channel="TV8.tr"><title lang="tr">Zuhal Topal&apos;la Yemekteyiz</title></programme>
 <programme start="20240903234500 +0000" stop="20240904013000 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin Yaz</title></programme>
 <programme start="20240904013000 +0000" stop="20240904030000 +0000" channel="TV8.tr"><title lang="tr">Doğduğun Ev Kaderindir</title></programme>
