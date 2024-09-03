@@ -1806,7 +1806,14 @@
 <programme start="20240903224000 +0000" stop="20240903235500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Türkiye - Kore</title></programme>
 <programme start="20240903235500 +0000" stop="20240904010500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Türkiye - Fransa</title></programme>
 <programme start="20240904010500 +0000" stop="20240904035500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Paralimpik...</title></programme>
-<programme start="20240904035500 +0000" stop="20240904075500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Olimpiyat Hikayeleri</title></programme>
+<programme start="20240904035500 +0000" stop="20240904035800 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Olimpiyat Hikayeleri</title></programme>
+<programme start="20240904035800 +0000" stop="20240904040000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">İstiklal Marşı</title></programme>
+<programme start="20240904040000 +0000" stop="20240904050000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Paralimpik...</title></programme>
+<programme start="20240904050000 +0000" stop="20240904063000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Paralimpik...</title></programme>
+<programme start="20240904063000 +0000" stop="20240904065000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Sıra Sende</title></programme>
+<programme start="20240904065000 +0000" stop="20240904072000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Olimpiyat Anıları</title></programme>
+<programme start="20240904072000 +0000" stop="20240904074500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Paralimpik...</title></programme>
+<programme start="20240904074500 +0000" stop="20240904075500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Kuralına Göre Oyna</title></programme>
 <programme start="20240904075500 +0000" stop="20240904080000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Spor Takvimi</title></programme>
 <programme start="20240904080000 +0000" stop="20240904113000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Paralimpik...</title></programme>
 <programme start="20240904113000 +0000" stop="20240904120000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Paralimpik...</title></programme>
