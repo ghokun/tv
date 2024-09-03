@@ -486,12 +486,10 @@
 <programme start="20240903050000 +0000" stop="20240903080000 +0000" channel="HalkTV.tr"><title lang="tr">Yeni Bir Sabah</title></programme>
 <programme start="20240903080000 +0000" stop="20240903100000 +0000" channel="HalkTV.tr"><title lang="tr">Her Açıdan</title></programme>
 <programme start="20240903100000 +0000" stop="20240903120000 +0000" channel="HalkTV.tr"><title lang="tr">Haber Masası</title></programme>
-<programme start="20240903120000 +0000" stop="20240903130000 +0000" channel="HalkTV.tr"><title lang="tr">15 Raporu</title></programme>
-<programme start="20240903130000 +0000" stop="20240903140000 +0000" channel="HalkTV.tr"><title lang="tr">Parantez</title></programme>
-<programme start="20240903140000 +0000" stop="20240903150000 +0000" channel="HalkTV.tr"><title lang="tr">Kırmızı Çizgi</title></programme>
+<programme start="20240903120000 +0000" stop="20240903130000 +0000" channel="HalkTV.tr"><title lang="tr">Ankara Gündemi</title></programme>
+<programme start="20240903130000 +0000" stop="20240903150000 +0000" channel="HalkTV.tr"><title lang="tr">Gündem Özel</title></programme>
 <programme start="20240903150000 +0000" stop="20240903170000 +0000" channel="HalkTV.tr"><title lang="tr">Halk Ana Haber</title></programme>
-<programme start="20240903170000 +0000" stop="20240903180000 +0000" channel="HalkTV.tr"><title lang="tr">Sen Ne Dersin?</title></programme>
-<programme start="20240903180000 +0000" stop="20240903210000 +0000" channel="HalkTV.tr"><title lang="tr">Kayda Geçsin</title></programme>
+<programme start="20240903170000 +0000" stop="20240903210000 +0000" channel="HalkTV.tr"><title lang="tr">Kayda Geçsin</title></programme>
 <programme start="20240903210000 +0000" stop="20240903220000 +0000" channel="HalkTV.tr"><title lang="tr">Halk TV&apos;de Bugün</title></programme>
 <programme start="20240903220000 +0000" stop="20240904000000 +0000" channel="HalkTV.tr"><title lang="tr">Halk TV&apos;de Bugün</title></programme>
 <programme start="20240904000000 +0000" stop="20240904030000 +0000" channel="HalkTV.tr"><title lang="tr">Halk TV&apos;de Bugün</title></programme>
