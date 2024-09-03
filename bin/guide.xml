@@ -444,7 +444,7 @@
 <programme start="20240904103000 +0000" stop="20240904131500 +0000" channel="Fox.tr"><title lang="tr">En Hamarat Benim</title></programme>
 <programme start="20240904131500 +0000" stop="20240904160000 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin...</title></programme>
 <programme start="20240904160000 +0000" stop="20240904170000 +0000" channel="Fox.tr"><title lang="tr">NOW Ana Haber</title></programme>
-<programme start="20240904170000 +0000" stop="20240904190000 +0000" channel="Fox.tr"><title lang="tr">Bir Destek Bir Gelecek :...</title></programme>
+<programme start="20240904170000 +0000" stop="20240904190000 +0000" channel="Fox.tr"><title lang="tr">Bir Destek Bir Gelecek</title></programme>
 <programme start="20240904190000 +0000" stop="20240904211500 +0000" channel="Fox.tr"><title lang="tr">Öğretmen</title></programme>
 <programme start="20240902200000 +0000" stop="20240902220000 +0000" channel="HaberturkTV.tr"><title lang="tr">Mesut Yar ile Gece Hattı</title></programme>
 <programme start="20240902220000 +0000" stop="20240903003000 +0000" channel="HaberturkTV.tr"><title lang="tr">Açık ve Net</title></programme>
@@ -499,13 +499,14 @@
 <programme start="20240904030000 +0000" stop="20240904040000 +0000" channel="HalkTV.tr"><title lang="tr">Halk TV&apos;de Bugün</title></programme>
 <programme start="20240904040000 +0000" stop="20240904050000 +0000" channel="HalkTV.tr"><title lang="tr">Günaydın Türkiye</title></programme>
 <programme start="20240904050000 +0000" stop="20240904080000 +0000" channel="HalkTV.tr"><title lang="tr">Yeni Bir Sabah</title></programme>
-<programme start="20240904080000 +0000" stop="20240904100000 +0000" channel="HalkTV.tr"><title lang="tr">Neden Sonuç</title></programme>
+<programme start="20240904080000 +0000" stop="20240904100000 +0000" channel="HalkTV.tr"><title lang="tr">Kırmızı Çizgi</title></programme>
 <programme start="20240904100000 +0000" stop="20240904120000 +0000" channel="HalkTV.tr"><title lang="tr">Haber Masası</title></programme>
-<programme start="20240904120000 +0000" stop="20240904130000 +0000" channel="HalkTV.tr"><title lang="tr">15 Raporu</title></programme>
-<programme start="20240904130000 +0000" stop="20240904140000 +0000" channel="HalkTV.tr"><title lang="tr">Parantez</title></programme>
-<programme start="20240904140000 +0000" stop="20240904150000 +0000" channel="HalkTV.tr"><title lang="tr">Kırmızı Çizgi</title></programme>
+<programme start="20240904120000 +0000" stop="20240904130000 +0000" channel="HalkTV.tr"><title lang="tr">Haberler</title></programme>
+<programme start="20240904130000 +0000" stop="20240904150000 +0000" channel="HalkTV.tr"><title lang="tr">Gündem Özel</title></programme>
 <programme start="20240904150000 +0000" stop="20240904170000 +0000" channel="HalkTV.tr"><title lang="tr">Halk Ana Haber</title></programme>
-<programme start="20240904170000 +0000" stop="20240904220000 +0000" channel="HalkTV.tr"><title lang="tr">Rota</title></programme>
+<programme start="20240904170000 +0000" stop="20240904180000 +0000" channel="HalkTV.tr"><title lang="tr">Sen Ne Dersin?</title></programme>
+<programme start="20240904180000 +0000" stop="20240904190000 +0000" channel="HalkTV.tr"><title lang="tr">Sözüm Var</title></programme>
+<programme start="20240904190000 +0000" stop="20240904220000 +0000" channel="HalkTV.tr"><title lang="tr">Gündem Özel</title></programme>
 <programme start="20240902201500 +0000" stop="20240902225000 +0000" channel="Kanal7.tr"><title lang="tr">Diriliş Ertuğrul</title></programme>
 <programme start="20240902225000 +0000" stop="20240903001000 +0000" channel="Kanal7.tr"><title lang="tr">Masum</title></programme>
 <programme start="20240903001000 +0000" stop="20240903033000 +0000" channel="Kanal7.tr"><title lang="tr">Seninle Yeniden</title></programme>
