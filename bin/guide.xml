@@ -1525,6 +1525,15 @@
 <programme start="20240905180000 +0000" stop="20240905200000 +0000" channel="TRT3.tr"><title lang="tr">Elmas Lig</title></programme>
 <programme start="20240905200000 +0000" stop="20240905220000 +0000" channel="TRT3.tr"><title lang="tr">Aktüel Futbol Transfer</title></programme>
 <programme start="20240905200000 +0000" stop="20240905220000 +0000" channel="TRT3.tr"><title lang="tr">Aktüel Futbol Transfer</title></programme>
+<programme start="20240905220000 +0000" stop="20240905230000 +0000" channel="TRT3.tr"><title lang="tr">Spor Artı</title></programme>
+<programme start="20240905230000 +0000" stop="20240906010000 +0000" channel="TRT3.tr"><title lang="tr">Aktüel Futbol Transfer</title></programme>
+<programme start="20240906010000 +0000" stop="20240906013000 +0000" channel="TRT3.tr"><title lang="tr">İtalya Seri A Özetler</title></programme>
+<programme start="20240906013000 +0000" stop="20240906020000 +0000" channel="TRT3.tr"><title lang="tr">İspanya La Liga Özetler</title></programme>
+<programme start="20240906020000 +0000" stop="20240906023000 +0000" channel="TRT3.tr"><title lang="tr">Hollanda Eredivisie Özetler</title></programme>
+<programme start="20240906023000 +0000" stop="20240906030000 +0000" channel="TRT3.tr"><title lang="tr">Trendyol Süper Lig Özetler</title></programme>
+<programme start="20240906030000 +0000" stop="20240906033000 +0000" channel="TRT3.tr"><title lang="tr">Trendyol 1. Lig Özetler</title></programme>
+<programme start="20240906033000 +0000" stop="20240906034500 +0000" channel="TRT3.tr"><title lang="tr">Belçika Pro Lig Özetler</title></programme>
+<programme start="20240906034500 +0000" stop="20240906074500 +0000" channel="TRT3.tr"><title lang="tr">Avrupa&apos;dan Futbol</title></programme>
 <programme start="20240904205500 +0000" stop="20240904214000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Kaz Otaran</title></programme>
 <programme start="20240904214000 +0000" stop="20240904220500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Yaşam Başka Yerde</title></programme>
 <programme start="20240904220500 +0000" stop="20240904225500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Şefin Özel Konuğu</title></programme>
@@ -1802,6 +1811,11 @@
 <programme start="20240905075000 +0000" stop="20240905155000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Paralimpik...</title></programme>
 <programme start="20240905155000 +0000" stop="20240905213000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Paralimpik...</title></programme>
 <programme start="20240905155000 +0000" stop="20240905213000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Paralimpik...</title></programme>
+<programme start="20240905213000 +0000" stop="20240905230000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Paralimpik...</title></programme>
+<programme start="20240905230000 +0000" stop="20240906001500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Türkiye - İsrail</title></programme>
+<programme start="20240906001500 +0000" stop="20240906024500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Paralimpik...</title></programme>
+<programme start="20240906024500 +0000" stop="20240906033000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Paris 2024 Paralimpik...</title></programme>
+<programme start="20240906033000 +0000" stop="20240906073000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Olimpiyat Anıları</title></programme>
 <programme start="20240904203500 +0000" stop="20240904211500 +0000" channel="TRTTurk.tr"><title lang="tr">Leyla ile Mecnun</title></programme>
 <programme start="20240904211500 +0000" stop="20240904213000 +0000" channel="TRTTurk.tr"><title lang="tr">Kalbin İçindekiler</title></programme>
 <programme start="20240904213000 +0000" stop="20240904222500 +0000" channel="TRTTurk.tr"><title lang="tr">Almanak</title></programme>
@@ -1948,6 +1962,9 @@
 <programme start="20240905204500 +0000" stop="20240905210000 +0000" channel="TV85.tr"><title lang="tr">Portekiz - Hırvatistan</title></programme>
 <programme start="20240905230000 +0000" stop="20240906090000 +0000" channel="TV85.tr"><title lang="tr">Bir Zamanlar</title></programme>
 <programme start="20240906090000 +0000" stop="20240906130000 +0000" channel="TV85.tr"><title lang="tr">Balık Dedektifi</title></programme>
+<programme start="20240906120000 +0000" stop="20240906160000 +0000" channel="TV85.tr"><title lang="tr">Vincenzo Montella Özel...</title></programme>
+<programme start="20240906160000 +0000" stop="20240906163000 +0000" channel="TV85.tr"><title lang="tr">Vincenzo Montella Özel...</title></programme>
+<programme start="20240906163000 +0000" stop="20240906220000 +0000" channel="TV85.tr"><title lang="tr">A Milli Takımın...</title></programme>
 <programme start="20240904174500 +0000" stop="20240904213000 +0000" channel="TV100.tr"><title lang="tr">Taksim Meydanı</title></programme>
 <programme start="20240904213000 +0000" stop="20240904223000 +0000" channel="TV100.tr"><title lang="tr">Gece Haberleri</title></programme>
 <programme start="20240904223000 +0000" stop="20240905013000 +0000" channel="TV100.tr"><title lang="tr">Taksim Meydanı</title></programme>
