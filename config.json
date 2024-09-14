@@ -1,23 +1,23 @@
 {
   "channels": {
     "360.tr": {
-      "epg_site": "digiturk.com.tr",
-      "epg_site_id": 29,
+      "epg_site": "turksatkablo.com.tr",
+      "epg_site_id": 1884,
       "group_title": "Ulusal",
       "lang": "tr",
       "name": "360"
     },
     "AHaber.tr": {
-      "epg_site": "digiturk.com.tr",
-      "epg_site_id": 32,
+      "epg_site": "turksatkablo.com.tr",
+      "epg_site_id": 365,
       "group_title": "Haber",
       "lang": "tr",
       "name": "A Haber",
       "url": "http://stream.tvcdn.net/haber/a-haber.m3u8"
     },
     "ATV.tr": {
-      "epg_site": "digiturk.com.tr",
-      "epg_site_id": 25,
+      "epg_site": "turksatkablo.com.tr",
+      "epg_site_id": 364,
       "group_title": "Ulusal",
       "lang": "tr",
       "logo": "https://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png",
@@ -25,16 +25,16 @@
       "url": "http://stream.tvcdn.net/ulusal/atv.m3u8"
     },
     "BeyazTV.tr": {
-      "epg_site": "digiturk.com.tr",
-      "epg_site_id": 36,
+      "epg_site": "turksatkablo.com.tr",
+      "epg_site_id": 1410,
       "group_title": "Ulusal",
       "lang": "tr",
       "name": "Beyaz TV",
       "url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8"
     },
     "CartoonNetwork.tr": {
-      "epg_site": "digiturk.com.tr",
-      "epg_site_id": 169,
+      "epg_site": "turksatkablo.com.tr",
+      "epg_site_id": 146,
       "group_title": "Çocuk",
       "lang": "tr",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",
@@ -42,8 +42,8 @@
       "url": "http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8"
     },
     "CNNTurk.tr": {
-      "epg_site": "digiturk.com.tr",
-      "epg_site_id": 42,
+      "epg_site": "turksatkablo.com.tr",
+      "epg_site_id": 20,
       "group_title": "Haber",
       "lang": "tr",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_Türk_logo.svg/512px-CNN_Türk_logo.svg.png",
@@ -67,8 +67,8 @@
       "name": "Euro D"
     },
     "Fox.tr": {
-      "epg_site": "digiturk.com.tr",
-      "epg_site_id": 26,
+      "epg_site": "turksatkablo.com.tr",
+      "epg_site_id": 534,
       "group_title": "Ulusal",
       "lang": "tr",
       "logo": "https://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png",
@@ -76,30 +76,30 @@
       "url": "http://stream.tvcdn.net/ulusal/now-tv.m3u8"
     },
     "HaberturkTV.tr": {
-      "epg_site": "digiturk.com.tr",
-      "epg_site_id": 44,
+      "epg_site": "turksatkablo.com.tr",
+      "epg_site_id": 1418,
       "group_title": "Haber",
       "lang": "tr",
       "name": "Haber Türk"
     },
     "HalkTV.tr": {
-      "epg_site": "digiturk.com.tr",
-      "epg_site_id": 53,
+      "epg_site": "turksatkablo.com.tr",
+      "epg_site_id": 371,
       "group_title": "Haber",
       "lang": "tr",
       "logo": "https://assets.tvcdn.net/f0bcd016-8730-4700-9156-d6b678f8e554.png",
       "name": "Halk TV"
     },
     "Kanal7.tr": {
-      "epg_site": "digiturk.com.tr",
-      "epg_site_id": 34,
+      "epg_site": "turksatkablo.com.tr",
+      "epg_site_id": 1399,
       "group_title": "Ulusal",
       "lang": "tr",
       "name": "Kanal 7"
     },
     "KanalD.tr": {
-      "epg_site": "digiturk.com.tr",
-      "epg_site_id": 24,
+      "epg_site": "turksatkablo.com.tr",
+      "epg_site_id": 606,
       "group_title": "Ulusal",
       "lang": "tr",
       "name": "Kanal D"
@@ -114,40 +114,40 @@
       "url": "http://stream.tvcdn.net/cocuk-egitim/minika-cocuk.m3u8"
     },
     "MinikaGo.tr": {
-      "epg_site": "digiturk.com.tr",
-      "epg_site_id": 170,
+      "epg_site": "turksatkablo.com.tr",
+      "epg_site_id": 367,
       "group_title": "Çocuk",
       "lang": "tr",
       "name": "Minika GO",
       "url": "http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8"
     },
     "NTV.tr": {
-      "epg_site": "digiturk.com.tr",
-      "epg_site_id": 41,
+      "epg_site": "turksatkablo.com.tr",
+      "epg_site_id": 1768,
       "group_title": "Ulusal",
       "lang": "tr",
       "logo": "https://assets.tvcdn.net/b2aa3114-53bd-4ff5-81ed-af75a28e651f.png",
       "name": "NTV"
     },
     "Number1TV.tr": {
-      "epg_site": "digiturk.com.tr",
-      "epg_site_id": 95,
+      "epg_site": "tvplus.com.tr",
+      "epg_site_id": 204,
       "group_title": "Müzik",
       "lang": "tr",
       "name": "Number 1 TV",
       "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8"
     },
     "PowerTV.tr": {
-      "epg_site": "digiturk.com.tr",
-      "epg_site_id": 100,
+      "epg_site": "tvplus.com.tr",
+      "epg_site_id": 172,
       "group_title": "Müzik",
       "lang": "tr",
       "logo": "https://assets.tvcdn.net/ccb54b98-472f-4c36-a48f-46431c84ab6a.png",
       "name": "Power TV"
     },
     "ShowTV.tr": {
-      "epg_site": "digiturk.com.tr",
-      "epg_site_id": 22,
+      "epg_site": "turksatkablo.com.tr",
+      "epg_site_id": 1417,
       "group_title": "Ulusal",
       "lang": "tr",
       "name": "Show TV",
@@ -169,15 +169,15 @@
       "name": "Sports TV"
     },
     "StarTV.tr": {
-      "epg_site": "digiturk.com.tr",
-      "epg_site_id": 27,
+      "epg_site": "turksatkablo.com.tr",
+      "epg_site_id": 1757,
       "group_title": "Ulusal",
       "lang": "tr",
       "name": "Star"
     },
     "Teve2.tr": {
-      "epg_site": "digiturk.com.tr",
-      "epg_site_id": 54,
+      "epg_site": "turksatkablo.com.tr",
+      "epg_site_id": 132,
       "group_title": "Ulusal",
       "lang": "tr",
       "logo": "https://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png",
@@ -193,23 +193,23 @@
       "url": "https://dogus-live.daioncdn.net/tlc/tlc.m3u8"
     },
     "TRT1.tr": {
-      "epg_site": "digiturk.com.tr",
-      "epg_site_id": 23,
+      "epg_site": "turksatkablo.com.tr",
+      "epg_site_id": 15,
       "group_title": "Ulusal",
       "lang": "tr",
       "name": "TRT 1"
     },
     "TRT2.tr": {
-      "epg_site": "digiturk.com.tr",
-      "epg_site_id": 66,
+      "epg_site": "turksatkablo.com.tr",
+      "epg_site_id": 1957,
       "group_title": "Ulusal",
       "lang": "tr",
       "name": "TRT 2",
       "url": "http://stream.tvcdn.net/eglence/trt-2.m3u8"
     },
     "TRT3.tr": {
-      "epg_site": "digiturk.com.tr",
-      "epg_site_id": 56,
+      "epg_site": "turksatkablo.com.tr",
+      "epg_site_id": 17,
       "group_title": "Spor",
       "lang": "tr",
       "logo": "https://i.imgur.com/6tv0zxh.png",
@@ -224,29 +224,29 @@
       "name": "TRT 4K"
     },
     "TRTBelgesel.tr": {
-      "epg_site": "digiturk.com.tr",
-      "epg_site_id": "190",
+      "epg_site": "turksatkablo.com.tr",
+      "epg_site_id": "1439",
       "group_title": "Belgesel",
       "lang": "tr",
       "name": "TRT Belgesel"
     },
     "TRTCocuk.tr": {
-      "epg_site": "digiturk.com.tr",
-      "epg_site_id": "160",
+      "epg_site": "turksatkablo.com.tr",
+      "epg_site_id": "18",
       "group_title": "Çocuk",
       "lang": "tr",
       "name": "TRT Çocuk"
     },
     "TRTHaber.tr": {
-      "epg_site": "digiturk.com.tr",
-      "epg_site_id": "33",
+      "epg_site": "turksatkablo.com.tr",
+      "epg_site_id": "16",
       "group_title": "Haber",
       "lang": "tr",
       "name": "TRT Haber"
     },
     "TRTSporYildiz.tr": {
-      "epg_site": "digiturk.com.tr",
-      "epg_site_id": "87",
+      "epg_site": "turksatkablo.com.tr",
+      "epg_site_id": "2021",
       "group_title": "Spor",
       "lang": "tr",
       "logo": "https://assets.tvcdn.net/27f74187-ef2a-4928-9515-77422081119c.png",
@@ -254,32 +254,32 @@
       "url": "http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8"
     },
     "TRTTurk.tr": {
-      "epg_site": "digiturk.com.tr",
-      "epg_site_id": "61",
+      "epg_site": "turksatkablo.com.tr",
+      "epg_site_id": "114",
       "group_title": "Belgesel",
       "lang": "tr",
       "name": "TRT Türk",
       "url": "https://tv-trtturk.medya.trt.com.tr/master.m3u8"
     },
     "TV8.tr": {
-      "epg_site": "digiturk.com.tr",
-      "epg_site_id": "28",
+      "epg_site": "turksatkablo.com.tr",
+      "epg_site_id": "1446",
       "group_title": "Eğlence",
       "lang": "tr",
       "logo": "https://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png",
       "name": "TV 8"
     },
     "TV85.tr": {
-      "epg_site": "digiturk.com.tr",
-      "epg_site_id": "55",
+      "epg_site": "turksatkablo.com.tr",
+      "epg_site_id": "1849",
       "group_title": "Eğlence",
       "lang": "tr",
       "logo": "https://assets.tvcdn.net/be26f47c-18d7-4447-971c-ca4ba60ffb4c.png",
       "name": "TV 8,5"
     },
     "TV100.tr": {
-      "epg_site": "digiturk.com.tr",
-      "epg_site_id": "37",
+      "epg_site": "turksatkablo.com.tr",
+      "epg_site_id": "2000",
       "group_title": "Haber",
       "lang": "tr",
       "logo": "https://assets.tvcdn.net/d7741078-ccce-47d8-ba1c-a041b659bad6.png",
