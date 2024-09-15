@@ -26,6 +26,15 @@ jobs:
           npm run grab -- --channels=../bin/channels.xml --output=../bin/guide.xml
           cd ..
           rm -rf epg
+      - name: Set up linuxbrew
+        uses: Homebrew/actions/setup-homebrew@master
+      - name: Install m3u-checker
+        run: |
+          brew install ghokun/tap/m3u-checker
+      - name: Probe streams
+        run: |
+          cd bin
+          m3u-checker --playlist playlist.m3u --file REPORT.md
       - name: Commit and push
         run: |
           if [ -z "$(git status --porcelain)" ]; then
