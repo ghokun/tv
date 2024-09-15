@@ -65,7 +65,7 @@ http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TV8.tr.png" group-title="Eğlence",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-#EXTINF:-1 tvg-id="TV85.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TV85.tr.png" group-title="Eğlence",TV 8,5
+#EXTINF:-1 tvg-id="TV85.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TV85.tr.png" group-title="Eğlence",TV 8.5
 http://bozztv.com/gin-dvrfl05/gin-tv8_5/index.m3u8
 #EXTINF:-1 tvg-id="TV100.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TV100.tr.png" group-title="Haber",TV 100
 https://tv100.blutv.com/blutv_tv100_live/live.m3u8
