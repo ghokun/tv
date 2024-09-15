@@ -53,8 +53,6 @@ https://trt1.persona.video/master.m3u8?hls=1
 http://stream.tvcdn.net/eglence/trt-2.m3u8
 #EXTINF:-1 tvg-id="TRT3.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TRT3.tr.png" group-title="Spor",TRT 3
 http://stream.tvcdn.net/spor/trt-3-spor.m3u8
-#EXTINF:-1 tvg-id="TRT4K.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TRT4K.tr.png" group-title="Belgesel",TRT 4K
-https://mn-nl.mncdn.com/blutv_trt4k/live.m3u8
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TRTBelgesel.tr.png" group-title="Belgesel",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TRTCocuk.tr.png" group-title="Çocuk",TRT Çocuk
