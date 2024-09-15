@@ -26,9 +26,14 @@ jobs:
           npm run grab -- --channels=../bin/channels.xml --output=../bin/guide.xml
           cd ..
           rm -rf epg
-      - name: Set up linuxbrew
+      - name: Install ffprobe
+        uses: awalsh128/cache-apt-pkgs-action@latest
+        with:
+          packages: ffprobe
+          version: 1.0
+      - name: Install linuxbrew
         uses: Homebrew/actions/setup-homebrew@master
-      - name: Install m3u-checker
+      - name: Install m3u-checker and ffprobe
         run: |
           brew install ghokun/tap/m3u-checker
       - name: Probe streams
