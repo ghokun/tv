@@ -197,7 +197,8 @@
       "epg_site_id": 15,
       "group_title": "Ulusal",
       "lang": "tr",
-      "name": "TRT 1"
+      "name": "TRT 1",
+      "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8"
     },
     "TRT2.tr": {
       "epg_site": "turksatkablo.com.tr",
