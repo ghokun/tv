@@ -375,7 +375,8 @@
 <programme start="20240918142000 +0000" stop="20240918151500 +0000" channel="EuroD.tr"><title lang="tr">Bizi birleştiren hayat</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/200.225_genre_w1920.webp</image></programme>
 <programme start="20240918151500 +0000" stop="20240918154000 +0000" channel="EuroD.tr"><title lang="tr">Sicak gelişme</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/700.701_genre_w1920.webp</image></programme>
 <programme start="20240918154000 +0000" stop="20240918170000 +0000" channel="EuroD.tr"><title lang="tr">Kanal D Ana Haber</title><desc lang="tr">Türkiye&apos;nin ve dünyanin gündemindekiler, siyasal ve ekonomik gelismeler aktariliyor.</desc><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/700.701_genre_w1920.webp</image></programme>
-<programme start="20240918170000 +0000" stop="20240918231000 +0000" channel="EuroD.tr"><title lang="tr">Taş kağit makas</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/200.225_genre_w1920.webp</image></programme>
+<programme start="20240918170000 +0000" stop="20240918212000 +0000" channel="EuroD.tr"><title lang="tr">Taş kağit makas</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/200.225_genre_w1920.webp</image></programme>
+<programme start="20240918212000 +0000" stop="20240918231000 +0000" channel="EuroD.tr"><title lang="tr">Arka Sokaklar</title><desc lang="tr">Istanbul Polis Teskilati Asayis Sube&apos;de görev yapan &apos;sivil&apos; bir ekip Istanbul&apos;un sokaklarini arsinlamakta ve karsilarina çikan her türlü kanunsuzlukla savasmaktadirlar. Görevleri sirasinda degisik ve çesitli insan hikayeleriyle karsilasirlar.</desc><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/200.216_genre_w1920.webp</image></programme>
 <programme start="20240918231000 +0000" stop="20240919013500 +0000" channel="EuroD.tr"><title lang="tr">Güneşi Beklerken</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p15270797ih10aa_Iconic_w1920.webp</image></programme>
 <programme start="20240916210000 +0000" stop="20240916220000 +0000" channel="Fox.tr"><title lang="tr">-</title></programme>
 <programme start="20240916220000 +0000" stop="20240917003000 +0000" channel="Fox.tr"><title lang="tr">Leyla: Hayat, Aşk, Adalet...</title></programme>
@@ -1334,9 +1335,9 @@
 <programme start="20240917040000 +0000" stop="20240917073000 +0000" channel="TRT1.tr"><title lang="tr">Kalk Gidelim</title></programme>
 <programme start="20240917073000 +0000" stop="20240917101500 +0000" channel="TRT1.tr"><title lang="tr">Alişan ile Hayata Gülümse</title></programme>
 <programme start="20240917101500 +0000" stop="20240917124000 +0000" channel="TRT1.tr"><title lang="tr">Seksenler</title></programme>
-<programme start="20240917124000 +0000" stop="20240917154500 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
-<programme start="20240917154500 +0000" stop="20240917164000 +0000" channel="TRT1.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240917164000 +0000" stop="20240917164500 +0000" channel="TRT1.tr"><title lang="tr">İddiaların Aksine</title></programme>
+<programme start="20240917124000 +0000" stop="20240917154000 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
+<programme start="20240917154000 +0000" stop="20240917154500 +0000" channel="TRT1.tr"><title lang="tr">İddiaların Aksine</title></programme>
+<programme start="20240917154500 +0000" stop="20240917164500 +0000" channel="TRT1.tr"><title lang="tr">Ana Haber</title></programme>
 <programme start="20240917164500 +0000" stop="20240917190000 +0000" channel="TRT1.tr"><title lang="tr">Bologna-Shakhtar Donetsk</title></programme>
 <programme start="20240917190000 +0000" stop="20240917211500 +0000" channel="TRT1.tr"><title lang="tr">Club Brugge-Borussia Dortmund</title></programme>
 <programme start="20240917210000 +0000" stop="20240917211500 +0000" channel="TRT1.tr"><title lang="tr">-</title></programme>
@@ -1346,9 +1347,9 @@
 <programme start="20240918040000 +0000" stop="20240918073000 +0000" channel="TRT1.tr"><title lang="tr">Kalk Gidelim</title></programme>
 <programme start="20240918073000 +0000" stop="20240918101500 +0000" channel="TRT1.tr"><title lang="tr">Alişan ile Hayata Gülümse</title></programme>
 <programme start="20240918101500 +0000" stop="20240918124000 +0000" channel="TRT1.tr"><title lang="tr">Seksenler</title></programme>
-<programme start="20240918124000 +0000" stop="20240918154500 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
-<programme start="20240918154500 +0000" stop="20240918164000 +0000" channel="TRT1.tr"><title lang="tr">Ana Haber</title></programme>
-<programme start="20240918164000 +0000" stop="20240918164500 +0000" channel="TRT1.tr"><title lang="tr">İddiaların Aksine</title></programme>
+<programme start="20240918124000 +0000" stop="20240918154000 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
+<programme start="20240918154000 +0000" stop="20240918154500 +0000" channel="TRT1.tr"><title lang="tr">İddiaların Aksine</title></programme>
+<programme start="20240918154500 +0000" stop="20240918164500 +0000" channel="TRT1.tr"><title lang="tr">Ana Haber</title></programme>
 <programme start="20240918164500 +0000" stop="20240918190000 +0000" channel="TRT1.tr"><title lang="tr">Bologna-Shakhtar Donetsk</title></programme>
 <programme start="20240918190000 +0000" stop="20240918211500 +0000" channel="TRT1.tr"><title lang="tr">Club Brugge-Borussia Dortmund</title></programme>
 <programme start="20240916210000 +0000" stop="20240916214500 +0000" channel="TRT2.tr"><title lang="tr">-</title></programme>
@@ -1437,14 +1438,58 @@
 <programme start="20240917004500 +0000" stop="20240917023000 +0000" channel="TRT3.tr"><title lang="tr">Juventus - PSV Eindhoven</title></programme>
 <programme start="20240917023000 +0000" stop="20240917030000 +0000" channel="TRT3.tr"><title lang="tr">İtalya Seri A Özetler</title></programme>
 <programme start="20240917030000 +0000" stop="20240917033000 +0000" channel="TRT3.tr"><title lang="tr">İspanya La Liga Özetler</title></programme>
-<programme start="20240917033000 +0000" stop="20240917210000 +0000" channel="TRT3.tr"><title lang="tr">Hollanda Eredivisie Özetler</title></programme>
+<programme start="20240917033000 +0000" stop="20240917035800 +0000" channel="TRT3.tr"><title lang="tr">Hollanda Eredivisie Özetler</title></programme>
+<programme start="20240917035800 +0000" stop="20240917040000 +0000" channel="TRT3.tr"><title lang="tr">İstiklal Marşı</title></programme>
+<programme start="20240917040000 +0000" stop="20240917055500 +0000" channel="TRT3.tr"><title lang="tr">İlk Baskı</title></programme>
+<programme start="20240917055500 +0000" stop="20240917060000 +0000" channel="TRT3.tr"><title lang="tr">Spor Takvimi</title></programme>
+<programme start="20240917060000 +0000" stop="20240917061500 +0000" channel="TRT3.tr"><title lang="tr">İşitme Engelliler Spor Bülteni</title></programme>
+<programme start="20240917061500 +0000" stop="20240917064000 +0000" channel="TRT3.tr"><title lang="tr">Belçika Pro Lig Özetler</title></programme>
+<programme start="20240917064000 +0000" stop="20240917070000 +0000" channel="TRT3.tr"><title lang="tr">Portekiz Süper Lig Özetler</title></programme>
+<programme start="20240917070000 +0000" stop="20240917080000 +0000" channel="TRT3.tr"><title lang="tr">Spor Bülteni</title></programme>
+<programme start="20240917080000 +0000" stop="20240917092000 +0000" channel="TRT3.tr"><title lang="tr">Spor Manşet</title></programme>
+<programme start="20240917092000 +0000" stop="20240917093000 +0000" channel="TRT3.tr"><title lang="tr">Trendyol Süper Lig Goller</title></programme>
+<programme start="20240917093000 +0000" stop="20240917103000 +0000" channel="TRT3.tr"><title lang="tr">Gün Ortası</title></programme>
+<programme start="20240917103000 +0000" stop="20240917110000 +0000" channel="TRT3.tr"><title lang="tr">UEFA Şampiyonlar Ligi Özetler</title></programme>
+<programme start="20240917110000 +0000" stop="20240917124500 +0000" channel="TRT3.tr"><title lang="tr">Spor Stüdyosu</title></programme>
+<programme start="20240917124500 +0000" stop="20240917130000 +0000" channel="TRT3.tr"><title lang="tr">Avrupa&apos;dan Futbol</title></programme>
+<programme start="20240917130000 +0000" stop="20240917143000 +0000" channel="TRT3.tr"><title lang="tr">Gündem Futbol</title></programme>
+<programme start="20240917143000 +0000" stop="20240917150000 +0000" channel="TRT3.tr"><title lang="tr">Dünyadan Spor</title></programme>
+<programme start="20240917150000 +0000" stop="20240917160000 +0000" channel="TRT3.tr"><title lang="tr">Spor Merkezi</title></programme>
+<programme start="20240917160000 +0000" stop="20240917164500 +0000" channel="TRT3.tr"><title lang="tr">Avrupa Stüdyosu</title></programme>
+<programme start="20240917164500 +0000" stop="20240917170000 +0000" channel="TRT3.tr"><title lang="tr">Avrupa&apos;dan Futbol</title></programme>
+<programme start="20240917170000 +0000" stop="20240917180000 +0000" channel="TRT3.tr"><title lang="tr">Spor Akşamı</title></programme>
+<programme start="20240917180000 +0000" stop="20240917185000 +0000" channel="TRT3.tr"><title lang="tr">UEFA Şampiyonlar Ligi Özetler</title></programme>
+<programme start="20240917185000 +0000" stop="20240917190000 +0000" channel="TRT3.tr"><title lang="tr">İtalya Serie A Goller</title></programme>
+<programme start="20240917190000 +0000" stop="20240917210000 +0000" channel="TRT3.tr"><title lang="tr">Aktüel Futbol</title></programme>
 <programme start="20240917210000 +0000" stop="20240917220000 +0000" channel="TRT3.tr"><title lang="tr">-</title></programme>
 <programme start="20240917220000 +0000" stop="20240917230000 +0000" channel="TRT3.tr"><title lang="tr">Avrupa Stüdyosu</title></programme>
 <programme start="20240917230000 +0000" stop="20240918004500 +0000" channel="TRT3.tr"><title lang="tr">Real Madrıd - Stuttgart</title></programme>
 <programme start="20240918004500 +0000" stop="20240918023000 +0000" channel="TRT3.tr"><title lang="tr">Juventus - PSV Eindhoven</title></programme>
 <programme start="20240918023000 +0000" stop="20240918030000 +0000" channel="TRT3.tr"><title lang="tr">İtalya Seri A Özetler</title></programme>
 <programme start="20240918030000 +0000" stop="20240918033000 +0000" channel="TRT3.tr"><title lang="tr">İspanya La Liga Özetler</title></programme>
-<programme start="20240918033000 +0000" stop="20240918210000 +0000" channel="TRT3.tr"><title lang="tr">Hollanda Eredivisie Özetler</title></programme>
+<programme start="20240918033000 +0000" stop="20240918035800 +0000" channel="TRT3.tr"><title lang="tr">Hollanda Eredivisie Özetler</title></programme>
+<programme start="20240918035800 +0000" stop="20240918040000 +0000" channel="TRT3.tr"><title lang="tr">İstiklal Marşı</title></programme>
+<programme start="20240918040000 +0000" stop="20240918055500 +0000" channel="TRT3.tr"><title lang="tr">İlk Baskı</title></programme>
+<programme start="20240918055500 +0000" stop="20240918060000 +0000" channel="TRT3.tr"><title lang="tr">Spor Takvimi</title></programme>
+<programme start="20240918060000 +0000" stop="20240918061500 +0000" channel="TRT3.tr"><title lang="tr">İşitme Engelliler Spor Bülteni</title></programme>
+<programme start="20240918061500 +0000" stop="20240918064000 +0000" channel="TRT3.tr"><title lang="tr">Belçika Pro Lig Özetler</title></programme>
+<programme start="20240918064000 +0000" stop="20240918070000 +0000" channel="TRT3.tr"><title lang="tr">Portekiz Süper Lig Özetler</title></programme>
+<programme start="20240918070000 +0000" stop="20240918080000 +0000" channel="TRT3.tr"><title lang="tr">Spor Bülteni</title></programme>
+<programme start="20240918080000 +0000" stop="20240918092000 +0000" channel="TRT3.tr"><title lang="tr">Spor Manşet</title></programme>
+<programme start="20240918092000 +0000" stop="20240918093000 +0000" channel="TRT3.tr"><title lang="tr">Trendyol Süper Lig Goller</title></programme>
+<programme start="20240918093000 +0000" stop="20240918103000 +0000" channel="TRT3.tr"><title lang="tr">Gün Ortası</title></programme>
+<programme start="20240918103000 +0000" stop="20240918110000 +0000" channel="TRT3.tr"><title lang="tr">UEFA Şampiyonlar Ligi Özetler</title></programme>
+<programme start="20240918110000 +0000" stop="20240918124500 +0000" channel="TRT3.tr"><title lang="tr">Spor Stüdyosu</title></programme>
+<programme start="20240918124500 +0000" stop="20240918130000 +0000" channel="TRT3.tr"><title lang="tr">Avrupa&apos;dan Futbol</title></programme>
+<programme start="20240918130000 +0000" stop="20240918143000 +0000" channel="TRT3.tr"><title lang="tr">Gündem Futbol</title></programme>
+<programme start="20240918143000 +0000" stop="20240918150000 +0000" channel="TRT3.tr"><title lang="tr">Dünyadan Spor</title></programme>
+<programme start="20240918150000 +0000" stop="20240918160000 +0000" channel="TRT3.tr"><title lang="tr">Spor Merkezi</title></programme>
+<programme start="20240918160000 +0000" stop="20240918164500 +0000" channel="TRT3.tr"><title lang="tr">Avrupa Stüdyosu</title></programme>
+<programme start="20240918164500 +0000" stop="20240918170000 +0000" channel="TRT3.tr"><title lang="tr">Avrupa&apos;dan Futbol</title></programme>
+<programme start="20240918170000 +0000" stop="20240918180000 +0000" channel="TRT3.tr"><title lang="tr">Spor Akşamı</title></programme>
+<programme start="20240918180000 +0000" stop="20240918185000 +0000" channel="TRT3.tr"><title lang="tr">UEFA Şampiyonlar Ligi Özetler</title></programme>
+<programme start="20240918185000 +0000" stop="20240918190000 +0000" channel="TRT3.tr"><title lang="tr">İtalya Serie A Goller</title></programme>
+<programme start="20240918190000 +0000" stop="20240918210000 +0000" channel="TRT3.tr"><title lang="tr">Aktüel Futbol</title></programme>
 <programme start="20240916210000 +0000" stop="20240916210500 +0000" channel="TRTBelgesel.tr"><title lang="tr">-</title></programme>
 <programme start="20240916210500 +0000" stop="20240916214000 +0000" channel="TRTBelgesel.tr"><title lang="tr">Çulha&apos;nın Çilesi</title></programme>
 <programme start="20240916214000 +0000" stop="20240916222500 +0000" channel="TRTBelgesel.tr"><title lang="tr">Şefin Özel Konuğu</title></programme>
