@@ -436,7 +436,7 @@
 <programme start="20240917050000 +0000" stop="20240917080000 +0000" channel="HalkTV.tr"><title lang="tr">Yeni Bir Sabah</title></programme>
 <programme start="20240917080000 +0000" stop="20240917100000 +0000" channel="HalkTV.tr"><title lang="tr">Neden Sonuç</title></programme>
 <programme start="20240917100000 +0000" stop="20240917120000 +0000" channel="HalkTV.tr"><title lang="tr">Haber Masası</title></programme>
-<programme start="20240917120000 +0000" stop="20240917130000 +0000" channel="HalkTV.tr"><title lang="tr">15 Raporu</title></programme>
+<programme start="20240917120000 +0000" stop="20240917130000 +0000" channel="HalkTV.tr"><title lang="tr">Manşet 15</title></programme>
 <programme start="20240917130000 +0000" stop="20240917140000 +0000" channel="HalkTV.tr"><title lang="tr">Parantez</title></programme>
 <programme start="20240917140000 +0000" stop="20240917150000 +0000" channel="HalkTV.tr"><title lang="tr">Kırmızı Çizgi</title></programme>
 <programme start="20240917150000 +0000" stop="20240917170000 +0000" channel="HalkTV.tr"><title lang="tr">Halk Ana Haber</title></programme>
@@ -449,7 +449,7 @@
 <programme start="20240918050000 +0000" stop="20240918080000 +0000" channel="HalkTV.tr"><title lang="tr">Yeni Bir Sabah</title></programme>
 <programme start="20240918080000 +0000" stop="20240918100000 +0000" channel="HalkTV.tr"><title lang="tr">Neden Sonuç</title></programme>
 <programme start="20240918100000 +0000" stop="20240918120000 +0000" channel="HalkTV.tr"><title lang="tr">Haber Masası</title></programme>
-<programme start="20240918120000 +0000" stop="20240918130000 +0000" channel="HalkTV.tr"><title lang="tr">15 Raporu</title></programme>
+<programme start="20240918120000 +0000" stop="20240918130000 +0000" channel="HalkTV.tr"><title lang="tr">Manşet 15</title></programme>
 <programme start="20240918130000 +0000" stop="20240918140000 +0000" channel="HalkTV.tr"><title lang="tr">Parantez</title></programme>
 <programme start="20240918140000 +0000" stop="20240918150000 +0000" channel="HalkTV.tr"><title lang="tr">Kırmızı Çizgi</title></programme>
 <programme start="20240918150000 +0000" stop="20240918170000 +0000" channel="HalkTV.tr"><title lang="tr">Halk Ana Haber</title></programme>
@@ -1010,12 +1010,15 @@
 <programme start="20240917113000 +0000" stop="20240917115000 +0000" channel="NTV.tr"><title lang="tr">Finans Kafe</title></programme>
 <programme start="20240917115000 +0000" stop="20240917115500 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
 <programme start="20240917115500 +0000" stop="20240917120000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20240917120000 +0000" stop="20240917124000 +0000" channel="NTV.tr"><title lang="tr">Öğle Bülteni</title></programme>
+<programme start="20240917120000 +0000" stop="20240917120500 +0000" channel="NTV.tr"><title lang="tr">Öğle Bülteni</title></programme>
+<programme start="20240917120500 +0000" stop="20240917121000 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
+<programme start="20240917121000 +0000" stop="20240917124000 +0000" channel="NTV.tr"><title lang="tr">Gölgelerle Savaş: Casus Operasyonları</title></programme>
 <programme start="20240917124000 +0000" stop="20240917124500 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
 <programme start="20240917124500 +0000" stop="20240917125500 +0000" channel="NTV.tr"><title lang="tr">Spor</title></programme>
 <programme start="20240917125500 +0000" stop="20240917130000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20240917130000 +0000" stop="20240917133000 +0000" channel="NTV.tr"><title lang="tr">Günün İçinden</title></programme>
-<programme start="20240917133000 +0000" stop="20240917133500 +0000" channel="NTV.tr"><title lang="tr">Piyasalar</title></programme>
+<programme start="20240917130000 +0000" stop="20240917132000 +0000" channel="NTV.tr"><title lang="tr">Günün İçinden</title></programme>
+<programme start="20240917132000 +0000" stop="20240917132500 +0000" channel="NTV.tr"><title lang="tr">Piyasalar</title></programme>
+<programme start="20240917132500 +0000" stop="20240917133500 +0000" channel="NTV.tr"><title lang="tr">Spor</title></programme>
 <programme start="20240917133500 +0000" stop="20240917135000 +0000" channel="NTV.tr"><title lang="tr">NTV&apos;ye Sorun Çalışma Hayatı</title></programme>
 <programme start="20240917135000 +0000" stop="20240917135500 +0000" channel="NTV.tr"><title lang="tr">Laf Aramızda</title></programme>
 <programme start="20240917135500 +0000" stop="20240917140000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
@@ -1091,12 +1094,15 @@
 <programme start="20240918113000 +0000" stop="20240918115000 +0000" channel="NTV.tr"><title lang="tr">Finans Kafe</title></programme>
 <programme start="20240918115000 +0000" stop="20240918115500 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
 <programme start="20240918115500 +0000" stop="20240918120000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20240918120000 +0000" stop="20240918124000 +0000" channel="NTV.tr"><title lang="tr">Öğle Bülteni</title></programme>
+<programme start="20240918120000 +0000" stop="20240918120500 +0000" channel="NTV.tr"><title lang="tr">Öğle Bülteni</title></programme>
+<programme start="20240918120500 +0000" stop="20240918121000 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
+<programme start="20240918121000 +0000" stop="20240918124000 +0000" channel="NTV.tr"><title lang="tr">Gölgelerle Savaş: Casus Operasyonları</title></programme>
 <programme start="20240918124000 +0000" stop="20240918124500 +0000" channel="NTV.tr"><title lang="tr">Paranın Nabzı</title></programme>
 <programme start="20240918124500 +0000" stop="20240918125500 +0000" channel="NTV.tr"><title lang="tr">Spor</title></programme>
 <programme start="20240918125500 +0000" stop="20240918130000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20240918130000 +0000" stop="20240918133000 +0000" channel="NTV.tr"><title lang="tr">Günün İçinden</title></programme>
-<programme start="20240918133000 +0000" stop="20240918133500 +0000" channel="NTV.tr"><title lang="tr">Piyasalar</title></programme>
+<programme start="20240918130000 +0000" stop="20240918132000 +0000" channel="NTV.tr"><title lang="tr">Günün İçinden</title></programme>
+<programme start="20240918132000 +0000" stop="20240918132500 +0000" channel="NTV.tr"><title lang="tr">Piyasalar</title></programme>
+<programme start="20240918132500 +0000" stop="20240918133500 +0000" channel="NTV.tr"><title lang="tr">Spor</title></programme>
 <programme start="20240918133500 +0000" stop="20240918135000 +0000" channel="NTV.tr"><title lang="tr">NTV&apos;ye Sorun Çalışma Hayatı</title></programme>
 <programme start="20240918135000 +0000" stop="20240918135500 +0000" channel="NTV.tr"><title lang="tr">Laf Aramızda</title></programme>
 <programme start="20240918135500 +0000" stop="20240918140000 +0000" channel="NTV.tr"><title lang="tr">Hava Durumu</title></programme>
