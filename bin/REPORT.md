@@ -17,7 +17,7 @@
 | Minika Çocuk    | Not available                                | http://stream.tvcdn.net/cocuk-egitim/minika-cocuk.m3u8                                                 |
 | Minika GO       | Not available                                | http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8                                                    |
 | NTV             | Not available                                | https://dogus-live.daioncdn.net/ntv/ntv.m3u8                                                           |
-| Number 1 TV     | 1024x576                                     | https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8 |
+| Number 1 TV     | 1280x720                                     | https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8 |
 | Power TV        | Not available                                | https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8                                      |
 | Show TV         | 1920x1080, 1280x720, 854x480, 640x360        | https://ciner-live.daioncdn.net/showtv/showtv.m3u8                                                     |
 | Sözcü TV        | 1280x720, 960x540, 854x480, 640x360          | http://stream.tvcdn.net/haber/sozcu-tv.m3u8                                                            |
