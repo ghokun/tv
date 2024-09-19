@@ -17,7 +17,7 @@
 | Minika Çocuk    | Not available                                | http://stream.tvcdn.net/cocuk-egitim/minika-cocuk.m3u8                                                 |
 | Minika GO       | Not available                                | http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8                                                    |
 | NTV             | Not available                                | https://dogus-live.daioncdn.net/ntv/ntv.m3u8                                                           |
-| Number 1 TV     | 1280x720                                     | https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8 |
+| Number 1 TV     | 1024x576                                     | https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8 |
 | Power TV        | Not available                                | https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8                                      |
 | Show TV         | 1920x1080, 1280x720, 854x480, 640x360        | https://ciner-live.daioncdn.net/showtv/showtv.m3u8                                                     |
 | Sözcü TV        | 1280x720, 960x540, 854x480, 640x360          | http://stream.tvcdn.net/haber/sozcu-tv.m3u8                                                            |
@@ -29,7 +29,7 @@
 | TRT 2           | Not available                                | http://stream.tvcdn.net/eglence/trt-2.m3u8                                                             |
 | TRT 3           | Not available                                | http://stream.tvcdn.net/spor/trt-3-spor.m3u8                                                           |
 | TRT Belgesel    | 1280x720, 854x480, 640x360                   | https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8                                                    |
-| TRT Çocuk       | 1280x720, 854x480, 640x360                   | https://tv-trtcocuk.medya.trt.com.tr/master.m3u8                                                       |
+| TRT Çocuk       | Not available                                | https://tv-trtcocuk.medya.trt.com.tr/master.m3u8                                                       |
 | TRT Haber       | 1280x720, 854x480, 640x360                   | https://tv-trthaber.medya.trt.com.tr/master.m3u8                                                       |
 | TRT Spor Yıldız | 1280x720                                     | http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8                                                      |
 | TRT Türk        | 640x360, 854x480, 1280x720                   | https://tv-trtturk.medya.trt.com.tr/master.m3u8                                                        |
