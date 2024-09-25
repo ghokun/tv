@@ -1,7 +1,7 @@
 ## playlist.m3u
 |      NAME       |                 RESOLUTIONS                  |                                                  URL                                                   |
 |-----------------|----------------------------------------------|--------------------------------------------------------------------------------------------------------|
-|             360 | , 854x480                                    | https://turkmedya-live.ercdn.net/tv360/tv360.m3u8                                                      |
+|             360 | 1280x720                                     | https://turkmedya-live.ercdn.net/tv360/tv360.m3u8                                                      |
 | A Haber         | 1280x720                                     | http://stream.tvcdn.net/haber/a-haber.m3u8                                                             |
 | ATV             | 1280x720                                     | http://stream.tvcdn.net/ulusal/atv.m3u8                                                                |
 | Beyaz TV        | 1920x1080                                    | https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8                                           |
@@ -27,9 +27,9 @@
 | TLC             | 1280x720, 854x480, 640x360                   | https://dogus-live.daioncdn.net/tlc/tlc.m3u8                                                           |
 | TRT 1           | 640x360, 854x480, 1280x720                   | https://tv-trt1.medya.trt.com.tr/master.m3u8                                                           |
 | TRT 2           | Not available                                | http://stream.tvcdn.net/eglence/trt-2.m3u8                                                             |
-| TRT 3           | Not available                                | http://stream.tvcdn.net/spor/trt-3-spor.m3u8                                                           |
-| TRT Belgesel    | 1280x720                                     | https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8                                                    |
-| TRT Çocuk       | 1280x720, 854x480, 640x360                   | https://tv-trtcocuk.medya.trt.com.tr/master.m3u8                                                       |
+| TRT 3           | 1280x720                                     | http://stream.tvcdn.net/spor/trt-3-spor.m3u8                                                           |
+| TRT Belgesel    | 1280x720, 854x480, 640x360                   | https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8                                                    |
+| TRT Çocuk       | Not available                                | https://tv-trtcocuk.medya.trt.com.tr/master.m3u8                                                       |
 | TRT Haber       | 1280x720, 854x480, 640x360                   | https://tv-trthaber.medya.trt.com.tr/master.m3u8                                                       |
 | TRT Spor Yıldız | 1280x720                                     | http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8                                                      |
 | TRT Türk        | 640x360, 854x480, 1280x720                   | https://tv-trtturk.medya.trt.com.tr/master.m3u8                                                        |
