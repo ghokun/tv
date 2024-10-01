@@ -20,7 +20,7 @@
 | Number 1 TV     | 1280x720                                     | https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8 |
 | Power TV        | Not available                                | https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8                                      |
 | Show TV         | 1920x1080, 1280x720, 854x480, 640x360        | https://ciner-live.daioncdn.net/showtv/showtv.m3u8                                                     |
-| Sözcü TV        | 1280x720                                     | http://stream.tvcdn.net/haber/sozcu-tv.m3u8                                                            |
+| Sözcü TV        | , 854x480                                    | http://stream.tvcdn.net/haber/sozcu-tv.m3u8                                                            |
 | Sports TV       | 1280x720, 1920x1080                          | https://live.sportstv.com.tr/hls/low/sportstv.m3u8                                                     |
 | Star            | 1280x720, 854x480, 640x360                   | https://dogus-live.daioncdn.net/startv/startv.m3u8                                                     |
 | Teve2           | 1920x1080, 1280x720, 854x480, 640x360        | https://demiroren-live.daioncdn.net/teve2/teve2.m3u8                                                   |
@@ -28,7 +28,7 @@
 | TRT 1           | 640x360, 854x480, 1280x720, 1920x1080        | https://tv-trt1.medya.trt.com.tr/master.m3u8                                                           |
 | TRT 2           | 1280x720                                     | http://stream.tvcdn.net/eglence/trt-2.m3u8                                                             |
 | TRT 3           | 1280x720                                     | http://stream.tvcdn.net/spor/trt-3-spor.m3u8                                                           |
-| TRT Belgesel    | 1280x720, 854x480, 640x360                   | https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8                                                    |
+| TRT Belgesel    | 1280x720                                     | https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8                                                    |
 | TRT Çocuk       | 1280x720, 854x480, 640x360                   | https://tv-trtcocuk.medya.trt.com.tr/master.m3u8                                                       |
 | TRT Haber       | 1280x720, 854x480, 640x360                   | https://tv-trthaber.medya.trt.com.tr/master.m3u8                                                       |
 | TRT Spor Yıldız | 1280x720                                     | http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8                                                      |
