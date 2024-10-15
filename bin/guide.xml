@@ -380,26 +380,26 @@
 <programme start="20241016154000 +0000" stop="20241016170000 +0000" channel="EuroD.tr"><title lang="tr">Kanal D Ana Haber</title><desc lang="tr">Türkiye&apos;nin ve dünyanin gündemindekiler, siyasal ve ekonomik gelismeler aktariliyor.</desc><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/700.701_genre_w1920.webp</image></programme>
 <programme start="20241016170000 +0000" stop="20241016231000 +0000" channel="EuroD.tr"><title lang="tr">Taş kağit makas</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/200.225_genre_w1920.webp</image></programme>
 <programme start="20241016231000 +0000" stop="20241017013500 +0000" channel="EuroD.tr"><title lang="tr">Güllerin Savasi</title><desc lang="tr">Masum bir çocukluk hayalinin gerçek bir kabusa; önce bir genç kizin, sonra ailesinin ve tüm sevdiklerinin felaketine dönüsmesinin hikayesi.</desc><image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p12227431ih10aa_Iconic_w1920.webp</image></programme>
-<programme start="20241014210000 +0000" stop="20241014214500 +0000" channel="Fox.tr"><title lang="tr">-</title></programme>
-<programme start="20241014214500 +0000" stop="20241015003000 +0000" channel="Fox.tr"><title lang="tr">Hudutsuz Sevda</title></programme>
+<programme start="20241014210000 +0000" stop="20241014220000 +0000" channel="Fox.tr"><title lang="tr">-</title></programme>
+<programme start="20241014220000 +0000" stop="20241015003000 +0000" channel="Fox.tr"><title lang="tr">Gizli Bahçe</title></programme>
 <programme start="20241015003000 +0000" stop="20241015024500 +0000" channel="Fox.tr"><title lang="tr">Mucize Doktor</title></programme>
 <programme start="20241015024500 +0000" stop="20241015043000 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin Görümce</title></programme>
 <programme start="20241015043000 +0000" stop="20241015050000 +0000" channel="Fox.tr"><title lang="tr">İlk Bakış</title></programme>
 <programme start="20241015050000 +0000" stop="20241015074500 +0000" channel="Fox.tr"><title lang="tr">İlker Karagöz İle Çalar Saat</title></programme>
 <programme start="20241015074500 +0000" stop="20241015093000 +0000" channel="Fox.tr"><title lang="tr">Çağla ile Yeni Bir Gün</title></programme>
-<programme start="20241015093000 +0000" stop="20241015103000 +0000" channel="Fox.tr"><title lang="tr">Leyla: Hayat, Aşk, Adalet...</title></programme>
+<programme start="20241015093000 +0000" stop="20241015103000 +0000" channel="Fox.tr"><title lang="tr">Gizli Bahçe</title></programme>
 <programme start="20241015103000 +0000" stop="20241015133000 +0000" channel="Fox.tr"><title lang="tr">En Hamarat Benim</title></programme>
 <programme start="20241015133000 +0000" stop="20241015160000 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin Görümce</title></programme>
 <programme start="20241015160000 +0000" stop="20241015170000 +0000" channel="Fox.tr"><title lang="tr">Selçuk Tepeli ile NOW Ana Haber</title></programme>
 <programme start="20241015170000 +0000" stop="20241015210000 +0000" channel="Fox.tr"><title lang="tr">Leyla: Hayat, Aşk, Adalet...</title></programme>
-<programme start="20241015210000 +0000" stop="20241015214500 +0000" channel="Fox.tr"><title lang="tr">-</title></programme>
-<programme start="20241015214500 +0000" stop="20241016003000 +0000" channel="Fox.tr"><title lang="tr">Hudutsuz Sevda</title></programme>
+<programme start="20241015210000 +0000" stop="20241015220000 +0000" channel="Fox.tr"><title lang="tr">-</title></programme>
+<programme start="20241015220000 +0000" stop="20241016003000 +0000" channel="Fox.tr"><title lang="tr">Gizli Bahçe</title></programme>
 <programme start="20241016003000 +0000" stop="20241016024500 +0000" channel="Fox.tr"><title lang="tr">Mucize Doktor</title></programme>
 <programme start="20241016024500 +0000" stop="20241016043000 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin Görümce</title></programme>
 <programme start="20241016043000 +0000" stop="20241016050000 +0000" channel="Fox.tr"><title lang="tr">İlk Bakış</title></programme>
 <programme start="20241016050000 +0000" stop="20241016074500 +0000" channel="Fox.tr"><title lang="tr">İlker Karagöz İle Çalar Saat</title></programme>
 <programme start="20241016074500 +0000" stop="20241016093000 +0000" channel="Fox.tr"><title lang="tr">Çağla ile Yeni Bir Gün</title></programme>
-<programme start="20241016093000 +0000" stop="20241016103000 +0000" channel="Fox.tr"><title lang="tr">Leyla: Hayat, Aşk, Adalet...</title></programme>
+<programme start="20241016093000 +0000" stop="20241016103000 +0000" channel="Fox.tr"><title lang="tr">Gizli Bahçe</title></programme>
 <programme start="20241016103000 +0000" stop="20241016133000 +0000" channel="Fox.tr"><title lang="tr">En Hamarat Benim</title></programme>
 <programme start="20241016133000 +0000" stop="20241016160000 +0000" channel="Fox.tr"><title lang="tr">Fatih Ürek ile Gelin Görümce</title></programme>
 <programme start="20241016160000 +0000" stop="20241016170000 +0000" channel="Fox.tr"><title lang="tr">Selçuk Tepeli ile NOW Ana Haber</title></programme>
@@ -494,7 +494,7 @@
 <programme start="20241015130000 +0000" stop="20241015141500 +0000" channel="KanalD.tr"><title lang="tr">Ayazın Sonu Güneş</title></programme>
 <programme start="20241015141500 +0000" stop="20241015160000 +0000" channel="KanalD.tr"><title lang="tr">Bizi Birleştiren Hayat</title></programme>
 <programme start="20241015160000 +0000" stop="20241015170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
-<programme start="20241015170000 +0000" stop="20241015230000 +0000" channel="KanalD.tr"><title lang="tr">Taş Kağıt Makas</title></programme>
+<programme start="20241015170000 +0000" stop="20241015211500 +0000" channel="KanalD.tr"><title lang="tr">Taş Kağıt Makas</title></programme>
 <programme start="20241015210000 +0000" stop="20241015230000 +0000" channel="KanalD.tr"><title lang="tr">-</title></programme>
 <programme start="20241015230000 +0000" stop="20241016013000 +0000" channel="KanalD.tr"><title lang="tr">Güllerin Savaşı</title></programme>
 <programme start="20241016013000 +0000" stop="20241016040000 +0000" channel="KanalD.tr"><title lang="tr">Poyraz Karayel</title></programme>
@@ -505,7 +505,7 @@
 <programme start="20241016130000 +0000" stop="20241016141500 +0000" channel="KanalD.tr"><title lang="tr">Ayazın Sonu Güneş</title></programme>
 <programme start="20241016141500 +0000" stop="20241016160000 +0000" channel="KanalD.tr"><title lang="tr">Bizi Birleştiren Hayat</title></programme>
 <programme start="20241016160000 +0000" stop="20241016170000 +0000" channel="KanalD.tr"><title lang="tr">Kanal D Ana Haber</title></programme>
-<programme start="20241016170000 +0000" stop="20241016230000 +0000" channel="KanalD.tr"><title lang="tr">Taş Kağıt Makas</title></programme>
+<programme start="20241016170000 +0000" stop="20241016211500 +0000" channel="KanalD.tr"><title lang="tr">Taş Kağıt Makas</title></programme>
 <programme start="20241014210000 +0000" stop="20241014213000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Kukuli</title></programme>
 <programme start="20241014213000 +0000" stop="20241014214500 +0000" channel="MinikaCocuk.tr"><title lang="tr">Earth To Luna</title></programme>
 <programme start="20241014214500 +0000" stop="20241014220000 +0000" channel="MinikaCocuk.tr"><title lang="tr">Earth To Luna</title></programme>
@@ -1192,8 +1192,8 @@
 <programme start="20241016190000 +0000" stop="20241016213000 +0000" channel="SozcuTV.tr"><title lang="tr">Türkiye&apos;nin Sözü</title></programme>
 <programme start="20241014210000 +0000" stop="20241014230000 +0000" channel="SportsTV.tr"><title lang="tr">Barcelona - Aalborg</title></programme>
 <programme start="20241014230000 +0000" stop="20241015030000 +0000" channel="SportsTV.tr"><title lang="tr">Tekrarlar</title></programme>
-<programme start="20241015030000 +0000" stop="20241015050000 +0000" channel="SportsTV.tr"><title lang="tr">İtalya Erkekler Voleybol Ligi Catania Trentino</title></programme>
-<programme start="20241015050000 +0000" stop="20241015060000 +0000" channel="SportsTV.tr"><title lang="tr">İzmir Spor Zirvesi 3.Oturum</title></programme>
+<programme start="20241015030000 +0000" stop="20241015050000 +0000" channel="SportsTV.tr"><title lang="tr">Catania - Trentino</title></programme>
+<programme start="20241015050000 +0000" stop="20241015060000 +0000" channel="SportsTV.tr"><title lang="tr">İzmir Spor Zirvesi</title></programme>
 <programme start="20241015060000 +0000" stop="20241015062000 +0000" channel="SportsTV.tr"><title lang="tr">Dinamik Sabahlar</title></programme>
 <programme start="20241015062000 +0000" stop="20241015064500 +0000" channel="SportsTV.tr"><title lang="tr">Pilates</title></programme>
 <programme start="20241015064500 +0000" stop="20241015074500 +0000" channel="SportsTV.tr"><title lang="tr">Yoga</title></programme>
@@ -1201,19 +1201,19 @@
 <programme start="20241015080000 +0000" stop="20241015081500 +0000" channel="SportsTV.tr"><title lang="tr">Pilates</title></programme>
 <programme start="20241015081500 +0000" stop="20241015083000 +0000" channel="SportsTV.tr"><title lang="tr">Spor ve Çocuk</title></programme>
 <programme start="20241015083000 +0000" stop="20241015090000 +0000" channel="SportsTV.tr"><title lang="tr">Yoga</title></programme>
-<programme start="20241015090000 +0000" stop="20241015110000 +0000" channel="SportsTV.tr"><title lang="tr">İtalya Erkekler Basketbol Ligi Banco Di Sardegna Sassari - NapoliBasket</title></programme>
-<programme start="20241015110000 +0000" stop="20241015120000 +0000" channel="SportsTV.tr"><title lang="tr">5.Set</title></programme>
-<programme start="20241015120000 +0000" stop="20241015140000 +0000" channel="SportsTV.tr"><title lang="tr">İzmir Spor Zirvesi Efsanelerle Futbol</title></programme>
-<programme start="20241015140000 +0000" stop="20241015150000 +0000" channel="SportsTV.tr"><title lang="tr">Basketbol Center Euroleague</title></programme>
+<programme start="20241015090000 +0000" stop="20241015110000 +0000" channel="SportsTV.tr"><title lang="tr">Sassari - Napoli Basket</title></programme>
+<programme start="20241015110000 +0000" stop="20241015120000 +0000" channel="SportsTV.tr"><title lang="tr">5. Set</title></programme>
+<programme start="20241015120000 +0000" stop="20241015140000 +0000" channel="SportsTV.tr"><title lang="tr">İzmir Spor Zirvesi</title></programme>
+<programme start="20241015140000 +0000" stop="20241015150000 +0000" channel="SportsTV.tr"><title lang="tr">Basketbol Center</title></programme>
 <programme start="20241015150000 +0000" stop="20241015160000 +0000" channel="SportsTV.tr"><title lang="tr">Süper Spor</title></programme>
 <programme start="20241015160000 +0000" stop="20241015170000 +0000" channel="SportsTV.tr"><title lang="tr">Cimnastik Her Yerde</title></programme>
-<programme start="20241015170000 +0000" stop="20241015180000 +0000" channel="SportsTV.tr"><title lang="tr">İzmir Spor Zirvesi 4.Oturum</title></programme>
+<programme start="20241015170000 +0000" stop="20241015180000 +0000" channel="SportsTV.tr"><title lang="tr">İzmir Spor Zirvesi</title></programme>
 <programme start="20241015180000 +0000" stop="20241015184500 +0000" channel="SportsTV.tr"><title lang="tr">Reaction Sports</title></programme>
-<programme start="20241015184500 +0000" stop="20241015210000 +0000" channel="SportsTV.tr"><title lang="tr">EHF Şampiyonlar Ligi SC Madgeburg - HBC Nantes</title></programme>
+<programme start="20241015184500 +0000" stop="20241015210000 +0000" channel="SportsTV.tr"><title lang="tr">SC Madgeburg - HBC Nantes</title></programme>
 <programme start="20241015210000 +0000" stop="20241015230000 +0000" channel="SportsTV.tr"><title lang="tr">Barcelona - Aalborg</title></programme>
 <programme start="20241015230000 +0000" stop="20241016030000 +0000" channel="SportsTV.tr"><title lang="tr">Tekrarlar</title></programme>
-<programme start="20241016030000 +0000" stop="20241016050000 +0000" channel="SportsTV.tr"><title lang="tr">İtalya Erkekler Voleybol Ligi Catania Trentino</title></programme>
-<programme start="20241016050000 +0000" stop="20241016060000 +0000" channel="SportsTV.tr"><title lang="tr">İzmir Spor Zirvesi 3.Oturum</title></programme>
+<programme start="20241016030000 +0000" stop="20241016050000 +0000" channel="SportsTV.tr"><title lang="tr">Catania - Trentino</title></programme>
+<programme start="20241016050000 +0000" stop="20241016060000 +0000" channel="SportsTV.tr"><title lang="tr">İzmir Spor Zirvesi</title></programme>
 <programme start="20241016060000 +0000" stop="20241016062000 +0000" channel="SportsTV.tr"><title lang="tr">Dinamik Sabahlar</title></programme>
 <programme start="20241016062000 +0000" stop="20241016064500 +0000" channel="SportsTV.tr"><title lang="tr">Pilates</title></programme>
 <programme start="20241016064500 +0000" stop="20241016074500 +0000" channel="SportsTV.tr"><title lang="tr">Yoga</title></programme>
@@ -1221,15 +1221,15 @@
 <programme start="20241016080000 +0000" stop="20241016081500 +0000" channel="SportsTV.tr"><title lang="tr">Pilates</title></programme>
 <programme start="20241016081500 +0000" stop="20241016083000 +0000" channel="SportsTV.tr"><title lang="tr">Spor ve Çocuk</title></programme>
 <programme start="20241016083000 +0000" stop="20241016090000 +0000" channel="SportsTV.tr"><title lang="tr">Yoga</title></programme>
-<programme start="20241016090000 +0000" stop="20241016110000 +0000" channel="SportsTV.tr"><title lang="tr">İtalya Erkekler Basketbol Ligi Banco Di Sardegna Sassari - NapoliBasket</title></programme>
-<programme start="20241016110000 +0000" stop="20241016120000 +0000" channel="SportsTV.tr"><title lang="tr">5.Set</title></programme>
-<programme start="20241016120000 +0000" stop="20241016140000 +0000" channel="SportsTV.tr"><title lang="tr">İzmir Spor Zirvesi Efsanelerle Futbol</title></programme>
-<programme start="20241016140000 +0000" stop="20241016150000 +0000" channel="SportsTV.tr"><title lang="tr">Basketbol Center Euroleague</title></programme>
+<programme start="20241016090000 +0000" stop="20241016110000 +0000" channel="SportsTV.tr"><title lang="tr">Sassari - Napoli Basket</title></programme>
+<programme start="20241016110000 +0000" stop="20241016120000 +0000" channel="SportsTV.tr"><title lang="tr">5. Set</title></programme>
+<programme start="20241016120000 +0000" stop="20241016140000 +0000" channel="SportsTV.tr"><title lang="tr">İzmir Spor Zirvesi</title></programme>
+<programme start="20241016140000 +0000" stop="20241016150000 +0000" channel="SportsTV.tr"><title lang="tr">Basketbol Center</title></programme>
 <programme start="20241016150000 +0000" stop="20241016160000 +0000" channel="SportsTV.tr"><title lang="tr">Süper Spor</title></programme>
 <programme start="20241016160000 +0000" stop="20241016170000 +0000" channel="SportsTV.tr"><title lang="tr">Cimnastik Her Yerde</title></programme>
-<programme start="20241016170000 +0000" stop="20241016180000 +0000" channel="SportsTV.tr"><title lang="tr">İzmir Spor Zirvesi 4.Oturum</title></programme>
+<programme start="20241016170000 +0000" stop="20241016180000 +0000" channel="SportsTV.tr"><title lang="tr">İzmir Spor Zirvesi</title></programme>
 <programme start="20241016180000 +0000" stop="20241016184500 +0000" channel="SportsTV.tr"><title lang="tr">Reaction Sports</title></programme>
-<programme start="20241016184500 +0000" stop="20241016210000 +0000" channel="SportsTV.tr"><title lang="tr">EHF Şampiyonlar Ligi SC Madgeburg - HBC Nantes</title></programme>
+<programme start="20241016184500 +0000" stop="20241016210000 +0000" channel="SportsTV.tr"><title lang="tr">SC Madgeburg - HBC Nantes</title></programme>
 <programme start="20241014210000 +0000" stop="20241014220000 +0000" channel="StarTV.tr"><title lang="tr">-</title></programme>
 <programme start="20241014220000 +0000" stop="20241015000000 +0000" channel="StarTV.tr"><title lang="tr">Güzel Köylü</title></programme>
 <programme start="20241015000000 +0000" stop="20241015020000 +0000" channel="StarTV.tr"><title lang="tr">Dürüye&apos;nin Güğümleri</title></programme>
@@ -1338,9 +1338,8 @@
 <programme start="20241016163000 +0000" stop="20241016183000 +0000" channel="TLC.tr"><title lang="tr">Anaconda 3: Varoluş</title></programme>
 <programme start="20241016183000 +0000" stop="20241016203000 +0000" channel="TLC.tr"><title lang="tr">Anaconda 3: Varoluş</title></programme>
 <programme start="20241016203000 +0000" stop="20241016213000 +0000" channel="TLC.tr"><title lang="tr">Kötülük Yanıbaşımda</title></programme>
-<programme start="20241014210000 +0000" stop="20241014211500 +0000" channel="TRT1.tr"><title lang="tr">-</title></programme>
-<programme start="20241014211500 +0000" stop="20241014235500 +0000" channel="TRT1.tr"><title lang="tr">Teşkilat</title></programme>
-<programme start="20241014235500 +0000" stop="20241015003500 +0000" channel="TRT1.tr"><title lang="tr">Lingo Türkiye</title></programme>
+<programme start="20241014210000 +0000" stop="20241014233500 +0000" channel="TRT1.tr"><title lang="tr">-</title></programme>
+<programme start="20241014233500 +0000" stop="20241015003500 +0000" channel="TRT1.tr"><title lang="tr">Lingo Türkiye</title></programme>
 <programme start="20241015003500 +0000" stop="20241015025000 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
 <programme start="20241015025000 +0000" stop="20241015060000 +0000" channel="TRT1.tr"><title lang="tr">Kalk Gidelim</title></programme>
 <programme start="20241015060000 +0000" stop="20241015073000 +0000" channel="TRT1.tr"><title lang="tr">Kod Adı Kırlangıç</title></programme>
@@ -1352,9 +1351,8 @@
 <programme start="20241015165500 +0000" stop="20241015170000 +0000" channel="TRT1.tr"><title lang="tr">İddiaların Aksine</title></programme>
 <programme start="20241015170000 +0000" stop="20241015185000 +0000" channel="TRT1.tr"><title lang="tr">Fırtınanın İçinde</title></programme>
 <programme start="20241015185000 +0000" stop="20241015213500 +0000" channel="TRT1.tr"><title lang="tr">Kaçak</title></programme>
-<programme start="20241015210000 +0000" stop="20241015211500 +0000" channel="TRT1.tr"><title lang="tr">-</title></programme>
-<programme start="20241015211500 +0000" stop="20241015235500 +0000" channel="TRT1.tr"><title lang="tr">Teşkilat</title></programme>
-<programme start="20241015235500 +0000" stop="20241016003500 +0000" channel="TRT1.tr"><title lang="tr">Lingo Türkiye</title></programme>
+<programme start="20241015210000 +0000" stop="20241015233500 +0000" channel="TRT1.tr"><title lang="tr">-</title></programme>
+<programme start="20241015233500 +0000" stop="20241016003500 +0000" channel="TRT1.tr"><title lang="tr">Lingo Türkiye</title></programme>
 <programme start="20241016003500 +0000" stop="20241016025000 +0000" channel="TRT1.tr"><title lang="tr">Gönül Dağı</title></programme>
 <programme start="20241016025000 +0000" stop="20241016060000 +0000" channel="TRT1.tr"><title lang="tr">Kalk Gidelim</title></programme>
 <programme start="20241016060000 +0000" stop="20241016073000 +0000" channel="TRT1.tr"><title lang="tr">Kod Adı Kırlangıç</title></programme>
@@ -1761,25 +1759,27 @@
 <programme start="20241015034000 +0000" stop="20241015035800 +0000" channel="TRTSporYildiz.tr"><title lang="tr">İşte O An</title></programme>
 <programme start="20241015035800 +0000" stop="20241015040000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">İstiklal Marşı</title></programme>
 <programme start="20241015040000 +0000" stop="20241015041500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20241015041500 +0000" stop="20241015060500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Vodafone Sultanlar Ligi Aras Kargo - Galatasaray</title></programme>
-<programme start="20241015060500 +0000" stop="20241015062000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20241015062000 +0000" stop="20241015082000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">2. Runkara Uluslararası Yarı Maratonu</title></programme>
-<programme start="20241015082000 +0000" stop="20241015102000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Türkiye 3 Bant Bilardoşampiyonası 2. Etap Finali</title></programme>
-<programme start="20241015102000 +0000" stop="20241015102500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Nedir, Nasıl Oynanır?</title></programme>
-<programme start="20241015102500 +0000" stop="20241015103000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Spor Takvimi</title></programme>
-<programme start="20241015103000 +0000" stop="20241015104500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20241015104500 +0000" stop="20241015123000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Hentbol Erkekler Süper Ligi / Mihalıççık Bld. - İzmir Büyükşehir Bld.</title></programme>
-<programme start="20241015123000 +0000" stop="20241015124000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Spor Atlası</title></programme>
-<programme start="20241015124000 +0000" stop="20241015130000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Süper Spor</title></programme>
-<programme start="20241015130000 +0000" stop="20241015145000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Eurocup Jl Bourg - Türk Telekom</title></programme>
-<programme start="20241015145000 +0000" stop="20241015150000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Spor Atlası</title></programme>
-<programme start="20241015150000 +0000" stop="20241015152000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">İşte O An</title></programme>
-<programme start="20241015152000 +0000" stop="20241015154500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Bir Seçenek Daha Var</title></programme>
-<programme start="20241015154500 +0000" stop="20241015155500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">6.adam</title></programme>
-<programme start="20241015155500 +0000" stop="20241015175000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Eurocup Bahçeşehir Koleji - Trefl Sopot</title></programme>
+<programme start="20241015041500 +0000" stop="20241015055000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Aras Kargo - Galatasaray</title></programme>
+<programme start="20241015055000 +0000" stop="20241015060000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Rekortmen</title></programme>
+<programme start="20241015060000 +0000" stop="20241015061500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20241015061500 +0000" stop="20241015081500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">2. Runkara Uluslararası Yarı Maratonu</title></programme>
+<programme start="20241015081500 +0000" stop="20241015101500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Türkiye 3 Bant Bilardo Şampiyonası</title></programme>
+<programme start="20241015101500 +0000" stop="20241015102000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Nedir, Nasıl Oynanır?</title></programme>
+<programme start="20241015102000 +0000" stop="20241015102500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Spor Takvimi</title></programme>
+<programme start="20241015102500 +0000" stop="20241015104000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20241015104000 +0000" stop="20241015122500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Mihalıççık B.-İzmir Bşb.</title></programme>
+<programme start="20241015122500 +0000" stop="20241015123500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Spor Atlası</title></programme>
+<programme start="20241015123500 +0000" stop="20241015125500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Süper Spor</title></programme>
+<programme start="20241015125500 +0000" stop="20241015144500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">JL Bourg - Türk Telekom</title></programme>
+<programme start="20241015144500 +0000" stop="20241015145500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Spor Atlası</title></programme>
+<programme start="20241015145500 +0000" stop="20241015151500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">İşte O An</title></programme>
+<programme start="20241015151500 +0000" stop="20241015154000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Bir Seçenek Daha Var</title></programme>
+<programme start="20241015154000 +0000" stop="20241015155000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">6. Adam</title></programme>
+<programme start="20241015155000 +0000" stop="20241015155500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Spor Takvimi</title></programme>
+<programme start="20241015155500 +0000" stop="20241015175000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Bahçeşehir Koleji - Trento</title></programme>
 <programme start="20241015175000 +0000" stop="20241015175500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Nedir, Nasıl Oynanır?</title></programme>
-<programme start="20241015175500 +0000" stop="20241015195000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Basketbol Şampiyonlar Ligi Nıners Chemnıtz - Benfıca</title></programme>
-<programme start="20241015195000 +0000" stop="20241015214500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Türkiye 3 Bant Bilardoşampiyonası 2. Etap Finali</title></programme>
+<programme start="20241015175500 +0000" stop="20241015195000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Niners Chemnitz - Benfica</title></programme>
+<programme start="20241015195000 +0000" stop="20241015214500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Türkiye 3 Bant Bilardo Şampiyonası</title></programme>
 <programme start="20241015210000 +0000" stop="20241015220000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">-</title></programme>
 <programme start="20241015220000 +0000" stop="20241015221500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Haber Bülteni</title></programme>
 <programme start="20241015221500 +0000" stop="20241016000000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">ÇBK Mersin - Beşiktaş</title></programme>
@@ -1791,25 +1791,27 @@
 <programme start="20241016034000 +0000" stop="20241016035800 +0000" channel="TRTSporYildiz.tr"><title lang="tr">İşte O An</title></programme>
 <programme start="20241016035800 +0000" stop="20241016040000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">İstiklal Marşı</title></programme>
 <programme start="20241016040000 +0000" stop="20241016041500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20241016041500 +0000" stop="20241016060500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Vodafone Sultanlar Ligi Aras Kargo - Galatasaray</title></programme>
-<programme start="20241016060500 +0000" stop="20241016062000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20241016062000 +0000" stop="20241016082000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">2. Runkara Uluslararası Yarı Maratonu</title></programme>
-<programme start="20241016082000 +0000" stop="20241016102000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Türkiye 3 Bant Bilardoşampiyonası 2. Etap Finali</title></programme>
-<programme start="20241016102000 +0000" stop="20241016102500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Nedir, Nasıl Oynanır?</title></programme>
-<programme start="20241016102500 +0000" stop="20241016103000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Spor Takvimi</title></programme>
-<programme start="20241016103000 +0000" stop="20241016104500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20241016104500 +0000" stop="20241016123000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Hentbol Erkekler Süper Ligi / Mihalıççık Bld. - İzmir Büyükşehir Bld.</title></programme>
-<programme start="20241016123000 +0000" stop="20241016124000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Spor Atlası</title></programme>
-<programme start="20241016124000 +0000" stop="20241016130000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Süper Spor</title></programme>
-<programme start="20241016130000 +0000" stop="20241016145000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Eurocup Jl Bourg - Türk Telekom</title></programme>
-<programme start="20241016145000 +0000" stop="20241016150000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Spor Atlası</title></programme>
-<programme start="20241016150000 +0000" stop="20241016152000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">İşte O An</title></programme>
-<programme start="20241016152000 +0000" stop="20241016154500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Bir Seçenek Daha Var</title></programme>
-<programme start="20241016154500 +0000" stop="20241016155500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">6.adam</title></programme>
-<programme start="20241016155500 +0000" stop="20241016175000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Eurocup Bahçeşehir Koleji - Trefl Sopot</title></programme>
+<programme start="20241016041500 +0000" stop="20241016055000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Aras Kargo - Galatasaray</title></programme>
+<programme start="20241016055000 +0000" stop="20241016060000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Rekortmen</title></programme>
+<programme start="20241016060000 +0000" stop="20241016061500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20241016061500 +0000" stop="20241016081500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">2. Runkara Uluslararası Yarı Maratonu</title></programme>
+<programme start="20241016081500 +0000" stop="20241016101500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Türkiye 3 Bant Bilardo Şampiyonası</title></programme>
+<programme start="20241016101500 +0000" stop="20241016102000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Nedir, Nasıl Oynanır?</title></programme>
+<programme start="20241016102000 +0000" stop="20241016102500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Spor Takvimi</title></programme>
+<programme start="20241016102500 +0000" stop="20241016104000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20241016104000 +0000" stop="20241016122500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Mihalıççık B.-İzmir Bşb.</title></programme>
+<programme start="20241016122500 +0000" stop="20241016123500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Spor Atlası</title></programme>
+<programme start="20241016123500 +0000" stop="20241016125500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Süper Spor</title></programme>
+<programme start="20241016125500 +0000" stop="20241016144500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">JL Bourg - Türk Telekom</title></programme>
+<programme start="20241016144500 +0000" stop="20241016145500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Spor Atlası</title></programme>
+<programme start="20241016145500 +0000" stop="20241016151500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">İşte O An</title></programme>
+<programme start="20241016151500 +0000" stop="20241016154000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Bir Seçenek Daha Var</title></programme>
+<programme start="20241016154000 +0000" stop="20241016155000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">6. Adam</title></programme>
+<programme start="20241016155000 +0000" stop="20241016155500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Spor Takvimi</title></programme>
+<programme start="20241016155500 +0000" stop="20241016175000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Bahçeşehir Koleji - Trento</title></programme>
 <programme start="20241016175000 +0000" stop="20241016175500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Nedir, Nasıl Oynanır?</title></programme>
-<programme start="20241016175500 +0000" stop="20241016195000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Basketbol Şampiyonlar Ligi Nıners Chemnıtz - Benfıca</title></programme>
-<programme start="20241016195000 +0000" stop="20241016214500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Türkiye 3 Bant Bilardoşampiyonası 2. Etap Finali</title></programme>
+<programme start="20241016175500 +0000" stop="20241016195000 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Niners Chemnitz - Benfica</title></programme>
+<programme start="20241016195000 +0000" stop="20241016214500 +0000" channel="TRTSporYildiz.tr"><title lang="tr">Türkiye 3 Bant Bilardo Şampiyonası</title></programme>
 <programme start="20241014210000 +0000" stop="20241014220500 +0000" channel="TRTTurk.tr"><title lang="tr">-</title></programme>
 <programme start="20241014220500 +0000" stop="20241014223500 +0000" channel="TRTTurk.tr"><title lang="tr">Haberdar</title></programme>
 <programme start="20241014223500 +0000" stop="20241014230500 +0000" channel="TRTTurk.tr"><title lang="tr">Alman Kuzusu</title></programme>
@@ -1850,7 +1852,7 @@
 <programme start="20241015183000 +0000" stop="20241015193000 +0000" channel="TRTTurk.tr"><title lang="tr">Seksenler</title></programme>
 <programme start="20241015193000 +0000" stop="20241015201500 +0000" channel="TRTTurk.tr"><title lang="tr">Leyla ile Mecnun</title></programme>
 <programme start="20241015201500 +0000" stop="20241015203000 +0000" channel="TRTTurk.tr"><title lang="tr">Berlin Çekirdekçisi</title></programme>
-<programme start="20241015203000 +0000" stop="20241015220500 +0000" channel="TRTTurk.tr"><title lang="tr">Avrupa&apos;da Hayat</title></programme>
+<programme start="20241015203000 +0000" stop="20241015221500 +0000" channel="TRTTurk.tr"><title lang="tr">Avrupa&apos;da Hayat</title></programme>
 <programme start="20241015210000 +0000" stop="20241015220500 +0000" channel="TRTTurk.tr"><title lang="tr">-</title></programme>
 <programme start="20241015220500 +0000" stop="20241015223500 +0000" channel="TRTTurk.tr"><title lang="tr">Haberdar</title></programme>
 <programme start="20241015223500 +0000" stop="20241015230500 +0000" channel="TRTTurk.tr"><title lang="tr">Alman Kuzusu</title></programme>
@@ -1891,7 +1893,7 @@
 <programme start="20241016183000 +0000" stop="20241016193000 +0000" channel="TRTTurk.tr"><title lang="tr">Seksenler</title></programme>
 <programme start="20241016193000 +0000" stop="20241016201500 +0000" channel="TRTTurk.tr"><title lang="tr">Leyla ile Mecnun</title></programme>
 <programme start="20241016201500 +0000" stop="20241016203000 +0000" channel="TRTTurk.tr"><title lang="tr">Berlin Çekirdekçisi</title></programme>
-<programme start="20241016203000 +0000" stop="20241016220500 +0000" channel="TRTTurk.tr"><title lang="tr">Avrupa&apos;da Hayat</title></programme>
+<programme start="20241016203000 +0000" stop="20241016221500 +0000" channel="TRTTurk.tr"><title lang="tr">Avrupa&apos;da Hayat</title></programme>
 <programme start="20241014210000 +0000" stop="20241014211500 +0000" channel="TV8.tr"><title lang="tr">-</title></programme>
 <programme start="20241014211500 +0000" stop="20241014233000 +0000" channel="TV8.tr"><title lang="tr">Zuhal Topal&apos;la Yemekteyiz</title></programme>
 <programme start="20241014233000 +0000" stop="20241015013000 +0000" channel="TV8.tr"><title lang="tr">Aramızda Kalmasın</title></programme>
@@ -1963,7 +1965,7 @@
 <programme start="20241015130000 +0000" stop="20241015150000 +0000" channel="TV100.tr"><title lang="tr">Osman Kenan Çapoğlu ile Başlıklar</title></programme>
 <programme start="20241015150000 +0000" stop="20241015163000 +0000" channel="TV100.tr"><title lang="tr">Kübra Par ile Ana Haber Bülteni</title></programme>
 <programme start="20241015163000 +0000" stop="20241015173000 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
-<programme start="20241015173000 +0000" stop="20241015210000 +0000" channel="TV100.tr"><title lang="tr">Taksim Meydanı</title></programme>
+<programme start="20241015173000 +0000" stop="20241015210000 +0000" channel="TV100.tr"><title lang="tr">Kübra Par ile Farklı Açılar</title></programme>
 <programme start="20241015210000 +0000" stop="20241015220000 +0000" channel="TV100.tr"><title lang="tr">-</title></programme>
 <programme start="20241015220000 +0000" stop="20241015230000 +0000" channel="TV100.tr"><title lang="tr">Gece Haberleri</title></programme>
 <programme start="20241015230000 +0000" stop="20241016013000 +0000" channel="TV100.tr"><title lang="tr">Muhabbet Kralı</title></programme>
@@ -1977,7 +1979,7 @@
 <programme start="20241016130000 +0000" stop="20241016150000 +0000" channel="TV100.tr"><title lang="tr">Osman Kenan Çapoğlu ile Başlıklar</title></programme>
 <programme start="20241016150000 +0000" stop="20241016163000 +0000" channel="TV100.tr"><title lang="tr">Kübra Par ile Ana Haber Bülteni</title></programme>
 <programme start="20241016163000 +0000" stop="20241016173000 +0000" channel="TV100.tr"><title lang="tr">Alfapetek</title></programme>
-<programme start="20241016173000 +0000" stop="20241016210000 +0000" channel="TV100.tr"><title lang="tr">Taksim Meydanı</title></programme>
+<programme start="20241016173000 +0000" stop="20241016210000 +0000" channel="TV100.tr"><title lang="tr">Kübra Par ile Farklı Açılar</title></programme>
 <programme start="20241014210000 +0000" stop="20241014213000 +0000" channel="UlusalKanal.tr"><title lang="tr">-</title></programme>
 <programme start="20241014213000 +0000" stop="20241015050000 +0000" channel="UlusalKanal.tr"><title lang="tr">Tekrar Yayın</title></programme>
 <programme start="20241015050000 +0000" stop="20241015080000 +0000" channel="UlusalKanal.tr"><title lang="tr">Günaydın Türkiye</title></programme>
