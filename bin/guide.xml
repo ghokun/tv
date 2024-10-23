@@ -1688,7 +1688,8 @@
 <programme start="20241022210000 +0000" stop="20241022230000 +0000" channel="TRTHaber.tr"><title lang="tr">Gece Bakışı</title></programme>
 <programme start="20241022230000 +0000" stop="20241023005500 +0000" channel="TRTHaber.tr"><title lang="tr">Gün Sonu</title></programme>
 <programme start="20241023005500 +0000" stop="20241023010000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20241023010000 +0000" stop="20241023015500 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 04</title></programme>
+<programme start="20241023010000 +0000" stop="20241023015000 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 04</title></programme>
+<programme start="20241023015000 +0000" stop="20241023015500 +0000" channel="TRTHaber.tr"><title lang="tr">İmece</title></programme>
 <programme start="20241023015500 +0000" stop="20241023020000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20241023020000 +0000" stop="20241023025500 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 05</title></programme>
 <programme start="20241023025500 +0000" stop="20241023030000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title></programme>
@@ -1712,7 +1713,8 @@
 <programme start="20241023210000 +0000" stop="20241023230000 +0000" channel="TRTHaber.tr"><title lang="tr">Gece Bakışı</title></programme>
 <programme start="20241023230000 +0000" stop="20241024005500 +0000" channel="TRTHaber.tr"><title lang="tr">Gün Sonu</title></programme>
 <programme start="20241024005500 +0000" stop="20241024010000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title></programme>
-<programme start="20241024010000 +0000" stop="20241024015500 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 04</title></programme>
+<programme start="20241024010000 +0000" stop="20241024015000 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 04</title></programme>
+<programme start="20241024015000 +0000" stop="20241024015500 +0000" channel="TRTHaber.tr"><title lang="tr">İmece</title></programme>
 <programme start="20241024015500 +0000" stop="20241024020000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title></programme>
 <programme start="20241024020000 +0000" stop="20241024025500 +0000" channel="TRTHaber.tr"><title lang="tr">Haber 05</title></programme>
 <programme start="20241024025500 +0000" stop="20241024030000 +0000" channel="TRTHaber.tr"><title lang="tr">Hava Durumu</title></programme>
