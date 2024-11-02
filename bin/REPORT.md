@@ -3,10 +3,10 @@
 |-----------------|----------------------------------------------|--------------------------------------------------------------------------------------------------------|
 |             360 | 1280x720, 854x480, 640x360                   | https://turkmedya-live.ercdn.net/tv360/tv360.m3u8                                                      |
 | A Haber         | 1280x720                                     | http://stream.tvcdn.net/haber/a-haber.m3u8                                                             |
-| ATV             | 1920x1080                                    | http://stream.tvcdn.net/ulusal/atv.m3u8                                                                |
+| ATV             | 1280x720                                     | http://stream.tvcdn.net/ulusal/atv.m3u8                                                                |
 | Beyaz TV        | 1920x1080                                    | https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8                                           |
 | Cartoon Network | 1280x720                                     | http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8                                              |
-| CNN Türk        | 720x576                                      | http://stream.tvcdn.net/haber/cnn-turk.m3u8                                                            |
+| CNN Türk        | Not available                                | http://stream.tvcdn.net/haber/cnn-turk.m3u8                                                            |
 | DMAX            | 1280x720                                     | https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8                                                    |
 | Euro D          | 426x240, 640x360, 854x480, 960x540, 1280x720 | https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8                                               |
 | NOW             | 1280x720                                     | http://stream.tvcdn.net/ulusal/now-tv.m3u8                                                             |
@@ -20,8 +20,8 @@
 | Number 1 TV     | 1280x720                                     | https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8 |
 | Power TV        | Not available                                | https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8                                      |
 | Show TV         | 1920x1080, 1280x720, 854x480, 640x360        | https://ciner-live.daioncdn.net/showtv/showtv.m3u8                                                     |
-| Sözcü TV        | 1280x720                                     | http://stream.tvcdn.net/haber/sozcu-tv.m3u8                                                            |
-| Sports TV       | , 1920x1080                                  | https://live.sportstv.com.tr/hls/low/sportstv.m3u8                                                     |
+| Sözcü TV        | 1280x720, 960x540, 854x480, 640x360          | http://stream.tvcdn.net/haber/sozcu-tv.m3u8                                                            |
+| Sports TV       | 1280x720, 1920x1080                          | https://live.sportstv.com.tr/hls/low/sportstv.m3u8                                                     |
 | Star            | 1280x720, 854x480, 640x360                   | https://dogus-live.daioncdn.net/startv/startv.m3u8                                                     |
 | Teve2           | 1920x1080, 1280x720, 854x480, 640x360        | https://demiroren-live.daioncdn.net/teve2/teve2.m3u8                                                   |
 | TLC             | 1280x720, 854x480, 640x360                   | https://dogus-live.daioncdn.net/tlc/tlc.m3u8                                                           |
