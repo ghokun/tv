@@ -1,7 +1,7 @@
 ## playlist.m3u
 |      NAME       |                 RESOLUTIONS                  |                                                  URL                                                   |
 |-----------------|----------------------------------------------|--------------------------------------------------------------------------------------------------------|
-|             360 | 1280x720, 854x480, 640x360                   | https://turkmedya-live.ercdn.net/tv360/tv360.m3u8                                                      |
+|             360 | Not available                                | https://turkmedya-live.ercdn.net/tv360/tv360.m3u8                                                      |
 | A Haber         | 1280x720                                     | http://stream.tvcdn.net/haber/a-haber.m3u8                                                             |
 | ATV             | 1280x720                                     | http://stream.tvcdn.net/ulusal/atv.m3u8                                                                |
 | Beyaz TV        | 1920x1080                                    | https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8                                           |
