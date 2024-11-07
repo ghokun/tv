@@ -22,9 +22,9 @@
 | Show TV         | 1920x1080, 1280x720, 854x480, 640x360        | https://ciner-live.daioncdn.net/showtv/showtv.m3u8                                                     |
 | Sözcü TV        | 1280x720                                     | http://stream.tvcdn.net/haber/sozcu-tv.m3u8                                                            |
 | Sports TV       | 1280x720, 1920x1080                          | https://live.sportstv.com.tr/hls/low/sportstv.m3u8                                                     |
-| Star            | 1280x720, 854x480, 640x360                   | https://dogus-live.daioncdn.net/startv/startv.m3u8                                                     |
+| Star            | Not available                                | https://dogus-live.daioncdn.net/startv/startv.m3u8                                                     |
 | Teve2           | 1920x1080, 1280x720, 854x480, 640x360        | https://demiroren-live.daioncdn.net/teve2/teve2.m3u8                                                   |
-| TLC             | 1280x720, 854x480, 640x360                   | https://dogus-live.daioncdn.net/tlc/tlc.m3u8                                                           |
+| TLC             | Not available                                | https://dogus-live.daioncdn.net/tlc/tlc.m3u8                                                           |
 | TRT 1           | Not available                                | https://tv-trt1.medya.trt.com.tr/master.m3u8                                                           |
 | TRT 2           | Not available                                | http://stream.tvcdn.net/eglence/trt-2.m3u8                                                             |
 | TRT 3           | Not available                                | http://stream.tvcdn.net/spor/trt-3-spor.m3u8                                                           |
