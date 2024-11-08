@@ -13,7 +13,7 @@
 | Haber Türk      | 1920x1080, 1280x720, 854x480, 640x360        | https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8                                           |
 | Halk TV         | 1920x1080, 1280x720, 854x480, 640x360        | https://halktv-live.daioncdn.net/halktv/halktv.m3u8                                                    |
 | Kanal 7         | 1920x1080, 1280x720, 854x480, 640x360        | https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8                                                    |
-| Kanal D         | Not available                                | https://demiroren-live.daioncdn.net/kanald/kanald.m3u8                                                 |
+| Kanal D         | 1920x1080, 1280x720, 854x480, 640x360        | https://demiroren-live.daioncdn.net/kanald/kanald.m3u8                                                 |
 | Minika Çocuk    | Not available                                | http://stream.tvcdn.net/cocuk-egitim/minika-cocuk.m3u8                                                 |
 | Minika GO       | Not available                                | http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8                                                    |
 | NTV             | Not available                                | https://dogus-live.daioncdn.net/ntv/ntv.m3u8                                                           |
@@ -21,14 +21,14 @@
 | Power TV        | Not available                                | https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8                                      |
 | Show TV         | 1920x1080, 1280x720, 854x480, 640x360        | https://ciner-live.daioncdn.net/showtv/showtv.m3u8                                                     |
 | Sözcü TV        | 1280x720                                     | http://stream.tvcdn.net/haber/sozcu-tv.m3u8                                                            |
-| Sports TV       | 1280x720                                     | https://live.sportstv.com.tr/hls/low/sportstv.m3u8                                                     |
+| Sports TV       | 1280x720, 1920x1080                          | https://live.sportstv.com.tr/hls/low/sportstv.m3u8                                                     |
 | Star            | 1280x720, 854x480, 640x360                   | https://dogus-live.daioncdn.net/startv/startv.m3u8                                                     |
 | Teve2           | 1920x1080, 1280x720, 854x480, 640x360        | https://demiroren-live.daioncdn.net/teve2/teve2.m3u8                                                   |
 | TLC             | 1280x720, 854x480, 640x360                   | https://dogus-live.daioncdn.net/tlc/tlc.m3u8                                                           |
 | TRT 1           | 640x360, 854x480, 1280x720, 1920x1080        | https://tv-trt1.medya.trt.com.tr/master.m3u8                                                           |
 | TRT 2           | Not available                                | http://stream.tvcdn.net/eglence/trt-2.m3u8                                                             |
 | TRT 3           | Not available                                | http://stream.tvcdn.net/spor/trt-3-spor.m3u8                                                           |
-| TRT Belgesel    | Not available                                | https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8                                                    |
+| TRT Belgesel    | 1280x720, 854x480, 640x360                   | https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8                                                    |
 | TRT Çocuk       | 1280x720, 854x480, 640x360                   | https://tv-trtcocuk.medya.trt.com.tr/master.m3u8                                                       |
 | TRT Haber       | 1280x720, 854x480, 640x360                   | https://tv-trthaber.medya.trt.com.tr/master.m3u8                                                       |
 | TRT Spor Yıldız | 1280x720                                     | http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8                                                      |
