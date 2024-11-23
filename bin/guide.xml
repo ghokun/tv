@@ -273,7 +273,8 @@
 <programme start="20241123015500 +0000" stop="20241123023500 +0000" channel="DMAX.tr"><title lang="tr">Yaban Evler</title></programme>
 <programme start="20241123023500 +0000" stop="20241123030000 +0000" channel="DMAX.tr"><title lang="tr">Nasıl Yapılır?</title></programme>
 <programme start="20241123030000 +0000" stop="20241123033000 +0000" channel="DMAX.tr"><title lang="tr">Nasıl Yapılır?</title></programme>
-<programme start="20241123033000 +0000" stop="20241123040000 +0000" channel="DMAX.tr"><title lang="tr">Nasıl Yapılır?</title></programme>
+<programme start="20241123033000 +0000" stop="20241123034500 +0000" channel="DMAX.tr"><title lang="tr">Nasıl Yapılır?</title></programme>
+<programme start="20241123034500 +0000" stop="20241123040000 +0000" channel="DMAX.tr"><title lang="tr">Nasıl Yapılır?</title></programme>
 <programme start="20241123040000 +0000" stop="20241123043000 +0000" channel="DMAX.tr"><title lang="tr">Nasıl Yapılır?</title></programme>
 <programme start="20241123043000 +0000" stop="20241123053000 +0000" channel="DMAX.tr"><title lang="tr">Kırsalda Yaşamak Zor: Raney Çiftliği</title></programme>
 <programme start="20241123053000 +0000" stop="20241123063000 +0000" channel="DMAX.tr"><title lang="tr">Kırsalda Yaşamak Zor: Raney Çiftliği</title></programme>
@@ -306,7 +307,8 @@
 <programme start="20241124015500 +0000" stop="20241124023500 +0000" channel="DMAX.tr"><title lang="tr">Yaban Evler</title></programme>
 <programme start="20241124023500 +0000" stop="20241124030000 +0000" channel="DMAX.tr"><title lang="tr">Nasıl Yapılır?</title></programme>
 <programme start="20241124030000 +0000" stop="20241124033000 +0000" channel="DMAX.tr"><title lang="tr">Nasıl Yapılır?</title></programme>
-<programme start="20241124033000 +0000" stop="20241124040000 +0000" channel="DMAX.tr"><title lang="tr">Nasıl Yapılır?</title></programme>
+<programme start="20241124033000 +0000" stop="20241124034500 +0000" channel="DMAX.tr"><title lang="tr">Nasıl Yapılır?</title></programme>
+<programme start="20241124034500 +0000" stop="20241124040000 +0000" channel="DMAX.tr"><title lang="tr">Nasıl Yapılır?</title></programme>
 <programme start="20241124040000 +0000" stop="20241124043000 +0000" channel="DMAX.tr"><title lang="tr">Nasıl Yapılır?</title></programme>
 <programme start="20241124043000 +0000" stop="20241124053000 +0000" channel="DMAX.tr"><title lang="tr">Kırsalda Yaşamak Zor: Raney Çiftliği</title></programme>
 <programme start="20241124053000 +0000" stop="20241124063000 +0000" channel="DMAX.tr"><title lang="tr">Kırsalda Yaşamak Zor: Raney Çiftliği</title></programme>
@@ -361,30 +363,28 @@
 <programme start="20241124194000 +0000" stop="20241124214000 +0000" channel="EuroD.tr"><title lang="tr">Uzak şehir</title></programme>
 <programme start="20241124214000 +0000" stop="20241124234000 +0000" channel="EuroD.tr"><title lang="tr">Annem ankara</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/300.399_genre_w1920.webp</image></programme>
 <programme start="20241124234000 +0000" stop="20241125011500 +0000" channel="EuroD.tr"><title lang="tr">Güllerin Savasi</title><desc lang="tr">Masum bir çocukluk hayalinin gerçek bir kabusa; önce bir genç kizin, sonra ailesinin ve tüm sevdiklerinin felaketine dönüsmesinin hikayesi.</desc><image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p12227431ih10aa_Iconic_w1920.webp</image></programme>
-<programme start="20241122210000 +0000" stop="20241122230000 +0000" channel="Fox.tr"><title lang="tr">-</title></programme>
-<programme start="20241122230000 +0000" stop="20241123013000 +0000" channel="Fox.tr"><title lang="tr">Aşk Evlilik Boşanma</title></programme>
-<programme start="20241123013000 +0000" stop="20241123030000 +0000" channel="Fox.tr"><title lang="tr">Kefaret</title></programme>
+<programme start="20241122210000 +0000" stop="20241122234500 +0000" channel="Fox.tr"><title lang="tr">Gizli Bahçe</title></programme>
+<programme start="20241122234500 +0000" stop="20241123014500 +0000" channel="Fox.tr"><title lang="tr">Aşk Evlilik Boşanma</title></programme>
+<programme start="20241123014500 +0000" stop="20241123030000 +0000" channel="Fox.tr"><title lang="tr">Kefaret</title></programme>
 <programme start="20241123030000 +0000" stop="20241123053000 +0000" channel="Fox.tr"><title lang="tr">Şahane Hayatım</title></programme>
 <programme start="20241123053000 +0000" stop="20241123081500 +0000" channel="Fox.tr"><title lang="tr">Ezgi Gözeger ile Çalar Saat Hafta Sonu</title></programme>
 <programme start="20241123081500 +0000" stop="20241123082000 +0000" channel="Fox.tr"><title lang="tr">Ekonomi Arası</title></programme>
-<programme start="20241123082000 +0000" stop="20241123101500 +0000" channel="Fox.tr"><title lang="tr">Merve Yıldırım İle Benden Söylemesi</title></programme>
-<programme start="20241123101500 +0000" stop="20241123130000 +0000" channel="Fox.tr"><title lang="tr">Aşk Evlilik Boşanma</title></programme>
-<programme start="20241123130000 +0000" stop="20241123160000 +0000" channel="Fox.tr"><title lang="tr">Hudutsuz Sevda</title></programme>
+<programme start="20241123082000 +0000" stop="20241123100000 +0000" channel="Fox.tr"><title lang="tr">Merve Yıldırım İle Benden Söylemesi</title></programme>
+<programme start="20241123100000 +0000" stop="20241123124500 +0000" channel="Fox.tr"><title lang="tr">Aşk Evlilik Boşanma</title></programme>
+<programme start="20241123124500 +0000" stop="20241123160000 +0000" channel="Fox.tr"><title lang="tr">Hudutsuz Sevda</title></programme>
 <programme start="20241123160000 +0000" stop="20241123170000 +0000" channel="Fox.tr"><title lang="tr">Ozan Gündoğdu ile NOW Ana Haber Hafta Sonu</title></programme>
-<programme start="20241123170000 +0000" stop="20241123203000 +0000" channel="Fox.tr"><title lang="tr">Gizli Bahçe</title></programme>
-<programme start="20241123203000 +0000" stop="20241123234500 +0000" channel="Fox.tr"><title lang="tr">Kızıl Goncalar</title></programme>
-<programme start="20241123210000 +0000" stop="20241123230000 +0000" channel="Fox.tr"><title lang="tr">-</title></programme>
-<programme start="20241123230000 +0000" stop="20241124013000 +0000" channel="Fox.tr"><title lang="tr">Aşk Evlilik Boşanma</title></programme>
-<programme start="20241124013000 +0000" stop="20241124030000 +0000" channel="Fox.tr"><title lang="tr">Kefaret</title></programme>
+<programme start="20241123170000 +0000" stop="20241123210000 +0000" channel="Fox.tr"><title lang="tr">Gizli Bahçe</title></programme>
+<programme start="20241123210000 +0000" stop="20241123234500 +0000" channel="Fox.tr"><title lang="tr">Gizli Bahçe</title></programme>
+<programme start="20241123234500 +0000" stop="20241124014500 +0000" channel="Fox.tr"><title lang="tr">Aşk Evlilik Boşanma</title></programme>
+<programme start="20241124014500 +0000" stop="20241124030000 +0000" channel="Fox.tr"><title lang="tr">Kefaret</title></programme>
 <programme start="20241124030000 +0000" stop="20241124053000 +0000" channel="Fox.tr"><title lang="tr">Şahane Hayatım</title></programme>
 <programme start="20241124053000 +0000" stop="20241124081500 +0000" channel="Fox.tr"><title lang="tr">Ezgi Gözeger ile Çalar Saat Hafta Sonu</title></programme>
 <programme start="20241124081500 +0000" stop="20241124082000 +0000" channel="Fox.tr"><title lang="tr">Ekonomi Arası</title></programme>
-<programme start="20241124082000 +0000" stop="20241124101500 +0000" channel="Fox.tr"><title lang="tr">Merve Yıldırım İle Benden Söylemesi</title></programme>
-<programme start="20241124101500 +0000" stop="20241124130000 +0000" channel="Fox.tr"><title lang="tr">Aşk Evlilik Boşanma</title></programme>
-<programme start="20241124130000 +0000" stop="20241124160000 +0000" channel="Fox.tr"><title lang="tr">Hudutsuz Sevda</title></programme>
+<programme start="20241124082000 +0000" stop="20241124100000 +0000" channel="Fox.tr"><title lang="tr">Merve Yıldırım İle Benden Söylemesi</title></programme>
+<programme start="20241124100000 +0000" stop="20241124124500 +0000" channel="Fox.tr"><title lang="tr">Aşk Evlilik Boşanma</title></programme>
+<programme start="20241124124500 +0000" stop="20241124160000 +0000" channel="Fox.tr"><title lang="tr">Hudutsuz Sevda</title></programme>
 <programme start="20241124160000 +0000" stop="20241124170000 +0000" channel="Fox.tr"><title lang="tr">Ozan Gündoğdu ile NOW Ana Haber Hafta Sonu</title></programme>
-<programme start="20241124170000 +0000" stop="20241124203000 +0000" channel="Fox.tr"><title lang="tr">Gizli Bahçe</title></programme>
-<programme start="20241124203000 +0000" stop="20241124234500 +0000" channel="Fox.tr"><title lang="tr">Kızıl Goncalar</title></programme>
+<programme start="20241124170000 +0000" stop="20241124210000 +0000" channel="Fox.tr"><title lang="tr">Gizli Bahçe</title></programme>
 <programme start="20241122210000 +0000" stop="20241122230000 +0000" channel="HaberturkTV.tr"><title lang="tr">-</title></programme>
 <programme start="20241122230000 +0000" stop="20241123020000 +0000" channel="HaberturkTV.tr"><title lang="tr">Gerçek Fikri Ne?</title></programme>
 <programme start="20241123020000 +0000" stop="20241123030000 +0000" channel="HaberturkTV.tr"><title lang="tr">Haber Bülteni</title></programme>
@@ -1200,35 +1200,33 @@
 <programme start="20241124170000 +0000" stop="20241124193000 +0000" channel="SportsTV.tr"><title lang="tr">Allianz Milano-Perugia</title></programme>
 <programme start="20241124193000 +0000" stop="20241124210000 +0000" channel="SportsTV.tr"><title lang="tr">Virtus Bologna - Sassari</title></programme>
 <programme start="20241122210000 +0000" stop="20241122223000 +0000" channel="StarTV.tr"><title lang="tr">-</title></programme>
-<programme start="20241122223000 +0000" stop="20241122233000 +0000" channel="StarTV.tr"><title lang="tr">Dizi</title></programme>
-<programme start="20241122233000 +0000" stop="20241123005000 +0000" channel="StarTV.tr"><title lang="tr">Baba Ocağı</title></programme>
-<programme start="20241123005000 +0000" stop="20241123020000 +0000" channel="StarTV.tr"><title lang="tr">Erkenci Kuş</title></programme>
-<programme start="20241123020000 +0000" stop="20241123040000 +0000" channel="StarTV.tr"><title lang="tr">Söz</title></programme>
-<programme start="20241123040000 +0000" stop="20241123053000 +0000" channel="StarTV.tr"><title lang="tr">İki Aile</title></programme>
-<programme start="20241123053000 +0000" stop="20241123063000 +0000" channel="StarTV.tr"><title lang="tr">Dr. Özgür Koldaş ile Sağlık Gündemi</title></programme>
-<programme start="20241123063000 +0000" stop="20241123080000 +0000" channel="StarTV.tr"><title lang="tr">Ada Masalı</title></programme>
+<programme start="20241122223000 +0000" stop="20241123005000 +0000" channel="StarTV.tr"><title lang="tr">Dizi</title></programme>
+<programme start="20241123005000 +0000" stop="20241123030000 +0000" channel="StarTV.tr"><title lang="tr">Erkenci Kuş</title></programme>
+<programme start="20241123030000 +0000" stop="20241123040000 +0000" channel="StarTV.tr"><title lang="tr">Baba Ocağı</title></programme>
+<programme start="20241123040000 +0000" stop="20241123051500 +0000" channel="StarTV.tr"><title lang="tr">İki Aile</title></programme>
+<programme start="20241123051500 +0000" stop="20241123060000 +0000" channel="StarTV.tr"><title lang="tr">Dr. Özgür Koldaş ile Sağlık Gündemi</title></programme>
+<programme start="20241123060000 +0000" stop="20241123080000 +0000" channel="StarTV.tr"><title lang="tr">Ada Masalı</title></programme>
 <programme start="20241123080000 +0000" stop="20241123090000 +0000" channel="StarTV.tr"><title lang="tr">Tülin Şahin ile Moda</title></programme>
-<programme start="20241123090000 +0000" stop="20241123110000 +0000" channel="StarTV.tr"><title lang="tr">Vahe ile Evdeki Mutluluk</title></programme>
-<programme start="20241123110000 +0000" stop="20241123122000 +0000" channel="StarTV.tr"><title lang="tr">Bir Şansım Olsa</title></programme>
-<programme start="20241123122000 +0000" stop="20241123160000 +0000" channel="StarTV.tr"><title lang="tr">Söz</title></programme>
+<programme start="20241123090000 +0000" stop="20241123112000 +0000" channel="StarTV.tr"><title lang="tr">Vahe ile Evdeki Mutluluk</title></programme>
+<programme start="20241123112000 +0000" stop="20241123123000 +0000" channel="StarTV.tr"><title lang="tr">Bir Şansım Olsa</title></programme>
+<programme start="20241123123000 +0000" stop="20241123160000 +0000" channel="StarTV.tr"><title lang="tr">Sahipsizler</title></programme>
 <programme start="20241123160000 +0000" stop="20241123170000 +0000" channel="StarTV.tr"><title lang="tr">Star Haber</title></programme>
 <programme start="20241123170000 +0000" stop="20241123203000 +0000" channel="StarTV.tr"><title lang="tr">Çok Güzel Hareketler 2</title></programme>
-<programme start="20241123203000 +0000" stop="20241123213000 +0000" channel="StarTV.tr"><title lang="tr">Dizi</title></programme>
+<programme start="20241123203000 +0000" stop="20241123223000 +0000" channel="StarTV.tr"><title lang="tr">Sahipsizler</title></programme>
 <programme start="20241123210000 +0000" stop="20241123223000 +0000" channel="StarTV.tr"><title lang="tr">-</title></programme>
-<programme start="20241123223000 +0000" stop="20241123233000 +0000" channel="StarTV.tr"><title lang="tr">Dizi</title></programme>
-<programme start="20241123233000 +0000" stop="20241124005000 +0000" channel="StarTV.tr"><title lang="tr">Baba Ocağı</title></programme>
-<programme start="20241124005000 +0000" stop="20241124020000 +0000" channel="StarTV.tr"><title lang="tr">Erkenci Kuş</title></programme>
-<programme start="20241124020000 +0000" stop="20241124040000 +0000" channel="StarTV.tr"><title lang="tr">Söz</title></programme>
-<programme start="20241124040000 +0000" stop="20241124053000 +0000" channel="StarTV.tr"><title lang="tr">İki Aile</title></programme>
-<programme start="20241124053000 +0000" stop="20241124063000 +0000" channel="StarTV.tr"><title lang="tr">Dr. Özgür Koldaş ile Sağlık Gündemi</title></programme>
-<programme start="20241124063000 +0000" stop="20241124080000 +0000" channel="StarTV.tr"><title lang="tr">Ada Masalı</title></programme>
+<programme start="20241123223000 +0000" stop="20241124005000 +0000" channel="StarTV.tr"><title lang="tr">Dizi</title></programme>
+<programme start="20241124005000 +0000" stop="20241124030000 +0000" channel="StarTV.tr"><title lang="tr">Erkenci Kuş</title></programme>
+<programme start="20241124030000 +0000" stop="20241124040000 +0000" channel="StarTV.tr"><title lang="tr">Baba Ocağı</title></programme>
+<programme start="20241124040000 +0000" stop="20241124051500 +0000" channel="StarTV.tr"><title lang="tr">İki Aile</title></programme>
+<programme start="20241124051500 +0000" stop="20241124060000 +0000" channel="StarTV.tr"><title lang="tr">Dr. Özgür Koldaş ile Sağlık Gündemi</title></programme>
+<programme start="20241124060000 +0000" stop="20241124080000 +0000" channel="StarTV.tr"><title lang="tr">Ada Masalı</title></programme>
 <programme start="20241124080000 +0000" stop="20241124090000 +0000" channel="StarTV.tr"><title lang="tr">Tülin Şahin ile Moda</title></programme>
-<programme start="20241124090000 +0000" stop="20241124110000 +0000" channel="StarTV.tr"><title lang="tr">Vahe ile Evdeki Mutluluk</title></programme>
-<programme start="20241124110000 +0000" stop="20241124122000 +0000" channel="StarTV.tr"><title lang="tr">Bir Şansım Olsa</title></programme>
-<programme start="20241124122000 +0000" stop="20241124160000 +0000" channel="StarTV.tr"><title lang="tr">Söz</title></programme>
+<programme start="20241124090000 +0000" stop="20241124112000 +0000" channel="StarTV.tr"><title lang="tr">Vahe ile Evdeki Mutluluk</title></programme>
+<programme start="20241124112000 +0000" stop="20241124123000 +0000" channel="StarTV.tr"><title lang="tr">Bir Şansım Olsa</title></programme>
+<programme start="20241124123000 +0000" stop="20241124160000 +0000" channel="StarTV.tr"><title lang="tr">Sahipsizler</title></programme>
 <programme start="20241124160000 +0000" stop="20241124170000 +0000" channel="StarTV.tr"><title lang="tr">Star Haber</title></programme>
 <programme start="20241124170000 +0000" stop="20241124203000 +0000" channel="StarTV.tr"><title lang="tr">Çok Güzel Hareketler 2</title></programme>
-<programme start="20241124203000 +0000" stop="20241124213000 +0000" channel="StarTV.tr"><title lang="tr">Dizi</title></programme>
+<programme start="20241124203000 +0000" stop="20241124223000 +0000" channel="StarTV.tr"><title lang="tr">Sahipsizler</title></programme>
 <programme start="20241122210000 +0000" stop="20241122213000 +0000" channel="Teve2.tr"><title lang="tr">-</title></programme>
 <programme start="20241122213000 +0000" stop="20241122224500 +0000" channel="Teve2.tr"><title lang="tr">Rehber</title></programme>
 <programme start="20241122224500 +0000" stop="20241123003000 +0000" channel="Teve2.tr"><title lang="tr">Geniş Aile</title></programme>
@@ -1781,7 +1779,7 @@
 <programme start="20241123055500 +0000" stop="20241123062500 +0000" channel="TRTTurk.tr"><title lang="tr">Kaptan Pengu Ve Arkadaşları</title></programme>
 <programme start="20241123062500 +0000" stop="20241123064000 +0000" channel="TRTTurk.tr"><title lang="tr">Barbaros</title></programme>
 <programme start="20241123064000 +0000" stop="20241123071000 +0000" channel="TRTTurk.tr"><title lang="tr">Rafadan Tayfa</title></programme>
-<programme start="20241123071000 +0000" stop="20241123083000 +0000" channel="TRTTurk.tr"><title lang="tr">Türk Sineması Kuklalı Köşk 2: Orman Kaşifi</title></programme>
+<programme start="20241123071000 +0000" stop="20241123083000 +0000" channel="TRTTurk.tr"><title lang="tr">Kuklalı Köşk 2: Orman Kaşifi</title></programme>
 <programme start="20241123083000 +0000" stop="20241123084500 +0000" channel="TRTTurk.tr"><title lang="tr">Arkadaşım Kirpi</title></programme>
 <programme start="20241123084500 +0000" stop="20241123090000 +0000" channel="TRTTurk.tr"><title lang="tr">Güzel Türkçem</title></programme>
 <programme start="20241123090000 +0000" stop="20241123094500 +0000" channel="TRTTurk.tr"><title lang="tr">Kültür Pusulası</title></programme>
@@ -1820,7 +1818,7 @@
 <programme start="20241124055500 +0000" stop="20241124062500 +0000" channel="TRTTurk.tr"><title lang="tr">Kaptan Pengu Ve Arkadaşları</title></programme>
 <programme start="20241124062500 +0000" stop="20241124064000 +0000" channel="TRTTurk.tr"><title lang="tr">Barbaros</title></programme>
 <programme start="20241124064000 +0000" stop="20241124071000 +0000" channel="TRTTurk.tr"><title lang="tr">Rafadan Tayfa</title></programme>
-<programme start="20241124071000 +0000" stop="20241124083000 +0000" channel="TRTTurk.tr"><title lang="tr">Türk Sineması Kuklalı Köşk 2: Orman Kaşifi</title></programme>
+<programme start="20241124071000 +0000" stop="20241124083000 +0000" channel="TRTTurk.tr"><title lang="tr">Kuklalı Köşk 2: Orman Kaşifi</title></programme>
 <programme start="20241124083000 +0000" stop="20241124084500 +0000" channel="TRTTurk.tr"><title lang="tr">Arkadaşım Kirpi</title></programme>
 <programme start="20241124084500 +0000" stop="20241124090000 +0000" channel="TRTTurk.tr"><title lang="tr">Güzel Türkçem</title></programme>
 <programme start="20241124090000 +0000" stop="20241124094500 +0000" channel="TRTTurk.tr"><title lang="tr">Kültür Pusulası</title></programme>
@@ -1841,50 +1839,62 @@
 <programme start="20241124170000 +0000" stop="20241124180000 +0000" channel="TRTTurk.tr"><title lang="tr">Temelli Misafir</title></programme>
 <programme start="20241124180000 +0000" stop="20241124193000 +0000" channel="TRTTurk.tr"><title lang="tr">Yalnız Minare</title></programme>
 <programme start="20241124193000 +0000" stop="20241124210000 +0000" channel="TRTTurk.tr"><title lang="tr">Avrupa&apos;da Hayat</title></programme>
-<programme start="20241122210000 +0000" stop="20241122234500 +0000" channel="TV8.tr"><title lang="tr">-</title></programme>
-<programme start="20241122234500 +0000" stop="20241123020000 +0000" channel="TV8.tr"><title lang="tr">Sinema</title></programme>
-<programme start="20241123020000 +0000" stop="20241123050000 +0000" channel="TV8.tr"><title lang="tr">Dizi</title></programme>
+<programme start="20241122210000 +0000" stop="20241122211500 +0000" channel="TV8.tr"><title lang="tr">-</title></programme>
+<programme start="20241122211500 +0000" stop="20241122234500 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin</title></programme>
+<programme start="20241122234500 +0000" stop="20241123030000 +0000" channel="TV8.tr"><title lang="tr">Sinema</title></programme>
+<programme start="20241123030000 +0000" stop="20241123050000 +0000" channel="TV8.tr"><title lang="tr">Dizi</title></programme>
 <programme start="20241123050000 +0000" stop="20241123060000 +0000" channel="TV8.tr"><title lang="tr">Türkiye&apos;nin Doktorları</title></programme>
 <programme start="20241123060000 +0000" stop="20241123070000 +0000" channel="TV8.tr"><title lang="tr">Gençlik Rüzgarı</title></programme>
-<programme start="20241123070000 +0000" stop="20241123094500 +0000" channel="TV8.tr"><title lang="tr">Sinema</title></programme>
-<programme start="20241123094500 +0000" stop="20241123141500 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin</title></programme>
+<programme start="20241123070000 +0000" stop="20241123091500 +0000" channel="TV8.tr"><title lang="tr">Yedi Silahşörler</title></programme>
+<programme start="20241123091500 +0000" stop="20241123141500 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin</title></programme>
 <programme start="20241123141500 +0000" stop="20241123170000 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
-<programme start="20241123170000 +0000" stop="20241123234500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
-<programme start="20241123210000 +0000" stop="20241123234500 +0000" channel="TV8.tr"><title lang="tr">-</title></programme>
-<programme start="20241123234500 +0000" stop="20241124020000 +0000" channel="TV8.tr"><title lang="tr">Sinema</title></programme>
-<programme start="20241124020000 +0000" stop="20241124050000 +0000" channel="TV8.tr"><title lang="tr">Dizi</title></programme>
+<programme start="20241123170000 +0000" stop="20241123211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20241123210000 +0000" stop="20241123211500 +0000" channel="TV8.tr"><title lang="tr">-</title></programme>
+<programme start="20241123211500 +0000" stop="20241123234500 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin</title></programme>
+<programme start="20241123234500 +0000" stop="20241124030000 +0000" channel="TV8.tr"><title lang="tr">Sinema</title></programme>
+<programme start="20241124030000 +0000" stop="20241124050000 +0000" channel="TV8.tr"><title lang="tr">Dizi</title></programme>
 <programme start="20241124050000 +0000" stop="20241124060000 +0000" channel="TV8.tr"><title lang="tr">Türkiye&apos;nin Doktorları</title></programme>
 <programme start="20241124060000 +0000" stop="20241124070000 +0000" channel="TV8.tr"><title lang="tr">Gençlik Rüzgarı</title></programme>
-<programme start="20241124070000 +0000" stop="20241124094500 +0000" channel="TV8.tr"><title lang="tr">Sinema</title></programme>
-<programme start="20241124094500 +0000" stop="20241124141500 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin</title></programme>
+<programme start="20241124070000 +0000" stop="20241124091500 +0000" channel="TV8.tr"><title lang="tr">Yedi Silahşörler</title></programme>
+<programme start="20241124091500 +0000" stop="20241124141500 +0000" channel="TV8.tr"><title lang="tr">Gazete Magazin</title></programme>
 <programme start="20241124141500 +0000" stop="20241124170000 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
-<programme start="20241124170000 +0000" stop="20241124234500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
+<programme start="20241124170000 +0000" stop="20241124211500 +0000" channel="TV8.tr"><title lang="tr">MasterChef Türkiye</title></programme>
 <programme start="20241122210000 +0000" stop="20241122220000 +0000" channel="TV85.tr"><title lang="tr">-</title></programme>
 <programme start="20241122220000 +0000" stop="20241122230000 +0000" channel="TV85.tr"><title lang="tr">Cumartesi Lig Özetleri</title></programme>
 <programme start="20241122230000 +0000" stop="20241123000000 +0000" channel="TV85.tr"><title lang="tr">Son Karar</title></programme>
 <programme start="20241123000000 +0000" stop="20241123013000 +0000" channel="TV85.tr"><title lang="tr">Top Bizde</title></programme>
 <programme start="20241123013000 +0000" stop="20241123030000 +0000" channel="TV85.tr"><title lang="tr">Feyenoord - Heerenveen</title></programme>
-<programme start="20241123030000 +0000" stop="20241123054500 +0000" channel="TV85.tr"><title lang="tr">PSV - Groningen</title></programme>
+<programme start="20241123030000 +0000" stop="20241123051500 +0000" channel="TV85.tr"><title lang="tr">PSV - Groningen</title></programme>
+<programme start="20241123051500 +0000" stop="20241123054500 +0000" channel="TV85.tr"><title lang="tr">Efsaneler: Zlatan İbrahimovic</title></programme>
 <programme start="20241123054500 +0000" stop="20241123070000 +0000" channel="TV85.tr"><title lang="tr">Son Karar</title></programme>
-<programme start="20241123070000 +0000" stop="20241123100000 +0000" channel="TV85.tr"><title lang="tr">Top Bizde</title></programme>
+<programme start="20241123070000 +0000" stop="20241123090000 +0000" channel="TV85.tr"><title lang="tr">Top Bizde</title></programme>
+<programme start="20241123090000 +0000" stop="20241123100000 +0000" channel="TV85.tr"><title lang="tr">Balık Dedektifi</title></programme>
 <programme start="20241123100000 +0000" stop="20241123113000 +0000" channel="TV85.tr"><title lang="tr">Son Karar</title></programme>
-<programme start="20241123113000 +0000" stop="20241123174500 +0000" channel="TV85.tr"><title lang="tr">Cumartesi Lig Özetleri</title></programme>
+<programme start="20241123113000 +0000" stop="20241123123000 +0000" channel="TV85.tr"><title lang="tr">Cumartesi Lig Özetleri</title></programme>
+<programme start="20241123123000 +0000" stop="20241123133000 +0000" channel="TV85.tr"><title lang="tr">A Milli Takım Uluslar Ligi Maç Özetleri</title></programme>
+<programme start="20241123133000 +0000" stop="20241123154500 +0000" channel="TV85.tr"><title lang="tr">Sparta Rotterdam - AZ Alkmaar</title></programme>
+<programme start="20241123154500 +0000" stop="20241123174500 +0000" channel="TV85.tr"><title lang="tr">Ajax - Zwolle</title></programme>
 <programme start="20241123174500 +0000" stop="20241123184500 +0000" channel="TV85.tr"><title lang="tr">UEFA Uluslar Ligi Rakibimizi Tanıyalım</title></programme>
 <programme start="20241123184500 +0000" stop="20241123200000 +0000" channel="TV85.tr"><title lang="tr">Son Karar</title></programme>
-<programme start="20241123200000 +0000" stop="20241123230000 +0000" channel="TV85.tr"><title lang="tr">Top Bizde</title></programme>
+<programme start="20241123200000 +0000" stop="20241123220000 +0000" channel="TV85.tr"><title lang="tr">Top Bizde</title></programme>
 <programme start="20241123210000 +0000" stop="20241123220000 +0000" channel="TV85.tr"><title lang="tr">-</title></programme>
 <programme start="20241123220000 +0000" stop="20241123230000 +0000" channel="TV85.tr"><title lang="tr">Cumartesi Lig Özetleri</title></programme>
 <programme start="20241123230000 +0000" stop="20241124000000 +0000" channel="TV85.tr"><title lang="tr">Son Karar</title></programme>
 <programme start="20241124000000 +0000" stop="20241124013000 +0000" channel="TV85.tr"><title lang="tr">Top Bizde</title></programme>
 <programme start="20241124013000 +0000" stop="20241124030000 +0000" channel="TV85.tr"><title lang="tr">Feyenoord - Heerenveen</title></programme>
-<programme start="20241124030000 +0000" stop="20241124054500 +0000" channel="TV85.tr"><title lang="tr">PSV - Groningen</title></programme>
+<programme start="20241124030000 +0000" stop="20241124051500 +0000" channel="TV85.tr"><title lang="tr">PSV - Groningen</title></programme>
+<programme start="20241124051500 +0000" stop="20241124054500 +0000" channel="TV85.tr"><title lang="tr">Efsaneler: Zlatan İbrahimovic</title></programme>
 <programme start="20241124054500 +0000" stop="20241124070000 +0000" channel="TV85.tr"><title lang="tr">Son Karar</title></programme>
-<programme start="20241124070000 +0000" stop="20241124100000 +0000" channel="TV85.tr"><title lang="tr">Top Bizde</title></programme>
+<programme start="20241124070000 +0000" stop="20241124090000 +0000" channel="TV85.tr"><title lang="tr">Top Bizde</title></programme>
+<programme start="20241124090000 +0000" stop="20241124100000 +0000" channel="TV85.tr"><title lang="tr">Balık Dedektifi</title></programme>
 <programme start="20241124100000 +0000" stop="20241124113000 +0000" channel="TV85.tr"><title lang="tr">Son Karar</title></programme>
-<programme start="20241124113000 +0000" stop="20241124174500 +0000" channel="TV85.tr"><title lang="tr">Cumartesi Lig Özetleri</title></programme>
+<programme start="20241124113000 +0000" stop="20241124123000 +0000" channel="TV85.tr"><title lang="tr">Cumartesi Lig Özetleri</title></programme>
+<programme start="20241124123000 +0000" stop="20241124133000 +0000" channel="TV85.tr"><title lang="tr">A Milli Takım Uluslar Ligi Maç Özetleri</title></programme>
+<programme start="20241124133000 +0000" stop="20241124154500 +0000" channel="TV85.tr"><title lang="tr">Sparta Rotterdam - AZ Alkmaar</title></programme>
+<programme start="20241124154500 +0000" stop="20241124174500 +0000" channel="TV85.tr"><title lang="tr">Ajax - Zwolle</title></programme>
 <programme start="20241124174500 +0000" stop="20241124184500 +0000" channel="TV85.tr"><title lang="tr">UEFA Uluslar Ligi Rakibimizi Tanıyalım</title></programme>
 <programme start="20241124184500 +0000" stop="20241124200000 +0000" channel="TV85.tr"><title lang="tr">Son Karar</title></programme>
-<programme start="20241124200000 +0000" stop="20241124230000 +0000" channel="TV85.tr"><title lang="tr">Top Bizde</title></programme>
+<programme start="20241124200000 +0000" stop="20241124220000 +0000" channel="TV85.tr"><title lang="tr">Top Bizde</title></programme>
 <programme start="20241122210000 +0000" stop="20241122223000 +0000" channel="TV100.tr"><title lang="tr">-</title></programme>
 <programme start="20241122223000 +0000" stop="20241123003000 +0000" channel="TV100.tr"><title lang="tr">Ersin Düzen ile Futbolun 100&apos;ü</title></programme>
 <programme start="20241123003000 +0000" stop="20241123021500 +0000" channel="TV100.tr"><title lang="tr">Taksim Meydanı</title></programme>
