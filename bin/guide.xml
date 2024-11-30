@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20241129">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20241130">
 <channel id="360.tr"><display-name>360</display-name><url>https://turksatkablo.com.tr</url></channel>
 <channel id="AHaber.tr"><display-name>A Haber</display-name><url>https://turksatkablo.com.tr</url></channel>
 <channel id="ATV.tr"><display-name>ATV</display-name><url>https://turksatkablo.com.tr</url></channel>
@@ -35,20 +35,7 @@
 <channel id="TV85.tr"><display-name>TV 8.5</display-name><url>https://turksatkablo.com.tr</url></channel>
 <channel id="TV100.tr"><display-name>TV 100</display-name><url>https://turksatkablo.com.tr</url></channel>
 <channel id="UlusalKanal.tr"><display-name>Ulusal Kanal</display-name><url>https://turksatkablo.com.tr</url></channel>
-<programme start="20241128212000 +0000" stop="20241129000000 +0000" channel="EuroD.tr"><title lang="tr">Annem ankara</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/300.399_genre_w1920.webp</image></programme>
-<programme start="20241129000000 +0000" stop="20241129013500 +0000" channel="EuroD.tr"><title lang="tr">Güllerin Savasi</title><desc lang="tr">Masum bir çocukluk hayalinin gerçek bir kabusa; önce bir genç kizin, sonra ailesinin ve tüm sevdiklerinin felaketine dönüsmesinin hikayesi.</desc><image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p12227431ih10aa_Iconic_w1920.webp</image></programme>
-<programme start="20241129013500 +0000" stop="20241129040000 +0000" channel="EuroD.tr"><title lang="tr">Poyraz Karayel</title><desc lang="tr">Askin ve nefretin, dostlugun ve düsmanligin, iyiligin ve kötülügün en uçlarda yasandigi bir hikaye.</desc><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/200.225_genre_w1920.webp</image></programme>
-<programme start="20241129040000 +0000" stop="20241129060000 +0000" channel="EuroD.tr"><title lang="tr">Afili aşk yeni</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/700.709_genre_w1920.webp</image></programme>
-<programme start="20241129060000 +0000" stop="20241129080000 +0000" channel="EuroD.tr"><title lang="tr">Neler oluyor hayatta ?</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/700.701_genre_w1920.webp</image></programme>
-<programme start="20241129080000 +0000" stop="20241129100000 +0000" channel="EuroD.tr"><title lang="tr">Yaprak Dökümü</title><desc lang="tr">Batililasma rüzgari ve tüketim toplumu karsisinda ilkelerinden taviz vermeyen aile reisinin drami. Yedi kisilik bir aileyi geçindirmeye çalisan Ali Riza Bey&apos;in evdekilere sözü geçmez. Oglu Sevket&apos;in gayrimesru iliskisi ise sonun baslangici olur.</desc><image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p13071664ih8aa_Iconic_w1920.webp</image></programme>
-<programme start="20241129100000 +0000" stop="20241129130000 +0000" channel="EuroD.tr"><title lang="tr">Gelinim Mutfakta</title><desc lang="tr">Gelinler, kendilerine verilen süre içerisinde günün yemegini yapmaya çalisiyor, bu yarista onlari an be an izleyen kayinvalideler ise puanladigi tabaklarin kime ait oldugunu bilmeden puan vererek gelinini birinci yapmaya çalisiyor.</desc><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/300.309_genre_w1920.webp</image></programme>
-<programme start="20241129130000 +0000" stop="20241129151500 +0000" channel="EuroD.tr"><title lang="tr">Bekle beni sevgilim</title></programme>
-<programme start="20241129151500 +0000" stop="20241129154000 +0000" channel="EuroD.tr"><title lang="tr">Sicak gelişme</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/700.701_genre_w1920.webp</image></programme>
-<programme start="20241129154000 +0000" stop="20241129170000 +0000" channel="EuroD.tr"><title lang="tr">Kanal D Ana Haber</title><desc lang="tr">Türkiye&apos;nin ve dünyanin gündemindekiler, siyasal ve ekonomik gelismeler aktariliyor.</desc><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/700.701_genre_w1920.webp</image></programme>
-<programme start="20241129170000 +0000" stop="20241129212000 +0000" channel="EuroD.tr"><title lang="tr">Arka Sokaklar</title><desc lang="tr">Istanbul Polis Teskilati Asayis Sube&apos;de görev yapan &apos;sivil&apos; bir ekip Istanbul&apos;un sokaklarini arsinlamakta ve karsilarina çikan her türlü kanunsuzlukla savasmaktadirlar. Görevleri sirasinda degisik ve çesitli insan hikayeleriyle karsilasirlar.</desc><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/200.216_genre_w1920.webp</image></programme>
 <programme start="20241129212000 +0000" stop="20241130000000 +0000" channel="EuroD.tr"><title lang="tr">Annem ankara</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/300.399_genre_w1920.webp</image></programme>
-<programme start="20241129212000 +0000" stop="20241130000000 +0000" channel="EuroD.tr"><title lang="tr">Annem ankara</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/300.399_genre_w1920.webp</image></programme>
-<programme start="20241130000000 +0000" stop="20241130013500 +0000" channel="EuroD.tr"><title lang="tr">Güllerin Savasi</title><desc lang="tr">Masum bir çocukluk hayalinin gerçek bir kabusa; önce bir genç kizin, sonra ailesinin ve tüm sevdiklerinin felaketine dönüsmesinin hikayesi.</desc><image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p12227431ih10aa_Iconic_w1920.webp</image></programme>
 <programme start="20241130000000 +0000" stop="20241130013500 +0000" channel="EuroD.tr"><title lang="tr">Güllerin Savasi</title><desc lang="tr">Masum bir çocukluk hayalinin gerçek bir kabusa; önce bir genç kizin, sonra ailesinin ve tüm sevdiklerinin felaketine dönüsmesinin hikayesi.</desc><image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p12227431ih10aa_Iconic_w1920.webp</image></programme>
 <programme start="20241130013500 +0000" stop="20241130040000 +0000" channel="EuroD.tr"><title lang="tr">Poyraz Karayel</title><desc lang="tr">Askin ve nefretin, dostlugun ve düsmanligin, iyiligin ve kötülügün en uçlarda yasandigi bir hikaye.</desc><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/200.225_genre_w1920.webp</image></programme>
 <programme start="20241130040000 +0000" stop="20241130053000 +0000" channel="EuroD.tr"><title lang="tr">Afili aşk yeni</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/700.709_genre_w1920.webp</image></programme>
@@ -62,24 +49,21 @@
 <programme start="20241130170000 +0000" stop="20241130212000 +0000" channel="EuroD.tr"><title lang="tr">Yalan</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/200.225_genre_w1920.webp</image></programme>
 <programme start="20241130212000 +0000" stop="20241130233000 +0000" channel="EuroD.tr"><title lang="tr">Uzak şehir</title></programme>
 <programme start="20241130233000 +0000" stop="20241201011500 +0000" channel="EuroD.tr"><title lang="tr">Güllerin Savasi</title><desc lang="tr">Masum bir çocukluk hayalinin gerçek bir kabusa; önce bir genç kizin, sonra ailesinin ve tüm sevdiklerinin felaketine dönüsmesinin hikayesi.</desc><image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p12227431ih10aa_Iconic_w1920.webp</image></programme>
-<programme start="20241128210000 +0000" stop="20241128220000 +0000" channel="TV100.tr"><title lang="tr">-</title></programme>
-<programme start="20241128220000 +0000" stop="20241128230000 +0000" channel="TV100.tr"><title lang="tr">Gece Habercisi Gökhan Taşkın</title></programme>
-<programme start="20241128230000 +0000" stop="20241129033000 +0000" channel="TV100.tr"><title lang="tr">Başak Şengül ile Doğru Yorum</title></programme>
-<programme start="20241129033000 +0000" stop="20241129040000 +0000" channel="TV100.tr"><title lang="tr">Gün&apos;den Kalan</title></programme>
-<programme start="20241129040000 +0000" stop="20241129060000 +0000" channel="TV100.tr"><title lang="tr">Hafta Sonu Gün Uyanıyor</title></programme>
-<programme start="20241129060000 +0000" stop="20241129070000 +0000" channel="TV100.tr"><title lang="tr">Magazin Hattı</title></programme>
-<programme start="20241129070000 +0000" stop="20241129080000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20241129080000 +0000" stop="20241129090000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20241129090000 +0000" stop="20241129100000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20241129100000 +0000" stop="20241129110000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20241129110000 +0000" stop="20241129120000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20241129120000 +0000" stop="20241129130000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20241129130000 +0000" stop="20241129140000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20241129140000 +0000" stop="20241129150000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20241129150000 +0000" stop="20241129160000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
-<programme start="20241129160000 +0000" stop="20241129170000 +0000" channel="TV100.tr"><title lang="tr">Hafta Sonu Ana Haber Bülteni</title></programme>
-<programme start="20241129170000 +0000" stop="20241129203000 +0000" channel="TV100.tr"><title lang="tr">Taksim Meydanı</title></programme>
-<programme start="20241129203000 +0000" stop="20241129223000 +0000" channel="TV100.tr"><title lang="tr">Ersin Düzen ile Futbolun 100&apos;ü</title></programme>
+<programme start="20241130233000 +0000" stop="20241201011500 +0000" channel="EuroD.tr"><title lang="tr">Güllerin Savasi</title><desc lang="tr">Masum bir çocukluk hayalinin gerçek bir kabusa; önce bir genç kizin, sonra ailesinin ve tüm sevdiklerinin felaketine dönüsmesinin hikayesi.</desc><image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p12227431ih10aa_Iconic_w1920.webp</image></programme>
+<programme start="20241201011500 +0000" stop="20241201025000 +0000" channel="EuroD.tr"><title lang="tr">Müzik Arasi</title><desc lang="tr">Günümüzün ve geçmisin en sevilen müzikleri paylasiliyor.</desc><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/300.307_genre_w1920.webp</image></programme>
+<programme start="20241201025000 +0000" stop="20241201040000 +0000" channel="EuroD.tr"><title lang="tr">Poyraz Karayel</title><desc lang="tr">Askin ve nefretin, dostlugun ve düsmanligin, iyiligin ve kötülügün en uçlarda yasandigi bir hikaye.</desc><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/200.225_genre_w1920.webp</image></programme>
+<programme start="20241201040000 +0000" stop="20241201053000 +0000" channel="EuroD.tr"><title lang="tr">Afili aşk yeni</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/700.709_genre_w1920.webp</image></programme>
+<programme start="20241201053000 +0000" stop="20241201070000 +0000" channel="EuroD.tr"><title lang="tr">Konustukca</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/700.701_genre_w1920.webp</image></programme>
+<programme start="20241201070000 +0000" stop="20241201095000 +0000" channel="EuroD.tr"><title lang="tr">Magazin D</title><desc lang="tr">Magazin dünyasinin en son haberleri, ünlülerle röportajlar ve daha fazlasi sunuluyor.</desc><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/700.701_genre_w1920.webp</image></programme>
+<programme start="20241201095000 +0000" stop="20241201105000 +0000" channel="EuroD.tr"><title lang="tr">Evrim Akın İle Ev Gezmesi</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/300.399_genre_w1920.webp</image></programme>
+<programme start="20241201105000 +0000" stop="20241201114000 +0000" channel="EuroD.tr"><title lang="tr">Yemek programı arda ile omuz omuza</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p16353450ih10aa_Iconic_w1920.webp</image></programme>
+<programme start="20241201114000 +0000" stop="20241201132500 +0000" channel="EuroD.tr"><title lang="tr">Yalan</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/200.225_genre_w1920.webp</image></programme>
+<programme start="20241201132500 +0000" stop="20241201151500 +0000" channel="EuroD.tr"><title lang="tr">Uzak şehir</title></programme>
+<programme start="20241201151500 +0000" stop="20241201154000 +0000" channel="EuroD.tr"><title lang="tr">Sicak gelişme</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/700.701_genre_w1920.webp</image></programme>
+<programme start="20241201154000 +0000" stop="20241201170000 +0000" channel="EuroD.tr"><title lang="tr">Kanal D Ana Haber</title><desc lang="tr">Türkiye&apos;nin ve dünyanin gündemindekiler, siyasal ve ekonomik gelismeler aktariliyor.</desc><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/700.701_genre_w1920.webp</image></programme>
+<programme start="20241201170000 +0000" stop="20241201200000 +0000" channel="EuroD.tr"><title lang="tr">Annem ankara</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/300.399_genre_w1920.webp</image></programme>
+<programme start="20241201200000 +0000" stop="20241201234000 +0000" channel="EuroD.tr"><title lang="tr">Inci taneleri</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/200.225_genre_w1920.webp</image></programme>
+<programme start="20241201234000 +0000" stop="20241202011500 +0000" channel="EuroD.tr"><title lang="tr">Güllerin Savasi</title><desc lang="tr">Masum bir çocukluk hayalinin gerçek bir kabusa; önce bir genç kizin, sonra ailesinin ve tüm sevdiklerinin felaketine dönüsmesinin hikayesi.</desc><image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p12227431ih10aa_Iconic_w1920.webp</image></programme>
 <programme start="20241129210000 +0000" stop="20241129220000 +0000" channel="TV100.tr"><title lang="tr">-</title></programme>
 <programme start="20241129220000 +0000" stop="20241129230000 +0000" channel="TV100.tr"><title lang="tr">Gece Habercisi Gökhan Taşkın</title></programme>
 <programme start="20241129230000 +0000" stop="20241130033000 +0000" channel="TV100.tr"><title lang="tr">Başak Şengül ile Doğru Yorum</title></programme>
@@ -98,4 +82,22 @@
 <programme start="20241130160000 +0000" stop="20241130170000 +0000" channel="TV100.tr"><title lang="tr">Hafta Sonu Ana Haber Bülteni</title></programme>
 <programme start="20241130170000 +0000" stop="20241130203000 +0000" channel="TV100.tr"><title lang="tr">Taksim Meydanı</title></programme>
 <programme start="20241130203000 +0000" stop="20241130223000 +0000" channel="TV100.tr"><title lang="tr">Ersin Düzen ile Futbolun 100&apos;ü</title></programme>
+<programme start="20241130210000 +0000" stop="20241130220000 +0000" channel="TV100.tr"><title lang="tr">-</title></programme>
+<programme start="20241130220000 +0000" stop="20241130230000 +0000" channel="TV100.tr"><title lang="tr">Gece Habercisi Gökhan Taşkın</title></programme>
+<programme start="20241130230000 +0000" stop="20241201033000 +0000" channel="TV100.tr"><title lang="tr">Başak Şengül ile Doğru Yorum</title></programme>
+<programme start="20241201033000 +0000" stop="20241201040000 +0000" channel="TV100.tr"><title lang="tr">Gün&apos;den Kalan</title></programme>
+<programme start="20241201040000 +0000" stop="20241201060000 +0000" channel="TV100.tr"><title lang="tr">Hafta Sonu Gün Uyanıyor</title></programme>
+<programme start="20241201060000 +0000" stop="20241201070000 +0000" channel="TV100.tr"><title lang="tr">Magazin Hattı</title></programme>
+<programme start="20241201070000 +0000" stop="20241201080000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20241201080000 +0000" stop="20241201090000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20241201090000 +0000" stop="20241201100000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20241201100000 +0000" stop="20241201110000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20241201110000 +0000" stop="20241201120000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20241201120000 +0000" stop="20241201130000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20241201130000 +0000" stop="20241201140000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20241201140000 +0000" stop="20241201150000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20241201150000 +0000" stop="20241201160000 +0000" channel="TV100.tr"><title lang="tr">Haber Bülteni</title></programme>
+<programme start="20241201160000 +0000" stop="20241201170000 +0000" channel="TV100.tr"><title lang="tr">Hafta Sonu Ana Haber Bülteni</title></programme>
+<programme start="20241201170000 +0000" stop="20241201203000 +0000" channel="TV100.tr"><title lang="tr">Taksim Meydanı</title></programme>
+<programme start="20241201203000 +0000" stop="20241201223000 +0000" channel="TV100.tr"><title lang="tr">Ersin Düzen ile Futbolun 100&apos;ü</title></programme>
 </tv>
