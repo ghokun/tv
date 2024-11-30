@@ -12,7 +12,7 @@
 | NOW             | 1280x720                                     | http://stream.tvcdn.net/ulusal/now-tv.m3u8                                                             |
 | Haber Türk      | 1920x1080, 1280x720, 854x480, 640x360        | https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8                                           |
 | Halk TV         | 1920x1080, 1280x720, 854x480, 640x360        | https://halktv-live.daioncdn.net/halktv/halktv.m3u8                                                    |
-| Kanal 7         | 1920x1080, 1280x720, 854x480, 640x360        | https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8                                                    |
+| Kanal 7         | Not available                                | https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8                                                    |
 | Kanal D         | 1920x1080, 1280x720, 854x480, 640x360        | https://demiroren-live.daioncdn.net/kanald/kanald.m3u8                                                 |
 | Minika Çocuk    | Not available                                | http://stream.tvcdn.net/cocuk-egitim/minika-cocuk.m3u8                                                 |
 | Minika GO       | Not available                                | http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8                                                    |
@@ -30,10 +30,10 @@
 | TRT 3           | Not available                                | http://stream.tvcdn.net/spor/trt-3-spor.m3u8                                                           |
 | TRT Belgesel    | 1280x720, 854x480, 640x360                   | https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8                                                    |
 | TRT Çocuk       | 1280x720, 854x480, 640x360                   | https://tv-trtcocuk.medya.trt.com.tr/master.m3u8                                                       |
-| TRT Haber       | 1280x720, 854x480, 640x360                   | https://tv-trthaber.medya.trt.com.tr/master.m3u8                                                       |
+| TRT Haber       | 1280x720                                     | https://tv-trthaber.medya.trt.com.tr/master.m3u8                                                       |
 | TRT Spor Yıldız | 1280x720                                     | http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8                                                      |
 | TRT Türk        | 640x360, 854x480, 1280x720                   | https://tv-trtturk.medya.trt.com.tr/master.m3u8                                                        |
-| TV 8            | Not available                                | https://tv8-live.daioncdn.net/tv8/tv8.m3u8                                                             |
+| TV 8            | 1920x1080, 1280x720, 854x480, 640x360        | https://tv8-live.daioncdn.net/tv8/tv8.m3u8                                                             |
 | TV 8.5          | Not available                                | http://bozztv.com/gin-dvrfl05/gin-tv8_5/index.m3u8                                                     |
 | TV 100          | 1280x720                                     | https://tv100.blutv.com/blutv_tv100_live/live.m3u8                                                     |
 | Ulusal Kanal    | 1280x720                                     | https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8                                        |
