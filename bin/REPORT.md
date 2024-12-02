@@ -36,4 +36,4 @@
 | TV 8            | 1920x1080, 1280x720, 854x480, 640x360        | https://tv8-live.daioncdn.net/tv8/tv8.m3u8                                                             |
 | TV 8.5          | Not available                                | http://bozztv.com/gin-dvrfl05/gin-tv8_5/index.m3u8                                                     |
 | TV 100          | 1280x720                                     | https://tv100.blutv.com/blutv_tv100_live/live.m3u8                                                     |
-| Ulusal Kanal    | Not available                                | https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8                                        |
+| Ulusal Kanal    | 1280x720                                     | https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8                                        |
