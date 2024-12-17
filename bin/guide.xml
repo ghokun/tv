@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20241217">
-<channel id="360.tr"><display-name>360</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="AHaber.tr"><display-name>A Haber</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="ATV.tr"><display-name>ATV</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="BeyazTV.tr"><display-name>Beyaz TV</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="CartoonNetwork.tr"><display-name>Cartoon Network</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="CNNTurk.tr"><display-name>CNN Turk</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="DMAX.tr"><display-name>DMAX</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="EuroD.tr"><display-name>Euro D</display-name><url>https://tv.blue.ch</url></channel>
-<channel id="Fox.tr"><display-name>Fox</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="HaberturkTV.tr"><display-name>Haberturk TV</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="HalkTV.tr"><display-name>Halk TV</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="Kanal7.tr"><display-name>Kanal 7</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="KanalD.tr"><display-name>Kanal D</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="MinikaCocuk.tr"><display-name>Minika Cocuk</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="MinikaGo.tr"><display-name>Minika Go</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="NTV.tr"><display-name>NTV</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="Number1TV.tr"><display-name>Number 1 TV</display-name><url>https://tvplus.com.tr</url></channel>
-<channel id="PowerTV.tr"><display-name>Power TV</display-name><url>https://tvplus.com.tr</url></channel>
-<channel id="ShowTV.tr"><display-name>Show TV</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="SozcuTV.tr"><display-name>Sozcu TV</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="SportsTV.tr"><display-name>Sports TV</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="StarTV.tr"><display-name>Star TV</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="Teve2.tr"><display-name>Teve2</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="TLC.tr"><display-name>TLC</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="TRT1.tr"><display-name>TRT 1</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="TRT2.tr"><display-name>TRT 2</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="TRT3.tr"><display-name>TRT 3</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="TRTBelgesel.tr"><display-name>TRT Belgesel</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="TRTCocuk.tr"><display-name>TRT Cocuk</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="TRTHaber.tr"><display-name>TRT Haber</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="TRTSporYildiz.tr"><display-name>TRT Spor Yildiz</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="TRTTurk.tr"><display-name>TRT Turk</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="TV8.tr"><display-name>TV 8</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="TV85.tr"><display-name>TV 8.5</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="TV100.tr"><display-name>TV 100</display-name><url>https://turksatkablo.com.tr</url></channel>
-<channel id="UlusalKanal.tr"><display-name>Ulusal Kanal</display-name><url>https://turksatkablo.com.tr</url></channel>
+<channel id="360.tr"><display-name>360</display-name><icon src="https://i.imgur.com/agn47sQ.png"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="AHaber.tr"><display-name>A Haber</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="ATV.tr"><display-name>ATV</display-name><icon src="https://i.imgur.com/HyVUwFC.png"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="BeyazTV.tr"><display-name>Beyaz TV</display-name><icon src="https://i.imgur.com/uykIdML.png"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="CartoonNetwork.tr"><display-name>Cartoon Network</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="CNNTurk.tr"><display-name>CNN Turk</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/512px-CNN_T%C3%BCrk_logo.svg.png"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="DMAX.tr"><display-name>DMAX</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/512px-DMAX_BLACK.svg.png"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="EuroD.tr"><display-name>Euro D</display-name><icon src="https://i.imgur.com/x9kHsXo.png"/><url>https://tv.blue.ch</url></channel>
+<channel id="Fox.tr"><display-name>Fox</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/320px-FOX_wordmark-red.svg.png"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="HaberturkTV.tr"><display-name>Haberturk TV</display-name><icon src="https://i.imgur.com/6Tw3rUp.png"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="HalkTV.tr"><display-name>Halk TV</display-name><icon src="https://i.imgur.com/xM0HA30.png"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="Kanal7.tr"><display-name>Kanal 7</display-name><icon src="https://i.imgur.com/0gq9xOm.png"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="KanalD.tr"><display-name>Kanal D</display-name><icon src="https://i.imgur.com/9o1atM6.png"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="MinikaCocuk.tr"><display-name>Minika Cocuk</display-name><icon src="https://i.imgur.com/VCywMTv.png"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="MinikaGo.tr"><display-name>Minika Go</display-name><icon src="https://i.imgur.com/qIoipDq.png"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="NTV.tr"><display-name>NTV</display-name><icon src="https://i.imgur.com/jXbs8FZ.png"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="Number1TV.tr"><display-name>Number 1 TV</display-name><icon src="https://i.imgur.com/02cDIBi.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="PowerTV.tr"><display-name>Power TV</display-name><icon src="https://i.imgur.com/XSL1gd7.png"/><url>https://tvplus.com.tr</url></channel>
+<channel id="ShowTV.tr"><display-name>Show TV</display-name><icon src="https://i.imgur.com/1l7SCCu.png"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="SozcuTV.tr"><display-name>Sozcu TV</display-name><icon src="https://i.imgur.com/BxpdvsG.png"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="SportsTV.tr"><display-name>Sports TV</display-name><icon src="https://i.imgur.com/tGTVcVe.jpg"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="StarTV.tr"><display-name>Star TV</display-name><icon src="https://i.imgur.com/9O3DHRB.png"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="Teve2.tr"><display-name>Teve2</display-name><icon src="https://i.imgur.com/rsoSLih.png"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="TLC.tr"><display-name>TLC</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="TRT1.tr"><display-name>TRT 1</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="TRT2.tr"><display-name>TRT 2</display-name><icon src="https://i.imgur.com/iOCQdyD.png"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="TRT3.tr"><display-name>TRT 3</display-name><icon src="https://i.imgur.com/JrWFwBd.png"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="TRTBelgesel.tr"><display-name>TRT Belgesel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/512px-TRT_Belgesel_logo_%282019-%29.svg.png"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="TRTCocuk.tr"><display-name>TRT Cocuk</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="TRTHaber.tr"><display-name>TRT Haber</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/512px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="TRTSporYildiz.tr"><display-name>TRT Spor Yildiz</display-name><icon src="https://i.imgur.com/MJPoj3j.png"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="TRTTurk.tr"><display-name>TRT Turk</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/512px-TRT_T%C3%BCrk_logo.svg.png"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="TV8.tr"><display-name>TV 8</display-name><icon src="https://i.imgur.com/DKNwiDm.png"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="TV85.tr"><display-name>TV 8.5</display-name><icon src="https://i.imgur.com/QuelSsc.png"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="TV100.tr"><display-name>TV 100</display-name><icon src="https://i.imgur.com/ZvjuVGh.png"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="UlusalKanal.tr"><display-name>Ulusal Kanal</display-name><icon src="https://i.imgur.com/EwSg612.png"/><url>https://turksatkablo.com.tr</url></channel>
 <programme start="20241216232000 +0000" stop="20241217012500 +0000" channel="EuroD.tr"><title lang="tr">Zalim istanbul</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/program/p16750880ih10aa_Iconic_w1920.webp</image></programme>
 <programme start="20241217012500 +0000" stop="20241217040000 +0000" channel="EuroD.tr"><title lang="tr">Taş kağit makas</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/200.225_genre_w1920.webp</image></programme>
 <programme start="20241217040000 +0000" stop="20241217060000 +0000" channel="EuroD.tr"><title lang="tr">Afili aşk yeni</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/700.709_genre_w1920.webp</image></programme>
