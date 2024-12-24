@@ -11,7 +11,7 @@
 | Euro D          | 426x240, 640x360, 854x480, 960x540, 1280x720 | https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8                                               |
 | NOW             | 1920x1080                                    | http://stream.tvcdn.net/ulusal/now-tv.m3u8                                                             |
 | Haber Türk      | 1920x1080, 1280x720, 854x480, 640x360        | https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8                                           |
-| Halk TV         | , 854x480, 640x360                           | https://halktv-live.daioncdn.net/halktv/halktv.m3u8                                                    |
+| Halk TV         | 1920x1080, 1280x720, 854x480, 640x360        | https://halktv-live.daioncdn.net/halktv/halktv.m3u8                                                    |
 | Kanal 7         | 1920x1080, 1280x720, 854x480, 640x360        | https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8                                                    |
 | Kanal D         | 1920x1080, 1280x720, 854x480, 640x360        | https://demiroren-live.daioncdn.net/kanald/kanald.m3u8                                                 |
 | Minika Çocuk    | Not available                                | http://stream.tvcdn.net/cocuk-egitim/minika-cocuk.m3u8                                                 |
