@@ -9,7 +9,7 @@
 | CNN Türk        | Not available                                | http://stream.tvcdn.net/haber/cnn-turk.m3u8                                                            |
 | DMAX            | 1280x720                                     | https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8                                                    |
 | Euro D          | 426x240, 640x360, 854x480, 960x540, 1280x720 | https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8                                               |
-| NOW             | 1920x1080                                    | http://stream.tvcdn.net/ulusal/now-tv.m3u8                                                             |
+| NOW             | 1280x720                                     | http://stream.tvcdn.net/ulusal/now-tv.m3u8                                                             |
 | Haber Türk      | 1920x1080, 1280x720, 854x480, 640x360        | https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8                                           |
 | Halk TV         | 1920x1080, 1280x720, 854x480, 640x360        | https://halktv-live.daioncdn.net/halktv/halktv.m3u8                                                    |
 | Kanal 7         | 1920x1080, 1280x720, 854x480, 640x360        | https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8                                                    |
