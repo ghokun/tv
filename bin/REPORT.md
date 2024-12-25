@@ -9,7 +9,7 @@
 | CNN Türk        | Not available                         | http://stream.tvcdn.net/haber/cnn-turk.m3u8                                                            |
 | DMAX            | 1280x720                              | https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8                                                    |
 | Euro D          | Not available                         | https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8                                               |
-| NOW             | Not available                         | http://stream.tvcdn.net/ulusal/now-tv.m3u8                                                             |
+| NOW             | 1280x720                              | http://stream.tvcdn.net/ulusal/now-tv.m3u8                                                             |
 | Haber Türk      | 1920x1080, 1280x720, 854x480, 640x360 | https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8                                           |
 | Halk TV         | 1920x1080, 1280x720, 854x480, 640x360 | https://halktv-live.daioncdn.net/halktv/halktv.m3u8                                                    |
 | Kanal 7         | 1920x1080, 1280x720, 854x480, 640x360 | https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8                                                    |
@@ -21,7 +21,7 @@
 | Power TV        | Not available                         | https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8                                      |
 | Show TV         | 1920x1080, 1280x720, 854x480, 640x360 | https://ciner-live.daioncdn.net/showtv/showtv.m3u8                                                     |
 | Sözcü TV        | 1280x720, 960x540, 640x360            | http://stream.tvcdn.net/haber/sozcu-tv.m3u8                                                            |
-| Sports TV       | 1280x720                              | https://live.sportstv.com.tr/hls/low/sportstv.m3u8                                                     |
+| Sports TV       | 1280x720, 1920x1080                   | https://live.sportstv.com.tr/hls/low/sportstv.m3u8                                                     |
 | Star            | 1280x720, 854x480, 640x360            | https://dogus-live.daioncdn.net/startv/startv.m3u8                                                     |
 | Teve2           | 1920x1080, 1280x720, 854x480, 640x360 | https://demiroren-live.daioncdn.net/teve2/teve2.m3u8                                                   |
 | TLC             | 1280x720, 854x480, 640x360            | https://dogus-live.daioncdn.net/tlc/tlc.m3u8                                                           |
