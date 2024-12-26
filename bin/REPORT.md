@@ -2,7 +2,7 @@
 |      NAME       |              RESOLUTIONS              |                                                  URL                                                   |
 |-----------------|---------------------------------------|--------------------------------------------------------------------------------------------------------|
 |             360 | 1920x1080, 1280x720, 640x360          | https://turkmedya-live.ercdn.net/tv360/tv360.m3u8                                                      |
-| A Haber         | 1280x720                              | http://stream.tvcdn.net/haber/a-haber.m3u8                                                             |
+| A Haber         | 1920x1080                             | http://stream.tvcdn.net/haber/a-haber.m3u8                                                             |
 | ATV             | 1920x1080                             | http://stream.tvcdn.net/ulusal/atv.m3u8                                                                |
 | Beyaz TV        | 1920x1080                             | https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8                                           |
 | Cartoon Network | 1280x720                              | http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8                                              |
