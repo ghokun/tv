@@ -32,7 +32,7 @@
 | TRT Çocuk       | 1280x720, 854x480, 640x360            | https://tv-trtcocuk.medya.trt.com.tr/master.m3u8                                                       |
 | TRT Haber       | 1280x720, 854x480, 640x360            | https://tv-trthaber.medya.trt.com.tr/master.m3u8                                                       |
 | TRT Spor Yıldız | 854x480                               | http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8                                                      |
-| TRT Türk        | 640x360, 854x480, 1280x720            | https://tv-trtturk.medya.trt.com.tr/master.m3u8                                                        |
+| TRT Türk        | Not available                         | https://tv-trtturk.medya.trt.com.tr/master.m3u8                                                        |
 | TV 8            | 1920x1080, 1280x720, 854x480, 640x360 | https://tv8-live.daioncdn.net/tv8/tv8.m3u8                                                             |
 | TV 8.5          | Not available                         | http://bozztv.com/gin-dvrfl05/gin-tv8_5/index.m3u8                                                     |
 | TV 100          | 1280x720, 960x540, 640x360            | https://tv100.blutv.com/blutv_tv100_live/live.m3u8                                                     |
