@@ -1,7 +1,7 @@
 ## playlist.m3u
 |      NAME       |                 RESOLUTIONS                  |                                                  URL                                                   |
 |-----------------|----------------------------------------------|--------------------------------------------------------------------------------------------------------|
-|             360 | 1920x1080                                    | https://turkmedya-live.ercdn.net/tv360/tv360.m3u8                                                      |
+|             360 | 1920x1080, 1280x720, 640x360                 | https://turkmedya-live.ercdn.net/tv360/tv360.m3u8                                                      |
 | A Haber         | 1280x720                                     | http://stream.tvcdn.net/haber/a-haber.m3u8                                                             |
 | ATV             | 1920x1080                                    | http://stream.tvcdn.net/ulusal/atv.m3u8                                                                |
 | Beyaz TV        | 1920x1080                                    | https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8                                           |
@@ -10,7 +10,7 @@
 | DMAX            | 1280x720                                     | https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8                                                    |
 | Euro D          | 426x240, 640x360, 854x480, 960x540, 1280x720 | https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8                                               |
 | NOW             | 1280x720                                     | http://stream.tvcdn.net/ulusal/now-tv.m3u8                                                             |
-| Haber Türk      | 1920x1080, 1280x720, 854x480, 640x360        | https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8                                           |
+| Haber Türk      | Not available                                | https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8                                           |
 | Halk TV         | 1920x1080, 1280x720, 854x480, 640x360        | https://halktv-live.daioncdn.net/halktv/halktv.m3u8                                                    |
 | Kanal 7         | 1920x1080, 1280x720, 854x480, 640x360        | https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8                                                    |
 | Kanal D         | 1920x1080, 1280x720, 854x480, 640x360        | https://demiroren-live.daioncdn.net/kanald/kanald.m3u8                                                 |
