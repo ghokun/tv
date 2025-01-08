@@ -1,11 +1,11 @@
 ## playlist.m3u
 |      NAME       |                 RESOLUTIONS                  |                                                  URL                                                   |
 |-----------------|----------------------------------------------|--------------------------------------------------------------------------------------------------------|
-|             360 | Not available                                | https://turkmedya-live.ercdn.net/tv360/tv360.m3u8                                                      |
+|             360 | 1920x1080, 1280x720, 640x360                 | https://turkmedya-live.ercdn.net/tv360/tv360.m3u8                                                      |
 | A Haber         | 1280x720                                     | http://stream.tvcdn.net/haber/a-haber.m3u8                                                             |
 | ATV             | Not available                                | http://stream.tvcdn.net/ulusal/atv.m3u8                                                                |
 | Beyaz TV        | 1920x1080                                    | https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8                                           |
-| Cartoon Network | 1920x540                                     | http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8                                              |
+| Cartoon Network | Not available                                | http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8                                              |
 | CNN Türk        | Not available                                | http://stream.tvcdn.net/haber/cnn-turk.m3u8                                                            |
 | DMAX            | 1280x720                                     | https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8                                                    |
 | Euro D          | 426x240, 640x360, 854x480, 960x540, 1280x720 | https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8                                               |
@@ -35,5 +35,5 @@
 | TRT Türk        | 640x360, 854x480, 1280x720                   | https://tv-trtturk.medya.trt.com.tr/master.m3u8                                                        |
 | TV 8            | 1920x1080, 1280x720, 854x480, 640x360        | https://tv8-live.daioncdn.net/tv8/tv8.m3u8                                                             |
 | TV 8.5          | Not available                                | http://bozztv.com/gin-dvrfl05/gin-tv8_5/index.m3u8                                                     |
-| TV 100          | 1280x720                                     | https://tv100.blutv.com/blutv_tv100_live/live.m3u8                                                     |
+| TV 100          | , 640x360                                    | https://tv100.blutv.com/blutv_tv100_live/live.m3u8                                                     |
 | Ulusal Kanal    | Not available                                | https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8                                        |
