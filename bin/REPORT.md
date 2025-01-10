@@ -5,12 +5,12 @@
 | A Haber         | 1280x720                              | http://stream.tvcdn.net/haber/a-haber.m3u8                                                             |
 | ATV             | Not available                         | http://stream.tvcdn.net/ulusal/atv.m3u8                                                                |
 | Beyaz TV        | 1920x1080                             | https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8                                           |
-| Cartoon Network | 1920x540                              | http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8                                              |
+| Cartoon Network | Not available                         | http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8                                              |
 | CNN Türk        | Not available                         | http://stream.tvcdn.net/haber/cnn-turk.m3u8                                                            |
 | DMAX            | 1280x720                              | https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8                                                    |
 | Euro D          | Not available                         | https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8                                               |
 | NOW             | 1920x1080                             | http://stream.tvcdn.net/ulusal/now-tv.m3u8                                                             |
-| Haber Türk      | 1920x1080, 1280x720, 854x480, 640x360 | https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8                                           |
+| Haber Türk      | Not available                         | https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8                                           |
 | Halk TV         | 1920x1080, 1280x720, 854x480, 640x360 | https://halktv-live.daioncdn.net/halktv/halktv.m3u8                                                    |
 | Kanal 7         | 1920x1080, 1280x720, 854x480, 640x360 | https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8                                                    |
 | Kanal D         | 1920x1080, 1280x720, 854x480, 640x360 | https://demiroren-live.daioncdn.net/kanald/kanald.m3u8                                                 |
