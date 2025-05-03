@@ -4,17 +4,15 @@
 <channel site="turksatkablo.com.tr" lang="tr" xmltv_id="AHaber.tr" site_id="365">A Haber</channel>
 <channel site="turksatkablo.com.tr" lang="tr" xmltv_id="ATV.tr" site_id="364">ATV</channel>
 <channel site="turksatkablo.com.tr" lang="tr" xmltv_id="BeyazTV.tr" site_id="1410">Beyaz TV</channel>
-<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="CartoonNetwork.tr" site_id="146">Cartoon Network</channel>
-<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="CNNTurk.tr" site_id="20">CNN Türk</channel>
 <channel site="turksatkablo.com.tr" lang="tr" xmltv_id="DMAX.tr" site_id="1900">DMAX</channel>
 <channel site="tv.blue.ch" lang="tr" xmltv_id="EuroD.tr" site_id="161">Euro D</channel>
-<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="Fox.tr" site_id="534">NOW</channel>
 <channel site="turksatkablo.com.tr" lang="tr" xmltv_id="HaberturkTV.tr" site_id="1418">Haber Türk</channel>
 <channel site="turksatkablo.com.tr" lang="tr" xmltv_id="HalkTV.tr" site_id="371">Halk TV</channel>
 <channel site="turksatkablo.com.tr" lang="tr" xmltv_id="Kanal7.tr" site_id="1399">Kanal 7</channel>
 <channel site="turksatkablo.com.tr" lang="tr" xmltv_id="KanalD.tr" site_id="606">Kanal D</channel>
 <channel site="turksatkablo.com.tr" lang="tr" xmltv_id="MinikaCocuk.tr" site_id="396">Minika Çocuk</channel>
 <channel site="turksatkablo.com.tr" lang="tr" xmltv_id="MinikaGo.tr" site_id="367">Minika GO</channel>
+<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="NOWTV.tr" site_id="534">NOW</channel>
 <channel site="turksatkablo.com.tr" lang="tr" xmltv_id="NTV.tr" site_id="1768">NTV</channel>
 <channel site="tvplus.com.tr" lang="tr" xmltv_id="Number1TV.tr" site_id="204">Number 1 TV</channel>
 <channel site="tvplus.com.tr" lang="tr" xmltv_id="PowerTV.tr" site_id="172">Power TV</channel>
@@ -35,5 +33,4 @@
 <channel site="turksatkablo.com.tr" lang="tr" xmltv_id="TV8.tr" site_id="1446">TV 8</channel>
 <channel site="turksatkablo.com.tr" lang="tr" xmltv_id="TV85.tr" site_id="1849">TV 8.5</channel>
 <channel site="turksatkablo.com.tr" lang="tr" xmltv_id="TV100.tr" site_id="2000">TV 100</channel>
-<channel site="turksatkablo.com.tr" lang="tr" xmltv_id="UlusalKanal.tr" site_id="50">Ulusal Kanal</channel>
 </channels>

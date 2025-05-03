@@ -3,17 +3,15 @@
 <channel id="AHaber.tr"><display-name>A Haber</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png"/><url>https://turksatkablo.com.tr</url></channel>
 <channel id="ATV.tr"><display-name>ATV</display-name><icon src="https://i.imgur.com/HyVUwFC.png"/><url>https://turksatkablo.com.tr</url></channel>
 <channel id="BeyazTV.tr"><display-name>Beyaz TV</display-name><icon src="https://i.imgur.com/uykIdML.png"/><url>https://turksatkablo.com.tr</url></channel>
-<channel id="CartoonNetwork.tr"><display-name>Cartoon Network</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png"/><url>https://turksatkablo.com.tr</url></channel>
-<channel id="CNNTurk.tr"><display-name>CNN Türk</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/512px-CNN_T%C3%BCrk_logo.svg.png"/><url>https://turksatkablo.com.tr</url></channel>
 <channel id="DMAX.tr"><display-name>DMAX</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/512px-DMAX_BLACK.svg.png"/><url>https://turksatkablo.com.tr</url></channel>
 <channel id="EuroD.tr"><display-name>Euro D</display-name><icon src="https://i.imgur.com/x9kHsXo.png"/><url>https://tv.blue.ch</url></channel>
-<channel id="Fox.tr"><display-name>NOW</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/320px-FOX_wordmark-red.svg.png"/><url>https://turksatkablo.com.tr</url></channel>
 <channel id="HaberturkTV.tr"><display-name>Haber Türk</display-name><icon src="https://i.imgur.com/6Tw3rUp.png"/><url>https://turksatkablo.com.tr</url></channel>
 <channel id="HalkTV.tr"><display-name>Halk TV</display-name><icon src="https://i.imgur.com/xM0HA30.png"/><url>https://turksatkablo.com.tr</url></channel>
 <channel id="Kanal7.tr"><display-name>Kanal 7</display-name><icon src="https://i.imgur.com/0gq9xOm.png"/><url>https://turksatkablo.com.tr</url></channel>
 <channel id="KanalD.tr"><display-name>Kanal D</display-name><icon src="https://i.imgur.com/9o1atM6.png"/><url>https://turksatkablo.com.tr</url></channel>
 <channel id="MinikaCocuk.tr"><display-name>Minika Çocuk</display-name><icon src="https://i.imgur.com/VCywMTv.png"/><url>https://turksatkablo.com.tr</url></channel>
 <channel id="MinikaGo.tr"><display-name>Minika GO</display-name><icon src="https://i.imgur.com/qIoipDq.png"/><url>https://turksatkablo.com.tr</url></channel>
+<channel id="NOWTV.tr"><display-name>NOW</display-name><icon src="https://i.imgur.com/5EYjWK7.png"/><url>https://turksatkablo.com.tr</url></channel>
 <channel id="NTV.tr"><display-name>NTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/300px-NTV_%28Turkey%29_logo.svg.png"/><url>https://turksatkablo.com.tr</url></channel>
 <channel id="Number1TV.tr"><display-name>Number 1 TV</display-name><icon src="https://i.imgur.com/02cDIBi.png"/><url>https://tvplus.com.tr</url></channel>
 <channel id="PowerTV.tr"><display-name>Power TV</display-name><icon src="https://i.imgur.com/XSL1gd7.png"/><url>https://tvplus.com.tr</url></channel>
@@ -34,7 +32,6 @@
 <channel id="TV8.tr"><display-name>TV 8</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/300px-Tv8_Yeni_Logo.png"/><url>https://turksatkablo.com.tr</url></channel>
 <channel id="TV85.tr"><display-name>TV 8.5</display-name><icon src="https://i.imgur.com/QuelSsc.png"/><url>https://turksatkablo.com.tr</url></channel>
 <channel id="TV100.tr"><display-name>TV 100</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/300px-TV100_logo.png"/><url>https://turksatkablo.com.tr</url></channel>
-<channel id="UlusalKanal.tr"><display-name>Ulusal Kanal</display-name><icon src="https://i.imgur.com/EwSg612.png"/><url>https://turksatkablo.com.tr</url></channel>
 <programme start="20250502213000 +0000" stop="20250503001500 +0000" channel="EuroD.tr"><title lang="tr">Eşref rüya</title><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/300.399_genre_w1920.webp</image></programme>
 <programme start="20250503001500 +0000" stop="20250503015500 +0000" channel="EuroD.tr"><title lang="tr">Yargi yeni</title></programme>
 <programme start="20250503015500 +0000" stop="20250503040000 +0000" channel="EuroD.tr"><title lang="tr">Poyraz Karayel</title><desc lang="tr">Askin ve nefretin, dostlugun ve düsmanligin, iyiligin ve kötülügün en uçlarda yasandigi bir hikaye.</desc><image>https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/161/200.225_genre_w1920.webp</image></programme>
