@@ -49,15 +49,6 @@
       "name": "Euro D",
       "url": "https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8"
     },
-    "Fox.tr": {
-      "epg_site": "turksatkablo.com.tr",
-      "epg_site_id": 534,
-      "group_title": "Ulusal",
-      "lang": "tr",
-      "logo": "https://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png",
-      "name": "NOW",
-      "url": "http://116.202.238.88/FOXTV_TR/index.m3u8"
-    },
     "HaberturkTV.tr": {
       "epg_site": "turksatkablo.com.tr",
       "epg_site_id": 1418,
@@ -101,6 +92,15 @@
       "group_title": "Çocuk",
       "lang": "tr",
       "name": "Minika GO"
+    },
+    "NOWTV.tr": {
+      "epg_site": "turksatkablo.com.tr",
+      "epg_site_id": 534,
+      "group_title": "Ulusal",
+      "lang": "tr",
+      "logo": "https://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png",
+      "name": "NOW",
+      "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8"
     },
     "NTV.tr": {
       "epg_site": "turksatkablo.com.tr",
