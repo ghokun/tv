@@ -13,7 +13,7 @@
       "group_title": "Haber",
       "lang": "tr",
       "name": "A Haber",
-      "url": "http://stream.tvcdn.net/haber/a-haber.m3u8"
+      "url": "https://trkvz-live.daioncdn.net/atv/ahaber.m3u8"
     },
     "ATV.tr": {
       "epg_site": "turksatkablo.com.tr",
@@ -22,7 +22,7 @@
       "lang": "tr",
       "logo": "https://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png",
       "name": "ATV",
-      "url": "http://stream.tvcdn.net/ulusal/atv.m3u8"
+      "url": "https://trkvz-live.daioncdn.net/atv/atv.m3u8"
     },
     "BeyazTV.tr": {
       "epg_site": "turksatkablo.com.tr",
@@ -31,24 +31,6 @@
       "lang": "tr",
       "name": "Beyaz TV",
       "url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8"
-    },
-    "CartoonNetwork.tr": {
-      "epg_site": "turksatkablo.com.tr",
-      "epg_site_id": 146,
-      "group_title": "Çocuk",
-      "lang": "tr",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",
-      "name": "Cartoon Network",
-      "url": "http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8"
-    },
-    "CNNTurk.tr": {
-      "epg_site": "turksatkablo.com.tr",
-      "epg_site_id": 20,
-      "group_title": "Haber",
-      "lang": "tr",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_Türk_logo.svg/512px-CNN_Türk_logo.svg.png",
-      "name": "CNN Türk",
-      "url": "http://stream.tvcdn.net/haber/cnn-turk.m3u8"
     },
     "DMAX.tr": {
       "epg_site": "turksatkablo.com.tr",
@@ -64,7 +46,8 @@
       "epg_site_id": 161,
       "group_title": "Avrupa",
       "lang": "tr",
-      "name": "Euro D"
+      "name": "Euro D",
+      "url": "https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8"
     },
     "Fox.tr": {
       "epg_site": "turksatkablo.com.tr",
@@ -73,7 +56,7 @@
       "lang": "tr",
       "logo": "https://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png",
       "name": "NOW",
-      "url": "http://stream.tvcdn.net/ulusal/now-tv.m3u8"
+      "url": "http://116.202.238.88/FOXTV_TR/index.m3u8"
     },
     "HaberturkTV.tr": {
       "epg_site": "turksatkablo.com.tr",
@@ -110,16 +93,14 @@
       "group_title": "Çocuk",
       "lang": "tr",
       "logo": "https://i.imgur.com/VCywMTv.png",
-      "name": "Minika Çocuk",
-      "url": "http://stream.tvcdn.net/cocuk-egitim/minika-cocuk.m3u8"
+      "name": "Minika Çocuk"
     },
     "MinikaGo.tr": {
       "epg_site": "turksatkablo.com.tr",
       "epg_site_id": 367,
       "group_title": "Çocuk",
       "lang": "tr",
-      "name": "Minika GO",
-      "url": "http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8"
+      "name": "Minika GO"
     },
     "NTV.tr": {
       "epg_site": "turksatkablo.com.tr",
@@ -158,8 +139,7 @@
       "epg_site_id": 3779,
       "group_title": "Haber",
       "lang": "tr",
-      "name": "Sözcü TV",
-      "url": "http://stream.tvcdn.net/haber/sozcu-tv.m3u8"
+      "name": "Sözcü TV"
     },
     "SportsTV.tr": {
       "epg_site": "turksatkablo.com.tr",
@@ -205,8 +185,7 @@
       "epg_site_id": 1957,
       "group_title": "Ulusal",
       "lang": "tr",
-      "name": "TRT 2",
-      "url": "http://stream.tvcdn.net/eglence/trt-2.m3u8"
+      "name": "TRT 2"
     },
     "TRT3.tr": {
       "epg_site": "turksatkablo.com.tr",
@@ -214,29 +193,31 @@
       "group_title": "Spor",
       "lang": "tr",
       "logo": "https://i.imgur.com/6tv0zxh.png",
-      "name": "TRT 3",
-      "url": "http://stream.tvcdn.net/spor/trt-3-spor.m3u8"
+      "name": "TRT 3"
     },
     "TRTBelgesel.tr": {
       "epg_site": "turksatkablo.com.tr",
       "epg_site_id": "1439",
       "group_title": "Belgesel",
       "lang": "tr",
-      "name": "TRT Belgesel"
+      "name": "TRT Belgesel",
+      "url": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8"
     },
     "TRTCocuk.tr": {
       "epg_site": "turksatkablo.com.tr",
       "epg_site_id": "18",
       "group_title": "Çocuk",
       "lang": "tr",
-      "name": "TRT Çocuk"
+      "name": "TRT Çocuk",
+      "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
     },
     "TRTHaber.tr": {
       "epg_site": "turksatkablo.com.tr",
       "epg_site_id": "16",
       "group_title": "Haber",
       "lang": "tr",
-      "name": "TRT Haber"
+      "name": "TRT Haber",
+      "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8"
     },
     "TRTSporYildiz.tr": {
       "epg_site": "turksatkablo.com.tr",
@@ -244,8 +225,7 @@
       "group_title": "Spor",
       "lang": "tr",
       "logo": "https://assets.tvcdn.net/27f74187-ef2a-4928-9515-77422081119c.png",
-      "name": "TRT Spor Yıldız",
-      "url": "http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8"
+      "name": "TRT Spor Yıldız"
     },
     "TRTTurk.tr": {
       "epg_site": "turksatkablo.com.tr",
@@ -261,7 +241,8 @@
       "group_title": "Eğlence",
       "lang": "tr",
       "logo": "https://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png",
-      "name": "TV 8"
+      "name": "TV 8",
+      "url": "https://tv8-live.daioncdn.net/tv8/tv8.m3u8"
     },
     "TV85.tr": {
       "epg_site": "turksatkablo.com.tr",
@@ -277,15 +258,8 @@
       "group_title": "Haber",
       "lang": "tr",
       "logo": "https://assets.tvcdn.net/d7741078-ccce-47d8-ba1c-a041b659bad6.png",
-      "name": "TV 100"
-    },
-    "UlusalKanal.tr": {
-      "epg_site": "turksatkablo.com.tr",
-      "epg_site_id": "50",
-      "group_title": "Haber",
-      "lang": "tr",
-      "logo": "https://assets.tvcdn.net/1762dbd7-b2a4-497d-9cf0-3ecd075cf578.png",
-      "name": "Ulusal Kanal"
+      "name": "TV 100",
+      "url": "https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8"
     }
   },
   "playlist": "https://iptv-org.github.io/iptv/countries/tr.m3u"
