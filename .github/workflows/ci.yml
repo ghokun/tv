@@ -3,6 +3,11 @@ on:
   schedule:
     - cron: "0 * * * *"
   workflow_dispatch:
+  push:
+    paths:
+      - config.json
+      - src
+      - .github/workflows/ci.yml
 permissions:
   contents: write
 jobs:
