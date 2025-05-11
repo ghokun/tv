@@ -69,9 +69,11 @@ get(config.playlist, (res) => {
       );
 
       // Append EPG information
-      channels = channels.concat(
-        `\n<channel site="${value.epg_site}" lang="${value.lang}" xmltv_id="${key}" site_id="${value.epg_site_id}">${value.name}</channel>`
-      );
+      if (value.epg_site) {
+        channels = channels.concat(
+          `\n<channel site="${value.epg_site}" lang="${value.lang}" xmltv_id="${key}" site_id="${value.epg_site_id}">${value.name}</channel>`
+        );
+      }
     }
 
     // Write playlist file

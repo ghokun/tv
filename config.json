@@ -1,40 +1,54 @@
 {
   "channels": {
+    "24TV.tr": {
+      "epg_site": "tvplus.com.tr",
+      "epg_site_id": "24-hd/32",
+      "group_title": "Haber",
+      "lang": "tr",
+      "name": "24 TV",
+      "url": "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8"
+    },
     "360.tr": {
-      "epg_site": "turksatkablo.com.tr",
-      "epg_site_id": 1884,
+      "epg_site": "tvplus.com.tr",
+      "epg_site_id": "360-hd/86",
       "group_title": "Ulusal",
       "lang": "tr",
-      "name": "360"
+      "name": "360",
+      "url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8"
     },
     "AHaber.tr": {
-      "epg_site": "turksatkablo.com.tr",
-      "epg_site_id": 365,
+      "epg_site": "tvplus.com.tr",
+      "epg_site_id": "a-haber-hd/160",
       "group_title": "Haber",
       "lang": "tr",
       "name": "A Haber",
-      "url": "https://trkvz-live.daioncdn.net/atv/ahaber.m3u8"
+      "url": "http://185.234.111.229:8000/play/a019"
     },
     "ATV.tr": {
-      "epg_site": "turksatkablo.com.tr",
-      "epg_site_id": 364,
+      "epg_site": "tvplus.com.tr",
+      "epg_site_id": "atv-hd/124",
       "group_title": "Ulusal",
       "lang": "tr",
-      "logo": "https://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png",
       "name": "ATV",
-      "url": "https://trkvz-live.daioncdn.net/atv/atv.m3u8"
+      "url": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8"
     },
     "BeyazTV.tr": {
-      "epg_site": "turksatkablo.com.tr",
-      "epg_site_id": 1410,
+      "epg_site": "tvplus.com.tr",
+      "epg_site_id": "beyaz-tv-hd/135",
       "group_title": "Ulusal",
       "lang": "tr",
       "name": "Beyaz TV",
       "url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8"
     },
+    "Cine1.tr": {
+      "group_title": "Belgesel",
+      "lang": "tr",
+      "name": "Cine1",
+      "url": "https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8"
+    },
     "DMAX.tr": {
-      "epg_site": "turksatkablo.com.tr",
-      "epg_site_id": 1900,
+      "epg_site": "tvplus.com.tr",
+      "epg_site_id": "dmax-hd/180",
       "group_title": "Eğlence",
       "lang": "tr",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/512px-DMAX_BLACK.svg.png",
@@ -43,76 +57,80 @@
     },
     "EuroD.tr": {
       "epg_site": "tv.blue.ch",
-      "epg_site_id": 161,
+      "epg_site_id": "161",
       "group_title": "Avrupa",
       "lang": "tr",
       "name": "Euro D",
       "url": "https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8"
     },
+    "EuroStar.tr": {
+      "epg_site": "tv.blue.ch",
+      "epg_site_id": "162",
+      "group_title": "Avrupa",
+      "lang": "tr",
+      "name": "Euro Star",
+      "url": "https://canlitvulusal.xyz/live/eurostar/index.m3u8"
+    },
     "HaberturkTV.tr": {
-      "epg_site": "turksatkablo.com.tr",
-      "epg_site_id": 1418,
+      "epg_site": "tvplus.com.tr",
+      "epg_site_id": "haberturk-hd/87",
       "group_title": "Haber",
       "lang": "tr",
       "name": "Haber Türk"
     },
     "HalkTV.tr": {
-      "epg_site": "turksatkablo.com.tr",
-      "epg_site_id": 371,
+      "epg_site": "tvplus.com.tr",
+      "epg_site_id": "halk-tv/91",
       "group_title": "Haber",
       "lang": "tr",
-      "logo": "https://assets.tvcdn.net/f0bcd016-8730-4700-9156-d6b678f8e554.png",
       "name": "Halk TV"
     },
     "Kanal7.tr": {
-      "epg_site": "turksatkablo.com.tr",
-      "epg_site_id": 1399,
+      "epg_site": "tvplus.com.tr",
+      "epg_site_id": "kanal-7-hd/90",
       "group_title": "Ulusal",
       "lang": "tr",
       "name": "Kanal 7"
     },
     "KanalD.tr": {
-      "epg_site": "turksatkablo.com.tr",
-      "epg_site_id": 606,
+      "epg_site": "tvplus.com.tr",
+      "epg_site_id": "kanal-d-hd/88",
       "group_title": "Ulusal",
       "lang": "tr",
       "name": "Kanal D"
     },
     "MinikaCocuk.tr": {
-      "epg_site": "turksatkablo.com.tr",
-      "epg_site_id": 396,
+      "epg_site": "tvplus.com.tr",
+      "epg_site_id": "minika-cocuk/102",
       "group_title": "Çocuk",
       "lang": "tr",
-      "logo": "https://i.imgur.com/VCywMTv.png",
       "name": "Minika Çocuk"
     },
     "MinikaGo.tr": {
-      "epg_site": "turksatkablo.com.tr",
-      "epg_site_id": 367,
+      "epg_site": "tvplus.com.tr",
+      "epg_site_id": "minika-go/7",
       "group_title": "Çocuk",
       "lang": "tr",
       "name": "Minika GO"
     },
     "NOWTV.tr": {
-      "epg_site": "turksatkablo.com.tr",
-      "epg_site_id": 534,
+      "epg_site": "tvplus.com.tr",
+      "epg_site_id": "now/93",
       "group_title": "Ulusal",
       "lang": "tr",
-      "logo": "https://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png",
       "name": "NOW",
       "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8"
     },
     "NTV.tr": {
-      "epg_site": "turksatkablo.com.tr",
-      "epg_site_id": 1768,
+      "epg_site": "tvplus.com.tr",
+      "epg_site_id": "ntv-hd/81",
       "group_title": "Ulusal",
       "lang": "tr",
-      "logo": "https://assets.tvcdn.net/b2aa3114-53bd-4ff5-81ed-af75a28e651f.png",
       "name": "NTV"
     },
     "Number1TV.tr": {
       "epg_site": "tvplus.com.tr",
-      "epg_site_id": 204,
+      "epg_site_id": "number1-tv-hd/204",
       "group_title": "Müzik",
       "lang": "tr",
       "name": "Number 1 TV",
@@ -120,52 +138,68 @@
     },
     "PowerTV.tr": {
       "epg_site": "tvplus.com.tr",
-      "epg_site_id": 172,
+      "epg_site_id": "power-tv-hd/172",
       "group_title": "Müzik",
       "lang": "tr",
       "logo": "https://assets.tvcdn.net/ccb54b98-472f-4c36-a48f-46431c84ab6a.png",
       "name": "Power TV"
     },
+    "ShowMax.tr": {
+      "epg_site": "tv.blue.ch",
+      "epg_site_id": "1297",
+      "group_title": "Ulusal",
+      "lang": "tr",
+      "name": "Show Max",
+      "url": "https://canlitvulusal.xyz/live/showmax/index.m3u8"
+    },
+    "ShowTurk.tr": {
+      "epg_site": "ziggogo.tv",
+      "epg_site_id": "NL_000156_020072",
+      "group_title": "Ulusal",
+      "lang": "tr",
+      "name": "Show Türk",
+      "url": "https://canlitvulusal.xyz/live/showturk/index.m3u8"
+    },
     "ShowTV.tr": {
-      "epg_site": "turksatkablo.com.tr",
-      "epg_site_id": 1417,
+      "epg_site": "tvplus.com.tr",
+      "epg_site_id": "show-tv-hd/130",
       "group_title": "Ulusal",
       "lang": "tr",
       "name": "Show TV",
       "url": "https://ciner-live.daioncdn.net/showtv/showtv.m3u8"
     },
     "SozcuTV.tr": {
-      "epg_site": "turksatkablo.com.tr",
-      "epg_site_id": 3779,
+      "epg_site": "tvplus.com.tr",
+      "epg_site_id": "sozcu-tv/4294",
       "group_title": "Haber",
       "lang": "tr",
       "name": "Sözcü TV"
     },
     "SportsTV.tr": {
-      "epg_site": "turksatkablo.com.tr",
-      "epg_site_id": 329,
+      "epg_site": "tvplus.com.tr",
+      "epg_site_id": "sports-tv-hd/173",
       "group_title": "Spor",
       "lang": "tr",
       "name": "Sports TV"
     },
     "StarTV.tr": {
-      "epg_site": "turksatkablo.com.tr",
-      "epg_site_id": 1757,
+      "epg_site": "tvplus.com.tr",
+      "epg_site_id": "star-tv-hd/89",
       "group_title": "Ulusal",
       "lang": "tr",
       "name": "Star"
     },
     "Teve2.tr": {
-      "epg_site": "turksatkablo.com.tr",
-      "epg_site_id": 132,
+      "epg_site": "tvplus.com.tr",
+      "epg_site_id": "teve2-hd/95",
       "group_title": "Ulusal",
       "lang": "tr",
       "logo": "https://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png",
       "name": "Teve2"
     },
     "TLC.tr": {
-      "epg_site": "turksatkablo.com.tr",
-      "epg_site_id": 1754,
+      "epg_site": "tvplus.com.tr",
+      "epg_site_id": "tlc/174",
       "group_title": "Eğlence",
       "lang": "tr",
       "logo": "https://i.imgur.com/8m3PMUf.png",
@@ -173,71 +207,79 @@
       "url": "https://dogus-live.daioncdn.net/tlc/tlc.m3u8"
     },
     "TRT1.tr": {
-      "epg_site": "turksatkablo.com.tr",
-      "epg_site_id": 15,
+      "epg_site": "tvplus.com.tr",
+      "epg_site_id": "trt1-hd/144",
       "group_title": "Ulusal",
       "lang": "tr",
       "name": "TRT 1",
       "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8"
     },
     "TRT2.tr": {
-      "epg_site": "turksatkablo.com.tr",
-      "epg_site_id": 1957,
+      "epg_site": "tvplus.com.tr",
+      "epg_site_id": "trt-2-hd/83",
       "group_title": "Ulusal",
       "lang": "tr",
-      "name": "TRT 2"
+      "name": "TRT 2",
+      "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8"
     },
     "TRT3.tr": {
-      "epg_site": "turksatkablo.com.tr",
-      "epg_site_id": 17,
+      "epg_site": "tvplus.com.tr",
+      "epg_site_id": "trt-3/116",
       "group_title": "Spor",
       "lang": "tr",
       "logo": "https://i.imgur.com/6tv0zxh.png",
       "name": "TRT 3"
     },
     "TRTBelgesel.tr": {
-      "epg_site": "turksatkablo.com.tr",
-      "epg_site_id": "1439",
+      "epg_site": "tvplus.com.tr",
+      "epg_site_id": "trt-belgesel-hd/21",
       "group_title": "Belgesel",
       "lang": "tr",
       "name": "TRT Belgesel",
       "url": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8"
     },
     "TRTCocuk.tr": {
-      "epg_site": "turksatkablo.com.tr",
-      "epg_site_id": "18",
+      "epg_site": "tvplus.com.tr",
+      "epg_site_id": "trt-cocuk-hd/99",
       "group_title": "Çocuk",
       "lang": "tr",
       "name": "TRT Çocuk",
       "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
     },
     "TRTHaber.tr": {
-      "epg_site": "turksatkablo.com.tr",
-      "epg_site_id": "16",
+      "epg_site": "tvplus.com.tr",
+      "epg_site_id": "trt-haber-hd/30",
       "group_title": "Haber",
       "lang": "tr",
       "name": "TRT Haber",
       "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8"
     },
+    "TRTSpor.tr": {
+      "epg_site": "tvplus.com.tr",
+      "epg_site_id": "trt-spor-hd/31",
+      "group_title": "Spor",
+      "lang": "tr",
+      "name": "TRT Spor"
+    },
     "TRTSporYildiz.tr": {
-      "epg_site": "turksatkablo.com.tr",
-      "epg_site_id": "2021",
+      "epg_site": "tvplus.com.tr",
+      "epg_site_id": "trt-spor-yildiz/205",
       "group_title": "Spor",
       "lang": "tr",
       "logo": "https://assets.tvcdn.net/27f74187-ef2a-4928-9515-77422081119c.png",
       "name": "TRT Spor Yıldız"
     },
     "TRTTurk.tr": {
-      "epg_site": "turksatkablo.com.tr",
-      "epg_site_id": "114",
+      "epg_site": "tvplus.com.tr",
+      "epg_site_id": "trt-turk/156",
       "group_title": "Belgesel",
       "lang": "tr",
       "name": "TRT Türk",
       "url": "https://tv-trtturk.medya.trt.com.tr/master.m3u8"
     },
     "TV8.tr": {
-      "epg_site": "turksatkablo.com.tr",
-      "epg_site_id": "1446",
+      "epg_site": "tvplus.com.tr",
+      "epg_site_id": "tv8-hd/134",
       "group_title": "Eğlence",
       "lang": "tr",
       "logo": "https://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png",
@@ -245,19 +287,18 @@
       "url": "https://tv8-live.daioncdn.net/tv8/tv8.m3u8"
     },
     "TV85.tr": {
-      "epg_site": "turksatkablo.com.tr",
-      "epg_site_id": "1849",
+      "epg_site": "tvplus.com.tr",
+      "epg_site_id": "tv85-hd/188",
       "group_title": "Eğlence",
       "lang": "tr",
       "logo": "https://assets.tvcdn.net/be26f47c-18d7-4447-971c-ca4ba60ffb4c.png",
       "name": "TV 8.5"
     },
     "TV100.tr": {
-      "epg_site": "turksatkablo.com.tr",
-      "epg_site_id": "2000",
+      "epg_site": "tvplus.com.tr",
+      "epg_site_id": "tv100/179",
       "group_title": "Haber",
       "lang": "tr",
-      "logo": "https://assets.tvcdn.net/d7741078-ccce-47d8-ba1c-a041b659bad6.png",
       "name": "TV 100",
       "url": "https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8"
     }
