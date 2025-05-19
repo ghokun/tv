@@ -49,9 +49,9 @@ get(config.playlist, (res) => {
       if (channelMap.has(key)) {
         item = channelMap.get(key);
       }
-
-      let logo = 'logo' in value ? value.logo : item.tvg.logo;
-      downloadImage(logo, `bin/logo/${key}.png`);
+      // TODO: fix image download
+      //let logo = 'logo' in value ? value.logo : item.tvg.logo;
+      //downloadImage(logo, `bin/logo/${key}.png`);
       let tvgLogo = `https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/${key}.png`;
 
       let name = 'name' in value ? value.name : item.name;
