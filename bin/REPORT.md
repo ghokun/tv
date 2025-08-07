@@ -14,8 +14,8 @@
 | Halk TV         | Not available | https://halktv-live.daioncdn.net/halktv/halktv.m3u8                                                    |
 | Kanal 7         | Not available | https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8                                                    |
 | Kanal D         | Not available | https://demiroren-live.daioncdn.net/kanald/kanald.m3u8                                                 |
-| Minika Çocuk    | Not available | https://trkvz-live.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8                                     |
-| Minika GO       | Not available | https://trkvz-live.daioncdn.net/minikago/minikago.m3u8                                                 |
+| Minika Çocuk    | Not available | https://tgn.bozztv.com/dvrfl05/gin-minikacocuk/index.m3u8                                              |
+| Minika GO       | Not available | https://tgn.bozztv.com/dvrfl05/gin-minikago/index.m3u8                                                 |
 | NOW             | Not available | https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8                                       |
 | NTV             | Not available | https://dogus-live.daioncdn.net/ntv/ntv.m3u8                                                           |
 | Number 1 TV     | Not available | https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8 |
