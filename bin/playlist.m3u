@@ -54,7 +54,7 @@ https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1 tvg-id="TLC.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TLC.tr.png" group-title="Eğlence",TLC
 https://dogus-live.daioncdn.net/tlc/tlc.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TRT1.tr.png" group-title="Ulusal",TRT 1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
+https://cdn503.freebroadcast.vip/trt1720.m3u8?tkn=UA-M9I0KENnQfeXI8E2cmA&tms=1757878237&hst=www.canlitv.me&ip=2606:4700:4700::1001
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TRT2.tr.png" group-title="Ulusal",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT3.tr" tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TRT3.tr.png" group-title="Spor",TRT 3
