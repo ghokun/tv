@@ -1,5 +1,9 @@
 # TV
 
+> [!WARNING]  
+> No longer maintained. Switched to a local dispatcharr instance to manage my 
+my playlists and EPGs.
+
 This is an IPTV playlist and EPG generator. On a scheduled run (hourly):
 
 1. Fetches a public IPTV list
